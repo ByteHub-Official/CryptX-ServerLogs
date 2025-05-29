@@ -190,3 +190,4 @@
 [2025-05-29 11:18:55] Channel Delete: Channel 'support-angiematss' deleted in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-29 11:19:36] Member Role Update: _.coffeestain#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: Partner, Admin, 👑Co-Owner👑, Coffee, ╭∩╮(◣_◢)╭∩╮)
 [2025-05-29 11:19:58] Member Role Update: res66.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: Support, 🤖Bot, Partner, Admin, 👑Co-Owner👑, Coffee, ╭∩╮(◣_◢)╭∩╮, Shadow Only)
+[2025-05-29 11:22:20] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): <@469256722104582146> <@1270435370655285278> and <@1141232275447631932> roles have been stripped please do not add any rules to him for I no longer no what he is capable of. He is pissed at me for no reason.
