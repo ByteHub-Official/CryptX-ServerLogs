@@ -201,3 +201,5 @@
 [2025-05-29 18:11:41] Member Role Update: fearoflust._85221#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
 [2025-05-29 20:17:40] Member Join: dueysoouey#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-29 20:17:42] Member Role Update: dueysoouey#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-05-29 20:19:28] Member Role Update: dueysoouey#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
+[2025-05-29 20:19:31] Member Role Update: dueysoouey#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: Delta User)
