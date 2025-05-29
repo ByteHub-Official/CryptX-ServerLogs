@@ -172,3 +172,5 @@
 [2025-05-29 02:41:32] Member Role Update: italic2tuff#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-05-29 02:41:46] Member Role Update: italic2tuff#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
 [2025-05-29 02:54:03] Channel Delete: Channel 'support-camilaaap' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-05-29 03:03:09] Message: shadow_t3ch#0 in order-products-fangyuan77 (ＳＨΛＤＯＷＴ3ＣＨ): I can send the executor and it's file, but the key system won't be added yet. I don't have time to do the key system, but I will be able too soon, but for now i'll send the executor that uses nezur
+[2025-05-29 03:03:16] Message Edit: shadow_t3ch#0 in order-products-fangyuan77 (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'I can send the executor and it's file, but the key system won't be added yet. I don't have time to do the key system, but I will be able too soon, but for now i'll send the executor that uses nezur' to 'I can send the executor and it's file, but the key system won't be added yet. I don't have time to do the key system, but I will be able too soon, but for now i'll send the executor that uses velocity'
