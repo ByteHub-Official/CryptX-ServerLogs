@@ -263,3 +263,4 @@
 [2025-05-30 17:46:00] Message: snowexploits#0 in support-raiderskid760 (ＳＨΛＤＯＷＴ3ＣＨ): Hopefully within 1 week me and shadow currently working on getting a apple dev account allowing us to bypass it
 [2025-05-30 17:46:13] Message: raiderskid760#0 in support-raiderskid760 (ＳＨΛＤＯＷＴ3ＣＨ): Ok thx
 [2025-05-30 17:46:30] Message: snowexploits#0 in support-raiderskid760 (ＳＨΛＤＯＷＴ3ＣＨ): Np and thank you for using delta executor
+[2025-05-30 17:47:23] Message: snowexploits#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): It working with android users, but as of yet we have no updated the ios version due to new update of the ios
