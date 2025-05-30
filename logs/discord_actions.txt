@@ -220,3 +220,4 @@
 [2025-05-29 22:17:05] Message: zetfixy#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I see
 [2025-05-29 23:19:07] Member Join: dane6494#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-29 23:19:09] Member Role Update: dane6494#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-05-30 00:20:54] Member Remove: qoryvnx#0 left ＳＨΛＤＯＷＴ3ＣＨ
