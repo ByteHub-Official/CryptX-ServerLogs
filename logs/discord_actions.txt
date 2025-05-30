@@ -239,3 +239,5 @@
 [2025-05-30 04:18:16] Message Delete: Lofi#8098 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Deleted ''
 [2025-05-30 06:04:52] Message: fangyuan77#0 in order-products-fangyuan77 (ＳＨΛＤＯＷＴ3ＣＨ): Riding D
 [2025-05-30 15:01:24] Member Join: aos_fh#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-05-30 15:01:31] Member Role Update: aos_fh#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-05-30 15:01:37] Member Role Update: aos_fh#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
