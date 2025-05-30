@@ -223,3 +223,4 @@
 [2025-05-30 00:20:54] Member Remove: qoryvnx#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-30 00:49:59] Message: dueysoouey#0 in support-dueysoouey (ＳＨΛＤＯＷＴ3ＣＨ): Is there a paid version working or everything getting worked on ?? <@1053079666459693077>
 [2025-05-30 00:52:35] Message: shadow_t3ch#0 in support-dueysoouey (ＳＨΛＤＯＷＴ3ＣＨ): the whole iOS system is being worked on rn
+[2025-05-30 00:52:43] Message: shadow_t3ch#0 in support-dueysoouey (ＳＨΛＤＯＷＴ3ＣＨ): android is fully bypasses tho
