@@ -309,3 +309,5 @@
 [2025-05-31 12:56:38] Member Remove: gemini3812#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-31 14:43:37] Channel Create: Channel 'support-hexderek2' created in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-31 14:43:44] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Is delta safe now ?
+[2025-05-31 14:43:49] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Like we cant get banned
+[2025-05-31 14:44:27] Message: vincent24537#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Shadow phoneix
