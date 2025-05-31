@@ -324,3 +324,7 @@
 [2025-05-31 17:18:09] Member Join: miltonibot#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-31 17:18:12] Member Role Update: miltonibot#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-05-31 17:18:43] Member Role Update: miltonibot#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
+[2025-05-31 17:19:34] Message: miltonibot#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Hello
+[2025-05-31 17:19:43] Message: miltonibot#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Link For iOS
+[2025-05-31 17:19:44] Message: miltonibot#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Plis
+[2025-05-31 17:19:46] Message: miltonibot#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Delta
