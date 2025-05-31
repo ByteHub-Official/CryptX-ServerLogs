@@ -306,3 +306,4 @@
 [2025-05-31 12:55:05] Member Join: gemini3812#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-31 12:55:07] Member Role Update: gemini3812#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-05-31 12:55:24] Member Role Update: gemini3812#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Announcement Ping, Removed: None)
+[2025-05-31 12:56:38] Member Remove: gemini3812#0 left ＳＨΛＤＯＷＴ3ＣＨ
