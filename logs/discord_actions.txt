@@ -298,3 +298,5 @@
 [2025-05-31 08:29:04] Member Role Update: thebighomiezay#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-05-31 08:29:14] Member Role Update: thebighomiezay#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
 [2025-05-31 08:30:54] Member Remove: thebighomiezay#0 left ＳＨΛＤＯＷＴ3ＣＨ
+[2025-05-31 08:57:58] Member Join: hanks_0#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-05-31 08:58:00] Member Role Update: hanks_0#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
