@@ -322,3 +322,5 @@
 [2025-05-31 16:07:16] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Ok
 [2025-05-31 16:53:32] Member Remove: bdk_folks_gang#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-31 17:18:09] Member Join: miltonibot#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-05-31 17:18:12] Member Role Update: miltonibot#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-05-31 17:18:43] Member Role Update: miltonibot#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
