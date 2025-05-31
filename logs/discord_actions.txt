@@ -318,3 +318,5 @@
 [2025-05-31 15:34:22] Message: definitelynotasian#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Very not safe
 [2025-05-31 15:56:41] Message: snowexploits#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): It is on android
 [2025-05-31 16:02:49] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): iPhone
+[2025-05-31 16:07:07] Message: snowexploits#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Sadly no not yet will be fixed soon, working on getting ios dev account to allow us to bypass it
+[2025-05-31 16:07:16] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Ok
