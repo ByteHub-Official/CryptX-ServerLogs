@@ -303,3 +303,5 @@
 [2025-05-31 08:58:15] Member Role Update: hanks_0#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Removed: None)
 [2025-05-31 08:58:37] Member Remove: hanks_0#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-05-31 11:14:31] Message: rip_vipadam2011#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Can anyone send me the redz script
+[2025-05-31 12:55:05] Member Join: gemini3812#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-05-31 12:55:07] Member Role Update: gemini3812#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
