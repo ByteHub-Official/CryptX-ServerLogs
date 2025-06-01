@@ -357,3 +357,5 @@
 [2025-06-01 07:47:58] Role Create: Role 'ShadowNuker 1 Year membership' created in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 07:50:10] Role Create: Role 'ShadowNuker 1 Month membership' created in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 07:51:17] Role Create: Role 'ShadowV3 Premium membership' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 07:54:13] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): @everyone Server Shop is now open!!
+https://discord.com/channels/1194721696863764531/shop
