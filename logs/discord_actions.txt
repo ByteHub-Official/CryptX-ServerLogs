@@ -438,3 +438,7 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 09:09:02] Channel Create: Channel 'supporter-chat' created in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 09:09:46] Role Create: Role 'Server Subscriptions Group' created in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 09:09:46] Role Create: Role 'Supporter membership' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 09:10:08] Channel Create: Channel 'supporter-stage' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 09:10:09] Role Create: Role 'Supporter + membership' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 09:10:34] Channel Create: Channel 'exclusive-content' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 09:10:35] Role Create: Role 'Super Supporter membership' created in ＳＨΛＤＯＷＴ3ＣＨ
