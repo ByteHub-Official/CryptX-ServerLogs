@@ -351,3 +351,5 @@
 [2025-05-31 20:00:52] Message: vincent24537#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Dont ping him your gonna get fuсқеd up
 [2025-06-01 00:27:25] Message: shadow_t3ch#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): yes
 [2025-06-01 01:23:50] Member Remove: cleseucpet#0 left ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 06:50:03] Member Join: wilfredomejia.#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 06:50:08] Member Role Update: wilfredomejia.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
