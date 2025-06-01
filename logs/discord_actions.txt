@@ -495,3 +495,4 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 18:45:16] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): thanks
 [2025-06-01 21:04:17] Member Role Update: freshoutoffucksforver#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: Server Booster)
 [2025-06-01 21:34:56] Message: var.0604#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): whats your site ?
+[2025-06-01 22:00:47] Member Remove: elpapu1095#0 left ＳＨΛＤＯＷＴ3ＣＨ
