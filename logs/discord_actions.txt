@@ -451,3 +451,4 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 15:39:57] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): oh damn💀 just using it till i get stripe added to mt website
 [2025-06-01 15:43:52] Member Join: _wtk.#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 15:43:53] Member Role Update: _wtk.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-01 15:44:04] Member Role Update: _wtk.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
