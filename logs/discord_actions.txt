@@ -355,3 +355,4 @@
 [2025-06-01 06:50:08] Member Role Update: wilfredomejia.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-01 06:50:38] Member Role Update: wilfredomejia.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
 [2025-06-01 07:47:58] Role Create: Role 'ShadowNuker 1 Year membership' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 07:50:10] Role Create: Role 'ShadowNuker 1 Month membership' created in ＳＨΛＤＯＷＴ3ＣＨ
