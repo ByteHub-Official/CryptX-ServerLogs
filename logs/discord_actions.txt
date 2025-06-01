@@ -493,3 +493,4 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 18:45:06] Message: shadow_t3ch#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): will do
 [2025-06-01 18:45:12] Message: shadow_t3ch#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): alr
 [2025-06-01 18:45:16] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): thanks
+[2025-06-01 21:04:17] Member Role Update: freshoutoffucksforver#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: Server Booster)
