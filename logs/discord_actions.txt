@@ -434,3 +434,5 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 09:07:07] Role Delete: Role 'ShadowNuker 1 Week' deleted in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 09:07:18] Role Delete: Role 'ShadowV3 Premium' deleted in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-01 09:07:19] Role Delete: Role 'Premium Members' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 09:09:02] Channel Create: Channel 'supporter-updates' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-01 09:09:02] Channel Create: Channel 'supporter-chat' created in ＳＨΛＤＯＷＴ3ＣＨ
