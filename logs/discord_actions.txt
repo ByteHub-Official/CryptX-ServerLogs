@@ -492,3 +492,4 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 18:45:03] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): as long as they have been created for more than 1 month.
 [2025-06-01 18:45:06] Message: shadow_t3ch#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): will do
 [2025-06-01 18:45:12] Message: shadow_t3ch#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): alr
+[2025-06-01 18:45:16] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): thanks
