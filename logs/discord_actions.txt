@@ -499,3 +499,4 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 23:24:59] Message: shadow_t3ch#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): https://shadowt3ch.site
 [2025-06-01 23:28:48] Message: var.0604#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): is it down for ios ?
 [2025-06-01 23:29:32] Message: shadow_t3ch#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): yes
+[2025-06-01 23:44:24] Member Remove: tps_gaelxd#0 left ＳＨΛＤＯＷＴ3ＣＨ
