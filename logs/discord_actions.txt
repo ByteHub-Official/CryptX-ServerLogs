@@ -576,3 +576,4 @@ With all being said these updates will be implemented in the next delta executor
 
 So please be patient with are developer and our staff team, due note the android version is up and running without a flaw, with all being said thank you all for supporting delta executor and the developer <@1053079666459693077>
 [2025-06-02 02:48:15] Message: var.0604#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): i understand
+[2025-06-02 02:49:36] Message: snowexploits#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): If you would like to see all the changed that will be implemented check out <#1364213161187741807>
