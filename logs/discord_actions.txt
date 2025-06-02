@@ -501,3 +501,5 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-01 23:29:32] Message: shadow_t3ch#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): yes
 [2025-06-01 23:44:24] Member Remove: tps_gaelxd#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-02 00:52:43] Channel Create: Channel 'roblox-external-cheat' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-02 00:53:24] Message: shadow_t3ch#0 in roblox-external-cheat (ＳＨΛＤＯＷＴ3ＣＨ): @everyone Boost this server to get my new premium PC external cheat for roblox!!
+[2025-06-02 00:53:39] Message: var.0604#0 in order-products-var0604 (ＳＨΛＤＯＷＴ3ＣＨ): will it be up by tmr ?
