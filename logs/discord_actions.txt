@@ -558,3 +558,20 @@ https://discord.com/channels/1194721696863764531/shop
 [2025-06-02 02:38:23] Message: they_fwdk#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): i respect it
 [2025-06-02 02:38:25] Message: they_fwdk#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): but i dev
 [2025-06-02 02:38:30] Message: they_fwdk#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): i need that dex opened rn
+[2025-06-02 02:46:29] Message: snowexploits#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): @everyone 
+Sorry for the delayed updates regarding delta roblox executor for IOS users.
+
+This project is getting a full rebuild in regards of the ios anti exploits detection system update, we are aware that you guy and girls are awaiting the update but due to high volume or resources that must be updates and or replaced it taking longer then expected, but due note that we are working on the delta executor to proform better and with no detection by the ios system. 
+With all being said these updates will be implemented in the next delta executor.
+
+-it will no longer be read as roblox but as a client in which will have delta executor inside with the roblox game making flawless entry and to avoid anti cheat detection.
+
+-Executor will also have script look up services that will be better then the last one used
+
+-Client will have auto updates so you will no longer need to reinstall the aplication.
+
+-Saving scripts rework will be applied foe easy save.
+
+-And much more will come after the release of the client.
+
+So please be patient with are developer and our staff team, due note the android version is up and running without a flaw, with all being said thank you all for supporting delta executor and the developer <@1053079666459693077>
