@@ -719,3 +719,5 @@ To get that update, redownload delta from here 👉 https://shadowt3ch.site/delt
 [2025-06-10 16:26:49] Message: snowexploits#0 in support-tworainy (ＳＨΛＤＯＷＴ3ＣＨ): More then likely
 [2025-06-10 16:27:28] Message: snowexploits#0 in support-tworainy (ＳＨΛＤＯＷＴ3ＣＨ): But level 8 is dame near the same as level 9 but minus the updates
 [2025-06-10 16:27:43] Message: snowexploits#0 in support-tworainy (ＳＨΛＤＯＷＴ3ＣＨ): Still has 95%UGC
+[2025-06-10 16:28:24] Message: snowexploits#0 in support-tworainy (ＳＨΛＤＯＷＴ3ＣＨ): Level 9 is 98%UGC u see the small difference
+[2025-06-10 16:28:50] Message: snowexploits#0 in support-tworainy (ＳＨΛＤＯＷＴ3ＣＨ): Level 8 will be fine will work for almost all games
