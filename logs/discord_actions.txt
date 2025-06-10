@@ -672,3 +672,42 @@ So please be patient with are developer and our staff team, due note the android
 [2025-06-10 11:19:48] Member Role Update: blaze_yt_#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-10 11:20:08] Member Role Update: blaze_yt_#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, Delta User, Removed: None)
 [2025-06-10 13:42:54] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Ngl I be doing the craziest stuff with delta 😂
+[2025-06-10 13:43:32] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Delta iOS Update! 📞  || @here ||
+```css
+[Version X (10.12) “Delta-2.675.715.ipa"]
+```
+```css
+[Changelog]
+```
+```md
++ Updated to 2.675.715
++ Bypassed Detections
++ Brand New `gethui`
++ Fixed UI Related Detections (Basketball: Zero, etc.)
++ Fixed Hook Related Detections (Adonis)
++ Improved Functions:
+  + request (rewritten)
+  + WebSocket library (rewritten & added Delta headers)
+  + clonefunction
+  + hookfunction
+  + restorefunction (added restoration for L -> C hooks)
+  + replicatesignal (added multiple argument support)
+  + gethiddenproperty (added SharedString support)
+  + isnetworkowner
+  + getgc
+  + filtergc
+  + getfunctionhash
++ Added **Delta** library
++ Added **pibble** library
++ Fixed Bans
++ Improved Stability
++ Improved Performance
++ Bug Fixes
+```
+
+⚠️ USING DETECTED EXECUTORS ON THE SAME DEVICE/IP/ACCOUNT MIGHT GET YOU WARNED OR BANNED ⚠️
+⚠️ NOT RECOMMENDED TO USE PREVIOUSLY BANNED/WARNED ACCOUNTS FOR A WHILE ⚠️
+
+⚠️ SPOOFING IS DETECTED, DO NOT SPOOF THE VERSION ⚠️
+
+To get that update, redownload delta from here 👉 https://shadowt3ch.site/delta
