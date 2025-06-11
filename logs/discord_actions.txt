@@ -807,3 +807,5 @@ https://shorturl.at/CKtD8
 [2025-06-11 20:05:15] Member Role Update: pessi0863#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
 [2025-06-11 20:07:00] Message: pessi0863#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Hi
 [2025-06-11 20:07:11] Message Delete: pessi0863#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Deleted 'Hi'
+[2025-06-11 20:43:52] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Im buying with robux
+[2025-06-11 20:43:58] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
