@@ -794,3 +794,4 @@ https://shorturl.at/CKtD8
 [2025-06-11 14:42:37] Member Join: j5isaac#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-11 14:42:57] Member Role Update: j5isaac#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ShadowV3 User, Delta User, Removed: None)
 [2025-06-11 14:43:06] Message: j5isaac#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Yo
+[2025-06-11 14:49:28] Member Remove: j5isaac#0 left ＳＨΛＤＯＷＴ3ＣＨ
