@@ -814,3 +814,4 @@ https://shorturl.at/CKtD8
 [2025-06-11 20:44:33] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): just a simple acc which has been created for more then 1 month
 [2025-06-11 20:56:16] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Ill look for it in a bit, in a middle of a game
 [2025-06-11 21:18:18] Member Join: bigloko223#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-11 21:18:35] Member Role Update: bigloko223#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
