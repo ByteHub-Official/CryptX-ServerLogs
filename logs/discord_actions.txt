@@ -852,3 +852,4 @@ Thank you
 [2025-06-12 15:14:14] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): did it at least make a new channel then ping you?
 [2025-06-12 15:15:32] Member Join: the_hunter223#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-12 15:15:34] Member Role Update: the_hunter223#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-12 15:15:50] Member Role Update: the_hunter223#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ShadowV3 User, Removed: None)
