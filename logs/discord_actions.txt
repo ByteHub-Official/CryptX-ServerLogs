@@ -860,3 +860,6 @@ Thank you
 [2025-06-12 15:29:27] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): when I click on delta
 [2025-06-12 15:29:29] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): it says this
 [2025-06-12 15:29:47] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): 
+[2025-06-12 15:30:11] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Ill ask the dev quick
+[2025-06-12 15:30:11] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): what do I do here
+[2025-06-12 15:30:15] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): ok thank you
