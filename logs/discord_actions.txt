@@ -864,3 +864,4 @@ Thank you
 [2025-06-12 15:30:11] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): what do I do here
 [2025-06-12 15:30:15] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): ok thank you
 [2025-06-12 15:32:46] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): The delta on ios is currently down and our dev is working on getting it back up, we do not know how long it will take but rest assured we are working on it
+[2025-06-12 15:33:21] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): okay thank you
