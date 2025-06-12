@@ -881,3 +881,5 @@ Thank you for your patience 🙏
 [2025-06-12 16:00:58] Member Role Update: pessi0863#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Removed: None)
 [2025-06-12 16:03:04] Member Role Update: exptic3954#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ShadowV3 User, Removed: None)
 [2025-06-12 16:21:54] Channel Delete: Channel 'support-men09786' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-12 16:21:58] Channel Delete: Channel 'support-aos_fh' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-12 16:22:07] Channel Delete: Channel 'order-products-m6bs' deleted in ＳＨΛＤＯＷＴ3ＣＨ
