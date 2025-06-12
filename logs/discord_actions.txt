@@ -866,3 +866,8 @@ Thank you
 [2025-06-12 15:32:46] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): The delta on ios is currently down and our dev is working on getting it back up, we do not know how long it will take but rest assured we are working on it
 [2025-06-12 15:33:21] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): okay thank you
 [2025-06-12 15:35:15] Channel Create: Channel 'support-men09786' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-12 15:35:24] Message: men09786#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Hello
+[2025-06-12 15:35:30] Message: snowexploits#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Hello how can I help
+[2025-06-12 15:35:43] Message: men09786#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): My delta not working
+[2025-06-12 15:35:58] Message: snowexploits#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Delta for ios is currently down till farther notice
+[2025-06-12 15:36:05] Message: men09786#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Oh dang Alr
