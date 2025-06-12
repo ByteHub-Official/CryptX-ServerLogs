@@ -871,3 +871,5 @@ Thank you
 [2025-06-12 15:35:43] Message: men09786#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): My delta not working
 [2025-06-12 15:35:58] Message: snowexploits#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Delta for ios is currently down till farther notice
 [2025-06-12 15:36:05] Message: men09786#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Oh dang Alr
+[2025-06-12 15:36:24] Message: men09786#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Do yk when it go be back up ?
+[2025-06-12 15:37:16] Message: snowexploits#0 in support-men09786 (ＳＨΛＤＯＷＴ3ＣＨ): Hopefully soon but our developer is currently un able to work on any project due to computer problems but we will make a post when it is back up and running
