@@ -848,3 +848,5 @@ Thank you
 [2025-06-12 11:50:49] Message: sigmacat123.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): ?
 [2025-06-12 14:18:49] Message: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): we will have shadow fix that, server might be down will consult with shadow
 [2025-06-12 15:13:20] Channel Create: Channel 'order-products-shadow_t3ch' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-12 15:13:33] Channel Delete: Channel 'order-products-shadow_t3ch' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-12 15:14:14] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): did it at least make a new channel then ping you?
