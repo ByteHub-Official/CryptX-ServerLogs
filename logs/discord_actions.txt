@@ -1112,3 +1112,5 @@ Are you trying to fix the website?
 [2025-06-13 19:50:13] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): It’s alright
 [2025-06-13 19:50:15] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): thanks
 [2025-06-13 21:32:15] Message: aos_fh#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): yo anyone got hacks atm
+[2025-06-13 22:50:49] Member Join: infinity01159#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-13 22:50:52] Member Role Update: infinity01159#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
