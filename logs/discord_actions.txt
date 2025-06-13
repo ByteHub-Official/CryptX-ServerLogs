@@ -1087,3 +1087,4 @@ Are you trying to fix the website?
 [2025-06-13 09:26:17] Member Join: nightcarries#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-13 09:26:19] Member Role Update: nightcarries#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-13 09:28:00] Member Remove: nightcarries#0 left ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-13 12:12:00] Message: jax_rng#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): gurts it
