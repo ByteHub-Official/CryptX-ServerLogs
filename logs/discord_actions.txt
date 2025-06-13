@@ -1099,3 +1099,4 @@ Are you trying to fix the website?
 [2025-06-13 17:41:31] Member Remove: pessi0863#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-13 17:42:48] Member Join: pessi0863#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-13 17:42:49] Member Role Update: pessi0863#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-13 17:43:01] Member Role Update: pessi0863#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
