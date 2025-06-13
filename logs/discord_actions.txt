@@ -1097,3 +1097,5 @@ Are you trying to fix the website?
 [2025-06-13 16:50:53] Member Remove: esimorp#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-13 16:55:32] Message: men09786#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Yoo
 [2025-06-13 17:41:31] Member Remove: pessi0863#0 left ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-13 17:42:48] Member Join: pessi0863#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-13 17:42:49] Member Role Update: pessi0863#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
