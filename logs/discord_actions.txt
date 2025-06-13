@@ -1089,3 +1089,5 @@ Are you trying to fix the website?
 [2025-06-13 09:28:00] Member Remove: nightcarries#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-13 12:12:00] Message: jax_rng#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): gurts it
 [2025-06-13 12:53:56] Member Remove: vviikkaa1#0 left ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-13 14:56:49] Member Join: iriskirka#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-13 14:56:55] Member Role Update: iriskirka#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
