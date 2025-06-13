@@ -1094,3 +1094,4 @@ Are you trying to fix the website?
 [2025-06-13 14:57:09] Member Role Update: iriskirka#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, ShadowV3 User, Delta User, Removed: None)
 [2025-06-13 14:57:37] Member Join: esimorp#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-13 14:57:40] Member Role Update: esimorp#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-13 16:50:53] Member Remove: esimorp#0 left ＳＨΛＤＯＷＴ3ＣＨ
