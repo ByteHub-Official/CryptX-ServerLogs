@@ -1105,3 +1105,9 @@ Are you trying to fix the website?
 [2025-06-13 19:48:31] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): hello
 [2025-06-13 19:48:38] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Hello
 [2025-06-13 19:48:53] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): I’m sorry for asking a stupid question but do you know how long it will roughly take for delta to come back up
+[2025-06-13 19:49:32] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Our main developer having issues with his computer so we do not currently have an estimate time
+[2025-06-13 19:49:41] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): oh okay that’s alright
+[2025-06-13 19:49:43] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): thank you
+[2025-06-13 19:50:04] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Np sorry for inconvenience and we are working hard to get it back up and running
+[2025-06-13 19:50:13] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): It’s alright
+[2025-06-13 19:50:15] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): thanks
