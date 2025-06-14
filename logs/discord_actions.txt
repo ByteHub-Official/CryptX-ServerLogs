@@ -1734,3 +1734,4 @@ Are you trying to fix the website?
 [2025-06-14 18:33:45] Message: snowexploits#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): https://scnx.app/user/guilds
 [2025-06-14 18:34:12] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): dont forget the 10 btw
 [2025-06-14 18:34:24] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): u did not respond in pm
+[2025-06-14 19:19:12] Member Role Update: snowexploits#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Shadow Only, Removed: None)
