@@ -1715,3 +1715,7 @@ Are you trying to fix the website?
 [2025-06-14 15:03:02] Member Role Update: susonhottz#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Announcement Ping, Delta User, Removed: None)
 [2025-06-14 16:05:31] Member Remove: shelly1012t#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-14 18:13:17] Channel Create: Channel 'support-keefx' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-14 18:13:35] Message: sosa_inc#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): What’s up!
+[2025-06-14 18:13:52] Message: .keefx#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): i made a bot from a website snowexploits sent me but i forgot it
+[2025-06-14 18:14:11] Message: .keefx#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): where i could like type in it
+[2025-06-14 18:14:22] Message: .keefx#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
