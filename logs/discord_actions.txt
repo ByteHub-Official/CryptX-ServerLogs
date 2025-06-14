@@ -1728,3 +1728,4 @@ Are you trying to fix the website?
 [2025-06-14 18:30:42] Message: .keefx#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): remember that website that i can send messages of the bot i need it again
 [2025-06-14 18:30:52] Message: snowexploits#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): Way not fave it
 [2025-06-14 18:31:18] Message: .keefx#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): ?
+[2025-06-14 18:32:38] Message: snowexploits#0 in support-keefx (ＳＨΛＤＯＷＴ3ＣＨ): Next time book mark it to make it easy to find you can create a folder named discord and put it inside there so you never lose it
