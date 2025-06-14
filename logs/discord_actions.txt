@@ -1398,3 +1398,7 @@ Are you trying to fix the website?
 [2025-06-14 07:04:12] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): So it does it by itself
 [2025-06-14 07:04:20] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Whenever there's a disturbance or wtv
 [2025-06-14 07:04:27] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Anything unusual
+[2025-06-14 07:04:45] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): No if a user other then Spider is detected it will activate malwear protocal
+[2025-06-14 07:04:50] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Should monitor everything
+[2025-06-14 07:05:05] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Then thats good
+[2025-06-14 07:05:13] Message: snowexploits#0 in 📈ᴍᴏᴅ-ʟᴏɢs (ＳＨΛＤＯＷＴ3ＣＨ): 
