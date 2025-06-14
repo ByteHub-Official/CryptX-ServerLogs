@@ -1713,3 +1713,4 @@ Are you trying to fix the website?
 [2025-06-14 15:02:44] Member Join: susonhottz#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-14 15:02:46] Member Role Update: susonhottz#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-14 15:03:02] Member Role Update: susonhottz#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Announcement Ping, Delta User, Removed: None)
+[2025-06-14 16:05:31] Member Remove: shelly1012t#0 left ＳＨΛＤＯＷＴ3ＣＨ
