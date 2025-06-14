@@ -1161,3 +1161,5 @@ Are you trying to fix the website?
 [2025-06-14 05:16:58] Message Delete: snowexploits#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Deleted 'Only person who needs is is <@1141232275447631932>'
 [2025-06-14 05:17:01] Message Delete: snowexploits#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Deleted 'Ask in staff chat not here'
 [2025-06-14 05:17:22] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): What's up
+[2025-06-14 05:18:00] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): And might need to remove admin perms from <@1141232275447631932> posting relevant stuff on <#1364213161187741807>
+[2025-06-14 05:18:20] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Will be talking to shadow about it
