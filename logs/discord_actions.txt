@@ -1711,3 +1711,5 @@ Are you trying to fix the website?
 [2025-06-14 14:35:32] Member Join: kirkaplayer_#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-14 14:35:43] Member Role Update: kirkaplayer_#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-14 15:02:44] Member Join: susonhottz#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-14 15:02:46] Member Role Update: susonhottz#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-14 15:03:02] Member Role Update: susonhottz#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Announcement Ping, Delta User, Removed: None)
