@@ -1261,3 +1261,5 @@ Are you trying to fix the website?
 [2025-06-14 06:16:59] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): You were right.
 [2025-06-14 06:17:09] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I haven't been thinking about what's best for the server.
 [2025-06-14 06:17:17] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): And I'd like to change that.
+[2025-06-14 06:17:37] Message: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): So sorry man.
+[2025-06-14 06:18:15] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): 500+ members, need to think what u want them to see and whether they want to see it, doing stuff like that can result in people leaving before the pruduct is fixed
