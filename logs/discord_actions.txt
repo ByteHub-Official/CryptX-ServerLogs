@@ -1709,3 +1709,4 @@ Are you trying to fix the website?
 [2025-06-14 08:06:46] Message Edit: res66.#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'Goodnight, sleep well, man. God bless. 🙏🏾🙏🏾🙏🏾' to 'Goodnight, sleep well, man. God bless. 🙏🏾'
 [2025-06-14 08:19:13] Member Remove: insite_1#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-14 14:35:32] Member Join: kirkaplayer_#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-14 14:35:43] Member Role Update: kirkaplayer_#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
