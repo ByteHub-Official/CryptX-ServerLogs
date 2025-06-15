@@ -2153,3 +2153,8 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 -# arm32 is returning soon in 677
 [2025-06-15 18:05:08] Member Join: ethan.gov#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-15 18:05:11] Member Role Update: ethan.gov#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-15 18:06:13] Channel Create: Channel 'support-ethangov' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-15 18:06:25] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): uh okay so like
+[2025-06-15 18:06:47] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): it doesnt show up in vpn and device management
+[2025-06-15 18:06:50] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): so idk how to verify it
+[2025-06-15 18:07:07] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): i've done it a few times before but its not showing up this time
