@@ -2172,3 +2172,15 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-15 18:23:26] Message Delete: gem_killer_60175#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Deleted 'Like fr were not the creators of delta'
 [2025-06-15 18:24:16] Message Edit: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Edited '@everyone sorry for the ping once again if we see a delta question it will be closed or deleted so stop asking about delta bc yall getting me mad please and thank you' to '@everyone sorry for the ping, once again if we see a delta question it will be closed or deleted so stop asking about delta bc yall getting me mad please and thank you'
 [2025-06-15 18:32:48] Channel Create: Channel 'support-cooldude299928277226263' created in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-15 18:33:01] Message: sosa_inc#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): Hello!
+[2025-06-15 18:33:04] Message: cooldude299928277226263#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): Hello!
+[2025-06-15 18:33:12] Message: cooldude299928277226263#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): So I was wondering when delta is up how do I download it
+[2025-06-15 18:33:18] Message: cooldude299928277226263#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): I can’t figure it out
+[2025-06-15 18:33:22] Message: sosa_inc#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): Alr bro
+[2025-06-15 18:33:23] Message: cooldude299928277226263#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): I’m sorry for the inconvenience
+[2025-06-15 18:33:30] Message: sosa_inc#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): So when you download it
+[2025-06-15 18:33:33] Message: cooldude299928277226263#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): No like how do I download it when it’s up
+[2025-06-15 18:33:36] Message: sosa_inc#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): Go to general
+[2025-06-15 18:33:39] Member Remove: starrk_gg#0 left ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-15 18:33:40] Message: cooldude299928277226263#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): Okay
+[2025-06-15 18:33:40] Message: sosa_inc#0 in support-cooldude299928277226263 (ＳＨΛＤＯＷＴ3ＣＨ): VPN
