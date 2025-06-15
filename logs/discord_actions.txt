@@ -1956,3 +1956,5 @@ FREE_b7d9515bdd91533eaf2a106c93668d9f
 [2025-06-15 15:48:49] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): more
 [2025-06-15 15:48:50] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): It's only 49 less I dont mind
 [2025-06-15 15:49:34] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): so how will i login
+[2025-06-15 15:50:00] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Normal login ones payment is made info will be send automatically
+[2025-06-15 15:50:35] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Ones u in it change email and I'll send the code
