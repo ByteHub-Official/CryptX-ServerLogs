@@ -2128,3 +2128,26 @@ FREE_b7d9515bdd91533eaf2a106c93668d9f
 [2025-06-15 16:39:11] Message: shadow_t3ch#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Ofv
 [2025-06-15 16:52:12] Member Remove: xiaojosu#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-15 17:19:19] Message: runndwnking#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Which one of you apes pinged me💀I was sleep
+[2025-06-15 17:34:09] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Delta Android Update! 📱  || @here ||
+```css
+[Version X (10.55) “Delta-2.676.531.apk"]
+```
+```css
+[Changelog]
+```
+```md
++ Updated to 2.676.531
++ Still Undetected
++ Fixed UI Related Detections (Basketball: Zero, Steal a Brainrot)
++ Imrpoved Anti-Scam (protects you from losing items to scam scripts)
+  + Grow a Garden
+  + Murder Mystery 2
+  + Pls Donate
++ Bug Fixes
+```
+
+**⚠️ USING DETECTED EXECUTORS ON THE SAME DEVICE/IP/ACCOUNT MIGHT GET YOU WARNED OR BANNED ⚠️**
+**⚠️ NOT RECOMMENDED TO USE PREVIOUSLY BANNED/WARNED ACCOUNTS FOR A WHILE ⚠️**
+
+To get that update, redownload delta from here  👉 https://shadowt3ch.site/delta
+-# arm32 is returning soon in 677
