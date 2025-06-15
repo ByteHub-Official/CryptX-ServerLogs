@@ -1923,3 +1923,12 @@ FREE_b7d9515bdd91533eaf2a106c93668d9f
 [2025-06-15 15:43:09] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): It's dose not have staff access so it will not show up here
 [2025-06-15 15:43:15] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): I can ping it in public
 [2025-06-15 15:43:28] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): alr ping in public
+[2025-06-15 15:43:38] Message: shadow_t3ch#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): <@1349560167502450839>
+[2025-06-15 15:43:43] Message: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): <@1349560167502450839>
+[2025-06-15 15:44:03] Message: _wtk.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
+[2025-06-15 15:44:14] Message: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Yes it the one above
+[2025-06-15 15:44:26] Message: _wtk.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): So no one has acces to the acc?
+[2025-06-15 15:44:29] Member Role Update: _wtk.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: ShadowV3 User)
+[2025-06-15 15:44:29] Member Role Update: _wtk.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: Delta User)
+[2025-06-15 15:44:30] Member Role Update: _wtk.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ShadowV3 User, Removed: None)
+[2025-06-15 15:44:31] Member Role Update: _wtk.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: None, Removed: ShadowV3 User)
