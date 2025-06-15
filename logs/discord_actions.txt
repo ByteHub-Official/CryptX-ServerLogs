@@ -2075,3 +2075,5 @@ FREE_b7d9515bdd91533eaf2a106c93668d9f
 [2025-06-15 16:21:19] Message: sosa_inc#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Anything else
 [2025-06-15 16:21:25] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): No thank you
 [2025-06-15 16:22:14] Channel Delete: Channel 'support-aos_fh' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-15 16:22:43] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
+[2025-06-15 16:22:48] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Its not working
