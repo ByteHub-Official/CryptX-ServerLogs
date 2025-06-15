@@ -1912,3 +1912,5 @@ FREE_b7d9515bdd91533eaf2a106c93668d9f
 [2025-06-15 15:38:26] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): @everyone I will soon no longer be accepting<:robux:1359892059288375550>
 [2025-06-15 15:38:36] Message Edit: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Edited '@everyone I will soon no longer be accepting<:robux:1359892059288375550>' to '@everyone I will soon no longer be accepting <:robux:1359892059288375550>'
 [2025-06-15 15:39:27] Channel Delete: Channel 'support-keefx' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-15 15:39:33] Channel Delete: Channel 'support-aos_fh' deleted in ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-15 15:39:42] Channel Delete: Channel 'support-iriskirka' deleted in ＳＨΛＤＯＷＴ3ＣＨ
