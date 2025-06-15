@@ -2077,3 +2077,12 @@ FREE_b7d9515bdd91533eaf2a106c93668d9f
 [2025-06-15 16:22:14] Channel Delete: Channel 'support-aos_fh' deleted in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-15 16:22:43] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
 [2025-06-15 16:22:48] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Its not working
+[2025-06-15 16:23:31] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
+[2025-06-15 16:23:36] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): 
+[2025-06-15 16:23:41] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): I know u got it disabled
+[2025-06-15 16:23:50] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): how
+[2025-06-15 16:23:56] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): 
+[2025-06-15 16:24:00] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): what did i do
+[2025-06-15 16:24:03] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Dont use the same password as u used
+[2025-06-15 16:24:14] Message: _wtk.#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): Ok
+[2025-06-15 16:24:15] Message: snowexploits#0 in order-products-_wtk (ＳＨΛＤＯＷＴ3ＣＨ): It will think that account got hacked by u
