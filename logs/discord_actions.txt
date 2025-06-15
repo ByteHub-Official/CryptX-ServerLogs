@@ -2160,3 +2160,5 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-15 18:07:07] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): i've done it a few times before but its not showing up this time
 [2025-06-15 18:08:18] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): oh just read announcements nvm
 [2025-06-15 18:08:19] Message: ethan.gov#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): mb
+[2025-06-15 18:08:30] Message: gem_killer_60175#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): Delta is down now
+[2025-06-15 18:08:32] Message: gem_killer_60175#0 in support-ethangov (ＳＨΛＤＯＷＴ3ＣＨ): In ios
