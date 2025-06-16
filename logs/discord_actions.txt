@@ -2304,3 +2304,5 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 05:50:20] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): We used i9 chip for the prosser for the external board anything higher there's no need
 [2025-06-16 05:51:17] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): And the board needs to be pre loaded with python, and java so it able to read the code and make those key strokes
 [2025-06-16 05:51:48] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Hope that explains it in a way
+[2025-06-16 05:52:54] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): **It is pricey but ones u have one its 100% undetected and it dont read no external input, it reads it as the controller did it**
+[2025-06-16 05:53:05] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425> what time is it for you?
