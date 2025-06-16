@@ -2296,3 +2296,4 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 05:24:44] Member Role Update: lilj4640#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Announcement Ping, Delta User, Removed: None)
 [2025-06-16 05:44:51] Message: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Howni get it
 [2025-06-16 05:44:58] Message Edit: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'Howni get it' to 'How i get it'
+[2025-06-16 05:46:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): U just write basic code for screen detection, and controller key stroke like aimbot dose with mouse and the reset is buying pc board on Amazon and have a friend that knows how to put it together then tada
