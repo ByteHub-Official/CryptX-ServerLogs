@@ -2342,3 +2342,6 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 15:08:40] Message Edit: enproxtivity#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'If the script remains unavailable, Shadow may be able to produce it, time permitting.' to 'Should the script remain unavailable, Shadow might be able to produce it, if time allows.'
 [2025-06-16 15:13:51] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Oh okay that would be perfect
 [2025-06-16 15:13:53] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Thank you
+[2025-06-16 15:13:58] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): I know there are some scripts though
+[2025-06-16 15:14:08] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): I just need help looking for them lol
+[2025-06-16 15:14:57] Message: enproxtivity#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): While I am willing to assist, my limited experience with Roblox scripting prevents me from providing effective support. 😵‍💫😵‍💫😵‍💫
