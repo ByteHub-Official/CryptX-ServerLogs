@@ -2362,3 +2362,4 @@ ld(game:HttpGet(url))()
 [2025-06-16 18:54:01] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-16 18:54:09] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
 [2025-06-16 18:54:09] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
+[2025-06-16 21:35:44] Message: unknown_hermes#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Nvm I don’t need it anymore
