@@ -2298,3 +2298,5 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 05:44:58] Message Edit: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'Howni get it' to 'How i get it'
 [2025-06-16 05:46:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): U just write basic code for screen detection, and controller key stroke like aimbot dose with mouse and the reset is buying pc board on Amazon and have a friend that knows how to put it together then tada
 [2025-06-16 05:47:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I used open source aimbot that uses python to detect live motion it connects hdmi in and out so the board detects your screen before ur TV or monitor dose
+[2025-06-16 05:48:07] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Making it seamless detection for the preloaded modles that I made through a website
+[2025-06-16 05:48:30] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I know all that a mouth full but not easy to explain
