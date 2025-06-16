@@ -2348,3 +2348,4 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 15:17:30] Message: aos_fh#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Okay well that’s alright lol
 [2025-06-16 15:55:57] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): Grow a garden script
 [2025-06-16 15:58:23] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): I personally recommend using this website for scripts this where we pull scripts for when u look up scripts on pc version
+[2025-06-16 15:58:26] Message: snowexploits#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): https://scriptblox.com/script/Grow-a-Garden-sh0vel-prod-KEYLESS-40582
