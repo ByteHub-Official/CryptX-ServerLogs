@@ -2360,3 +2360,5 @@ local url = "https://raw.githubusercontent.com/shvl00/shvled/refs/heads/main/l04
 ld(game:HttpGet(url))()
 [2025-06-16 18:53:58] Member Join: brotherwtf__#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-16 18:54:01] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-16 18:54:09] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
+[2025-06-16 18:54:09] Member Role Update: brotherwtf__#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
