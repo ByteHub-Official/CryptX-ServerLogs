@@ -2302,3 +2302,5 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 05:48:30] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I know all that a mouth full but not easy to explain
 [2025-06-16 05:49:44] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): It like cronus zen but it has full controll of you controller with a basic script in visuals to detect who loser to you and shoots them first
 [2025-06-16 05:50:20] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): We used i9 chip for the prosser for the external board anything higher there's no need
+[2025-06-16 05:51:17] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): And the board needs to be pre loaded with python, and java so it able to read the code and make those key strokes
+[2025-06-16 05:51:48] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Hope that explains it in a way
