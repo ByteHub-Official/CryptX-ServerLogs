@@ -2286,3 +2286,5 @@ To get that update, redownload delta from here  👉 https://shadowt3ch.site/del
 [2025-06-16 02:30:26] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): <@&1354883270701089051> let's keep off-topic stuff out of <#1364213161187741807> , <@1324779545609502740> u can say those things in staff chat or public, and farther more if u see things like that plz deleat those chats immediately and report to higher staff
 [2025-06-16 02:31:08] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): My apologies <@1376217565952479425>
 [2025-06-16 02:31:56] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Just try to think if u where in a server do u want to see off topic things where people use it for information regarding products
+[2025-06-16 02:44:35] Member Join: mar3900.#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-16 02:44:36] Member Role Update: mar3900.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
