@@ -2416,3 +2416,5 @@ ld(game:HttpGet(url))()
 [2025-06-17 17:50:55] Message: shadow_t3ch#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Yea
 [2025-06-17 17:51:49] Channel Create: Channel 'support-core8686' created in ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-17 17:52:01] Message: snowexploits#0 in support-core8686 (ＳＨΛＤＯＷＴ3ＣＨ): How can I help
+[2025-06-17 17:52:39] Message: core8686.#0 in support-core8686 (ＳＨΛＤＯＷＴ3ＣＨ): I wanted to make the recommendation that maybe they could make hacks for the multiplayer car parking game
+[2025-06-17 17:53:33] Message: core8686.#0 in support-core8686 (ＳＨΛＤＯＷＴ3ＣＨ): Sorry if it can be misspelled, I use a translator because I don't know how to speak much English
