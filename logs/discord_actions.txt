@@ -2435,3 +2435,7 @@ ld(game:HttpGet(url))()
 [2025-06-17 22:10:57] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): I WILL PERSONALLY BAN ANYONE WHO SENDS PEOPLE ANY OTHER LINK THAN MINE
 [2025-06-17 22:11:35] Message: sigmacat123.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): is that delta ios?
 [2025-06-17 22:12:34] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): My website always has the latest version of delta. And it's also the only official version
+[2025-06-17 22:12:58] Message: sigmacat123.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): the ios one?
+[2025-06-17 22:13:14] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): iOS and Android
+[2025-06-17 22:13:21] Message: sigmacat123.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): alr thx
+[2025-06-17 22:13:29] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Ofc
