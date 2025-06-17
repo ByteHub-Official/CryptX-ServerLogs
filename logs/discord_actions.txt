@@ -2424,3 +2424,6 @@ ld(game:HttpGet(url))()
 [2025-06-17 18:41:33] Message: mr.get.motion.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Yall made it worse
 [2025-06-17 18:41:42] Message: mr.get.motion.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): More laggy more buggy than ever
 [2025-06-17 19:05:10] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Feel free to leave then
+[2025-06-17 19:05:25] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Matter of a fact feel free to make your own
+[2025-06-17 19:05:40] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Then you'll see how hard it is
+[2025-06-17 19:05:56] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Because of the bypass of byfron
