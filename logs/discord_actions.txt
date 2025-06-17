@@ -2403,3 +2403,7 @@ ld(game:HttpGet(url))()
 [2025-06-17 17:28:15] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Its say offline
 [2025-06-17 17:28:19] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Ah
 [2025-06-17 17:28:26] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): 87% Damn
+[2025-06-17 17:28:41] Message: snowexploits#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): That's even including knock off delta too
+[2025-06-17 17:28:59] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Dam
+[2025-06-17 17:29:06] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Ok ty guys
+[2025-06-17 17:29:10] Message: snowexploits#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Np
