@@ -2397,3 +2397,9 @@ ld(game:HttpGet(url))()
 [2025-06-17 17:10:30] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): For using it on IOS
 [2025-06-17 17:10:37] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Delta
 [2025-06-17 17:27:25] Message: xbrooklynh#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): I believe so, yes.
+[2025-06-17 17:27:37] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Can I use it ?
+[2025-06-17 17:28:07] Message: xbrooklynh#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): They are still working on it. Just keep an eye on <#1364213161187741807>
+[2025-06-17 17:28:12] Message: snowexploits#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Chance of a ban on ios 87%
+[2025-06-17 17:28:15] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Its say offline
+[2025-06-17 17:28:19] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Ah
+[2025-06-17 17:28:26] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): 87% Damn
