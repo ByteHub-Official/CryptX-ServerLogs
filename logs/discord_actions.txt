@@ -2408,3 +2408,6 @@ ld(game:HttpGet(url))()
 [2025-06-17 17:29:06] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Ok ty guys
 [2025-06-17 17:29:10] Message: snowexploits#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Np
 [2025-06-17 17:29:47] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I thot ios delta been down
+[2025-06-17 17:30:47] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): <@1284269281437155350> plz use commands in right places no texting in partner tab
+[2025-06-17 17:30:55] Message Delete: lavishly.1#0 in 🤝ᴘᴀʀᴛɴᴇʀs (ＳＨΛＤＯＷＴ3ＣＨ): Deleted '.ban 1159558453640036474'
+[2025-06-17 17:30:59] Message Delete: shadow_t3ch#0 in 🤝ᴘᴀʀᴛɴᴇʀs (ＳＨΛＤＯＷＴ3ＣＨ): Deleted '?'
