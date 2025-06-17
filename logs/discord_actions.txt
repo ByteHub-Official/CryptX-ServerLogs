@@ -2442,3 +2442,4 @@ ld(game:HttpGet(url))()
 [2025-06-17 22:31:47] Member Join: zootedoffdemp3rks#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-17 22:31:50] Member Role Update: zootedoffdemp3rks#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-17 22:31:56] Member Role Update: zootedoffdemp3rks#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: YouTube Ping, Announcement Ping, ShadowV3 User, Delta User, Removed: None)
+[2025-06-17 22:32:32] Member Remove: zootedoffdemp3rks#0 left ＳＨΛＤＯＷＴ3ＣＨ
