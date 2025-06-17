@@ -2396,3 +2396,4 @@ ld(game:HttpGet(url))()
 [2025-06-17 17:10:25] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Can we get banned
 [2025-06-17 17:10:30] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): For using it on IOS
 [2025-06-17 17:10:37] Message: hexderek2#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): Delta
+[2025-06-17 17:27:25] Message: xbrooklynh#0 in support-hexderek2 (ＳＨΛＤＯＷＴ3ＣＨ): I believe so, yes.
