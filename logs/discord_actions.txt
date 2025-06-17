@@ -2434,3 +2434,4 @@ ld(game:HttpGet(url))()
 [2025-06-17 22:10:40] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): @everyone **DO NOT I REPEAT DO NOT INSTALL DELTA FROM ANY OTHER WEBSITE BESIDES https://shadowt3ch.site/ I SAY THAT BECAUSE THESE SITES ARE FAKE PLUS THEY GET THE DOWNLOADS FROM ME**
 [2025-06-17 22:10:57] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): I WILL PERSONALLY BAN ANYONE WHO SENDS PEOPLE ANY OTHER LINK THAN MINE
 [2025-06-17 22:11:35] Message: sigmacat123.#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): is that delta ios?
+[2025-06-17 22:12:34] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): My website always has the latest version of delta. And it's also the only official version
