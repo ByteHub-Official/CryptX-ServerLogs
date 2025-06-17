@@ -2371,3 +2371,4 @@ ld(game:HttpGet(url))()
 [2025-06-17 00:28:48] Member Join: cocajje#0 joined ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-17 00:28:50] Member Role Update: cocajje#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-17 00:29:07] Member Role Update: cocajje#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Delta User, Removed: None)
+[2025-06-17 00:49:28] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Bro delta isn’t working <@1053079666459693077>
