@@ -2490,3 +2490,8 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:28:17] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): i appreciate that fr dawg keep it up
 [2025-06-18 02:28:34] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Ofc, deadass gone broke from delta tho😞
 [2025-06-18 02:28:41] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Np
+[2025-06-18 02:28:49] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): i peep the notifications
+[2025-06-18 02:28:58] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): what’s the money aspect of it? the development?
+[2025-06-18 02:29:21] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Only got 18 cents in my bank account after the last direct install from earlier tdy
+[2025-06-18 02:29:28] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Plus I'm in debt
+[2025-06-18 02:29:34] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): 
