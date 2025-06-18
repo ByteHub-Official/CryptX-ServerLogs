@@ -2638,3 +2638,6 @@ ld(game:HttpGet(url))()
 [2025-06-18 03:17:37] Message Edit: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'What nuke bit?' to 'What nuke bot?'
 [2025-06-18 03:17:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): One u been selling
 [2025-06-18 03:19:31] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Did you buy it alr?
+[2025-06-18 03:19:44] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Yes since the client ain't up
+[2025-06-18 03:19:58] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): 🥹
+[2025-06-18 03:20:29] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Or can I get one plz
