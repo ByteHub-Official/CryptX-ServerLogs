@@ -2453,3 +2453,8 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:03:46] Message: the_frankocean.1#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): I can disable presidents accounts??
 [2025-06-18 02:03:56] Message: the_frankocean.1#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Who isnt buying it..
 [2025-06-18 02:04:06] Message: j4yroo#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): disable cr7’s acc??!
+[2025-06-18 02:05:15] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): no way it’s that easy bro
+[2025-06-18 02:05:16] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): 🤣
+[2025-06-18 02:05:26] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): idk abt yall im disabling im ex
+[2025-06-18 02:05:50] Message Edit: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'idk abt yall im disabling im ex' to 'idk abt yall im disabling my ec'
+[2025-06-18 02:05:53] Message Edit: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'idk abt yall im disabling my ec' to 'idk abt yall im disabling my ex'
