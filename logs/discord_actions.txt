@@ -2549,3 +2549,5 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:54:09] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Hack the site
 [2025-06-18 02:54:20] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Okay hold
 [2025-06-18 02:54:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Thir site is server sided so it tracks incoming payment good luck
+[2025-06-18 02:54:56] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): If it dont detect payments then it won't go through
+[2025-06-18 02:55:24] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): If I can hack render.com for free servers I'm sure I can hack a small website
