@@ -2459,3 +2459,4 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:05:50] Message Edit: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'idk abt yall im disabling im ex' to 'idk abt yall im disabling my ec'
 [2025-06-18 02:05:53] Message Edit: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'idk abt yall im disabling my ec' to 'idk abt yall im disabling my ex'
 [2025-06-18 02:06:52] Message: vault_survivor#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Wdym by that
+[2025-06-18 02:22:28] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): As long as you have the username
