@@ -2635,3 +2635,5 @@ ld(game:HttpGet(url))()
 [2025-06-18 03:16:17] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Ay <@1053079666459693077> when am going to get my nuke bot
 [2025-06-18 03:16:26] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Wana nuke some servers
 [2025-06-18 03:17:29] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): What nuke bit?
+[2025-06-18 03:17:37] Message Edit: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'What nuke bit?' to 'What nuke bot?'
+[2025-06-18 03:17:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): One u been selling
