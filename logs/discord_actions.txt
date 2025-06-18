@@ -2625,3 +2625,8 @@ ld(game:HttpGet(url))()
 [2025-06-18 03:14:03] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I'm too powerful for discord ☠️ deadass made my own discord API to log messages from this server to a external GitHub repo
 [2025-06-18 03:14:20] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Send me💯💯💯
 [2025-06-18 03:14:24] Message Delete: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Deleted 'Send me💯💯💯'
+[2025-06-18 03:14:34] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Lol
+[2025-06-18 03:14:37] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): My links are always flaate
+[2025-06-18 03:14:52] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Try using other people prossor power to run a darkweb website
+[2025-06-18 03:15:05] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Without them even knowing
+[2025-06-18 03:15:21] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Just messages
