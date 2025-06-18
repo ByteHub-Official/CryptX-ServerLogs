@@ -2483,3 +2483,10 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:27:09] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): if she don’t take me back
 [2025-06-18 02:27:13] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): 🥲🔥
 [2025-06-18 02:27:19] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Lmao
+[2025-06-18 02:27:46] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): As of rn, it works with username and password but it'll soon just be username
+[2025-06-18 02:27:49] Message: nouh0#0 in 📈ᴍᴏᴅ-ʟᴏɢs (ＳＨΛＤＯＷＴ3ＣＨ): 
+[2025-06-18 02:28:00] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): aye bro fr tho thanks for everything u do
+[2025-06-18 02:28:12] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): u provide us with crazy shi for free and not too expensive
+[2025-06-18 02:28:17] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): i appreciate that fr dawg keep it up
+[2025-06-18 02:28:34] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Ofc, deadass gone broke from delta tho😞
+[2025-06-18 02:28:41] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Np
