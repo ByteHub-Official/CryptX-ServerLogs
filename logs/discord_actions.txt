@@ -2462,3 +2462,5 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:22:28] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): As long as you have the username
 [2025-06-18 02:22:51] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): wow how does that workB
 [2025-06-18 02:23:18] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): I have access to shi y'all never heard of😂
+[2025-06-18 02:23:59] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): bro that’s odee even thinking abt
+[2025-06-18 02:24:03] Message: nouh0#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): how much would pricing be
