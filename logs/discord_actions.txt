@@ -2582,3 +2582,10 @@ ld(game:HttpGet(url))()
 [2025-06-18 03:01:18] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Is it disposable furry or sum
 [2025-06-18 03:01:40] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): 
 [2025-06-18 03:01:43] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Yes 🙌
+[2025-06-18 03:01:50] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): 🙇‍♀️🙇‍♀️🙇‍♀️
+[2025-06-18 03:02:06] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): 
+[2025-06-18 03:02:06] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Damnit, they don't got me vapor lux bars😞
+[2025-06-18 03:02:12] Message: pessi0863#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): You twin tell me when you are going to start selling it
+[2025-06-18 03:02:18] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): 
+[2025-06-18 03:02:18] Message Edit: pessi0863#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'You twin tell me when you are going to start selling it' to 'Yo twin tell me when you are going to start selling it'
+[2025-06-18 03:02:19] Message Edit: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'Damnit, they don't got me vapor lux bars😞' to 'Damnit, they don't got mr vapor lux bars😞'
