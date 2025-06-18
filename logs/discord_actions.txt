@@ -2497,3 +2497,4 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:29:34] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): 
 [2025-06-18 02:30:11] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): I do delta 100% free although I do have premium keys
 [2025-06-18 02:31:11] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): The shi behind delta tho isn't cheap. Every time it goes down I gotta buy new certificates to make direct install work. Which is $99 per certificate
+[2025-06-18 02:40:04] Message: definitelynotasian#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Why do so much
