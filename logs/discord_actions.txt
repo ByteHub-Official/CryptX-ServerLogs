@@ -2452,3 +2452,4 @@ ld(game:HttpGet(url))()
 [2025-06-18 02:03:33] Message: snowexploits#0 in support-core8686 (ＳＨΛＤＯＷＴ3ＣＨ): Ill talk to staff about it
 [2025-06-18 02:03:46] Message: the_frankocean.1#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): I can disable presidents accounts??
 [2025-06-18 02:03:56] Message: the_frankocean.1#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): Who isnt buying it..
+[2025-06-18 02:04:06] Message: j4yroo#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): disable cr7’s acc??!
