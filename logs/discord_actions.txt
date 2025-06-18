@@ -2621,3 +2621,7 @@ ld(game:HttpGet(url))()
 [2025-06-18 03:13:04] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): <@1376217565952479425>
 [2025-06-18 03:13:09] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Lmao
 [2025-06-18 03:13:24] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): What up
+[2025-06-18 03:13:59] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I'm traumatized from clicking links... Last time I clicked an unknown link I seen Drake on top of Diddy and ice spice getting filled up in the back ✌️💔
+[2025-06-18 03:14:03] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): I'm too powerful for discord ☠️ deadass made my own discord API to log messages from this server to a external GitHub repo
+[2025-06-18 03:14:20] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Send me💯💯💯
+[2025-06-18 03:14:24] Message Delete: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Deleted 'Send me💯💯💯'
