@@ -2759,3 +2759,5 @@ https://discord.gg/YTZYfr3bpt
 [2025-06-19 14:29:37] Member Role Update: keyonnah.#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ShadowV3 User, Removed: None)
 [2025-06-19 17:44:45] Member Remove: tsavonm123#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-19 21:37:30] Message: zetfixy#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Yo shadow
+[2025-06-19 22:11:54] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): wsp.
+[2025-06-19 22:11:58] Message Edit: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ＳＨΛＤＯＷＴ3ＣＨ): Edited 'wsp.' to 'wsp?'
