@@ -2723,3 +2723,21 @@ Do 👎 if not interested
 [2025-06-19 00:26:18] Message: pessi0863#0 in support-pessi0863 (ＳＨΛＤＯＷＴ3ＣＨ): On the games
 [2025-06-19 00:27:03] Message: snowexploits#0 in support-pessi0863 (ＳＨΛＤＯＷＴ3ＣＨ): No because I have other things im working on at this time and will look into the matter ones we have our other projects done
 [2025-06-19 00:28:33] Message: pessi0863#0 in support-pessi0863 (ＳＨΛＤＯＷＴ3ＣＨ): Ok that’s fine👍
+[2025-06-19 01:35:16] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ＳＨΛＤＯＷＴ3ＣＨ): Delta Android Update! 📱  || @everyone ||
+```css
+[Version X (10.56) “Delta-2.677.762.apk"]
+```
+```css
+[Changelog]
+```
+```md
++ Updated to 2.677.762
++ Still Undetected
++ Fixed In-Game Detections
++ Fixed Constant Freezing (Some Games) 
++ Fixed Loader (Faster Startup)
++ Added ARM32/32 Bit Back
++ Bug Fixes
+```
+
+To get that update, redownload delta from here  👉 https://shadowt3ch.site/delta
