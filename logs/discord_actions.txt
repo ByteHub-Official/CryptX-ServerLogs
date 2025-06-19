@@ -2752,3 +2752,5 @@ https://discord.gg/YTZYfr3bpt
 @everyone
 [2025-06-19 05:47:13] Member Remove: slipitinff2#0 left ＳＨΛＤＯＷＴ3ＣＨ
 [2025-06-19 14:25:05] Member Join: bacon10313#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-19 14:25:15] Member Role Update: bacon10313#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-19 14:25:18] Member Role Update: bacon10313#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ShadowV3 User, Delta User, Removed: None)
