@@ -2717,3 +2717,5 @@ Do 👎 if not interested
 [2025-06-18 20:10:28] Message: v3ark#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ＳＨΛＤＯＷＴ3ＣＨ): and maybe like a global chat for anyone that has it🤷‍♂️
 [2025-06-18 23:16:28] Message: pessi0863#0 in support-pessi0863 (ＳＨΛＤＯＷＴ3ＣＨ): Any updates?
 [2025-06-19 00:11:00] Member Join: doriana0599#0 joined ＳＨΛＤＯＷＴ3ＣＨ
+[2025-06-19 00:11:09] Member Role Update: doriana0599#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-19 00:11:27] Member Role Update: doriana0599#0 in ＳＨΛＤＯＷＴ3ＣＨ: Roles changed (Added: Announcement Ping, Removed: None)
