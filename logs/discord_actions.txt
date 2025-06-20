@@ -2859,3 +2859,6 @@ Thank you all for your support react above to be able to win free 1 month nitro
 [2025-06-20 22:54:43] Role Create: Role 'unverified' created in ShadowT3ch [Products]
 [2025-06-20 22:56:06] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): <@&1385737625205215303>
 [2025-06-20 23:03:59] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): https://discord.com/oauth2/authorize?client_id=1385756098937749554
+[2025-06-20 23:04:06] Role Create: Role 'V7' created in ShadowT3ch [Products]
+[2025-06-20 23:04:06] Member Join: V7#1362 joined ShadowT3ch [Products]
+[2025-06-20 23:05:03] Message Delete: V7#1362 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
