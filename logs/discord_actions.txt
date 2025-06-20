@@ -3136,3 +3136,7 @@ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴘʟᴀɴs
 
 *:information_source: Counters automatically update with a **15 minute delay**, do `/counter list` to see all other available counters.*'
 [2025-06-20 23:56:54] Channel Delete: Channel '📈 [ ɢʀᴏᴡᴛʜ ʟᴏɢ ] 📈' deleted in ShadowT3ch [Products]
+[2025-06-20 23:57:11] Channel Delete: Channel '🌟ʙᴏᴏsᴛs: 1' deleted in ShadowT3ch [Products]
+[2025-06-20 23:57:19] Channel Delete: Channel '🌟ʙᴏᴛs: 6' deleted in ShadowT3ch [Products]
+[2025-06-20 23:57:25] Channel Delete: Channel '🌟ᴍᴇᴍʙᴇʀs: 529' deleted in ShadowT3ch [Products]
+[2025-06-20 23:57:31] Channel Delete: Channel '🌟ᴀʟʟ-ᴍᴇᴍʙᴇʀs: 535' deleted in ShadowT3ch [Products]
