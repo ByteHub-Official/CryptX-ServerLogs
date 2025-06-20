@@ -3126,3 +3126,12 @@ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴘʟᴀɴs
 [2025-06-20 23:53:20] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification setup complete.'
 [2025-06-20 23:53:24] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification setup complete.'
 [2025-06-20 23:53:27] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
+[2025-06-20 23:54:43] Message Edit: ServerStats#0197 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Edited '' to ':repeat: The **setup** has been started and will take a couple of seconds to finish, so please wait a moment.'
+[2025-06-20 23:54:43] Channel Create: Channel '📊 SERVER STATS 📊' created in ShadowT3ch [Products]
+[2025-06-20 23:54:44] Channel Create: Channel 'All Members: 7' created in ShadowT3ch [Products]
+[2025-06-20 23:54:45] Channel Create: Channel 'Members: 3' created in ShadowT3ch [Products]
+[2025-06-20 23:54:46] Channel Create: Channel 'Bots: 4' created in ShadowT3ch [Products]
+[2025-06-20 23:54:47] Channel Create: Channel 'Boosts: 0' created in ShadowT3ch [Products]
+[2025-06-20 23:54:50] Message Edit: ServerStats#0197 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Edited ':repeat: The **setup** has been started and will take a couple of seconds to finish, so please wait a moment.' to ':white_check_mark: The **setup** has been completed with the template **boost**.
+
+*:information_source: Counters automatically update with a **15 minute delay**, do `/counter list` to see all other available counters.*'
