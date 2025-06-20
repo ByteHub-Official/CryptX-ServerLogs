@@ -3121,3 +3121,5 @@ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴘʟᴀɴs
 [2025-06-20 23:41:59] Message: shadow_t3ch#0 in 🎮ʀᴏʙʟᴏx-ᴘᴄ-ᴅᴇᴠ (ShadowT3ch [Products]): Coming Soon…
 [2025-06-20 23:49:29] Member Remove: runndwnking#0 left ShadowT3ch [Products]
 [2025-06-20 23:49:34] Member Join: runndwnking#0 joined ShadowT3ch [Products]
+[2025-06-20 23:53:10] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): .verify_setup
+[2025-06-20 23:53:16] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
