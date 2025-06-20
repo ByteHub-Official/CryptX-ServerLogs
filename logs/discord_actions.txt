@@ -2863,3 +2863,4 @@ Thank you all for your support react above to be able to win free 1 month nitro
 [2025-06-20 23:04:06] Member Join: V7#1362 joined ShadowT3ch [Products]
 [2025-06-20 23:05:03] Message Delete: V7#1362 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
 [2025-06-20 23:05:14] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): .purge 100
+[2025-06-20 23:11:38] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): .help
