@@ -2848,3 +2848,8 @@ Thank you all for your support react above to be able to win free 1 month nitro
 [2025-06-20 22:43:08] Member Role Update: jamaritolit2897_30202#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-20 22:43:49] Member Role Update: jamaritolit2897_30202#0 in ShadowT3ch [Delta]: Roles changed (Added: Announcement Ping, ShadowV3 User, Delta User, Removed: None)
 [2025-06-20 22:45:34] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): https://discord.com/oauth2/authorize?client_id=1385744401715953674
+[2025-06-20 22:45:42] Role Create: Role 'ShadowSecurities[V3]' created in ShadowT3ch [Products]
+[2025-06-20 22:45:42] Member Join: ShadowSecurities[V3]#6302 joined ShadowT3ch [Products]
+[2025-06-20 22:45:48] Message Delete: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted 'https://discord.com/oauth2/authorize?client_id=1385744401715953674'
+[2025-06-20 22:45:53] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): .help
+[2025-06-20 22:46:02] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
