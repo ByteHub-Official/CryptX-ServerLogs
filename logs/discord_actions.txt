@@ -2855,3 +2855,5 @@ Thank you all for your support react above to be able to win free 1 month nitro
 [2025-06-20 22:46:02] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
 [2025-06-20 22:47:49] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): .enable_anti_raid
 [2025-06-20 22:54:18] Role Create: Role 'unverified' created in ShadowT3ch [Products]
+[2025-06-20 22:54:43] Role Delete: Role 'unverified' deleted in ShadowT3ch [Products]
+[2025-06-20 22:54:43] Role Create: Role 'unverified' created in ShadowT3ch [Products]
