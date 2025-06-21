@@ -3610,3 +3610,4 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 03:44:47] Member Unban: davidlara0876#0 unbanned from ShadowT3ch [Products]
 [2025-06-21 03:44:48] Member Unban: pessi0863#0 unbanned from ShadowT3ch [Products]
 [2025-06-21 03:44:49] Member Unban: v3ark#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 03:46:51] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone nvm, this is my last ping, but if you joined my server, my bot banned you due to mass joins detected, i have removed those bans and fixed the ban system again💀 fr last time tho
