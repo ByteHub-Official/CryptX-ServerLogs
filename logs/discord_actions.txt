@@ -3351,3 +3351,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 [2025-06-21 01:50:45] Channel Delete: Channel '🔒ᴘʀɪᴠᴀᴛᴇ-ʙʀᴏᴡsɪɴɢ' deleted in ShadowT3ch [Delta]
 [2025-06-21 01:50:51] Channel Delete: Channel '⚙ᴅᴇʟᴛᴀ-ᴇxᴇᴄᴜᴛᴏʀ' deleted in ShadowT3ch [Delta]
 [2025-06-21 01:50:57] Channel Delete: Channel '⚙sʜᴀᴅᴏᴡᴠ3-ᴘᴄ-ᴇxᴇᴄᴜᴛᴏʀ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:51:04] Channel Delete: Channel '🎮ɢᴀᴍᴇ-ᴄʜᴇᴀᴛs' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:51:10] Channel Delete: Channel '🎮ʀᴏʙʟᴏx-sᴄʀɪᴘᴛs' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:51:25] Channel Delete: Channel '🔥ᴄʀᴜɴᴄʜʏʀᴏʟʟ-ᴘʀᴇᴍɪᴜᴍ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:51:33] Channel Delete: Channel '💬ᴄʜᴀᴛɢᴘᴛ-ᴘʀᴇᴍɪᴜᴍ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:51:39] Channel Delete: Channel '🚀sʜᴀᴅᴏᴡᴀɪ-ᴡᴇʙsɪᴛᴇ' deleted in ShadowT3ch [Delta]
