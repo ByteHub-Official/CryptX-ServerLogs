@@ -3367,3 +3367,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 [2025-06-21 01:57:46] Member Remove: men09786#0 left ShadowT3ch [Products]
 [2025-06-21 01:58:54] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Or we should do events or more giveaways
 [2025-06-21 01:59:13] Member Role Update: v3ark#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-21 02:04:11] Message Edit: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): Edited '@everyone This server is now fully on delta. If you want to join my new official server join below. But my new server is only for those who actually buy my products and support me. The server can only be viewed by those who pay a monthly subscrition.' to '@everyone
+ᴛʜɪs sᴇʀᴠᴇʀ ɪs ɴᴏᴡ ꜰᴜʟʟʏ ᴏɴ ᴅᴇʟᴛᴀ. 🚀
+ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴊᴏɪɴ ᴍʏ ɴᴇᴡ ᴏꜰꜰɪᴄɪᴀʟ sᴇʀᴠᴇʀ, ᴜsᴇ ᴛʜᴇ ʟɪɴᴋ ʙᴇʟᴏᴡ.
+ᴛʜɪs sᴇʀᴠᴇʀ ɪs ᴏɴʟʏ ꜰᴏʀ ᴛʜᴏsᴇ ᴡʜᴏ ᴀᴄᴛᴜᴀʟʟʏ sᴜᴘᴘᴏʀᴛ ᴍᴇ ᴀɴᴅ ʙᴜʏ ᴍʏ ᴘʀᴏᴅᴜᴄᴛs. 💸
+ᴀ ᴍᴏɴᴛʜʟʏ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ɪs ʀᴇQᴜɪʀᴇᴅ ᴛᴏ ɢᴀɪɴ ᴀᴄᴄᴇss ᴛᴏ ᴛʜᴇ sᴇʀᴠᴇʀ. 🔒
+
+https://discord.gg/GrymPKbWUW'
+[2025-06-21 02:04:17] Message Delete: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): Deleted 'https://discord.gg/GrymPKbWUW'
