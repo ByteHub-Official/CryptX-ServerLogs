@@ -3619,3 +3619,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 03:47:34] Message Delete: ShadowSecurities[V3]#6302 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted '❌ Anti-Raid system has been disabled.'
 [2025-06-21 03:51:09] Member Role Update: ServerStats#0197 in ShadowT3ch [Products]: Roles changed (Added: 🤖Bot, Removed: None)
 [2025-06-21 03:51:18] Member Role Update: ShadowLogs#5409 in ShadowT3ch [Products]: Roles changed (Added: 🤖Bot, Removed: None)
+[2025-06-21 03:51:23] Member Role Update: ShadowSecurities[V3]#6302 in ShadowT3ch [Products]: Roles changed (Added: 🤖Bot, Removed: None)
+[2025-06-21 03:51:30] Member Role Update: V7#1362 in ShadowT3ch [Products]: Roles changed (Added: 🤖Bot, Removed: None)
