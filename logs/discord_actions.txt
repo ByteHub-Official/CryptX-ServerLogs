@@ -4115,3 +4115,6 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 18:12:43] Member Remove: 2024_arox#0 left ShadowT3ch [Products]
 [2025-06-21 18:12:57] Member Role Update: fytdagoat#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-21 18:36:09] Member Join: _1calypso.#0 joined ShadowT3ch [Delta]
+[2025-06-21 18:36:11] Member Role Update: _1calypso.#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-21 18:36:38] Member Join: josafa0201_04517#0 joined ShadowT3ch [Products]
+[2025-06-21 18:36:39] Member Role Update: josafa0201_04517#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
