@@ -3666,3 +3666,7 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:27:57] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): 
 [2025-06-21 04:28:01] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): <@1053079666459693077>
 [2025-06-21 04:28:06] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Your stupid bot is broke
+[2025-06-21 04:28:11] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): all caps
+[2025-06-21 04:28:26] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Well that's stupid
+[2025-06-21 04:28:40] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-21 04:29:03] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): SORRY IT TOOK ME THREE TRYS
