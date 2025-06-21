@@ -3639,3 +3639,4 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:18:53] Member Role Update: vault_survivor#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-21 04:19:34] Member Remove: ftxsans#0 left ShadowT3ch [Products]
 [2025-06-21 04:21:10] Message Edit: V6#2495 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Edited '' to 'DMs sent to all members!'
+[2025-06-21 04:23:42] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): <@&1354883270701089051> <@&1362952600500179015> please join my new server, verify then make a support ticket so i know who to give roles too
