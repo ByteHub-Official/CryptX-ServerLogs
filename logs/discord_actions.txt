@@ -3677,3 +3677,11 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:30:46] Member Role Update: theonemollymae#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-21 04:30:58] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): i got 0 dms
 [2025-06-21 04:31:06] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Not you
+[2025-06-21 04:31:12] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Wtf
+[2025-06-21 04:31:21] Message: snowexploits#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Lol
+[2025-06-21 04:31:24] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): i dont recieve dms from my bot
+[2025-06-21 04:31:26] Member Role Update: theonemollymae#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-21 04:31:35] Message Edit: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Edited 'i dont recieve dms from my bot' to 'i dont recieve dms to my bot'
+[2025-06-21 04:31:39] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): I dm you not the bot
+[2025-06-21 04:31:47] Message: snowexploits#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Then u a bot
+[2025-06-21 04:31:52] Message: snowexploits#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Lol
