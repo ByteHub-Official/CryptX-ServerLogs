@@ -3141,3 +3141,5 @@ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴘʟᴀɴs
 [2025-06-20 23:57:25] Channel Delete: Channel '🌟ᴍᴇᴍʙᴇʀs: 529' deleted in ShadowT3ch [Products]
 [2025-06-20 23:57:31] Channel Delete: Channel '🌟ᴀʟʟ-ᴍᴇᴍʙᴇʀs: 535' deleted in ShadowT3ch [Products]
 [2025-06-21 00:10:34] Member Join: .falcon._hoaxcheats#0 joined ShadowT3ch [Products]
+[2025-06-21 00:53:20] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
+[2025-06-21 00:53:26] Message Delete: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '.verify_setup'
