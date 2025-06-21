@@ -3734,3 +3734,10 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:44:21] Message Delete: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Deleted 'You don't have to rape me 😼😼😼'
 [2025-06-21 04:44:24] Message Delete: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Deleted 'Don't worry'
 [2025-06-21 04:44:43] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): all deleted messages gets flagged to my system just so you know
+[2025-06-21 04:44:52] Message: xbrooklynh#0 in 📈ᴍᴏᴅ-ʟᴏɢs (ShadowT3ch [Products]): 
+[2025-06-21 04:44:54] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): .
+[2025-06-21 04:44:57] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Hey I can't cuss
+[2025-06-21 04:45:02] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Oh shat
+[2025-06-21 04:45:07] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): There we go
+[2025-06-21 04:45:48] Member Join: dueldraks#0 joined ShadowT3ch [Products]
+[2025-06-21 04:45:49] Member Role Update: dueldraks#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
