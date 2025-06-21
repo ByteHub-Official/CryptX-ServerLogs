@@ -3237,3 +3237,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowt3ch/Roblox-Cha
 [2025-06-21 01:45:24] Message: shadow_t3ch#0 in Universal ESP Script (ShadowT3ch [Products]): ```lua
 loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD%20ESP.txt"))()
 ```
+[2025-06-21 01:46:00] Message: shadow_t3ch#0 in Universal Infinite Yield Script (ShadowT3ch [Products]): ```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+```
