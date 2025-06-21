@@ -3166,3 +3166,10 @@ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴘʟᴀɴs
 [2025-06-21 01:20:56] Member Role Update: runndwnking#0 in ShadowT3ch [Products]: Roles changed (Added: Support, Removed: None)
 [2025-06-21 01:21:07] Member Role Update: .falcon._hoaxcheats#0 in ShadowT3ch [Products]: Roles changed (Added: Support, 👑Co-Owner👑, Removed: None)
 [2025-06-21 01:28:32] Channel Delete: Channel '🔍 [ ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴅᴜᴄᴛs ] 🔍' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:28:43] Channel Delete: Channel '🤖ᴅɪsᴄᴏʀᴅ-ʙᴏᴛ-ᴅᴇᴠ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:28:50] Channel Delete: Channel '🤖ᴀɪ-ᴅᴇᴠ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:28:58] Channel Delete: Channel '🌐ᴡᴇʙsɪᴛᴇ-ᴅᴇᴠ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:29:07] Channel Delete: Channel '🎮ʀᴏʙʟᴏx-ᴘᴄ-ᴅᴇᴠ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:29:13] Channel Delete: Channel '🌟ᴅɪsᴄᴏʀᴅ-sᴇʀᴠᴇʀ-ᴅᴇᴠ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:29:20] Channel Delete: Channel '💾ᴘʀᴇᴍɪᴜᴍ-ɴᴜᴋᴇ-ʙᴏᴛ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:29:29] Channel Delete: Channel '🎮ʀᴏʙʟᴏx-ᴀᴄᴄᴏᴜɴᴛs' deleted in ShadowT3ch [Delta]
