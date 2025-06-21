@@ -3671,3 +3671,9 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:28:40] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-21 04:29:03] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): SORRY IT TOOK ME THREE TRYS
 [2025-06-21 04:29:36] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): lmao
+[2025-06-21 04:30:16] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Hey can you look what I DM you thanks 🤗
+[2025-06-21 04:30:45] Member Join: theonemollymae#0 joined ShadowT3ch [Products]
+[2025-06-21 04:30:46] Message: snowexploits#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): U did not send nothing
+[2025-06-21 04:30:46] Member Role Update: theonemollymae#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 04:30:58] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): i got 0 dms
+[2025-06-21 04:31:06] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Not you
