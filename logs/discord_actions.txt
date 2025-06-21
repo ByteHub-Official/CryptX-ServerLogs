@@ -3387,3 +3387,19 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 02:07:47] Message: snowexploits#0 in supporter-stage (ShadowT3ch [Products]): Welcome to the new server
 [2025-06-21 02:08:03] Message: unknown_hermes#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): <@1053079666459693077> how much monthly subscription for other server
 [2025-06-21 02:11:30] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone last ping from me. but if you buy the monthly subscription get your first product 100% free
+[2025-06-21 02:11:53] Member Join: pessi0863#0 joined ShadowT3ch [Products]
+[2025-06-21 02:11:54] Member Role Update: pessi0863#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 02:12:01] Member Join: lorchxppo#0 joined ShadowT3ch [Products]
+[2025-06-21 02:12:01] Member Ban: sosa_inc#0 banned from ShadowT3ch [Products]
+[2025-06-21 02:12:01] Member Role Update: lorchxppo#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 02:12:01] Member Remove: sosa_inc#0 left ShadowT3ch [Products]
+[2025-06-21 02:12:02] Member Ban: v3ark#0 banned from ShadowT3ch [Products]
+[2025-06-21 02:12:02] Member Remove: v3ark#0 left ShadowT3ch [Products]
+[2025-06-21 02:12:02] Member Ban: yourachicken._80813#0 banned from ShadowT3ch [Products]
+[2025-06-21 02:12:02] Member Remove: yourachicken._80813#0 left ShadowT3ch [Products]
+[2025-06-21 02:12:03] Member Ban: pessi0863#0 banned from ShadowT3ch [Products]
+[2025-06-21 02:12:03] Member Remove: pessi0863#0 left ShadowT3ch [Products]
+[2025-06-21 02:12:03] Member Ban: lorchxppo#0 banned from ShadowT3ch [Products]
+[2025-06-21 02:12:04] Member Remove: lorchxppo#0 left ShadowT3ch [Products]
+[2025-06-21 02:12:28] Message: pessi0863#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Bro
+[2025-06-21 02:12:37] Message: pessi0863#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): I joined the new sever and got auto banned
