@@ -3817,3 +3817,8 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 05:06:48] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Okay if I can be server manager as well like that one person up their
 [2025-06-21 05:06:57] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): .
 [2025-06-21 05:06:59] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Him
+[2025-06-21 05:07:42] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): sure. if you dont want to show everyone in this channel, we can chat in dms
+[2025-06-21 05:07:51] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: Shadow Only, Removed: None)
+[2025-06-21 05:07:56] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Okay 😭
+[2025-06-21 05:08:15] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): welcome to server management team
+[2025-06-21 05:08:29] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Thank you thank you very much!
