@@ -3640,3 +3640,9 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:19:34] Member Remove: ftxsans#0 left ShadowT3ch [Products]
 [2025-06-21 04:21:10] Message Edit: V6#2495 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Edited '' to 'DMs sent to all members!'
 [2025-06-21 04:23:42] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): <@&1354883270701089051> <@&1362952600500179015> please join my new server, verify then make a support ticket so i know who to give roles too
+[2025-06-21 04:24:30] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Okay 😡
+[2025-06-21 04:24:35] Member Join: xbrooklynh#0 joined ShadowT3ch [Products]
+[2025-06-21 04:24:35] Channel Create: Channel 'support-shadow_t3ch' created in ShadowT3ch [Products]
+[2025-06-21 04:24:36] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 04:24:48] Channel Delete: Channel 'support-shadow_t3ch' deleted in ShadowT3ch [Products]
+[2025-06-21 04:24:51] Channel Create: Channel 'admin-application-xbrooklynh' created in ShadowT3ch [Products]
