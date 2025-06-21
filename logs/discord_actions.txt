@@ -3611,3 +3611,9 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 03:44:48] Member Unban: pessi0863#0 unbanned from ShadowT3ch [Products]
 [2025-06-21 03:44:49] Member Unban: v3ark#0 unbanned from ShadowT3ch [Products]
 [2025-06-21 03:46:51] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone nvm, this is my last ping, but if you joined my server, my bot banned you due to mass joins detected, i have removed those bans and fixed the ban system again💀 fr last time tho
+[2025-06-21 03:47:12] Message: shadow_t3ch#0 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): .disable_anti_raid
+[2025-06-21 03:47:17] Message Delete: shadow_t3ch#0 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted '.disable_anti_raid'
+[2025-06-21 03:47:23] Message Delete: ShadowSecurities[V3]#6302 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted '🚨 **Anti-Raid Alert:** Mass joining detected!'
+[2025-06-21 03:47:27] Message Delete: shadow_t3ch#0 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted '.disable_anti_raid'
+[2025-06-21 03:47:31] Message Delete: ShadowSecurities[V3]#6302 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted '❌ Anti-Raid system has been disabled.'
+[2025-06-21 03:47:34] Message Delete: ShadowSecurities[V3]#6302 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted '❌ Anti-Raid system has been disabled.'
