@@ -3356,3 +3356,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 [2025-06-21 01:51:25] Channel Delete: Channel '🔥ᴄʀᴜɴᴄʜʏʀᴏʟʟ-ᴘʀᴇᴍɪᴜᴍ' deleted in ShadowT3ch [Delta]
 [2025-06-21 01:51:33] Channel Delete: Channel '💬ᴄʜᴀᴛɢᴘᴛ-ᴘʀᴇᴍɪᴜᴍ' deleted in ShadowT3ch [Delta]
 [2025-06-21 01:51:39] Channel Delete: Channel '🚀sʜᴀᴅᴏᴡᴀɪ-ᴡᴇʙsɪᴛᴇ' deleted in ShadowT3ch [Delta]
+[2025-06-21 01:56:59] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone This server is now fully on delta. If you want to join my new official server join below. But my new server is only for those who actually buy my products and support me. The server can only be viewed by those who pay a monthly subscrition.
