@@ -4150,3 +4150,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 20:36:36] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Im still admin in the other server 😩
 [2025-06-21 20:37:12] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): yep, you only asked for owner perms in this server for the face reveal
 [2025-06-21 20:37:23] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Grrr
+[2025-06-21 20:38:21] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Well if j have jt in one i should hsve it for the other no?
+[2025-06-21 20:38:47] Member Role Update: xbrooklynh#0 in ShadowT3ch [Delta]: Roles changed (Added: Shadow Only, Removed: None)
