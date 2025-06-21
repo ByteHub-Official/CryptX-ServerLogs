@@ -4088,3 +4088,4 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 12:03:31] Member Role Update: hexderek2#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-21 12:29:35] Member Join: dylan001061#0 joined ShadowT3ch [Products]
 [2025-06-21 12:29:35] Member Role Update: dylan001061#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 13:30:53] Member Remove: antonio121212121212.#0 left ShadowT3ch [Delta]
