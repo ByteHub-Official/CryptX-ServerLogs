@@ -3419,3 +3419,14 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 02:23:44] Message: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Products]): Yay
 [2025-06-21 02:25:34] Channel Create: Channel '📡 ᴠᴄ' created in ShadowT3ch [Products]
 [2025-06-21 02:51:17] Channel Create: Channel '📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs' created in ShadowT3ch [Products]
+[2025-06-21 02:51:39] Member Join: dante_1620#0 joined ShadowT3ch [Products]
+[2025-06-21 02:51:40] Member Ban: dante_1620#0 banned from ShadowT3ch [Products]
+[2025-06-21 02:51:40] Member Role Update: dante_1620#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 02:51:40] Member Remove: dante_1620#0 left ShadowT3ch [Products]
+[2025-06-21 02:51:53] Member Unban: dante_1620#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:51:54] Member Unban: davidlara0876#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:51:56] Member Unban: lorchxppo#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:51:57] Member Unban: pessi0863#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:51:58] Member Unban: sosa_inc#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:51:59] Member Unban: v3ark#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:52:00] Member Unban: yourachicken._80813#0 unbanned from ShadowT3ch [Products]
