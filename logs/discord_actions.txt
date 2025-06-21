@@ -3430,3 +3430,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 02:51:58] Member Unban: sosa_inc#0 unbanned from ShadowT3ch [Products]
 [2025-06-21 02:51:59] Member Unban: v3ark#0 unbanned from ShadowT3ch [Products]
 [2025-06-21 02:52:00] Member Unban: yourachicken._80813#0 unbanned from ShadowT3ch [Products]
+[2025-06-21 02:53:25] Message: shadow_t3ch#0 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): .disable_anti_raid
+[2025-06-21 02:53:29] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone nvm, this is my last ping, but if you joined my server, my bot banned you due to mass joins detected, i have removed those bans and fixed the ban system
