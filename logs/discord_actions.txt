@@ -4105,3 +4105,4 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 17:31:20] Message Edit: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): Edited '@everyone If you dont want to not purchase a subscription you will not see any channels. Plus you will be kicked after 2 days of no subscription paid. Just remember first product will always ne free.' to '@everyone If you dont want to not purchase a subscription you will not see any channels. Plus you will be kicked after 2 days of no subscription paid. Just remember first product will always be free.'
 [2025-06-21 17:35:27] Role Delete: Role 'Supporter' deleted in ShadowT3ch [Products]
 [2025-06-21 17:35:28] Role Create: Role 'Supporter' created in ShadowT3ch [Products]
+[2025-06-21 17:35:47] Role Create: Role 'Supporter membership' created in ShadowT3ch [Products]
