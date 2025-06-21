@@ -3449,3 +3449,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 02:54:31] Message Delete: ServerStats#0197 in 🔗ᴡᴇʟᴄᴏᴍᴇ (ShadowT3ch [Products]): Deleted ':white_check_mark: The **setup** has been completed with the template **boost**.
 
 *:information_source: Counters automatically update with a **15 minute delay**, do `/counter list` to see all other available counters.*'
+[2025-06-21 02:55:00] Member Join: v3ark#0 joined ShadowT3ch [Products]
+[2025-06-21 02:55:00] Member Role Update: v3ark#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
