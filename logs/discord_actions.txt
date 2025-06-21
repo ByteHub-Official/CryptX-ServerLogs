@@ -3357,3 +3357,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/
 [2025-06-21 01:51:33] Channel Delete: Channel '💬ᴄʜᴀᴛɢᴘᴛ-ᴘʀᴇᴍɪᴜᴍ' deleted in ShadowT3ch [Delta]
 [2025-06-21 01:51:39] Channel Delete: Channel '🚀sʜᴀᴅᴏᴡᴀɪ-ᴡᴇʙsɪᴛᴇ' deleted in ShadowT3ch [Delta]
 [2025-06-21 01:56:59] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone This server is now fully on delta. If you want to join my new official server join below. But my new server is only for those who actually buy my products and support me. The server can only be viewed by those who pay a monthly subscrition.
+[2025-06-21 01:57:06] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): https://discord.gg/GrymPKbWUW
+[2025-06-21 01:57:21] Member Join: sosa_inc#0 joined ShadowT3ch [Products]
+[2025-06-21 01:57:21] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 01:57:22] Member Join: v3ark#0 joined ShadowT3ch [Products]
+[2025-06-21 01:57:22] Member Role Update: v3ark#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 01:57:32] Member Join: men09786#0 joined ShadowT3ch [Products]
+[2025-06-21 01:57:33] Member Role Update: men09786#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 01:57:46] Member Remove: men09786#0 left ShadowT3ch [Products]
