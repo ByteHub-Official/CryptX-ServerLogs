@@ -3231,3 +3231,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AWdadwdwad2/asf/refs/
 [2025-06-21 01:44:29] Message: shadow_t3ch#0 in Animal Simulator GUI Script (ShadowT3ch [Products]): ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Golddeathninja/af/refs/heads/main/a"))()
 ```
+[2025-06-21 01:44:57] Message: shadow_t3ch#0 in Universal Chat Bypass Script (ShadowT3ch [Products]): ```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowt3ch/Roblox-Chat-Bypass/main/Gyst%20Bypasser%20V3.lua", true))()
+```
+[2025-06-21 01:45:24] Message: shadow_t3ch#0 in Universal ESP Script (ShadowT3ch [Products]): ```lua
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/WRD%20ESP.txt"))()
+```
