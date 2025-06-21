@@ -3657,3 +3657,9 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:25:34] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: Support, Removed: None)
 [2025-06-21 04:25:45] Message: snowexploits#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): make sure you go to <#1385737625851396163> and verify
 [2025-06-21 04:25:51] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Oh okay
+[2025-06-21 04:25:55] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: Delta User, Removed: None)
+[2025-06-21 04:25:59] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: Announcement Ping, Removed: None)
+[2025-06-21 04:26:28] Member Join: princessnarwhal13#0 joined ShadowT3ch [Products]
+[2025-06-21 04:26:28] Member Role Update: princessnarwhal13#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 04:26:52] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): 
+[2025-06-21 04:26:53] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): 😭
