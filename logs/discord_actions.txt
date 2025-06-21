@@ -3377,3 +3377,7 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 02:04:17] Message Delete: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): Deleted 'https://discord.gg/GrymPKbWUW'
 [2025-06-21 02:04:57] Member Join: yourachicken._80813#0 joined ShadowT3ch [Products]
 [2025-06-21 02:04:58] Member Role Update: yourachicken._80813#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-21 02:05:43] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): @everyone If you joined and can’t see any channels it’s because you need to buy a monthly subscription to view channels
+[2025-06-21 02:06:05] Message: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): .
+[2025-06-21 02:06:10] Member Role Update: snowexploits#0 in ShadowT3ch [Products]: Roles changed (Added: Support, Removed: None)
+[2025-06-21 02:06:11] Message Delete: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): Deleted '.'
