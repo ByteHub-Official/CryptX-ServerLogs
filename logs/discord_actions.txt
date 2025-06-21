@@ -4081,3 +4081,4 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 11:22:06] Member Join: cutleg.#0 joined ShadowT3ch [Products]
 [2025-06-21 11:22:08] Member Role Update: cutleg.#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-21 11:27:40] Message: elijah039339#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): <@1053079666459693077> yo can u help me with smth
+[2025-06-21 11:50:41] Member Remove: cutleg.#0 left ShadowT3ch [Products]
