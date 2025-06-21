@@ -3823,3 +3823,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 05:08:15] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): welcome to server management team
 [2025-06-21 05:08:29] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): Thank you thank you very much!
 [2025-06-21 05:09:36] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): i trust you, just know my bot will do an instant ban if it suspects foul play😁
+[2025-06-21 05:19:25] Member Join: dave.sayshi#0 joined ShadowT3ch [Products]
+[2025-06-21 05:19:26] Member Role Update: dave.sayshi#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
