@@ -3218,3 +3218,8 @@ Good night.🕴️
 [2025-06-21 01:37:18] Message: shadow_t3ch#0 in Drive the train to the end (ShadowT3ch [Products]): **V0.01**
 
 ```loadstring(game:HttpGet("https://pastebin.com/raw/mTb1zS1u"))()```
+[2025-06-21 01:38:00] Message: shadow_t3ch#0 in Universal Infinite Jump Script (ShadowT3ch [Products]): ```lua
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Infinite%20Jump.txt"))()
+```
+[2025-06-21 01:38:33] Message: shadow_t3ch#0 in Universal Multi Function Script (ShadowT3ch [Products]): ```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shadowt3ch/shadowt3ch.lua/main/script.lua", true))()```
