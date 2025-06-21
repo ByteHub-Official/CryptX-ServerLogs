@@ -3743,3 +3743,6 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 04:45:49] Member Role Update: dueldraks#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-21 04:46:01] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): 
 [2025-06-21 04:46:43] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): <@986802533534158889>
+[2025-06-21 04:47:04] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): OH GOSH
+[2025-06-21 04:47:30] Message: shadow_t3ch#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): yep, everything that goes on in any of my servers gets flagged🤣
+[2025-06-21 04:47:55] Message: xbrooklynh#0 in admin-application-xbrooklynh (ShadowT3ch [Products]): 😡
