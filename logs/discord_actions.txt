@@ -3165,3 +3165,4 @@ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴘʟᴀɴs
 [2025-06-21 01:20:52] Member Role Update: runndwnking#0 in ShadowT3ch [Products]: Roles changed (Added: ╭∩╮(◣_◢)╭∩╮, Removed: None)
 [2025-06-21 01:20:56] Member Role Update: runndwnking#0 in ShadowT3ch [Products]: Roles changed (Added: Support, Removed: None)
 [2025-06-21 01:21:07] Member Role Update: .falcon._hoaxcheats#0 in ShadowT3ch [Products]: Roles changed (Added: Support, 👑Co-Owner👑, Removed: None)
+[2025-06-21 01:28:32] Channel Delete: Channel '🔍 [ ᴘʀᴇᴍɪᴜᴍ ᴘʀᴏᴅᴜᴄᴛs ] 🔍' deleted in ShadowT3ch [Delta]
