@@ -4216,3 +4216,10 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-22 02:58:15] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): had to get the role id
 [2025-06-22 02:59:00] Member Role Update: shadow_t3ch#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: ✔️ Member)
 [2025-06-22 02:59:17] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): .verify_setup
+[2025-06-22 02:59:30] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:59:36] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:59:43] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted '✅ Verification system deployed.'
+[2025-06-22 02:59:46] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted '✅ Verification system deployed.'
+[2025-06-22 02:59:50] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:59:57] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted '✅ Verification system deployed.'
+[2025-06-22 03:00:02] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted '✅ Verification system deployed.'
