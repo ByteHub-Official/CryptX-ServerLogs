@@ -4214,3 +4214,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-22 02:53:42] Member Join: jay9445#0 joined ShadowT3ch [Products]
 [2025-06-22 02:53:43] Member Role Update: jay9445#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-22 02:58:15] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): had to get the role id
+[2025-06-22 02:59:00] Member Role Update: shadow_t3ch#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: ✔️ Member)
+[2025-06-22 02:59:17] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): .verify_setup
