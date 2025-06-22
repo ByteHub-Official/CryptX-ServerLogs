@@ -4387,3 +4387,7 @@ answer, captcha 7 + 8 = 15 e6rVhh
 [2025-06-22 07:49:54] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): https://support.discord.com/hc/en-us/articles/23187611406999-Guilds-FAQ
 [2025-06-22 07:50:21] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): So the only way is script way or buying one that allready exist
 [2025-06-22 07:55:50] Message: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Ok but check this, anotha server just activated they shit, they server was made in may of 2024, mine was a couple months after
+[2025-06-22 07:56:00] Message: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Script way????
+[2025-06-22 07:56:03] Message: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Tell me more
+[2025-06-22 07:56:07] Message: runndwnking#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): And if you can do it
+[2025-06-22 07:56:53] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): People talking about a custom injection where u can create a bot and have it use a code to create a discordserver with guild tag = true stuff
