@@ -4259,3 +4259,7 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-22 03:07:04] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): it says to reply in the specific format tho
 [2025-06-22 03:07:21] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Answer, capcha
 [2025-06-22 03:07:33] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): 
+[2025-06-22 03:07:38] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): But nothing signifi what is the captcha
+[2025-06-22 03:08:00] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Regardless it dont tell you what is the captcha it just say the code
+[2025-06-22 03:08:07] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): k, ill make it say captcha
+[2025-06-22 03:08:33] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): That will make it less confusing, I thot u wanted <@986802533534158889> to lose her last braine cell
