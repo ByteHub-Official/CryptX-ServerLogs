@@ -4230,3 +4230,11 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-22 03:01:13] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification system deployed.'
 [2025-06-22 03:01:18] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification system deployed.'
 [2025-06-22 03:01:22] Message Delete: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '.verify_setup'
+[2025-06-22 03:01:33] Message Delete: ShadowSecurities[V3]#6302 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 03:01:40] Member Role Update: snowexploits#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: ✔️ Member)
+[2025-06-22 03:01:44] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): I'm allready verifyed
+[2025-06-22 03:01:57] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): try out the latest version for me in <#1385737625851396163>
+[2025-06-22 03:02:07] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): i removed the verified role
+[2025-06-22 03:02:12] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): I clicked it but said I allready verified
+[2025-06-22 03:02:17] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): try now
+[2025-06-22 03:02:20] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Change my role to none varifyied
