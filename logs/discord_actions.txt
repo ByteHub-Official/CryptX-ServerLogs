@@ -4197,3 +4197,13 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-22 01:33:47] Member Join: figment_thefool#0 joined ShadowT3ch [Products]
 [2025-06-22 01:33:47] Member Role Update: figment_thefool#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-22 02:39:28] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:39:38] Message: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): .verify_setup
+[2025-06-22 02:39:46] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification setup complete.'
+[2025-06-22 02:39:50] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification setup complete.'
+[2025-06-22 02:39:55] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification setup complete.'
+[2025-06-22 02:39:59] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '✅ Verification setup complete.'
+[2025-06-22 02:40:03] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:40:07] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:40:14] Message Delete: ShadowSecurities[V3]#6302 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted ''
+[2025-06-22 02:40:18] Message Delete: shadow_t3ch#0 in ✔ᴠᴇʀɪғʏ (ShadowT3ch [Products]): Deleted '.verify_setup'
+[2025-06-22 02:40:32] Member Role Update: shadow_t3ch#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: ✔️ Member)
