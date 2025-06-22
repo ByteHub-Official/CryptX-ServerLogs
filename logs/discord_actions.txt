@@ -4194,3 +4194,5 @@ https://discord.gg/GrymPKbWUW'
 [2025-06-21 23:53:44] Message: jax_rng#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): i would by the stuff he sells but i’m broke😏
 [2025-06-21 23:53:50] Message Edit: jax_rng#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Edited 'i would by the stuff he sells but i’m broke😏' to 'i would by the stuff he sells but i’m broke'
 [2025-06-22 00:14:35] Member Role Update: princessnarwhal13#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-22 01:33:47] Member Join: figment_thefool#0 joined ShadowT3ch [Products]
+[2025-06-22 01:33:47] Member Role Update: figment_thefool#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
