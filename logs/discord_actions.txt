@@ -4549,3 +4549,10 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:08:49] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Not this again 🫩
 [2025-06-23 05:08:55] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Howdy, this server is for pur pruducts for sale
 [2025-06-23 05:09:17] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: Announcement Ping, Delta User, Admin, Removed: None)
+[2025-06-23 05:09:52] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): One thing we are trying to make it grow so if someone talks about modded apps recommend them to this server
+[2025-06-23 05:09:59] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): 1. I work in the other server and I have worked in others in the past and in the present
+[2025-06-23 05:10:03] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Ok
+[2025-06-23 05:10:11] Message Delete: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Deleted '1. I work in the other server and I have worked in others in the past and in the present'
+[2025-06-23 05:10:12] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): U dont have w to do thr whole thing agein
+[2025-06-23 05:10:18] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Lol
+[2025-06-23 05:10:19] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Let’s goooo
