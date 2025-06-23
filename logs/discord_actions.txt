@@ -4586,3 +4586,8 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:19:10] Message Delete: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Deleted ''
 [2025-06-23 05:19:19] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Sorry that web is down
 [2025-06-23 05:20:00] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Cool!
+[2025-06-23 05:20:32] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): 
+[2025-06-23 05:20:33] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): And this one is pet rng
+[2025-06-23 05:20:43] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Has too many bugs to fix tho for now
+[2025-06-23 05:21:00] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): And that's what I mean by fully scripted games
+[2025-06-23 05:21:08] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): This is cool
