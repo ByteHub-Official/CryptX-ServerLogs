@@ -4769,3 +4769,8 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-23 22:04:44] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): lmao
 [2025-06-23 22:04:58] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Thank you
 [2025-06-23 22:05:09] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): Np
+[2025-06-23 22:05:32] Channel Delete: Channel 'order-products-beencatchinhatss' deleted in ShadowT3ch [Delta]
+[2025-06-23 22:05:39] Channel Delete: Channel 'support-grant05985_' deleted in ShadowT3ch [Delta]
+[2025-06-23 22:05:39] Channel Delete: Channel 'support-xbrooklynh' deleted in ShadowT3ch [Delta]
+[2025-06-23 22:05:48] Channel Delete: Channel 'order-products-_wtk' deleted in ShadowT3ch [Delta]
+[2025-06-23 22:06:01] Channel Delete: Channel 'support-ethangov' deleted in ShadowT3ch [Delta]
