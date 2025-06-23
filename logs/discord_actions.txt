@@ -4619,3 +4619,8 @@ Thank you all that had joined on behalf of
 [2025-06-23 06:11:01] Member Join: choco_.tea#0 joined ShadowT3ch [Products]
 [2025-06-23 06:11:03] Member Role Update: choco_.tea#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-23 06:29:06] Member Join: boot3084#0 joined ShadowT3ch [Delta]
+[2025-06-23 06:29:17] Member Role Update: boot3084#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-23 06:29:45] Member Join: anovs7#0 joined ShadowT3ch [Delta]
+[2025-06-23 06:29:46] Member Role Update: anovs7#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-23 06:29:53] Member Join: kingsavag34#0 joined ShadowT3ch [Delta]
+[2025-06-23 06:29:54] Member Role Update: kingsavag34#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
