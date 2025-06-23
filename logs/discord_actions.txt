@@ -4545,3 +4545,7 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:07:23] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Yep
 [2025-06-23 05:07:32] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Makes it easy to find u and role u
 [2025-06-23 05:07:50] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Ok
+[2025-06-23 05:08:26] Channel Create: Channel 'admin-application-sosa_inc' created in ShadowT3ch [Products]
+[2025-06-23 05:08:49] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Not this again 🫩
+[2025-06-23 05:08:55] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Howdy, this server is for pur pruducts for sale
+[2025-06-23 05:09:17] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: Announcement Ping, Delta User, Admin, Removed: None)
