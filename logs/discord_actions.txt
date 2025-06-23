@@ -4616,3 +4616,5 @@ Thank you all that had joined on behalf of
 [2025-06-23 06:00:07] Message: xbrooklynh#0 in admin-application-sosa_inc (ShadowT3ch [Products]): You get a new vape every damn day tf 🤨
 [2025-06-23 06:00:24] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Sorry money comes and gose
 [2025-06-23 06:00:44] Message: xbrooklynh#0 in admin-application-sosa_inc (ShadowT3ch [Products]): There's no way In hell you fein that much..
+[2025-06-23 06:11:01] Member Join: choco_.tea#0 joined ShadowT3ch [Products]
+[2025-06-23 06:11:03] Member Role Update: choco_.tea#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
