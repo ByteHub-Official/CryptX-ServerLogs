@@ -4665,3 +4665,5 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-23 18:57:27] Member Role Update: drakofrmhell#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-23 19:05:02] Member Remove: drakofrmhell#0 left ShadowT3ch [Delta]
 [2025-06-23 19:16:32] Message: mynamrs391#0 in 📸ᴍᴇᴍᴇs (ShadowT3ch [Delta]): 
+[2025-06-23 19:34:08] Member Join: riocad#0 joined ShadowT3ch [Products]
+[2025-06-23 19:34:09] Member Role Update: riocad#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
