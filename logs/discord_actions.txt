@@ -4564,3 +4564,6 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:12:53] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): But yeah in the other server we will have to clear up the misconception, we no longer making this server paid server. BUT we do offer pruducts for.purchase whether they to be customized or to buy original
 [2025-06-23 05:13:24] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): And if someone asks for a custom mod app tell them to join this server becuse the other server will be delta only
 [2025-06-23 05:13:41] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): We will not longer answer custom creations in the other server
+[2025-06-23 05:14:08] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Only problems with delta we would replay in the other server
+[2025-06-23 05:14:42] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Alright
+[2025-06-23 05:14:54] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: ❌Unverified)
