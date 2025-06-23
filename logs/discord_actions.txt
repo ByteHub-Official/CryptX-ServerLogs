@@ -4567,3 +4567,7 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:14:08] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Only problems with delta we would replay in the other server
 [2025-06-23 05:14:42] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Alright
 [2025-06-23 05:14:54] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: ❌Unverified)
+[2025-06-23 05:15:19] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): We will be selling fully scripted games for people so try to spred the word
+[2025-06-23 05:15:38] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): I don’t really want to get paid do I this for fun or just to help out I guess
+[2025-06-23 05:15:45] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): By we i mean me since im like the only one that came make games
+[2025-06-23 05:15:52] Message: sosa_inc#0 in admin-application-sosa_inc (ShadowT3ch [Products]): Alright
