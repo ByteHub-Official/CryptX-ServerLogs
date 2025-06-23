@@ -4663,3 +4663,4 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-23 18:19:41] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): @everyone https://ai.shadowt3ch.site is back online, I’ve fixed my api. to test it use guest as the username and 12345678 as the password
 [2025-06-23 18:57:23] Member Join: drakofrmhell#0 joined ShadowT3ch [Delta]
 [2025-06-23 18:57:27] Member Role Update: drakofrmhell#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-23 19:05:02] Member Remove: drakofrmhell#0 left ShadowT3ch [Delta]
