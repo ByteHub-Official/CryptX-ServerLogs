@@ -4538,3 +4538,5 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:04:14] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Might want to be admin in more then one server them
 [2025-06-23 05:04:19] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Then*
 [2025-06-23 05:05:00] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): You never verified or reapplied to be admin in other server
+[2025-06-23 05:05:34] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): I’ll do it right now!
+[2025-06-23 05:05:38] Channel Delete: Channel 'support-pessi0863' deleted in ShadowT3ch [Delta]
