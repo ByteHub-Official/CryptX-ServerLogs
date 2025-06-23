@@ -4542,3 +4542,6 @@ Thank you all that had joined on behalf of
 [2025-06-23 05:05:38] Channel Delete: Channel 'support-pessi0863' deleted in ShadowT3ch [Delta]
 [2025-06-23 05:06:28] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-23 05:07:15] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): I have verified now I just have to apply again?
+[2025-06-23 05:07:23] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Yep
+[2025-06-23 05:07:32] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Makes it easy to find u and role u
+[2025-06-23 05:07:50] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Ok
