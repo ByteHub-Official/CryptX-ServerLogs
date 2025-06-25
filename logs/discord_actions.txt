@@ -6332,3 +6332,6 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 05:12:03] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): i set it to publixc
 [2025-06-25 05:12:19] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): there
 [2025-06-25 05:12:25] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): No it's still private
+[2025-06-25 05:13:06] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): i just changed it
+[2025-06-25 05:13:09] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Okay
+[2025-06-25 05:13:34] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): 
