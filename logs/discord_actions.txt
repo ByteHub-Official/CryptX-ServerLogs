@@ -6175,3 +6175,6 @@ Perks, Free ingame items and early accses to our game.
 
 How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 03:16:00] Channel Create: Channel 'support-xbrooklynh' created in ShadowT3ch [Delta]
+[2025-06-25 03:16:20] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Let me be a tester broski 😜 <@1376217565952479425>
+[2025-06-25 03:16:37] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): ok
+[2025-06-25 03:17:01] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): what i expect is if any bugs or errors report them to me to fix
