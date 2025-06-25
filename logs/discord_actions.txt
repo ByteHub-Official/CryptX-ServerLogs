@@ -6117,3 +6117,7 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:32:27] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I know how to add like bots
 [2025-06-25 02:32:42] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): how about development of the bot
 [2025-06-25 02:32:50] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Wdym by that
+[2025-06-25 02:33:20] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): coding a bot from scratch andf able to host it with domain
+[2025-06-25 02:33:48] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I know how to make a bot with like 5 cmds
+[2025-06-25 02:33:58] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): It will take me like 10 min
+[2025-06-25 02:34:04] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): How would you resolve fights?
