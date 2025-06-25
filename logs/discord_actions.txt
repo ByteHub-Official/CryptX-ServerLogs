@@ -6121,3 +6121,7 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:33:48] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I know how to make a bot with like 5 cmds
 [2025-06-25 02:33:58] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): It will take me like 10 min
 [2025-06-25 02:34:04] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): How would you resolve fights?
+[2025-06-25 02:34:12] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Know the reason
+[2025-06-25 02:34:19] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Then see who’s wrong
+[2025-06-25 02:34:36] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Then mute if it’s inappropriate
+[2025-06-25 02:35:04] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Bot both if one doesn’t be inappropriate
