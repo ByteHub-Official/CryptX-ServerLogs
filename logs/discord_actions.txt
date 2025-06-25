@@ -6109,3 +6109,8 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:30:47] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): what if the admin role dont allow a ban what wouyld you do
 [2025-06-25 02:30:58] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Tell a higher up
 [2025-06-25 02:31:01] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): To ban
+[2025-06-25 02:31:20] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): What tools do you know?
+[2025-06-25 02:31:29] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): And if there is no higher up online I will mute for 24 hr until a higher up
+[2025-06-25 02:31:51] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I know server tools
+[2025-06-25 02:32:01] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): outside of the server tools
+[2025-06-25 02:32:03] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I prob used almost all by now
