@@ -6227,3 +6227,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 03:24:10] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): So its a simulator
 [2025-06-25 03:24:34] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): 
 [2025-06-25 03:24:44] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Yeah well a tycoon like grow a garden
+[2025-06-25 03:26:52] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): It's posible but I would have to look into how much are the modles and or if I have to hand make it
