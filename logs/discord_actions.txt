@@ -6575,3 +6575,9 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 22:46:00] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): <@1233783567243280457>
 [2025-06-25 22:46:08] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): How do i use  script1.lua on mobile
 [2025-06-25 22:46:19] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): <@1376217565952479425> 🤦‍♂️
+[2025-06-25 22:46:25] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): Daddy!
+[2025-06-25 22:46:29] Message Delete: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): Deleted 'Daddy!'
+[2025-06-25 22:46:42] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): Or <@1053079666459693077>
+[2025-06-25 22:46:50] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): SNOW!
+[2025-06-25 22:46:59] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): <@1376217565952479425> I see you online boy
+[2025-06-25 22:47:23] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): Wait a second please
