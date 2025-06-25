@@ -6037,3 +6037,4 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 01:30:05] Message: sosa_inc#0 in support-xbrooklynh (ShadowT3ch [Delta]): <@986802533534158889>
 [2025-06-25 01:34:10] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Thank you
 [2025-06-25 01:34:18] Message: sosa_inc#0 in support-xbrooklynh (ShadowT3ch [Delta]): Anytime
+[2025-06-25 01:45:34] Channel Delete: Channel 'support-xbrooklynh' deleted in ShadowT3ch [Delta]
