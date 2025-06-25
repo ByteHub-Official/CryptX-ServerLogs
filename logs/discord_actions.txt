@@ -6021,3 +6021,6 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 01:25:01] Member Role Update: shadow_t3ch#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: Shadow Only)
 [2025-06-25 01:25:01] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: Admin)
 [2025-06-25 01:25:01] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: None, Removed: Shadow Only)
+[2025-06-25 01:25:55] Member Role Update: sosa_inc#0 in ShadowT3ch [Products]: Roles changed (Added: Admin, Shadow Only, Removed: None)
+[2025-06-25 01:26:10] Member Role Update: xbrooklynh#0 in ShadowT3ch [Products]: Roles changed (Added: Admin, Shadow Only, Removed: None)
+[2025-06-25 01:26:21] Member Role Update: snowexploits#0 in ShadowT3ch [Products]: Roles changed (Added: Admin, Shadow Only, Removed: None)
