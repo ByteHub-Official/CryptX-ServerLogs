@@ -6599,3 +6599,7 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 22:50:40] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): and dont ping me unless someone is trying to order something
 [2025-06-25 22:50:47] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Mb bbg
 [2025-06-25 22:51:14] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): How do i use script1.lua on mobile
+[2025-06-25 22:51:55] Message: snowexploits#0 in support-sinw_ (ShadowT3ch [Delta]): im confused is it a script you had found or is it something diffrent
+[2025-06-25 22:52:10] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): Its a script i found and i wanna use it
+[2025-06-25 22:52:14] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): The loadsteing
+[2025-06-25 22:52:18] Message Edit: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): Edited 'The loadsteing' to 'The loadstring'
