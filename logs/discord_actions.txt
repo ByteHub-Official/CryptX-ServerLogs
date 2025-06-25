@@ -6603,3 +6603,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 22:52:10] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): Its a script i found and i wanna use it
 [2025-06-25 22:52:14] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): The loadsteing
 [2025-06-25 22:52:18] Message Edit: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): Edited 'The loadsteing' to 'The loadstring'
+[2025-06-25 22:52:45] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): loadstring(game:HttpGet("https://raw.githubusercontent.com/SproutX-Scripter/Dark-Spawner/refs/heads/main/Grow%20A%20Garden%20Script%20Summer%20Update"))()
