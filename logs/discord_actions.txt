@@ -6174,3 +6174,4 @@ Posittions open = 3
 Perks, Free ingame items and early accses to our game.
 
 How to Apply open a ticket and tag <@1376217565952479425>
+[2025-06-25 03:16:00] Channel Create: Channel 'support-xbrooklynh' created in ShadowT3ch [Delta]
