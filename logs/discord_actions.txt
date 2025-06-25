@@ -6196,3 +6196,5 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 03:19:10] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): live*
 [2025-06-25 03:19:35] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): but the one im, working on is the karate sim first then i have 2 other ones i have to fix
 [2025-06-25 03:20:03] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Oh
+[2025-06-25 03:20:46] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): 
+[2025-06-25 03:20:56] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): Little sneak peek of what im working on
