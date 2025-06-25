@@ -6068,3 +6068,8 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:15:07] Member Role Update: frederick08647#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-25 02:15:08] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I wanted to apply for admin
 [2025-06-25 02:15:32] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Do you have experience of being a admin in any servers?
+[2025-06-25 02:15:41] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Or any other rank higher than mod?
+[2025-06-25 02:16:24] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): You don’t have to write paragraphs btw
+[2025-06-25 02:16:35] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): 1:I have a lot of experience I am mod in around 5 servers
+[2025-06-25 02:16:36] Member Join: kingsavag34#0 joined ShadowT3ch [Products]
+[2025-06-25 02:16:37] Member Role Update: kingsavag34#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
