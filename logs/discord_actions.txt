@@ -6561,3 +6561,7 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 18:41:05] Member Role Update: ka_carlos1027410#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-25 19:42:45] Channel Delete: Channel 'admin-application-zetfixy' deleted in ShadowT3ch [Products]
 [2025-06-25 21:32:48] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): wsp
+[2025-06-25 21:33:12] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): it was patched, working on a new one son
+[2025-06-25 21:33:16] Message Edit: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Edited 'it was patched, working on a new one son' to 'it was patched, working on a new one soon'
+[2025-06-25 21:33:37] Message: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): ios ir android
+[2025-06-25 21:33:44] Message Edit: shadow_t3ch#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Edited 'ios ir android' to 'ios or android'
