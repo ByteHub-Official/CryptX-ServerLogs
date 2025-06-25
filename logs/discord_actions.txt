@@ -6061,3 +6061,10 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:14:00] Channel Create: Channel 'admin-application-dragonplanet132' created in ShadowT3ch [Products]
 [2025-06-25 02:14:22] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Hello what will be needed of my services today!
 [2025-06-25 02:14:31] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I have a question
+[2025-06-25 02:14:42] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): You opened the wrong ticket btw
+[2025-06-25 02:14:54] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): On question 1 experience what type
+[2025-06-25 02:14:59] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Nah
+[2025-06-25 02:15:03] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Oh!
+[2025-06-25 02:15:07] Member Role Update: frederick08647#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-25 02:15:08] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I wanted to apply for admin
+[2025-06-25 02:15:32] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Do you have experience of being a admin in any servers?
