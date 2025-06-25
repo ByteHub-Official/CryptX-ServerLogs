@@ -6483,3 +6483,6 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 05:57:21] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): 
 [2025-06-25 05:57:34] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): its live players that make a game #1
 [2025-06-25 05:57:53] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): i just showed u one that has 400k live users playing right now
+[2025-06-25 05:58:08] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): visits accure over time
+[2025-06-25 05:58:09] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Well according to Google it's visits
+[2025-06-25 05:58:33] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): i used to have a discord bot that could give people 100k visits a min lol
