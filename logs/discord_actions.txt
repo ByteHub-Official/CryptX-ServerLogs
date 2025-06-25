@@ -6557,3 +6557,5 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 17:45:26] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): I dud
 [2025-06-25 17:45:28] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Did
 [2025-06-25 17:52:19] Message: fytdagoat#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Products]): erm
+[2025-06-25 18:41:04] Member Join: ka_carlos1027410#0 joined ShadowT3ch [Products]
+[2025-06-25 18:41:05] Member Role Update: ka_carlos1027410#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
