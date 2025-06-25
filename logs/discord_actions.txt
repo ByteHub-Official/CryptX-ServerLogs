@@ -6114,3 +6114,6 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:31:51] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I know server tools
 [2025-06-25 02:32:01] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): outside of the server tools
 [2025-06-25 02:32:03] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I prob used almost all by now
+[2025-06-25 02:32:27] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I know how to add like bots
+[2025-06-25 02:32:42] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): how about development of the bot
+[2025-06-25 02:32:50] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Wdym by that
