@@ -6041,3 +6041,5 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:02:17] Member Join: frederick08647#0 joined ShadowT3ch [Products]
 [2025-06-25 02:02:18] Member Role Update: frederick08647#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
 [2025-06-25 02:05:08] Channel Create: Channel 'admin-application-frederick08647' created in ShadowT3ch [Products]
+[2025-06-25 02:05:43] Message: snowexploits#0 in admin-application-sosa_inc (ShadowT3ch [Products]): whats up
+[2025-06-25 02:06:07] Message: sosa_inc#0 in admin-application-frederick08647 (ShadowT3ch [Products]): Answer the questions please and we will report back to you if you got in
