@@ -6096,3 +6096,4 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:23:27] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): it not much as in coding it self but how would you go about it if someone say something is not working right
 [2025-06-25 02:23:45] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Oh I can help then fix it
 [2025-06-25 02:24:00] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): How would you handle malicious code?
+[2025-06-25 02:25:00] Message: sosa_inc#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): Malicious= bad
