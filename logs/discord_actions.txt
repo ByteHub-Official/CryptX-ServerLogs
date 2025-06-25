@@ -6387,3 +6387,5 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 05:31:58] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Wth
 [2025-06-25 05:32:04] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): The subgenre is tycoon
 [2025-06-25 05:32:06] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): 
+[2025-06-25 05:32:44] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): Subganra is considered second option
+[2025-06-25 05:32:53] Message: snowexploits#0 in support-xbrooklynh (ShadowT3ch [Delta]): Genra is main base game
