@@ -6090,3 +6090,6 @@ so i was just making a game with him and suddenly kaboom he just dissapeared fro
 [2025-06-25 02:20:43] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): cheat clients
 [2025-06-25 02:21:11] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): are you awaer of how they work and or able to help other if they ask qustions regarding cheats
 [2025-06-25 02:21:48] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): I use delta not that much I try but I am trying to figure out some of then
+[2025-06-25 02:22:07] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): How do you help with coding issues?
+[2025-06-25 02:22:39] Message: snowexploits#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): if no experice  how would you proseed with it
+[2025-06-25 02:22:41] Message: dragonplanet132#0 in admin-application-dragonplanet132 (ShadowT3ch [Products]): 3 I know how to code a little bit  I can help with coding
