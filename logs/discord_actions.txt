@@ -6610,3 +6610,7 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 22:55:19] Channel Create: Channel 'admin-application-pessi0863' created in ShadowT3ch [Delta]
 [2025-06-25 22:55:31] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Hello sir!
 [2025-06-25 22:55:37] Message: pessi0863#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Hello.
+[2025-06-25 22:56:04] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Your going for admin right?
+[2025-06-25 22:56:09] Message: xbrooklynh#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): 
+[2025-06-25 22:56:13] Message: xbrooklynh#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Boi
+[2025-06-25 22:56:17] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): <@1213266214608961667>
