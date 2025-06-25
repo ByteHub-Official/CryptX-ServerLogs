@@ -6571,3 +6571,7 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-25 22:44:34] Message: aimezisbetter#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): 💀
 [2025-06-25 22:44:44] Message: aimezisbetter#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): I see how it is
 [2025-06-25 22:45:11] Channel Create: Channel 'support-sinw_' created in ShadowT3ch [Delta]
+[2025-06-25 22:45:29] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): Yes what will be needed of me today?
+[2025-06-25 22:46:00] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): <@1233783567243280457>
+[2025-06-25 22:46:08] Message: sinw_.#0 in support-sinw_ (ShadowT3ch [Delta]): How do i use  script1.lua on mobile
+[2025-06-25 22:46:19] Message: sosa_inc#0 in support-sinw_ (ShadowT3ch [Delta]): <@1376217565952479425> 🤦‍♂️
