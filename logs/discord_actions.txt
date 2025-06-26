@@ -6704,3 +6704,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:15:16] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Alright
 [2025-06-26 01:15:33] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): 2. How would you handle cheats <@1213266214608961667>
 [2025-06-26 01:17:54] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): I have a feeling he is using chat got
+[2025-06-26 01:19:08] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): <@1213266214608961667>
