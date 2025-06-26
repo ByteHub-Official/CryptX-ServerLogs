@@ -6728,3 +6728,6 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:34:30] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): By the way the first answer was he was definitely a kid
 [2025-06-26 01:34:42] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Make her to ban him on the other servers as well
 [2025-06-26 01:34:48] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): “Sure”
+[2025-06-26 01:35:30] Message: shadow_t3ch#0 in admin-application-frederick08647 (ShadowT3ch [Products]): .ban <@1213266214608961667>
+[2025-06-26 01:35:30] Member Ban: pessi0863#0 banned from ShadowT3ch [Products]
+[2025-06-26 01:35:31] Member Remove: pessi0863#0 left ShadowT3ch [Products]
