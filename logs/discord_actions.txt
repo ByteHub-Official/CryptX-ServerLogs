@@ -6735,3 +6735,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:37:28] Message: sosa_inc#0 in admin-application-frederick08647 (ShadowT3ch [Products]): Wsp
 [2025-06-26 01:37:35] Message: shadow_t3ch#0 in admin-application-frederick08647 (ShadowT3ch [Products]): lmao
 [2025-06-26 01:37:44] Member Role Update: shadow_t3ch#0 in ShadowT3ch [Products]: Roles changed (Added: Shadow Only, Removed: None)
+[2025-06-26 01:48:08] Message: jax_rng#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): <@1376217565952479425> how i apply for tester gng
