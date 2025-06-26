@@ -6784,3 +6784,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 04:02:47] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): 😼
 [2025-06-26 04:03:22] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): .watchuser <@1337242484727742464>
 [2025-06-26 04:03:28] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Yes sirrr
+[2025-06-26 04:05:53] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): .unwatch <@1337242484727742464>
