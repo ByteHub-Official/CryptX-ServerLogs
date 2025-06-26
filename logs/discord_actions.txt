@@ -6775,3 +6775,9 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 04:01:05] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): .watchuser <@986802533534158889>
 [2025-06-26 04:01:22] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): 😡
 [2025-06-26 04:01:41] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): .unwatch <@986802533534158889>
+[2025-06-26 04:01:47] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): 😲
+[2025-06-26 04:02:01] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): .unwatchuser <@986802533534158889>
+[2025-06-26 04:02:03] Member Join: mr._cuddlywomp_74105#0 joined ShadowT3ch [Delta]
+[2025-06-26 04:02:03] Member Role Update: mr._cuddlywomp_74105#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-26 04:02:06] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Ty
+[2025-06-26 04:02:40] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): .watchuser <@1053079666459693077>
