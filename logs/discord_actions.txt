@@ -6764,3 +6764,14 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 03:53:11] Message: xbrooklynh#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): >_<
 [2025-06-26 03:57:59] Message: shadow_t3ch#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): @everyone boost this server and i will give you 3 free products.
 [2025-06-26 04:00:35] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): .watchuser <@986802533534158889>
+[2025-06-26 04:00:44] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): 😲
+[2025-06-26 04:00:46] Member Role Update: shadow_t3ch#0 in ShadowT3ch [Products]: Roles changed (Added: Admin, Removed: None)
+[2025-06-26 04:00:48] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Noo don't watch me
+[2025-06-26 04:00:53] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): .watchuser <@986802533534158889>
+[2025-06-26 04:00:59] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): My camera is covered up
+[2025-06-26 04:00:59] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): fuck
+[2025-06-26 04:01:03] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Soo
+[2025-06-26 04:01:04] Message: xbrooklynh#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Products]): Haha
+[2025-06-26 04:01:05] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): .watchuser <@986802533534158889>
+[2025-06-26 04:01:22] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): 😡
+[2025-06-26 04:01:41] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): .unwatch <@986802533534158889>
