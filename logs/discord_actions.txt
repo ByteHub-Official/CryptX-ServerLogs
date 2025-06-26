@@ -6836,3 +6836,5 @@ Hi Books
 [2025-06-26 20:36:54] Message: colgate_optic#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Also fasthub autofarm looks like shadowt3ch
 [2025-06-26 20:41:06] Member Join: rasperiiii#0 joined ShadowT3ch [Delta]
 [2025-06-26 20:41:06] Member Role Update: rasperiiii#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-26 20:41:16] Member Remove: cosmicastrobiology#0 left ShadowT3ch [Delta]
+[2025-06-26 20:42:09] Member Remove: rasperiiii#0 left ShadowT3ch [Delta]
