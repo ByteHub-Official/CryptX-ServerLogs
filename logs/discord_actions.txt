@@ -6785,3 +6785,10 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 04:03:22] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): .watchuser <@1337242484727742464>
 [2025-06-26 04:03:28] Message: xbrooklynh#0 in support-xbrooklynh (ShadowT3ch [Delta]): Yes sirrr
 [2025-06-26 04:05:53] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): .unwatch <@1337242484727742464>
+[2025-06-26 04:06:02] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): .help
+[2025-06-26 04:06:14] Message: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): .unwatchuser <@1337242484727742464>
+[2025-06-26 04:06:19] Message Delete: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): Deleted '.unwatchuser <@1337242484727742464>'
+[2025-06-26 04:06:23] Message Delete: ShadowSecurities#9926 in support-xbrooklynh (ShadowT3ch [Delta]): Deleted ''
+[2025-06-26 04:06:27] Message Delete: ShadowSecurities#9926 in support-xbrooklynh (ShadowT3ch [Delta]): Deleted ''
+[2025-06-26 04:06:32] Message Delete: shadow_t3ch#0 in support-xbrooklynh (ShadowT3ch [Delta]): Deleted '.help'
+[2025-06-26 04:06:54] Channel Delete: Channel 'support-xbrooklynh' deleted in ShadowT3ch [Delta]
