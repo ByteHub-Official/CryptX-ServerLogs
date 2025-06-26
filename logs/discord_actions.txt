@@ -6679,3 +6679,6 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 00:43:58] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): The guy that wanted admin never texted back
 [2025-06-26 00:44:10] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): <@1213266214608961667>
 [2025-06-26 00:59:12] Message: pessi0863#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Yo
+[2025-06-26 00:59:35] Message: pessi0863#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Ok ready
+[2025-06-26 00:59:43] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Alright!
+[2025-06-26 00:59:54] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): 1. What experience do you have?
