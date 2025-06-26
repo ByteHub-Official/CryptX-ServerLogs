@@ -6719,3 +6719,9 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:33:03] Message: shadow_t3ch#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): .ban <@1213266214608961667> suspected to be a kid.
 [2025-06-26 01:33:03] Member Ban: pessi0863#0 banned from ShadowT3ch [Delta]
 [2025-06-26 01:33:03] Member Remove: pessi0863#0 left ShadowT3ch [Delta]
+[2025-06-26 01:33:14] Message: shadow_t3ch#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): <@1324779545609502740>
+[2025-06-26 01:33:22] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Yo
+[2025-06-26 01:33:36] Message: shadow_t3ch#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): lmfaooo
+[2025-06-26 01:33:43] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Finally bro
+[2025-06-26 01:33:48] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): He was getting me fucking mad
+[2025-06-26 01:34:10] Message: shadow_t3ch#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): lol
