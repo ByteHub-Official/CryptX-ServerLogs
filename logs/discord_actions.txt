@@ -6712,3 +6712,5 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:21:32] Message: shadow_t3ch#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): not yet
 [2025-06-26 01:21:39] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): Alright
 [2025-06-26 01:24:41] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Yo I thought you said your fucking ready like I’m trying to be patient bro like
+[2025-06-26 01:24:47] Message Delete: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Deleted 'Yo I thought you said your fucking ready like I’m trying to be patient bro like'
+[2025-06-26 01:25:04] Member Role Update: sosa_inc#0 in ShadowT3ch [Delta]: Roles changed (Added: ShadowV3 User, Removed: None)
