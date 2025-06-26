@@ -6683,3 +6683,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 00:59:43] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Alright!
 [2025-06-26 00:59:54] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): 1. What experience do you have?
 [2025-06-26 01:00:59] Message: pessi0863#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): I have experience moderating discords.
+[2025-06-26 01:01:59] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Can I see the discords you moderator in?
