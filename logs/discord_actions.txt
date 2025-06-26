@@ -6699,3 +6699,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:12:01] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): <@1213266214608961667>
 [2025-06-26 01:12:24] Message: pessi0863#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): I do got a ss of me getting accepted to it
 [2025-06-26 01:13:01] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): Show it
+[2025-06-26 01:14:11] Message: sosa_inc#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): <@1213266214608961667>
