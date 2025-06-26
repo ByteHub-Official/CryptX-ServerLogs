@@ -6745,3 +6745,4 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:52:28] Message: sosa_inc#0 in support-xbrooklynh (ShadowT3ch [Delta]): FREE_26533cabd70b55cb24d4bd64e08efc1b
 [2025-06-26 01:52:39] Message: sosa_inc#0 in support-xbrooklynh (ShadowT3ch [Delta]): <@986802533534158889>
 [2025-06-26 01:52:57] Channel Delete: Channel 'admin-application-pessi0863' deleted in ShadowT3ch [Delta]
+[2025-06-26 01:53:52] Message: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Bruh its quite literally in the massage onto how to apply, and tester team is full
