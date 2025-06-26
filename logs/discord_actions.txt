@@ -6716,3 +6716,6 @@ How to Apply open a ticket and tag <@1376217565952479425>
 [2025-06-26 01:25:04] Member Role Update: sosa_inc#0 in ShadowT3ch [Delta]: Roles changed (Added: ShadowV3 User, Removed: None)
 [2025-06-26 01:27:03] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): I’m trying to be so fucking patient with him bro
 [2025-06-26 01:27:28] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): I’m dead gonna delete his fucking ticket cause he said he was fucking ready
+[2025-06-26 01:33:03] Message: shadow_t3ch#0 in admin-application-pessi0863 (ShadowT3ch [Delta]): .ban <@1213266214608961667> suspected to be a kid.
+[2025-06-26 01:33:03] Member Ban: pessi0863#0 banned from ShadowT3ch [Delta]
+[2025-06-26 01:33:03] Member Remove: pessi0863#0 left ShadowT3ch [Delta]
