@@ -7515,3 +7515,13 @@ If you see this post do not click it is a scam, you info will be stolen, if he d
 [2025-06-28 02:44:49] Member Remove: xbrooklynh#0 left ShadowT3ch [Delta]
 [2025-06-28 02:47:24] Message: snowexploits#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Delta]): <@&1352310479829205002> 
 Game tester position just opened, open a ticket and tag <@1376217565952479425> and say "HERE FOR GAME TESTER POSITION"
+[2025-06-28 02:47:33] Member Join: noahf298#0 joined ShadowT3ch [Delta]
+[2025-06-28 02:47:33] Member Role Update: noahf298#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-28 02:48:04] Channel Create: Channel 'admin-application-runndwnking' created in ShadowT3ch [Delta]
+[2025-06-28 02:48:06] Channel Create: Channel 'support-vbiqqzz' created in ShadowT3ch [Delta]
+[2025-06-28 02:48:17] Message: .vbiqqzz#0 in support-vbiqqzz (ShadowT3ch [Delta]): "HERE FOR GAME TESTER POSITION"
+[2025-06-28 02:48:19] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): <@1376217565952479425>
+[2025-06-28 02:48:26] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): What's up
+[2025-06-28 02:48:26] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): HERE FOR GAME TESTER
+[2025-06-28 02:48:26] Message: sosa_inc#0 in support-vbiqqzz (ShadowT3ch [Delta]): alright!
+[2025-06-28 02:48:33] Message: sosa_inc#0 in support-vbiqqzz (ShadowT3ch [Delta]): <@1376217565952479425> I
