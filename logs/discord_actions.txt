@@ -7847,3 +7847,7 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:08:46] Member Ban: doctor10th.#0 banned from ShadowT3ch [Delta]
 [2025-06-28 15:08:46] Member Remove: doctor10th.#0 left ShadowT3ch [Delta]
 [2025-06-28 15:09:31] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I got a really good experience I served in a lot of servers of a game named streetz war I had to handle a lot of tickets and manage the servers
+[2025-06-28 15:10:07] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Alright! Do you have any proof/photos of you serving in the servers?
+[2025-06-28 15:10:28] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I don’t know but I am gonna try to find them
+[2025-06-28 15:10:37] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): It’s alright if you don’t!
+[2025-06-28 15:10:47] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 2. How would you handle cheats?
