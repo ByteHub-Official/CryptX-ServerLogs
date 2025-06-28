@@ -7935,3 +7935,5 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:53:28] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): This is brutal
 [2025-06-28 15:53:28] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Yes
 [2025-06-28 15:53:33] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Wait
+[2025-06-28 15:53:40] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Trying to find a pic
+[2025-06-28 15:54:19] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Finding a picture would not count becuse we gave you 2 options to verify eather holding 3 fingers or holding a peace of paper with your discord id
