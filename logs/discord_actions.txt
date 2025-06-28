@@ -7546,3 +7546,6 @@ Game tester position just opened, open a ticket and tag <@1376217565952479425> a
 [2025-06-28 02:52:04] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): I can support 2
 [2025-06-28 02:52:20] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): We lost one due to someone pretending to be sum she not
 [2025-06-28 02:52:31] Message: sosa_inc#0 in admin-application-runndwnking (ShadowT3ch [Delta]): 🤦‍♂️
+[2025-06-28 02:52:41] Message: sosa_inc#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Should I post that in the announcements?
+[2025-06-28 02:52:55] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): U good
+[2025-06-28 02:53:24] Message: sosa_inc#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Alright
