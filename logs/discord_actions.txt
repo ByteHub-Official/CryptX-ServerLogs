@@ -7591,3 +7591,7 @@ Also, a message from xBROOKLYNh (Brooklyn)... **FU-K YOU SNOW YOUR ACTUALLY SO A
 [2025-06-28 03:00:33] Message: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): And another thing me and shadow are in 50/50 partnership bud
 [2025-06-28 03:00:35] Message: noahf298#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Kinda funny how your taking advantage of Shadows server
 [2025-06-28 03:00:39] Message: noahf298#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): ✌️💔
+[2025-06-28 03:01:07] Member Ban: noahf298#0 banned from ShadowT3ch [Delta]
+[2025-06-28 03:01:07] Member Remove: noahf298#0 left ShadowT3ch [Delta]
+[2025-06-28 03:01:15] Message Delete: noahf298#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted 'Kinda funny how your taking advantage of Shadows server'
+[2025-06-28 03:01:20] Message Delete: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted 'Mabe if u read the rules then u should know that was a bannable offense'
