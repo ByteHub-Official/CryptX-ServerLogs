@@ -7930,3 +7930,8 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:51:24] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 
 [2025-06-28 15:51:40] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): There is no face in the picture to verify your age
 [2025-06-28 15:52:00] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I have to show my face ?
+[2025-06-28 15:52:57] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): We have a reasonable suspicion that you are not of age of 15 which is minimal  age to become admin, if you choose to feel like u don't want to we will have no choice to to reject this application
+[2025-06-28 15:53:24] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Showing my face ?
+[2025-06-28 15:53:28] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): This is brutal
+[2025-06-28 15:53:28] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Yes
+[2025-06-28 15:53:33] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Wait
