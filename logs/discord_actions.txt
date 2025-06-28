@@ -7837,3 +7837,12 @@ Thank you
 Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:03:34] Message: vault_survivor#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): <@1376217565952479425> hi sir I am friend of shadow I wanted to know if I could apply I think I can handle this type of job I got a lot of experience and I would like to be staff for this server help and do my best I will be active and I will take care of every people that needs support thanks
 [2025-06-28 15:07:46] Message Delete: vault_survivor#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted '<@1376217565952479425> hi sir I am friend of shadow I wanted to know if I could apply I think I can handle this type of job I got a lot of experience and I would like to be staff for this server help and do my best I will be active and I will take care of every people that needs support thanks'
+[2025-06-28 15:07:53] Channel Create: Channel 'admin-application-vault_survivor' created in ShadowT3ch [Delta]
+[2025-06-28 15:08:03] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Hello!
+[2025-06-28 15:08:09] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Still me
+[2025-06-28 15:08:14] Message Edit: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Edited 'Still me' to 'It is Still me'
+[2025-06-28 15:08:22] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I know I’m just being friendly
+[2025-06-28 15:08:30] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Don’t worry
+[2025-06-28 15:08:41] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 1. What experience do you have?
+[2025-06-28 15:08:46] Member Ban: doctor10th.#0 banned from ShadowT3ch [Delta]
+[2025-06-28 15:08:46] Member Remove: doctor10th.#0 left ShadowT3ch [Delta]
