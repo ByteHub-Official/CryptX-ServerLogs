@@ -7530,3 +7530,9 @@ Game tester position just opened, open a ticket and tag <@1376217565952479425> a
 [2025-06-28 02:48:54] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Do i get paid
 [2025-06-28 02:48:56] Message: snowexploits#0 in support-vbiqqzz (ShadowT3ch [Delta]): Click on my profile and join my discord
 [2025-06-28 02:49:19] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): With perks in game, if u become a game developer u get 25%
+[2025-06-28 02:49:48] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): 25% of the robux
+[2025-06-28 02:50:03] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Wdym game developer
+[2025-06-28 02:50:04] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Yep
+[2025-06-28 02:50:16] Message: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): Hey wasn’t that my idea
+[2025-06-28 02:50:17] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): If u have experience in coding and fixing bugs
+[2025-06-28 02:50:35] Message Delete: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): Deleted 'Hey wasn’t that my idea'
