@@ -7978,3 +7978,4 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 16:17:40] Message Delete: vault_survivor#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted '<@1376217565952479425>'
 [2025-06-28 16:17:43] Message Delete: vault_survivor#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted '<@1324779545609502740>'
 [2025-06-28 16:18:02] Message Delete: snowexploits#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted 'Sadly no, the disinformation was made, we had said if you feel no comfortable it is fine but we could not prosseed with the aplication past that point'
+[2025-06-28 16:34:55] Channel Create: Channel 'Anime: OverLord Season 1' created in ShadowT3ch [Delta]
