@@ -7851,3 +7851,5 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:10:28] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I don’t know but I am gonna try to find them
 [2025-06-28 15:10:37] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): It’s alright if you don’t!
 [2025-06-28 15:10:47] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 2. How would you handle cheats?
+[2025-06-28 15:11:24] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): You can also skip the question or come back to it later.
+[2025-06-28 15:11:31] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): <@1165430622936907827>
