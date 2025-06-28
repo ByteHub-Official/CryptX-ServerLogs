@@ -7928,3 +7928,5 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:49:42] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Do note we will run the picture under find photo to make sure it is not from google
 [2025-06-28 15:51:21] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Picasso
 [2025-06-28 15:51:24] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 
+[2025-06-28 15:51:40] Message: snowexploits#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): There is no face in the picture to verify your age
+[2025-06-28 15:52:00] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I have to show my face ?
