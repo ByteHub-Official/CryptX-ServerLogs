@@ -7751,3 +7751,4 @@ Also, a message from xBROOKLYNh (Brooklyn)... **FU-K YOU SNOW YOUR ACTUALLY SO A
 [2025-06-28 04:02:01] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Ok!
 [2025-06-28 04:02:07] Channel Delete: Channel 'order-products-disguisefires' deleted in ShadowT3ch [Delta]
 [2025-06-28 04:02:16] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): 9. How to handle spam?
+[2025-06-28 04:03:54] Message: colgate_optic#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Give them a few warnings to stop and delete the message if it keeps occurring mute them if not ban
