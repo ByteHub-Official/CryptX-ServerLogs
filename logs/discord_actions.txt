@@ -7536,3 +7536,6 @@ Game tester position just opened, open a ticket and tag <@1376217565952479425> a
 [2025-06-28 02:50:16] Message: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): Hey wasn’t that my idea
 [2025-06-28 02:50:17] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): If u have experience in coding and fixing bugs
 [2025-06-28 02:50:35] Message Delete: sosa_inc#0 in 📢ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛs (ShadowT3ch [Products]): Deleted 'Hey wasn’t that my idea'
+[2025-06-28 02:50:50] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Ima pro at findin bugs
+[2025-06-28 02:50:55] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Does that get me paid
+[2025-06-28 02:51:32] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Only if u fix bugs i can pay,  ur other then that it comes with early access and in game perks
