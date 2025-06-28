@@ -7866,3 +7866,7 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:21:01] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I cannot code unfortunately but I have a Mac it is a good pc I can learn something and help you all in my free time
 [2025-06-28 15:21:13] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Alright!
 [2025-06-28 15:21:35] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 4. How would you handle malicious code?
+[2025-06-28 15:22:15] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I don’t really know what is a malicious code is suppose is a bad thing ?
+[2025-06-28 15:22:24] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Yes!
+[2025-06-28 15:22:27] Message Edit: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Edited 'I don’t really know what is a malicious code is suppose is a bad thing ?' to 'I don’t really know what is a malicious code i suppose is a bad thing ?'
+[2025-06-28 15:22:49] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): These questions are based off your knowledge I can’t help you try your best to understand them!
