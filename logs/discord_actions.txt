@@ -7789,3 +7789,7 @@ Game tester position just opened, open a ticket and tag <@1376217565952479425> a
 [2025-06-28 09:48:08] Message: zetfixy#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): What did I misss
 [2025-06-28 14:06:35] Message: freshoutoffucksforver#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Could anyone help me get a key??
 [2025-06-28 14:40:58] Message: sosa_inc#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): You gotta make a ticket <@1134201864368443484>
+[2025-06-28 14:41:07] Message: freshoutoffucksforver#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Whoops
+[2025-06-28 14:41:07] Message: freshoutoffucksforver#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Sorry
+[2025-06-28 14:41:12] Message Delete: freshoutoffucksforver#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): Deleted 'Could anyone help me get a key??'
+[2025-06-28 14:42:06] Message: sosa_inc#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): It’s all chill.👍
