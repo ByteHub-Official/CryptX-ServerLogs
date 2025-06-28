@@ -7549,3 +7549,10 @@ Game tester position just opened, open a ticket and tag <@1376217565952479425> a
 [2025-06-28 02:52:41] Message: sosa_inc#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Should I post that in the announcements?
 [2025-06-28 02:52:55] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): U good
 [2025-06-28 02:53:24] Message: sosa_inc#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Alright
+[2025-06-28 02:53:48] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Who?
+[2025-06-28 02:53:49] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): If more people apply to redirect them to my server max of 6 game testers past that would be not too profitable
+[2025-06-28 02:53:56] Message: snowexploits#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Brooklyn
+[2025-06-28 02:54:14] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Bet, ill handle ha
+[2025-06-28 02:54:27] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Anyways, im down to be a tester tho
+[2025-06-28 02:54:36] Message: runndwnking#0 in admin-application-runndwnking (ShadowT3ch [Delta]): Send me wtv info i need
+[2025-06-28 02:54:41] Message: sosa_inc#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): <@1205004143857504319> Please make a ticket for help do bot post this in the general chat
