@@ -7756,3 +7756,7 @@ Also, a message from xBROOKLYNh (Brooklyn)... **FU-K YOU SNOW YOUR ACTUALLY SO A
 [2025-06-28 04:04:53] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): 10. Why do you want to become a mod here?
 [2025-06-28 04:05:12] Message: essence1379#0 in order-products-essence1379 (ShadowT3ch [Delta]): K
 [2025-06-28 04:05:52] Message: colgate_optic#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): To gain the proper experience to become a mod in other servers and also to use it in real life as customer service
+[2025-06-28 04:06:13] Member Role Update: colgate_optic#0 in ShadowT3ch [Delta]: Roles changed (Added: Announcement Ping, Support, Admin, Removed: None)
+[2025-06-28 04:06:24] Message Edit: colgate_optic#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Edited 'To gain the proper experience to become a mod in other servers and also to use it in real life as customer service' to 'To gain the proper experience to become a mod in other servers and also to use it in real life as customer service since its a good thing to have'
+[2025-06-28 04:06:30] Message: snowexploits#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Congrats
+[2025-06-28 04:06:32] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Congrats!
