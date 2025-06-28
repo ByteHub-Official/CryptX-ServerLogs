@@ -7885,3 +7885,7 @@ Sincerely: SOSAAA/sosa_inc'
 [2025-06-28 15:28:27] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): 
 [2025-06-28 15:28:42] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): I really like him and don’t want to lose contact with him
 [2025-06-28 15:29:09] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): He is my only friend on discord so want to help him
+[2025-06-28 15:29:30] Message: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): It is not the full chat
+[2025-06-28 15:29:39] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Alright
+[2025-06-28 15:29:55] Message Delete: vault_survivor#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Deleted ''
+[2025-06-28 15:30:25] Message: sosa_inc#0 in admin-application-vault_survivor (ShadowT3ch [Delta]): Are you Spanish?
