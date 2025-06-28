@@ -7638,3 +7638,10 @@ Also, a message from xBROOKLYNh (Brooklyn)... **FU-K YOU SNOW YOUR ACTUALLY SO A
 [2025-06-28 03:41:25] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Hello!
 [2025-06-28 03:41:32] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Sorry for the late response!
 [2025-06-28 03:41:34] Message: colgate_optic#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): The questions seem hard
+[2025-06-28 03:41:40] Message: colgate_optic#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): It's cool
+[2025-06-28 03:41:55] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): 1. What experience do you have?
+[2025-06-28 03:41:58] Message: snowexploits#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Just do ur best
+[2025-06-28 03:42:06] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): Yup!
+[2025-06-28 03:42:19] Message: sosa_inc#0 in admin-application-colgate_optic (ShadowT3ch [Delta]): It’s not only based on answers alone!
+[2025-06-28 03:42:35] Member Join: essence1379#0 joined ShadowT3ch [Delta]
+[2025-06-28 03:42:36] Member Role Update: essence1379#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
