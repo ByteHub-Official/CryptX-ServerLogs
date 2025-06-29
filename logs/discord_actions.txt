@@ -8163,3 +8163,4 @@ Sincerely: SOSAAA
 [2025-06-29 17:56:56] Message: sosa_inc#0 in support-aos_fh (ShadowT3ch [Delta]): <@1302617807229288458>
 [2025-06-29 17:57:04] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): Ohhh
 [2025-06-29 17:57:11] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): Is it fixable or?
+[2025-06-29 17:57:26] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): And if so do you know when it will get fixed
