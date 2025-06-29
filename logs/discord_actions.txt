@@ -8164,3 +8164,6 @@ Sincerely: SOSAAA
 [2025-06-29 17:57:04] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): Ohhh
 [2025-06-29 17:57:11] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): Is it fixable or?
 [2025-06-29 17:57:26] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): And if so do you know when it will get fixed
+[2025-06-29 17:58:41] Message: sosa_inc#0 in support-aos_fh (ShadowT3ch [Delta]): Well I’m not sure but even if it was the hacks you choose to use in there will also be detectable so there is no way we can fix it and even if we can we wouldn’t do it for a single game I sincerely apologize
+[2025-06-29 17:59:02] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): It’s alright
+[2025-06-29 17:59:04] Message: aos_fh#0 in support-aos_fh (ShadowT3ch [Delta]): Anyways thanks
