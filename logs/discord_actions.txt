@@ -8176,3 +8176,5 @@ Sincerely: SOSAAA
 [2025-06-29 23:08:37] Message: sosa_inc#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): guys I made a discord server where if anyone joins I get there password and everything
 [2025-06-29 23:21:41] Member Join: jamaritolit2897_30202#0 joined ShadowT3ch [Products]
 [2025-06-29 23:21:42] Member Role Update: jamaritolit2897_30202#0 in ShadowT3ch [Products]: Roles changed (Added: ❌Unverified, Removed: None)
+[2025-06-30 00:24:37] Member Join: callummckeown11#0 joined ShadowT3ch [Delta]
+[2025-06-30 00:24:40] Member Role Update: callummckeown11#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
