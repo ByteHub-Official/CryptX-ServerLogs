@@ -8239,3 +8239,5 @@ Sincerely: SOSAAA
 [2025-06-30 17:26:52] Message: jefethemexican#0 in 💬ᴄʜᴀᴛᴛɪɴɢ (ShadowT3ch [Delta]): O
 [2025-06-30 17:27:53] Member Role Update: flamingyoung213#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-30 17:27:57] Member Role Update: cracked0000#0 in ShadowT3ch [Products]: Roles changed (Added: ✔️ Member, Removed: None)
+[2025-06-30 17:34:41] Member Ban: 10x10_cg#0 banned from ShadowT3ch [Delta]
+[2025-06-30 17:34:41] Member Remove: 10x10_cg#0 left ShadowT3ch [Delta]
