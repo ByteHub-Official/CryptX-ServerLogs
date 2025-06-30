@@ -8182,3 +8182,6 @@ Sincerely: SOSAAA
 [2025-06-30 01:24:41] Member Role Update: mrking0155#0 in ShadowT3ch [Delta]: Roles changed (Added: ✔️ Member, Removed: None)
 [2025-06-30 01:25:33] Member Role Update: mrking0155#0 in ShadowT3ch [Delta]: Roles changed (Added: Delta User, Removed: None)
 [2025-06-30 04:14:06] Message: snowexploits#0 in 🛡sᴛᴀꜰꜰ-ᴄʜᴀᴛ (ShadowT3ch [Delta]): So a logger that almost anyone can get
+[2025-06-30 04:14:42] Member Role Update: ttv.chair#0 in ShadowT3ch [Delta]: Roles changed (Added: ShadowV3 User, Removed: None)
+[2025-06-30 04:14:42] Member Role Update: ttv.chair#0 in ShadowT3ch [Delta]: Roles changed (Added: None, Removed: ShadowV3 User)
+[2025-06-30 04:14:43] Member Role Update: ttv.chair#0 in ShadowT3ch [Delta]: Roles changed (Added: ShadowV3 User, Removed: None)
