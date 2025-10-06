@@ -53,3 +53,6 @@ METADATA: {"timestamp": "2025-10-06T17:10:49.848934", "bot_version": "2.4.0", "g
 [2025-10-06T17:10:50.856492] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in our-ad: Before: '...' After: '...' | ID: 1424806115627106304
 METADATA: {"timestamp": "2025-10-06T17:10:50.856457", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1424805345804685414, "user_id": 1424075159576514771, "message_id": 1424806115627106304, "extra": {}}
 ---
+[2025-10-06T17:10:52.430776] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in our-ad: Before: '...' After: '...' | ID: 1424806115627106304
+METADATA: {"timestamp": "2025-10-06T17:10:52.430735", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1424805345804685414, "user_id": 1424075159576514771, "message_id": 1424806115627106304, "extra": {}}
+---
