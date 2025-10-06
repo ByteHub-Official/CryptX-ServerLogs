@@ -37,3 +37,10 @@ METADATA: {"timestamp": "2025-10-06T17:08:40.598526", "bot_version": "2.4.0", "g
 [2025-10-06T17:09:02.659309] [INFO] [MESSAGES] [MessageDeleted] Message deleted in our-ad by CryptX Securities Pro#8933: '...' | ID: 1424805488767402034
 METADATA: {"timestamp": "2025-10-06T17:09:02.659268", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1424805345804685414, "user_id": 1419082446279938158, "message_id": 1424805488767402034, "extra": {}}
 ---
+[2025-10-06T17:09:38.874222] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in our-ad: Before: '🚀 **Welcome to CryptX!** 🚀
+
+Looking for **top-tier...' After: '🚀 **Welcome to CryptX!** 🚀
+
+Looking for **top-tier...' | ID: 1424805814119694416
+METADATA: {"timestamp": "2025-10-06T17:09:38.874185", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1424805345804685414, "user_id": 1019698414839156817, "message_id": 1424805814119694416, "extra": {}}
+---
