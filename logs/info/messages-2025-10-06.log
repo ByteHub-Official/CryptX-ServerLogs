@@ -59,3 +59,6 @@ METADATA: {"timestamp": "2025-10-06T17:10:52.430735", "bot_version": "2.4.0", "g
 [2025-10-06T17:11:35.217451] [INFO] [MESSAGES] [MessageDeleted] Message deleted in our-ad by XenBot#6444: '...' | ID: 1424806115627106304
 METADATA: {"timestamp": "2025-10-06T17:11:35.217401", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1424805345804685414, "user_id": 1424075159576514771, "message_id": 1424806115627106304, "extra": {}}
 ---
+[2025-10-06T17:12:36.445795] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in our-ad: Before: 'https://i.postimg.cc/yYgxNb9p/IMG-0273.png...' After: 'https://i.postimg.cc/yYgxNb9p/IMG-0273.png...' | ID: 1424806078197268651
+METADATA: {"timestamp": "2025-10-06T17:12:36.445743", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1424805345804685414, "user_id": 1019698414839156817, "message_id": 1424806078197268651, "extra": {}}
+---
