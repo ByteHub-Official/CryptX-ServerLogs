@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-10-07T21:19:13.030564", "bot_version": "2.4.0", "g
 [2025-10-07T21:34:10.058906] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in 💬⫸・main-chat: Before: 'bro’s embanging minors<:laughing_skull:14172740740...' After: 'bro’s e-banging minors<:laughing_skull:14172740740...' | ID: 1425234671469592596
 METADATA: {"timestamp": "2025-10-07T21:34:10.058860", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451022606339, "user_id": 1019698414839156817, "message_id": 1425234671469592596, "extra": {}}
 ---
+[2025-10-07T21:34:24.245303] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬⫸・main-chat by 2_clickdeath: '🧢...' | ID: 1425234819083665498
+METADATA: {"timestamp": "2025-10-07T21:34:24.245252", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451022606339, "user_id": 1019698414839156817, "message_id": 1425234819083665498, "extra": {}}
+---
