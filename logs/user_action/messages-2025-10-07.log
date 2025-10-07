@@ -96,3 +96,6 @@ METADATA: {"timestamp": "2025-10-07T21:37:20.724727", "bot_version": "2.4.0", "g
 [2025-10-07T21:38:16.312630] [USER_ACTION] [MESSAGES] [MessageSent] User echo058622 sent message in 💬⫸・main-chat: all p3d0s gng | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-07T21:38:16.312590", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451022606339, "user_id": 1309337550296449024, "message_id": 1425235808104742984, "extra": {}}
 ---
+[2025-10-07T21:39:02.837355] [USER_ACTION] [MESSAGES] [MessageSent] User echo058622 sent message in 💬⫸・main-chat: tf this emoji gng | Attachments: 1 | Embeds: 0
+METADATA: {"timestamp": "2025-10-07T21:39:02.837311", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451022606339, "user_id": 1309337550296449024, "message_id": 1425236002863059114, "extra": {}}
+---
