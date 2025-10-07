@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-10-07T21:19:10.254001", "bot_version": "2.4.0", "g
 [2025-10-07T21:19:11.605467] [INFO] [MESSAGES] [MessageEdited] User CryptX Securities#7443 edited message in ✔️⫸・verify: Before: '...' After: '...' | ID: 1425230986832122066
 METADATA: {"timestamp": "2025-10-07T21:19:11.605430", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1418373153763102832, "user_id": 1419077819518025799, "message_id": 1425230986832122066, "extra": {}}
 ---
+[2025-10-07T21:19:13.030604] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ✔️⫸・verify by 2_clickdeath: '!verifcation_setup...' | ID: 1425230955442077816
+METADATA: {"timestamp": "2025-10-07T21:19:13.030564", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1418373153763102832, "user_id": 1019698414839156817, "message_id": 1425230955442077816, "extra": {}}
+---
