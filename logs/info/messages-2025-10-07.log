@@ -1,3 +1,6 @@
 [2025-10-07T21:19:08.757815] [INFO] [MESSAGES] [MessageEdited] User CryptX Securities#7443 edited message in ✔️⫸・verify: Before: '...' After: '...' | ID: 1425230986832122066
 METADATA: {"timestamp": "2025-10-07T21:19:08.757774", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1418373153763102832, "user_id": 1419077819518025799, "message_id": 1425230986832122066, "extra": {}}
 ---
+[2025-10-07T21:19:10.254038] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ✔️⫸・verify by 2_clickdeath: '!verification_setup...' | ID: 1425230985536213113
+METADATA: {"timestamp": "2025-10-07T21:19:10.254001", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1418373153763102832, "user_id": 1019698414839156817, "message_id": 1425230985536213113, "extra": {}}
+---
