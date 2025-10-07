@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2025-10-07T21:34:10.058860", "bot_version": "2.4.0", "g
 [2025-10-07T21:34:24.245303] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬⫸・main-chat by 2_clickdeath: '🧢...' | ID: 1425234819083665498
 METADATA: {"timestamp": "2025-10-07T21:34:24.245252", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451022606339, "user_id": 1019698414839156817, "message_id": 1425234819083665498, "extra": {}}
 ---
+[2025-10-07T21:43:05.944020] [INFO] [MESSAGES] [MessageEdited] User echo058622 edited message in 💬⫸・main-chat: Before: 'not to mention, he banged a missing kid then uploa...' After: 'not to mention, he banged a missing kid then uploa...' | ID: 1425237019025735710
+METADATA: {"timestamp": "2025-10-07T21:43:05.943987", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451022606339, "user_id": 1309337550296449024, "message_id": 1425237019025735710, "extra": {}}
+---
