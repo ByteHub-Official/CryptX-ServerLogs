@@ -1,3 +1,6 @@
 [2025-10-08T18:07:35.742596] [WARNING] [ROLES] [RoleDeleted] Role 'CryptX Securities' deleted from CryptX [OFFICIAL]
 METADATA: {"timestamp": "2025-10-08T18:07:35.742548", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 26}}
 ---
+[2025-10-08T18:07:39.045702] [WARNING] [ROLES] [RoleDeleted] Role 'CryptX Logs' deleted from CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-10-08T18:07:39.045656", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 25}}
+---
