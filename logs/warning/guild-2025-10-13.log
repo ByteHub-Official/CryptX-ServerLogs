@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2025-10-13T16:03:29.075051", "bot_version": "2.4.0", "e
 [2025-10-13T16:51:25.733717] [WARNING] [GUILD] [BotDisconnect] Bot disconnected from Discord gateway
 METADATA: {"timestamp": "2025-10-13T16:51:25.733675", "bot_version": "2.4.0", "extra": {}}
 ---
+[2025-10-13T17:14:01.467257] [WARNING] [GUILD] [BotDisconnect] Bot disconnected from Discord gateway
+METADATA: {"timestamp": "2025-10-13T17:14:01.467208", "bot_version": "2.4.0", "extra": {}}
+---
