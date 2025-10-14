@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2025-10-14T23:43:37.902433", "bot_version": "2.4.0", "g
 [2025-10-14T23:48:24.497656] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🎫・support by 2_clickdeath: '/tik...' | ID: 1427805241490931886
 METADATA: {"timestamp": "2025-10-14T23:48:24.497613", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003276, "user_id": 1019698414839156817, "message_id": 1427805241490931886, "extra": {}}
 ---
+[2025-10-14T23:53:53.565746] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📜・changelog by XenBot#6444: '...' | ID: 1427805705775218759
+METADATA: {"timestamp": "2025-10-14T23:53:53.565703", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003270, "user_id": 1424075159576514771, "message_id": 1427805705775218759, "extra": {}}
+---
