@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-10-14T22:41:01.761007", "bot_version": "2.4.0", "g
 [2025-10-14T22:41:06.573616] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・cryptx-ai by 2_clickdeath: '`/setup log_channel:#📥⫸・moderation-logs ticket_category:1414964899032993882 welcome_channel:#🎉⫸・welc...' | ID: 1427787508246253719
 METADATA: {"timestamp": "2025-10-14T22:41:06.573568", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1427671849902280809, "user_id": 1019698414839156817, "message_id": 1427787508246253719, "extra": {}}
 ---
+[2025-10-14T22:45:16.605331] [INFO] [MESSAGES] [MessageEdited] User CryptX Securities Pro#8933 edited message in 📛・bot-logs: Before: '...' After: '...' | ID: 1427789382785564745
+METADATA: {"timestamp": "2025-10-14T22:45:16.605284", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540452, "user_id": 1419082446279938158, "message_id": 1427789382785564745, "extra": {}}
+---
