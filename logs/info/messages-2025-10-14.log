@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2025-10-14T23:31:57.332984", "bot_version": "2.4.0", "g
 [2025-10-14T23:43:37.902479] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in 💬・cryptx-ai: Before: 'who mad eyou...' After: 'who made you...' | ID: 1427804040779272383
 METADATA: {"timestamp": "2025-10-14T23:43:37.902433", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1427671849902280809, "user_id": 1019698414839156817, "message_id": 1427804040779272383, "extra": {}}
 ---
+[2025-10-14T23:48:24.497656] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🎫・support by 2_clickdeath: '/tik...' | ID: 1427805241490931886
+METADATA: {"timestamp": "2025-10-14T23:48:24.497613", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003276, "user_id": 1019698414839156817, "message_id": 1427805241490931886, "extra": {}}
+---
