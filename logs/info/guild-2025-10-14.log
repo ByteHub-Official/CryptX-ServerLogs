@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-10-14T14:47:00.541984", "bot_version": "2.4.0", "g
 [2025-10-14T14:47:13.341932] [INFO] [GUILD] [GuildJoined] Bot joined guild CryptX Services (3 members)
 METADATA: {"timestamp": "2025-10-14T14:47:13.341891", "bot_version": "2.4.0", "guild_id": 1425599046629720176, "extra": {}}
 ---
+[2025-10-14T14:47:32.571680] [INFO] [GUILD] [GuildJoined] Bot joined guild 0xHub (8 members)
+METADATA: {"timestamp": "2025-10-14T14:47:32.571630", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "extra": {}}
+---
