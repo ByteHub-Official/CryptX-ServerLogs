@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-10-14T23:39:09.611302", "bot_version": "2.4.0", "g
 [2025-10-14T23:44:26.326545] [WARNING] [MESSAGES] [BulkMessageDelete] 9 messages bulk-deleted in 💬・cryptx-ai
 METADATA: {"timestamp": "2025-10-14T23:44:26.326499", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1427671849902280809, "extra": {}}
 ---
+[2025-10-14T23:59:06.672110] [WARNING] [MESSAGES] [BulkMessageDelete] 4 messages bulk-deleted in 📜・changelog
+METADATA: {"timestamp": "2025-10-14T23:59:06.672058", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003270, "extra": {}}
+---
