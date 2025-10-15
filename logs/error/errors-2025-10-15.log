@@ -1,0 +1,3 @@
+[2025-10-15T06:41:29.933050] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1288919978111799420 name='junior0.o' global_name='Jr' bot=False nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=39>>,) {}
+METADATA: {"timestamp": "2025-10-15T06:41:29.933000", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1288919978111799420 name='junior0.o' global_name='Jr' bot=False nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=39>>,)", "kwargs": "{}"}}
+---
