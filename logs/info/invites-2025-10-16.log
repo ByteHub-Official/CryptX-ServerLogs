@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2025-10-16T18:20:33.632459", "bot_version": "2.4.0", "g
 [2025-10-16T22:22:28.697977] [INFO] [INVITES] [InviteCreated] Invite created in ByteHub: https://discord.gg/ZNXUHXAVT (Max uses: 0, Temporary: False)
 METADATA: {"timestamp": "2025-10-16T22:22:28.697934", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "extra": {"invite_code": "ZNXUHXAVT", "max_age": 5184000}}
 ---
+[2025-10-16T22:23:38.747685] [INFO] [INVITES] [InviteCreated] Invite created in ByteHub: https://discord.gg/njwQYNefkc (Max uses: 0, Temporary: False)
+METADATA: {"timestamp": "2025-10-16T22:23:38.747645", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "extra": {"invite_code": "njwQYNefkc", "max_age": 0}}
+---
