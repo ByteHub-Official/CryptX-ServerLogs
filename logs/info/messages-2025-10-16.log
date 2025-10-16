@@ -78,3 +78,6 @@ METADATA: {"timestamp": "2025-10-16T22:44:14.453782", "bot_version": "2.4.0", "g
 [2025-10-16T22:45:27.980667] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in 💬・general: Before: 'also this server will include ip doxxing and shi, ...' After: 'also this server will include ip doxxing and shi, ...' | ID: 1428514173532508223
 METADATA: {"timestamp": "2025-10-16T22:45:27.980629", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1428514173532508223, "extra": {}}
 ---
+[2025-10-16T22:46:53.847654] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🔗・our-server-ad by XenBot#6444: '...' | ID: 1428511752089505812
+METADATA: {"timestamp": "2025-10-16T22:46:53.847615", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003272, "user_id": 1424075159576514771, "message_id": 1428511752089505812, "extra": {}}
+---
