@@ -40,3 +40,6 @@ METADATA: {"timestamp": "2025-10-16T18:21:35.755427", "bot_version": "2.4.0", "e
 [2025-10-16T18:21:42.015146] [WARNING] [GUILD] [BotDisconnect] Bot disconnected from Discord gateway
 METADATA: {"timestamp": "2025-10-16T18:21:42.015102", "bot_version": "2.4.0", "extra": {}}
 ---
+[2025-10-16T18:24:26.002257] [WARNING] [GUILD] [GuildRemoved] Bot removed from guild GetFuckedByMohHaha
+METADATA: {"timestamp": "2025-10-16T18:24:26.002209", "bot_version": "2.4.0", "guild_id": 1425599046629720176, "extra": {}}
+---
