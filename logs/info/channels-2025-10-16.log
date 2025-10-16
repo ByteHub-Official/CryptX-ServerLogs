@@ -1,3 +1,6 @@
 [2025-10-16T12:46:14.994638] [INFO] [CHANNELS] [TextChannelCreated] TextChannel 'update-message-templates' created in 0xHub
 METADATA: {"timestamp": "2025-10-16T12:46:14.994582", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1428363411192021003, "extra": {}}
 ---
+[2025-10-16T18:20:42.846994] [INFO] [CHANNELS] [CategoryChannelDeleted] CategoryChannel 'CryptX Destroyer V2' deleted from GetFuckedByMohHaha
+METADATA: {"timestamp": "2025-10-16T18:20:42.846954", "bot_version": "2.4.0", "guild_id": 1425599046629720176, "channel_id": 1427412115056230543, "extra": {}}
+---
