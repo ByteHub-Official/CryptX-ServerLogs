@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-10-16T12:34:40.757671", "bot_version": "2.4.0", "g
 [2025-10-16T12:34:47.120524] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel '🔎・utility-logs' deleted from 0xHub
 METADATA: {"timestamp": "2025-10-16T12:34:47.120468", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540447, "extra": {}}
 ---
+[2025-10-16T18:20:41.398517] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'key-gen' deleted from GetFuckedByMohHaha
+METADATA: {"timestamp": "2025-10-16T18:20:41.398469", "bot_version": "2.4.0", "guild_id": 1425599046629720176, "channel_id": 1427412166436196442, "extra": {}}
+---
