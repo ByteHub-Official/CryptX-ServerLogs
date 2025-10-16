@@ -48,3 +48,6 @@ METADATA: {"timestamp": "2025-10-16T22:33:58.186838", "bot_version": "2.4.0", "g
 [2025-10-16T22:35:42.599404] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 🔗・our-server-ad: Before: '...' After: '...' | ID: 1428511752089505812
 METADATA: {"timestamp": "2025-10-16T22:35:42.599361", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003272, "user_id": 1424075159576514771, "message_id": 1428511752089505812, "extra": {}}
 ---
+[2025-10-16T22:35:49.993499] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🔗・our-server-ad by CryptX Securities Pro#8933: '...' | ID: 1428511313985929227
+METADATA: {"timestamp": "2025-10-16T22:35:49.993450", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003272, "user_id": 1419082446279938158, "message_id": 1428511313985929227, "extra": {}}
+---
