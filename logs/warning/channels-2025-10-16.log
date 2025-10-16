@@ -1,3 +1,6 @@
 [2025-10-16T12:34:32.184505] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel '📛・moderation-logs' deleted from 0xHub
 METADATA: {"timestamp": "2025-10-16T12:34:32.184454", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540446, "extra": {}}
 ---
+[2025-10-16T12:34:40.757720] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel '👥・invites' deleted from 0xHub
+METADATA: {"timestamp": "2025-10-16T12:34:40.757671", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540448, "extra": {}}
+---
