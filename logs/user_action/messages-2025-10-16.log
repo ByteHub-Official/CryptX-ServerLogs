@@ -71,3 +71,6 @@ METADATA: {"timestamp": "2025-10-16T18:22:59.259717", "bot_version": "2.4.0", "g
 [2025-10-16T18:23:03.294631] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in moh-bot-is-the-goat: +help | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-16T18:23:03.294583", "bot_version": "2.4.0", "guild_id": 1425599046629720176, "channel_id": 1428447569473830973, "user_id": 1019698414839156817, "message_id": 1428448170379313203, "extra": {}}
 ---
+[2025-10-16T21:07:25.838006] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in ticket-support-fba53525: Ready for V3? | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-16T21:07:25.837963", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1425600761190154281, "user_id": 1019698414839156817, "message_id": 1428489537297842277, "extra": {}}
+---
