@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-10-16T12:45:02.187864", "bot_version": "2.4.0", "g
 [2025-10-16T12:45:17.228379] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📤・guild-leave by 2_clickdeath: 'Coming Soon…...' | ID: 1428360249320149042
 METADATA: {"timestamp": "2025-10-16T12:45:17.228332", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540451, "user_id": 1019698414839156817, "message_id": 1428360249320149042, "extra": {}}
 ---
+[2025-10-16T12:45:38.299395] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📛・bot-logs by 2_clickdeath: 'hi...' | ID: 1428363233777029272
+METADATA: {"timestamp": "2025-10-16T12:45:38.299354", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540452, "user_id": 1019698414839156817, "message_id": 1428363233777029272, "extra": {}}
+---
