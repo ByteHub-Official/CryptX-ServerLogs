@@ -40,3 +40,8 @@ METADATA: {"timestamp": "2025-10-16T22:29:21.307429", "bot_version": "2.4.0", "g
 [2025-10-16T22:29:23.837028] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 📡・bot-status: Before: '...' After: '...' | ID: 1428510152935604341
 METADATA: {"timestamp": "2025-10-16T22:29:23.836982", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003271, "user_id": 1424075159576514771, "message_id": 1428510152935604341, "extra": {}}
 ---
+[2025-10-16T22:33:58.186870] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🔗・our-server-ad by 2_clickdeath: '**Join ByteHub: The Ultimate Dev & Cybersecurity Hub!** 💻🔒
+
+Ready to code, hack, and innovate? **Byt...' | ID: 1428511311066693725
+METADATA: {"timestamp": "2025-10-16T22:33:58.186838", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003272, "user_id": 1019698414839156817, "message_id": 1428511311066693725, "extra": {}}
+---
