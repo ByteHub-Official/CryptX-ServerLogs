@@ -1,3 +1,6 @@
 [2025-10-16T12:44:48.158178] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1172860775627493439 name='jinqo__' global_name='[AE] Jinqo__ (Very limited)' bot=False nick=None guild=<Guild id=1425539343480655886 name='0xHub' shard_id=0 chunked=True member_count=11>>,) {}
 METADATA: {"timestamp": "2025-10-16T12:44:48.158108", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1172860775627493439 name='jinqo__' global_name='[AE] Jinqo__ (Very limited)' bot=False nick=None guild=<Guild id=1425539343480655886 name='0xHub' shard_id=0 chunked=True member_count=11>>,)", "kwargs": "{}"}}
 ---
+[2025-10-16T12:51:00.672529] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1172860775627493439 name='jinqo__' global_name='[AE] Jinqo__ (Very limited)' bot=False nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=39>>,) {}
+METADATA: {"timestamp": "2025-10-16T12:51:00.672481", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1172860775627493439 name='jinqo__' global_name='[AE] Jinqo__ (Very limited)' bot=False nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=39>>,)", "kwargs": "{}"}}
+---
