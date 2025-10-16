@@ -75,3 +75,6 @@ METADATA: {"timestamp": "2025-10-16T22:43:56.047376", "bot_version": "2.4.0", "g
 [2025-10-16T22:44:14.453822] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🎫・support by 2_clickdeath: '/tik...' | ID: 1428513867465625723
 METADATA: {"timestamp": "2025-10-16T22:44:14.453782", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003276, "user_id": 1019698414839156817, "message_id": 1428513867465625723, "extra": {}}
 ---
+[2025-10-16T22:45:27.980667] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in 💬・general: Before: 'also this server will include ip doxxing and shi, ...' After: 'also this server will include ip doxxing and shi, ...' | ID: 1428514173532508223
+METADATA: {"timestamp": "2025-10-16T22:45:27.980629", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1428514173532508223, "extra": {}}
+---
