@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2025-10-16T12:34:03.077194", "bot_version": "2.4.0", "g
 [2025-10-16T12:34:12.853454] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 📛・moderation-logs: Coming Soon… | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-16T12:34:12.853414", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540446, "user_id": 1019698414839156817, "message_id": 1428360381671411793, "extra": {}}
 ---
+[2025-10-16T12:45:32.818772] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 📛・bot-logs: hi | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-16T12:45:32.818730", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540452, "user_id": 1019698414839156817, "message_id": 1428363233777029272, "extra": {}}
+---
