@@ -382,3 +382,6 @@ METADATA: {"timestamp": "2025-10-16T23:08:25.946513", "bot_version": "2.4.0", "g
 [2025-10-16T23:08:29.070760] [USER_ACTION] [MESSAGES] [MessageSent] User 2clickdeath sent message in 💬・general: retard | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-16T23:08:29.070720", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1428520001434026065, "extra": {}}
 ---
+[2025-10-16T23:08:32.186877] [USER_ACTION] [MESSAGES] [MessageSent] User r4t.x sent message in 💬・general: ... | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-16T23:08:32.186830", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 489595874423341057, "message_id": 1428520014650015904, "extra": {}}
+---
