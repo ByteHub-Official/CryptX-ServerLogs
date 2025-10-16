@@ -82,3 +82,6 @@ METADATA: {"timestamp": "2025-10-16T21:24:38.703629", "bot_version": "2.4.0", "g
 [2025-10-16T21:44:42.863627] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 📤・guild-leave:  | Attachments: 1 | Embeds: 0
 METADATA: {"timestamp": "2025-10-16T21:44:42.863585", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540451, "user_id": 1019698414839156817, "message_id": 1428498919603572767, "extra": {}}
 ---
+[2025-10-16T21:45:12.825606] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 📤・guild-leave: https://i.postimg.cc/N0hJnsz2/731-C2877-FE1-B-4309-BE88-75-CD7-D3-A4569.gif | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-16T21:45:12.825565", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540451, "user_id": 1019698414839156817, "message_id": 1428499045768368291, "extra": {}}
+---
