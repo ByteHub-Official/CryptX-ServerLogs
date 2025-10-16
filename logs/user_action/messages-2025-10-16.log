@@ -181,3 +181,6 @@ METADATA: {"timestamp": "2025-10-16T22:51:52.744898", "bot_version": "2.4.0", "g
 [2025-10-16T22:52:05.785360] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 💬・general: but discord isn’t one of their priorities | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-16T22:52:05.785318", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1428515877439017143, "extra": {}}
 ---
+[2025-10-16T22:53:46.881982] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 💬・general: <@489595874423341057> | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-16T22:53:46.881939", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1428516301491666986, "extra": {}}
+---
