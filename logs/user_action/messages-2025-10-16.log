@@ -379,3 +379,6 @@ METADATA: {"timestamp": "2025-10-16T23:08:22.157895", "bot_version": "2.4.0", "g
 [2025-10-16T23:08:25.946565] [USER_ACTION] [MESSAGES] [MessageSent] User 2clickdeath sent message in 💬・general: it doesn't apply ther | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-16T23:08:25.946513", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1428519988548866139, "extra": {}}
 ---
+[2025-10-16T23:08:29.070760] [USER_ACTION] [MESSAGES] [MessageSent] User 2clickdeath sent message in 💬・general: retard | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-16T23:08:29.070720", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1428520001434026065, "extra": {}}
+---
