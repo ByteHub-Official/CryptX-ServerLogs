@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-10-16T12:44:10.318927", "bot_version": "2.4.0", "g
 [2025-10-16T12:49:24.560758] [INFO] [INVITES] [InviteCreated] Invite created in CryptX [OFFICIAL]: https://discord.gg/tRw4fr8y (Max uses: 0, Temporary: False)
 METADATA: {"timestamp": "2025-10-16T12:49:24.560708", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"invite_code": "tRw4fr8y", "max_age": 604800}}
 ---
+[2025-10-16T18:20:33.632495] [INFO] [INVITES] [InviteCreated] Invite created in CryptX Services: https://discord.gg/Bf9kjhm (Max uses: 1, Temporary: False)
+METADATA: {"timestamp": "2025-10-16T18:20:33.632459", "bot_version": "2.4.0", "guild_id": 1425599046629720176, "extra": {"invite_code": "Bf9kjhm", "max_age": 300}}
+---
