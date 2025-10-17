@@ -14,3 +14,6 @@ METADATA: {"timestamp": "2025-10-17T15:42:50.892574", "bot_version": "2.4.0", "g
 [2025-10-17T19:35:11.799771] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 👋・joins-leaves: Before: '...' After: '...' | ID: 1428820826764874009
 METADATA: {"timestamp": "2025-10-17T19:35:11.799730", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003273, "user_id": 1424075159576514771, "message_id": 1428820826764874009, "extra": {}}
 ---
+[2025-10-17T19:35:14.599568] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 📥・guild-join: Before: '...' After: '...' | ID: 1428820827796668416
+METADATA: {"timestamp": "2025-10-17T19:35:14.599525", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540450, "user_id": 1424075159576514771, "message_id": 1428820827796668416, "extra": {}}
+---
