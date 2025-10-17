@@ -85,3 +85,6 @@ METADATA: {"timestamp": "2025-10-17T15:41:23.853892", "bot_version": "2.4.0", "g
 [2025-10-17T15:41:29.564537] [USER_ACTION] [MESSAGES] [MessageSent] User 2clickdeath sent message in 💬・general: blud | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-17T15:41:29.564497", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1428769900226285618, "extra": {}}
 ---
+[2025-10-17T15:41:33.359507] [USER_ACTION] [MESSAGES] [MessageSent] User 2clickdeath sent message in 💬・general: if thats the case | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-17T15:41:33.359452", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1428769916252717106, "extra": {}}
+---
