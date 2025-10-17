@@ -20,3 +20,6 @@ METADATA: {"timestamp": "2025-10-17T19:35:14.599525", "bot_version": "2.4.0", "g
 [2025-10-17T19:35:17.168971] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 📤・guild-leave: Before: '...' After: '...' | ID: 1428820825338941571
 METADATA: {"timestamp": "2025-10-17T19:35:17.168924", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345871540451, "user_id": 1424075159576514771, "message_id": 1428820825338941571, "extra": {}}
 ---
+[2025-10-17T20:32:51.845664] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📑・information by XenBot#6444: '🚫 Banned mxnhxeuv (ID: 1427105772243914854) - Account too new...' | ID: 1428820826299301959
+METADATA: {"timestamp": "2025-10-17T20:32:51.845620", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539344898199648, "user_id": 1424075159576514771, "message_id": 1428820826299301959, "extra": {}}
+---
