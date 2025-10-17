@@ -106,3 +106,6 @@ METADATA: {"timestamp": "2025-10-17T15:41:52.781789", "bot_version": "2.4.0", "g
 [2025-10-17T15:41:59.120350] [USER_ACTION] [MESSAGES] [MessageSent] User r4t.x sent message in 💬・general: so what | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-17T15:41:59.120304", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 489595874423341057, "message_id": 1428770024318832690, "extra": {}}
 ---
+[2025-10-17T15:42:49.843214] [USER_ACTION] [MESSAGES] [MessageSent] User 2clickdeath sent message in 💬・general: https://tenor.com/view/eye-roll-gif-4768025976970707122 | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-17T15:42:49.843133", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1428770237083287787, "extra": {}}
+---
