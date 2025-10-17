@@ -5,3 +5,6 @@ METADATA: {"timestamp": "2025-10-17T01:11:38.423751", "bot_version": "2.4.0", "g
 [2025-10-17T01:15:48.907619] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in 📪・staff-news: Before: '🎓・staff-chat...' After: '🚨・cryptx-destroyer-v3...' | ID: 1428551914525556817
 METADATA: {"timestamp": "2025-10-17T01:15:48.907575", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345695375436, "user_id": 1019698414839156817, "message_id": 1428551914525556817, "extra": {}}
 ---
+[2025-10-17T15:18:36.205297] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📡・bot-status by 2_clickdeath: '<@1419077819518025799>...' | ID: 1428764115484016731
+METADATA: {"timestamp": "2025-10-17T15:18:36.205249", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003271, "user_id": 1019698414839156817, "message_id": 1428764115484016731, "extra": {}}
+---
