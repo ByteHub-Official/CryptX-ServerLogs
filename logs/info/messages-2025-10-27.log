@@ -1,3 +1,6 @@
 [2025-10-27T22:25:18.323944] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 💬・general: Before: '...' After: '...' | ID: 1432495397909299290
 METADATA: {"timestamp": "2025-10-27T22:25:18.323912", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432495397909299290, "extra": {}}
 ---
+[2025-10-27T22:30:06.909193] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 💬・general: Before: '...' After: '...' | ID: 1432495397909299290
+METADATA: {"timestamp": "2025-10-27T22:30:06.909150", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432495397909299290, "extra": {}}
+---
