@@ -270,3 +270,6 @@ METADATA: {"timestamp": "2025-10-28T17:57:49.751038", "bot_version": "2.4.0", "g
 [2025-10-28T17:57:54.786653] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 🔔・announcements: lol | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-28T17:57:54.786604", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431443997431300096, "user_id": 1019698414839156817, "message_id": 1432790497902067754, "extra": {}}
 ---
+[2025-10-28T18:07:06.988654] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 📢⫸・announcements: @everyone Now selling discord tokens and accounts! | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-28T18:07:06.988613", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819450875678780, "user_id": 1019698414839156817, "message_id": 1432792814286012528, "extra": {}}
+---
