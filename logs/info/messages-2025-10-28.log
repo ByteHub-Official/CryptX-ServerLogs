@@ -46,3 +46,6 @@ METADATA: {"timestamp": "2025-10-28T15:40:05.061480", "bot_version": "2.4.0", "g
 [2025-10-28T15:45:30.859274] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・general by 2_clickdeath: '🔒...' | ID: 1432755323659092018
 METADATA: {"timestamp": "2025-10-28T15:45:30.859219", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1432755323659092018, "extra": {}}
 ---
+[2025-10-28T15:46:01.105510] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・general by XenBot#6444: 'Added command `leak`...' | ID: 1432757282088681545
+METADATA: {"timestamp": "2025-10-28T15:46:01.105467", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432757282088681545, "extra": {}}
+---
