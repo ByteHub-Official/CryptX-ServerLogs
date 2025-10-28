@@ -61,3 +61,10 @@ METADATA: {"timestamp": "2025-10-28T15:46:45.316389", "bot_version": "2.4.0", "g
 [2025-10-28T17:46:26.995105] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🚨・premium-chatbot-models by darknullbyte_: '<#1432581272567414826>...' | ID: 1432787594608902164
 METADATA: {"timestamp": "2025-10-28T17:46:26.995052", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431849712247373946, "user_id": 1141232275447631932, "message_id": 1432787594608902164, "extra": {}}
 ---
+[2025-10-28T17:55:55.896956] [INFO] [MESSAGES] [MessageEdited] User 2_clickdeath edited message in 🔔・announcements: Before: '🔥 @everyone HUGE ANNOUNCEMENT! 🔥
+
+🚨 IT’S FINALLY H...' After: '🔥 @everyone HUGE ANNOUNCEMENT! 🔥
+
+🚨 IT’S FINALLY H...' | ID: 1432789995168731478
+METADATA: {"timestamp": "2025-10-28T17:55:55.896902", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431443997431300096, "user_id": 1019698414839156817, "message_id": 1432789995168731478, "extra": {}}
+---
