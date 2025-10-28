@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2025-10-28T04:26:55.430907", "bot_version": "2.4.0", "g
 [2025-10-28T04:26:56.789916] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・general by darknullbyte_: '<@1019698414839156817>...' | ID: 1432586402368983052
 METADATA: {"timestamp": "2025-10-28T04:26:56.789882", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1432586402368983052, "extra": {}}
 ---
+[2025-10-28T04:28:53.613330] [INFO] [MESSAGES] [MessageEdited] User darknullbyte_ edited message in 💬・general: Before: 'I swsar...' After: 'I swear...' | ID: 1432586873607557211
+METADATA: {"timestamp": "2025-10-28T04:28:53.613288", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1141232275447631932, "message_id": 1432586873607557211, "extra": {}}
+---
