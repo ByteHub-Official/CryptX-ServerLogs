@@ -49,3 +49,6 @@ METADATA: {"timestamp": "2025-10-28T15:45:30.859219", "bot_version": "2.4.0", "g
 [2025-10-28T15:46:01.105510] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・general by XenBot#6444: 'Added command `leak`...' | ID: 1432757282088681545
 METADATA: {"timestamp": "2025-10-28T15:46:01.105467", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432757282088681545, "extra": {}}
 ---
+[2025-10-28T15:46:37.353546] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🔔・announcements by darknullbyte_: 'Gng promoting roblox games now. 🥀🥀🥀...' | ID: 1432578192736124948
+METADATA: {"timestamp": "2025-10-28T15:46:37.353496", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431443997431300096, "user_id": 1141232275447631932, "message_id": 1432578192736124948, "extra": {}}
+---
