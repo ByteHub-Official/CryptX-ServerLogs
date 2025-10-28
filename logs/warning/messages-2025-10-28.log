@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-10-28T04:32:12.493250", "bot_version": "2.4.0", "g
 [2025-10-28T04:32:20.396233] [WARNING] [MESSAGES] [BulkMessageDelete] 10 messages bulk-deleted in 💬・general
 METADATA: {"timestamp": "2025-10-28T04:32:20.396190", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "extra": {}}
 ---
+[2025-10-28T17:55:38.146628] [WARNING] [MESSAGES] [BulkMessageDelete] 7 messages bulk-deleted in 🚨・premium-chatbot-models
+METADATA: {"timestamp": "2025-10-28T17:55:38.146577", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431849712247373946, "extra": {}}
+---
