@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2025-10-28T04:24:52.412075", "bot_version": "2.4.0", "g
 [2025-10-28T04:36:26.401257] [INFO] [REACTIONS] [ReactionAdded] User XenBot#6444 added ▶️ to message by XenBot#6444 in 💬・general
 METADATA: {"timestamp": "2025-10-28T04:36:26.401207", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432588792216162408, "extra": {}}
 ---
+[2025-10-28T04:36:29.187835] [INFO] [REACTIONS] [ReactionAdded] User XenBot#6444 added ⚙️ to message by XenBot#6444 in 💬・general
+METADATA: {"timestamp": "2025-10-28T04:36:29.187773", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432588792216162408, "extra": {}}
+---
