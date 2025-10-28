@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2025-10-28T04:36:32.894215", "bot_version": "2.4.0", "g
 [2025-10-28T15:40:05.061536] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📑・information by XenBot#6444: '...' | ID: 1432754746527187054
 METADATA: {"timestamp": "2025-10-28T15:40:05.061480", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539344898199648, "user_id": 1424075159576514771, "message_id": 1432754746527187054, "extra": {}}
 ---
+[2025-10-28T15:45:30.859274] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・general by 2_clickdeath: '🔒...' | ID: 1432755323659092018
+METADATA: {"timestamp": "2025-10-28T15:45:30.859219", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1432755323659092018, "extra": {}}
+---
