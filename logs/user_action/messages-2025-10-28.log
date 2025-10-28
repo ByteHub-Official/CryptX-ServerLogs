@@ -93,3 +93,6 @@ METADATA: {"timestamp": "2025-10-28T04:20:55.267949", "bot_version": "2.4.0", "g
 [2025-10-28T04:21:00.385943] [USER_ACTION] [MESSAGES] [MessageSent] User lyzeyz sent message in 💬・general: so i can announce | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-10-28T04:21:00.385903", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 911110729036333108, "message_id": 1432584916914147409, "extra": {}}
 ---
+[2025-10-28T04:21:39.357872] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 💬・general: `/kick @lyzeyz ` is what i'ma do💀 ian know you | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-28T04:21:39.357827", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1019698414839156817, "message_id": 1432585080341139578, "extra": {}}
+---
