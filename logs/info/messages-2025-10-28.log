@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-10-28T04:36:24.984765", "bot_version": "2.4.0", "g
 [2025-10-28T04:36:27.748626] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 💬・general: Before: '...' After: '...' | ID: 1432588792216162408
 METADATA: {"timestamp": "2025-10-28T04:36:27.748578", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432588792216162408, "extra": {}}
 ---
+[2025-10-28T04:36:32.894257] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬・general by XenBot#6444: '...' | ID: 1432588792216162408
+METADATA: {"timestamp": "2025-10-28T04:36:32.894215", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003275, "user_id": 1424075159576514771, "message_id": 1432588792216162408, "extra": {}}
+---
