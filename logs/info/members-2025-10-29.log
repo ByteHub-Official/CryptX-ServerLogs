@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2025-10-29T16:35:22.932279", "bot_version": "2.4.0", "g
 [2025-10-29T17:11:11.552718] [INFO] [MEMBERS] [MemberLeft] Member Verification#0189 (1429588572045967481) left ByteHub
 METADATA: {"timestamp": "2025-10-29T17:11:11.552685", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1429588572045967481, "extra": {}}
 ---
+[2025-10-29T23:18:26.150263] [INFO] [MEMBERS] [MemberLeft] Member thejboy911 (1244119006487773246) left ByteHub
+METADATA: {"timestamp": "2025-10-29T23:18:26.150211", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1244119006487773246, "extra": {}}
+---
