@@ -1,3 +1,6 @@
 [2025-10-29T03:37:59.731430] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1336468922802638869 name='blud__killer' global_name='bludkiller' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=19>>,) {}
 METADATA: {"timestamp": "2025-10-29T03:37:59.731380", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1336468922802638869 name='blud__killer' global_name='bludkiller' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=19>>,)", "kwargs": "{}"}}
 ---
+[2025-10-29T14:46:26.278032] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1382782567710982154 name='rich037750' global_name='Rich' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=20>>,) {}
+METADATA: {"timestamp": "2025-10-29T14:46:26.277988", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1382782567710982154 name='rich037750' global_name='Rich' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=20>>,)", "kwargs": "{}"}}
+---
