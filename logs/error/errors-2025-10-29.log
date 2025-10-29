@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2025-10-29T23:18:13.127691", "bot_version": "2.4.0", "e
 [2025-10-29T23:29:24.062463] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1212374489812443139 name='mango__mods' global_name='MangoMods' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=23>>,) {}
 METADATA: {"timestamp": "2025-10-29T23:29:24.062424", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1212374489812443139 name='mango__mods' global_name='MangoMods' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=23>>,)", "kwargs": "{}"}}
 ---
+[2025-10-29T23:30:34.065638] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1428531905791262828 name='zenn434' global_name='! Zenn' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=24>>,) {}
+METADATA: {"timestamp": "2025-10-29T23:30:34.065596", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1428531905791262828 name='zenn434' global_name='! Zenn' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=24>>,)", "kwargs": "{}"}}
+---
