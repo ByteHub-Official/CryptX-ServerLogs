@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2025-10-29T23:10:58.553739", "bot_version": "2.4.0", "e
 [2025-10-29T23:11:42.434658] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=432691911900266527 name='jd21c' global_name='Jesús' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=21>>,) {}
 METADATA: {"timestamp": "2025-10-29T23:11:42.434613", "bot_version": "2.4.0", "extra": {"args": "(<Member id=432691911900266527 name='jd21c' global_name='Jes\u00fas' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=21>>,)", "kwargs": "{}"}}
 ---
+[2025-10-29T23:15:29.823891] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1430694777804030077 name='caprigotehotsauce' global_name='caprigotehotsauce🍀' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=22>>,) {}
+METADATA: {"timestamp": "2025-10-29T23:15:29.823849", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1430694777804030077 name='caprigotehotsauce' global_name='caprigotehotsauce\ud83c\udf40' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=22>>,)", "kwargs": "{}"}}
+---
