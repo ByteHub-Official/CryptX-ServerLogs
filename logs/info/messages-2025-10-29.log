@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-10-29T16:34:00.937239", "bot_version": "2.4.0", "g
 [2025-10-29T16:41:06.340385] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📑・information by XenBot#6444: '🚫 Banned mcnaomionaoe845 (ID: 1432397223420756101) - Account too new...' | ID: 1433131613386047630
 METADATA: {"timestamp": "2025-10-29T16:41:06.340341", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539344898199648, "user_id": 1424075159576514771, "message_id": 1433131613386047630, "extra": {}}
 ---
+[2025-10-29T16:41:09.802187] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📑・information by XenBot#6444: '🚫 Banned tgeqkydh_35207 (ID: 1432794418804555797) - Account too new...' | ID: 1433132110331510949
+METADATA: {"timestamp": "2025-10-29T16:41:09.802136", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539344898199648, "user_id": 1424075159576514771, "message_id": 1433132110331510949, "extra": {}}
+---
