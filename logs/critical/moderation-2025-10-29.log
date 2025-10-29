@@ -1,0 +1,3 @@
+[2025-10-29T16:33:23.033691] [CRITICAL] [MODERATION] [MemberBanned] User mcnaomionaoe845 (1432397223420756101) was banned from ByteHub
+METADATA: {"timestamp": "2025-10-29T16:33:23.033659", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1432397223420756101, "extra": {"moderation_action": true}}
+---
