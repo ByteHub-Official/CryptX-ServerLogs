@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-10-29T16:33:22.059410", "bot_version": "2.4.0", "e
 [2025-10-29T16:35:20.592999] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1432794418804555797 name='tgeqkydh_35207' global_name='Account' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=21>>,) {}
 METADATA: {"timestamp": "2025-10-29T16:35:20.592957", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1432794418804555797 name='tgeqkydh_35207' global_name='Account' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=21>>,)", "kwargs": "{}"}}
 ---
+[2025-10-29T23:10:58.553817] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1395107861859795117 name='cookie003927' global_name='Mr rune' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=20>>,) {}
+METADATA: {"timestamp": "2025-10-29T23:10:58.553739", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1395107861859795117 name='cookie003927' global_name='Mr rune' bot=False nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=20>>,)", "kwargs": "{}"}}
+---
