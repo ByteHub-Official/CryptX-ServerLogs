@@ -1,3 +1,6 @@
 [2025-10-30T23:29:03.386458] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🔐・staff-commands by 2_clickdeath: '`/setup log_channel:#📛・bot-logs ticket_category:1425540679798489148 welcome_channel:#👋・joins-leaves ...' | ID: 1433598549488046122
 METADATA: {"timestamp": "2025-10-30T23:29:03.386401", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345695375438, "user_id": 1019698414839156817, "message_id": 1433598549488046122, "extra": {}}
 ---
+[2025-10-30T23:42:37.464875] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🔔・announcements by 2_clickdeath: '🧑・self-roles...' | ID: 1433601134454636744
+METADATA: {"timestamp": "2025-10-30T23:42:37.464834", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431443997431300096, "user_id": 1019698414839156817, "message_id": 1433601134454636744, "extra": {}}
+---
