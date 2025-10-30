@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-10-30T23:56:18.534073", "bot_version": "2.4.0", "g
 [2025-10-30T23:56:32.192483] [INFO] [VOICE] [VoiceStatusChange] 2_clickdeath self-muted in ByteHub
 METADATA: {"timestamp": "2025-10-30T23:56:32.192437", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1019698414839156817, "extra": {}}
 ---
+[2025-10-30T23:56:35.282826] [INFO] [VOICE] [VoiceStatusChange] snowexploits self-muted in ByteHub
+METADATA: {"timestamp": "2025-10-30T23:56:35.282783", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1376217565952479425, "extra": {}}
+---
