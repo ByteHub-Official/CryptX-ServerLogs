@@ -25,3 +25,6 @@ METADATA: {"timestamp": "2025-10-30T23:55:44.594276", "bot_version": "2.4.0", "g
 [2025-10-30T23:55:47.218570] [INFO] [VOICE] [VoiceStatusChange] 2_clickdeath self-muted in ByteHub
 METADATA: {"timestamp": "2025-10-30T23:55:47.218530", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1019698414839156817, "extra": {}}
 ---
+[2025-10-30T23:55:52.308438] [INFO] [VOICE] [VoiceStatusChange] 2_clickdeath self-unmuted in ByteHub
+METADATA: {"timestamp": "2025-10-30T23:55:52.308394", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1019698414839156817, "extra": {}}
+---
