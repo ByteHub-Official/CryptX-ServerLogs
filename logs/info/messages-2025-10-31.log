@@ -38,3 +38,6 @@ METADATA: {"timestamp": "2025-10-31T20:09:50.767523", "bot_version": "2.4.0", "g
 [2025-10-31T20:11:02.149255] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 🧑・self-roles: Before: '...' After: '...' | ID: 1433601593705758851
 METADATA: {"timestamp": "2025-10-31T20:11:02.149216", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1433601174703181985, "user_id": 1424075159576514771, "message_id": 1433601593705758851, "extra": {}}
 ---
+[2025-10-31T22:21:44.152300] [INFO] [MESSAGES] [MessageEdited] User XenBot#6444 edited message in 👋・joins-leaves: Before: '...' After: '...' | ID: 1433910860425986132
+METADATA: {"timestamp": "2025-10-31T22:21:44.152246", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003273, "user_id": 1424075159576514771, "message_id": 1433910860425986132, "extra": {}}
+---
