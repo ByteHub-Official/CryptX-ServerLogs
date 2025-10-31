@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2025-10-31T01:04:31.834621", "bot_version": "2.4.0", "g
 [2025-10-31T01:04:38.270846] [INFO] [VOICE] [VoiceChannelJoin] darknullbyte_ joined voice channel '🔊・General' in ByteHub
 METADATA: {"timestamp": "2025-10-31T01:04:38.270796", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345695375431, "user_id": 1141232275447631932, "extra": {}}
 ---
+[2025-10-31T01:06:23.617270] [INFO] [VOICE] [VoiceChannelLeave] darknullbyte_ left voice channel '🔊・General' in ByteHub
+METADATA: {"timestamp": "2025-10-31T01:06:23.617224", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345695375431, "user_id": 1141232275447631932, "extra": {}}
+---
