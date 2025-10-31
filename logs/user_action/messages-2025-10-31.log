@@ -9,3 +9,6 @@ METADATA: {"timestamp": "2025-10-31T00:40:44.190279", "bot_version": "2.4.0", "g
 [2025-10-31T00:42:55.691861] [USER_ACTION] [MESSAGES] [MessageSent] User darknullbyte_ sent message in 🔔・announcements:  | Attachments: 4 | Embeds: 0
 METADATA: {"timestamp": "2025-10-31T00:42:55.691816", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1431443997431300096, "user_id": 1141232275447631932, "message_id": 1433617198580109414, "extra": {}}
 ---
+[2025-10-31T01:02:13.670893] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in message-templates: `/setup log_channel: #:name_badge:・bot-logs ticket_category: 1425540679798489148 welcome_channel: #:wave:・joins-leaves guild_join_channel: #:inbox_tray:・guild-join guild_leave_channel: #:outbox_tray:・... | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-10-31T01:02:13.670840", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1428363411192021003, "user_id": 1019698414839156817, "message_id": 1433622056003702824, "extra": {}}
+---
