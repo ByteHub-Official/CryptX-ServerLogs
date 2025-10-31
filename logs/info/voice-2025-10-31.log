@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2025-10-31T01:06:30.553801", "bot_version": "2.4.0", "g
 [2025-10-31T01:20:30.071899] [INFO] [VOICE] [VoiceChannelJoin] snowexploits joined voice channel '🔊・General' in ByteHub
 METADATA: {"timestamp": "2025-10-31T01:20:30.071845", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345695375431, "user_id": 1376217565952479425, "extra": {}}
 ---
+[2025-10-31T01:22:18.487697] [INFO] [VOICE] [VoiceChannelLeave] snowexploits left voice channel '🔊・General' in ByteHub
+METADATA: {"timestamp": "2025-10-31T01:22:18.487646", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345695375431, "user_id": 1376217565952479425, "extra": {}}
+---
