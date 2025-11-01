@@ -1,0 +1,3 @@
+[2025-11-01T00:00:04.152735] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1429588572045967481 name='Verification' global_name=None bot=True nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=26>>,) {}
+METADATA: {"timestamp": "2025-11-01T00:00:04.152695", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1429588572045967481 name='Verification' global_name=None bot=True nick=None guild=<Guild id=1425539343480655886 name='ByteHub' shard_id=0 chunked=True member_count=26>>,)", "kwargs": "{}"}}
+---
