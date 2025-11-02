@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-02T21:05:33.005806", "bot_version": "2.4.0", "g
 [2025-11-02T21:24:44.224831] [WARNING] [ROLES] [RoleDeleted] Role 'Charge Members' deleted from CryptX [OFFICIAL]
 METADATA: {"timestamp": "2025-11-02T21:24:44.224788", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 1}}
 ---
+[2025-11-02T21:27:01.689689] [WARNING] [ROLES] [RoleDeleted] Role 'Charge Members' deleted from CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-11-02T21:27:01.689655", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 1}}
+---
