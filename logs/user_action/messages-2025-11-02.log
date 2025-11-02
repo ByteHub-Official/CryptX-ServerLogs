@@ -34,3 +34,6 @@ METADATA: {"timestamp": "2025-11-02T21:06:13.202951", "bot_version": "2.4.0", "g
 [2025-11-02T21:06:36.351691] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in ⫸・staff-commands: /setup log_channel:<#1414819451286720533> ticket_category:1414964899032993882 welcome_channel:<#1414819450875678776> unverified_role:<@&1414819449474908194> support_roles:Staff | Moderator, Staff | Ad... | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-11-02T21:06:36.351651", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451131400290, "user_id": 1019698414839156817, "message_id": 1434649923579809904, "extra": {}}
 ---
+[2025-11-02T21:08:39.833454] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in ⫸・staff-commands: `/setup log_channel:#📥⫸・moderation-logs ticket_category:1414964899032993882 welcome_channel:#🎉⫸・welcome guild_join_channel:#📥⫸・moderation-logs guild_leave_channel:#📥⫸・moderation-logs unverified_role:@... | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-11-02T21:08:39.833404", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "channel_id": 1414819451131400290, "user_id": 1019698414839156817, "message_id": 1434650441177895003, "extra": {}}
+---
