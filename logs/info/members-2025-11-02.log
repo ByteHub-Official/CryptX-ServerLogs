@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-11-02T21:39:09.139107", "bot_version": "2.4.0", "g
 [2025-11-02T21:48:08.003708] [INFO] [MEMBERS] [MemberLeft] Member Charge Members#1554 (1434608227227664546) left CryptX [OFFICIAL]
 METADATA: {"timestamp": "2025-11-02T21:48:08.003665", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "user_id": 1434608227227664546, "extra": {}}
 ---
+[2025-11-02T21:49:08.130798] [INFO] [MEMBERS] [MemberLeft] Member XenBot#6444 (1424075159576514771) left CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-11-02T21:49:08.130763", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "user_id": 1424075159576514771, "extra": {}}
+---
