@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-02T17:19:04.729619", "bot_version": "2.4.0", "g
 [2025-11-02T17:19:24.754292] [WARNING] [ROLES] [RoleDeleted] Role 'XenBot' deleted from ByteHub
 METADATA: {"timestamp": "2025-11-02T17:19:24.754239", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "extra": {"role_position": 17}}
 ---
+[2025-11-02T21:05:26.751803] [WARNING] [ROLES] [RoleDeleted] Role 'Charge Members' deleted from CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-11-02T21:05:26.751768", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 1}}
+---
