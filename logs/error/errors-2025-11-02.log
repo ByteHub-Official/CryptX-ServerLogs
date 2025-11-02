@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-02T19:08:31.171020", "bot_version": "2.4.0", "e
 [2025-11-02T21:05:24.012486] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1434608227227664546 name='Charge Members' global_name=None bot=True nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=40>>,) {}
 METADATA: {"timestamp": "2025-11-02T21:05:24.012442", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1434608227227664546 name='Charge Members' global_name=None bot=True nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=40>>,)", "kwargs": "{}"}}
 ---
+[2025-11-02T21:06:02.428967] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1434608227227664546 name='Charge Members' global_name=None bot=True nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=40>>,) {}
+METADATA: {"timestamp": "2025-11-02T21:06:02.428933", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1434608227227664546 name='Charge Members' global_name=None bot=True nick=None guild=<Guild id=1414819449474908192 name='CryptX [OFFICIAL]' shard_id=0 chunked=True member_count=40>>,)", "kwargs": "{}"}}
+---
