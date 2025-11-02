@@ -1,3 +1,6 @@
 [2025-11-02T14:41:43.651283] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in message-templates: ```/setup log_channel: #📛・bot-logs ticket_category: 1425540679798489148 welcome_channel: #👋・joins-leaves guild_join_channel: #📥・guild-join guild_leave_channel: #📤・guild-leave unverified_role: @Members... | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-11-02T14:41:43.651240", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1428363411192021003, "user_id": 1019698414839156817, "message_id": 1434553065759051786, "extra": {}}
 ---
+[2025-11-02T15:18:39.789152] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in 📡・bot-status: @everyone <@1424075159576514771> is undergoing a major server fail. | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-11-02T15:18:39.789104", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "channel_id": 1425539345431003271, "user_id": 1019698414839156817, "message_id": 1434562360730714133, "extra": {}}
+---
