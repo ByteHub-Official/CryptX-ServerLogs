@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-02T17:41:41.249157", "bot_version": "2.4.0", "g
 [2025-11-02T17:42:00.264558] [INFO] [MEMBERS] [MemberLeft] Member jinqo__ (1172860775627493439) left ByteHub
 METADATA: {"timestamp": "2025-11-02T17:42:00.264517", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1172860775627493439, "extra": {}}
 ---
+[2025-11-02T19:08:54.753554] [INFO] [MEMBERS] [MemberLeft] Member devoucus (403251716591583232) left CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-11-02T19:08:54.753511", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "user_id": 403251716591583232, "extra": {}}
+---
