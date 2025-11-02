@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2025-11-02T21:48:06.552282", "bot_version": "2.4.0", "g
 [2025-11-02T21:49:07.140231] [WARNING] [ROLES] [RoleDeleted] Role 'XenBot' deleted from CryptX [OFFICIAL]
 METADATA: {"timestamp": "2025-11-02T21:49:07.140158", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 1}}
 ---
+[2025-11-02T21:57:17.707145] [WARNING] [ROLES] [RoleDeleted] Role 'Charge Members' deleted from CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-11-02T21:57:17.707101", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "extra": {"role_position": 1}}
+---
