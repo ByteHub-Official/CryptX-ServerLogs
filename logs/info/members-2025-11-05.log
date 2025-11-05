@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-11-05T11:05:59.693124", "bot_version": "2.4.0", "g
 [2025-11-05T17:49:47.999383] [INFO] [MEMBERS] [MemberLeft] Member x.cxp (817343689277308969) left CryptX [OFFICIAL]
 METADATA: {"timestamp": "2025-11-05T17:49:47.993708", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "user_id": 817343689277308969, "extra": {}}
 ---
+[2025-11-05T17:52:44.532518] [INFO] [MEMBERS] [MemberLeft] Member r4t.x (489595874423341057) left CryptX [OFFICIAL]
+METADATA: {"timestamp": "2025-11-05T17:52:44.532272", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "user_id": 489595874423341057, "extra": {}}
+---
