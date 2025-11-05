@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2025-11-05T17:49:47.993708", "bot_version": "2.4.0", "g
 [2025-11-05T17:52:44.532518] [INFO] [MEMBERS] [MemberLeft] Member r4t.x (489595874423341057) left CryptX [OFFICIAL]
 METADATA: {"timestamp": "2025-11-05T17:52:44.532272", "bot_version": "2.4.0", "guild_id": 1414819449474908192, "user_id": 489595874423341057, "extra": {}}
 ---
+[2025-11-05T17:53:55.362053] [INFO] [MEMBERS] [MemberLeft] Member .5st (1321529378991112224) left ByteHub
+METADATA: {"timestamp": "2025-11-05T17:53:55.361374", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1321529378991112224, "extra": {}}
+---
