@@ -68,3 +68,6 @@ METADATA: {"timestamp": "2025-11-06T17:16:01.961672", "bot_version": "2.4.0", "g
 *(Custom-coded Discord bots — no templates, full ownership ...' | ID: 1436132815472296037
 METADATA: {"timestamp": "2025-11-06T17:19:15.937249", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206148, "user_id": 1019698414839156817, "message_id": 1436132815472296037, "extra": {}}
 ---
+[2025-11-06T17:19:21.137796] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 🌵》prices: Before: '...' After: '...' | ID: 1436132880194732144
+METADATA: {"timestamp": "2025-11-06T17:19:21.137748", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206148, "user_id": 1436125663378673875, "message_id": 1436132880194732144, "extra": {}}
+---
