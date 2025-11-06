@@ -86,3 +86,6 @@ METADATA: {"timestamp": "2025-11-06T17:28:25.806277", "bot_version": "2.4.0", "g
 [2025-11-06T17:30:08.283798] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 🤝》partner: Before: '...' After: '...' | ID: 1436135595222237204
 METADATA: {"timestamp": "2025-11-06T17:30:08.283751", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206149, "user_id": 1436125663378673875, "message_id": 1436135595222237204, "extra": {}}
 ---
+[2025-11-06T17:30:14.879666] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🤝》partner by XenBot#7688: '...' | ID: 1436134996388614207
+METADATA: {"timestamp": "2025-11-06T17:30:14.879628", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206149, "user_id": 1436125663378673875, "message_id": 1436134996388614207, "extra": {}}
+---
