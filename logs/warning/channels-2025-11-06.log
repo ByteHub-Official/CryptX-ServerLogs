@@ -1,3 +1,6 @@
 [2025-11-06T17:03:04.550855] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'ticket-0009' deleted from ShadowT3ch
 METADATA: {"timestamp": "2025-11-06T17:03:04.550798", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118895110131729, "extra": {}}
 ---
+[2025-11-06T17:03:10.664501] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'ticket-0010' deleted from ShadowT3ch
+METADATA: {"timestamp": "2025-11-06T17:03:10.664438", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118895110131730, "extra": {}}
+---
