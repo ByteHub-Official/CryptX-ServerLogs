@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2025-11-06T16:45:02.357925", "bot_version": "2.4.0", "g
 [2025-11-06T16:48:26.117731] [INFO] [MEMBERS] [MemberLeft] Member CryptX Securities#7443 (1419077819518025799) left ByteHub
 METADATA: {"timestamp": "2025-11-06T16:48:26.117297", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1419077819518025799, "extra": {}}
 ---
+[2025-11-06T16:50:18.311465] [INFO] [MEMBERS] [MemberLeft] Member XenBot#6444 (1424075159576514771) left ByteHub
+METADATA: {"timestamp": "2025-11-06T16:50:18.311260", "bot_version": "2.4.0", "guild_id": 1425539343480655886, "user_id": 1424075159576514771, "extra": {}}
+---
