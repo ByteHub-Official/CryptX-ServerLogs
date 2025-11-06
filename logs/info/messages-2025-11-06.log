@@ -80,3 +80,6 @@ METADATA: {"timestamp": "2025-11-06T17:27:45.761594", "bot_version": "2.4.0", "g
 [2025-11-06T17:27:51.872723] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 🤝》partner by XenBot#7688: '...' | ID: 1436133765633282098
 METADATA: {"timestamp": "2025-11-06T17:27:51.872688", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206149, "user_id": 1436125663378673875, "message_id": 1436133765633282098, "extra": {}}
 ---
+[2025-11-06T17:28:25.806313] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》staff-commands by 2_clickdeath: '`/setup log_channel:#⛔》server-logs ticket_category:1436118895110131728 welcome_channel:#👋🏻》welcome g...' | ID: 1436131331716157620
+METADATA: {"timestamp": "2025-11-06T17:28:25.806277", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894870925471, "user_id": 1019698414839156817, "message_id": 1436131331716157620, "extra": {}}
+---
