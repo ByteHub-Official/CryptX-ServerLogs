@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-06T12:04:53.662243", "bot_version": "2.4.0", "e
 [2025-11-06T16:29:36.281474] [INFO] [GUILD] [GuildJoined] Bot joined guild ShadowT3ch (3 members)
 METADATA: {"timestamp": "2025-11-06T16:29:36.281337", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "extra": {}}
 ---
+[2025-11-06T16:59:48.334728] [INFO] [GUILD] [BotStartup] Connected to 0 guilds: 
+METADATA: {"timestamp": "2025-11-06T16:59:48.334677", "bot_version": "2.4.0", "extra": {}}
+---
