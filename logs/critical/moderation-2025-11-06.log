@@ -1,3 +1,6 @@
 [2025-11-06T16:41:53.189657] [CRITICAL] [MODERATION] [MemberBanned] User ShadowT3ch Security Pro#8634 (1436123214668501134) was banned from ShadowT3ch
 METADATA: {"timestamp": "2025-11-06T16:41:53.189616", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436123214668501134, "extra": {"moderation_action": true}}
 ---
+[2025-11-06T17:00:06.908522] [CRITICAL] [MODERATION] [MemberBanned] User Shadowt3ch Logs#0814 (1436127446918238291) was banned from ShadowT3ch
+METADATA: {"timestamp": "2025-11-06T17:00:06.908493", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436127446918238291, "extra": {"moderation_action": true}}
+---
