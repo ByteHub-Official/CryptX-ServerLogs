@@ -61,3 +61,6 @@ METADATA: {"timestamp": "2025-11-06T17:13:38.395817", "bot_version": "2.4.0", "g
 [2025-11-06T17:15:45.542396] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 👥》self-roles: Before: '...' After: '...' | ID: 1436131971612016741
 METADATA: {"timestamp": "2025-11-06T17:15:45.542365", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436130972231012382, "user_id": 1436125663378673875, "message_id": 1436131971612016741, "extra": {}}
 ---
+[2025-11-06T17:16:01.961717] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 📭》tickets: Before: '...' After: '...' | ID: 1436132045410537492
+METADATA: {"timestamp": "2025-11-06T17:16:01.961672", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206154, "user_id": 1436125663378673875, "message_id": 1436132045410537492, "extra": {}}
+---
