@@ -100,3 +100,6 @@ METADATA: {"timestamp": "2025-11-06T17:31:57.728810", "bot_version": "2.4.0", "g
 [2025-11-06T17:32:18.615418] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1436136050987630643
 METADATA: {"timestamp": "2025-11-06T17:32:18.615380", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899996, "user_id": 1436125663378673875, "message_id": 1436136050987630643, "extra": {}}
 ---
+[2025-11-06T17:40:51.815143] [INFO] [MESSAGES] [MessageEdited] User automod#0000 edited message in 📌》notices: Before: '...' After: '...' | ID: 1436138268948434975
+METADATA: {"timestamp": "2025-11-06T17:40:51.815091", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899998, "user_id": 1008776202191634432, "message_id": 1436138268948434975, "extra": {}}
+---
