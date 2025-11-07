@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2025-11-07T09:13:22.464209", "bot_version": "2.4.0", "g
 [2025-11-07T09:13:25.537096] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 👋🏻》welcome by 2_clickdeath: 'https://discord.com/oauth2/authorize?client_id=1436372140675829880...' | ID: 1436372882253942825
 METADATA: {"timestamp": "2025-11-07T09:13:25.537047", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899996, "user_id": 1019698414839156817, "message_id": 1436372882253942825, "extra": {}}
 ---
+[2025-11-07T09:13:26.379802] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1436372947362254979
+METADATA: {"timestamp": "2025-11-07T09:13:26.379753", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436123214668501134, "message_id": 1436372947362254979, "extra": {}}
+---
