@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2025-11-08T15:34:34.158636", "bot_version": "2.4.0", "g
 [2025-11-08T15:34:34.906707] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1436831260973465794
 METADATA: {"timestamp": "2025-11-08T15:34:34.906680", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899996, "user_id": 1436125663378673875, "message_id": 1436831260973465794, "extra": {}}
 ---
+[2025-11-08T15:36:29.414787] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in 💬》general-1: Before: '...' After: '...' | ID: 1436831762948034722
+METADATA: {"timestamp": "2025-11-08T15:36:29.414744", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1436123214668501134, "message_id": 1436831762948034722, "extra": {}}
+---
