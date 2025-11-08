@@ -145,3 +145,6 @@ METADATA: {"timestamp": "2025-11-08T15:38:46.892404", "bot_version": "2.4.0", "g
 [2025-11-08T15:39:00.253480] [USER_ACTION] [MESSAGES] [MessageSent] User echo058622 sent message in 💬》general-1: ah | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-11-08T15:39:00.253428", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1309337550296449024, "message_id": 1436832404139675739, "extra": {}}
 ---
+[2025-11-08T15:39:14.295625] [USER_ACTION] [MESSAGES] [MessageSent] User 2_click_death sent message in 💬》general-1: also if account is brand new it auto bans | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-11-08T15:39:14.295587", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1436832463186821363, "extra": {}}
+---
