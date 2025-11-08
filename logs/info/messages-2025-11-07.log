@@ -58,3 +58,6 @@ METADATA: {"timestamp": "2025-11-07T19:25:41.460900", "bot_version": "2.4.0", "g
 [2025-11-07T19:25:48.795028] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》server-logs by 2_click_death: '<@1436372140675829880>...' | ID: 1436516899465855007
 METADATA: {"timestamp": "2025-11-07T19:25:48.794992", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1019698414839156817, "message_id": 1436516899465855007, "extra": {}}
 ---
+[2025-11-07T19:25:52.689784] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》server-logs by ShadowT3ch Security Pro#8634: '...' | ID: 1436408830824284341
+METADATA: {"timestamp": "2025-11-07T19:25:52.689731", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436123214668501134, "message_id": 1436408830824284341, "extra": {}}
+---
