@@ -148,3 +148,6 @@ METADATA: {"timestamp": "2025-11-08T16:22:28.426860", "bot_version": "2.4.0", "g
 [2025-11-08T16:24:05.023862] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1436843342494437477
 METADATA: {"timestamp": "2025-11-08T16:24:05.023556", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436125663378673875, "message_id": 1436843342494437477, "extra": {}}
 ---
+[2025-11-08T16:24:05.896294] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1436843286030454875
+METADATA: {"timestamp": "2025-11-08T16:24:05.896263", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436125663378673875, "message_id": 1436843286030454875, "extra": {}}
+---
