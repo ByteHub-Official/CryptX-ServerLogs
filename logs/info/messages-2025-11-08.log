@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-11-08T15:38:10.233386", "bot_version": "2.4.0", "g
 [2025-11-08T15:42:22.994171] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general-1 by 2_click_death: 'group of coders don’t like that I can code better than them. So I started using an ai to make some c...' | ID: 1436833250025672785
 METADATA: {"timestamp": "2025-11-08T15:42:22.994134", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1436833250025672785, "extra": {}}
 ---
+[2025-11-08T15:42:24.335872] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in 💬》general-1: Before: '...' After: '...' | ID: 1436833252605428003
+METADATA: {"timestamp": "2025-11-08T15:42:24.335814", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1436123214668501134, "message_id": 1436833252605428003, "extra": {}}
+---
