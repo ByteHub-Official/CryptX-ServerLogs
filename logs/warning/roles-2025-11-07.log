@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-07T09:12:44.146226", "bot_version": "2.4.0", "g
 [2025-11-07T09:12:59.193565] [WARNING] [ROLES] [RoleDeleted] Role 'XenBot' deleted from ShadowT3ch
 METADATA: {"timestamp": "2025-11-07T09:12:59.193300", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "extra": {"role_position": 27}}
 ---
+[2025-11-07T18:45:23.381159] [WARNING] [ROLES] [RoleDeleted] Role 'ShadowT3ch Test Bot' deleted from ShadowT3ch
+METADATA: {"timestamp": "2025-11-07T18:45:23.380876", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "extra": {"role_position": 25}}
+---
