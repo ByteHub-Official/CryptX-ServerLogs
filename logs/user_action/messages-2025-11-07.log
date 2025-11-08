@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-07T09:20:54.088167", "bot_version": "2.4.0", "g
 [2025-11-07T09:20:58.970901] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in ⛔》server-logs: @everyone | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-11-07T09:20:58.970613", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1019698414839156817, "message_id": 1436374884161949807, "extra": {}}
 ---
+[2025-11-07T18:45:18.059494] [USER_ACTION] [MESSAGES] [MessageSent] User 2_clickdeath sent message in ⛔》server-logs: <@1436372140675829880> | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-11-07T18:45:18.059085", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1019698414839156817, "message_id": 1436516899465855007, "extra": {}}
+---
