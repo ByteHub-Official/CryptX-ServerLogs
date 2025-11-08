@@ -1,3 +1,6 @@
 [2025-11-08T15:44:03.368566] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'ticket-support-d374955e' deleted from ShadowT3ch
 METADATA: {"timestamp": "2025-11-08T15:44:03.368518", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436833609452486778, "extra": {}}
 ---
+[2025-11-08T16:12:24.325910] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'ticket-support-0b6432fa' deleted from ShadowT3ch
+METADATA: {"timestamp": "2025-11-08T16:12:24.325864", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436840741304401972, "extra": {}}
+---
