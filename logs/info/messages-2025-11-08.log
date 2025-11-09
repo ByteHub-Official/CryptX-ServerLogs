@@ -193,3 +193,6 @@ METADATA: {"timestamp": "2025-11-08T21:02:24.279362", "bot_version": "2.4.0", "g
 [2025-11-08T21:02:54.382608] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》staff-commands by 2_click_death: '/setup log_channel:<#1436129350243188969> ticket_category:1436118895110131728 welcome_channel:<#1436...' | ID: 1436913880654807163
 METADATA: {"timestamp": "2025-11-08T21:02:54.382525", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894870925471, "user_id": 1019698414839156817, "message_id": 1436913880654807163, "extra": {}}
 ---
+[2025-11-08T21:02:59.284055] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📭》tickets by XenBot#7688: '...' | ID: 1436913043085725757
+METADATA: {"timestamp": "2025-11-08T21:02:59.284011", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206154, "user_id": 1436125663378673875, "message_id": 1436913043085725757, "extra": {}}
+---
