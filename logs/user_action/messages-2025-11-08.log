@@ -193,3 +193,6 @@ METADATA: {"timestamp": "2025-11-08T20:59:22.803647", "bot_version": "2.4.0", "g
 [2025-11-08T20:59:53.676270] [USER_ACTION] [MESSAGES] [MessageSent] User 2_click_death sent message in ticket-application-8651cca2: hi | Attachments: 0 | Embeds: 0
 METADATA: {"timestamp": "2025-11-08T20:59:53.676224", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436913100065603626, "user_id": 1019698414839156817, "message_id": 1436913158991384656, "extra": {}}
 ---
+[2025-11-08T21:02:45.849972] [USER_ACTION] [MESSAGES] [MessageSent] User 2_click_death sent message in ⛔》staff-commands: /setup log_channel:<#1436129350243188969> ticket_category:1436118895110131728 welcome_channel:<#1436118894203899996> guild_join_channel:<#1436129350243188969> guild_leave_channel:<#1436129350243188969... | Attachments: 0 | Embeds: 0
+METADATA: {"timestamp": "2025-11-08T21:02:45.849920", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894870925471, "user_id": 1019698414839156817, "message_id": 1436913880654807163, "extra": {}}
+---
