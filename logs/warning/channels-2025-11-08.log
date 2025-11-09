@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2025-11-08T20:57:45.632794", "bot_version": "2.4.0", "g
 [2025-11-08T20:59:16.390100] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'ticket-support-10fe0244' deleted from ShadowT3ch
 METADATA: {"timestamp": "2025-11-08T20:59:16.390065", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436912496412983457, "extra": {}}
 ---
+[2025-11-08T21:02:41.645115] [WARNING] [CHANNELS] [TextChannelDeleted] TextChannel 'ticket-application-8651cca2' deleted from ShadowT3ch
+METADATA: {"timestamp": "2025-11-08T21:02:41.645076", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436913100065603626, "extra": {}}
+---
