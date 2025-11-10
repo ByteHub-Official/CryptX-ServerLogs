@@ -99,3 +99,10 @@ METADATA: {"timestamp": "2025-11-10T16:56:42.123154", "bot_version": "2.4.0", "g
 [2025-11-10T16:56:56.706968] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 📭》tickets: Before: '...' After: '...' | ID: 1437576792239247612
 METADATA: {"timestamp": "2025-11-10T16:56:56.706829", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206154, "user_id": 1436125663378673875, "message_id": 1437576792239247612, "extra": {}}
 ---
+[2025-11-10T16:57:06.242719] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in ticket-support-1892bb83: Before: '<@1019698414839156817> <@&1436118893130158099>
+
+We...' After: '<@1019698414839156817> <@&1436118893130158099>
+
+We...' | ID: 1437576825902596177
+METADATA: {"timestamp": "2025-11-10T16:57:06.242680", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1437576823641739428, "user_id": 1436125663378673875, "message_id": 1437576825902596177, "extra": {}}
+---
