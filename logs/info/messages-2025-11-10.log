@@ -87,3 +87,6 @@ We...' After: '<@1019698414839156817> <@&1436118893130158099>
 We...' | ID: 1437571666497503373
 METADATA: {"timestamp": "2025-11-10T16:37:00.653575", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1437571664408875224, "user_id": 1436125663378673875, "message_id": 1437571666497503373, "extra": {}}
 ---
+[2025-11-10T16:38:35.271999] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1437571752338391092
+METADATA: {"timestamp": "2025-11-10T16:38:35.263029", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436125663378673875, "message_id": 1437571752338391092, "extra": {}}
+---
