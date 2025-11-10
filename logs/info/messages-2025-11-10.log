@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2025-11-10T16:32:54.312829", "bot_version": "2.4.0", "g
 [2025-11-10T16:32:57.794872] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📌》notices by XenBot#7688: '...' | ID: 1437570273611354285
 METADATA: {"timestamp": "2025-11-10T16:32:57.794536", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899998, "user_id": 1436125663378673875, "message_id": 1437570273611354285, "extra": {}}
 ---
+[2025-11-10T16:36:22.244081] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📭》tickets by XenBot#7688: '...' | ID: 1437528389673287692
+METADATA: {"timestamp": "2025-11-10T16:36:22.244043", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206154, "user_id": 1436125663378673875, "message_id": 1437528389673287692, "extra": {}}
+---
