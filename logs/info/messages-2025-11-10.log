@@ -227,3 +227,6 @@ METADATA: {"timestamp": "2025-11-10T17:19:28.901506", "bot_version": "2.4.0", "g
 [2025-11-10T17:19:35.614222] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 👥》self-roles by XenBot#7688: '...' | ID: 1437200757316390983
 METADATA: {"timestamp": "2025-11-10T17:19:35.614162", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436130972231012382, "user_id": 1436125663378673875, "message_id": 1437200757316390983, "extra": {}}
 ---
+[2025-11-10T19:51:56.579679] [INFO] [MESSAGES] [MessageEdited] User iriss.01 edited message in 💬》general-1: Before: 'There’s a YouTuber role yet...' After: 'There’s a YouTuber role yah...' | ID: 1437620821278462012
+METADATA: {"timestamp": "2025-11-10T19:51:56.579603", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1079826643922722848, "message_id": 1437620821278462012, "extra": {}}
+---
