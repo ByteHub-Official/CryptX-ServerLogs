@@ -4852,3 +4852,6 @@ METADATA: {"timestamp": "2025-11-16T16:17:37.190534", "bot_version": "2.4.0", "g
 [2025-11-16T16:17:55.943360] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2025-11-16T16:17:55.943316", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2025-11-16T16:17:57.652699] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: same | Activities: Custom: S͟N͟0͟W͟Ξ͟X͟P͟L͟0͟I͟T͟S͟
+METADATA: {"timestamp": "2025-11-16T16:17:57.652665", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: S\u035fN\u035f0\u035fW\u035f\u039e\u035fX\u035fP\u035fL\u035f0\u035fI\u035fT\u035fS\u035f"]}}
+---
