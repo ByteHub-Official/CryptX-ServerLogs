@@ -34,3 +34,6 @@ METADATA: {"timestamp": "2025-11-17T14:40:42.968306", "bot_version": "2.4.0", "g
 [2025-11-17T14:40:44.485740] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》server-logs' updated in ShadowT3ch: position: 16 -> 19
 METADATA: {"timestamp": "2025-11-17T14:40:44.485709", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436129350243188969, "channel_name": "\u26d4\u300bserver-logs", "extra": {"position_change": {"before": 16, "after": 19}}}
 ---
+[2025-11-17T14:40:45.846742] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》leader-chat' updated in ShadowT3ch: position: 17 -> 20
+METADATA: {"timestamp": "2025-11-17T14:40:45.846719", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118895110131724, "channel_name": "\u26d4\u300bleader-chat", "extra": {"position_change": {"before": 17, "after": 20}}}
+---
