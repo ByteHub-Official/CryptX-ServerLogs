@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-11-17T10:17:21.732363", "bot_version": "2.4.0", "g
 [2025-11-17T10:21:30.894143] [INFO] [MESSAGES] [MessageEdited] User mqp6 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1440013800643231866
 METADATA: {"timestamp": "2025-11-17T10:21:30.894060", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1373556059184042045, "message_id": 1440013800643231866, "extra": {}}
 ---
+[2025-11-17T10:21:50.748010] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by 2_click_death: '.help...' | ID: 1440014063638810675
+METADATA: {"timestamp": "2025-11-17T10:21:50.747974", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1440014063638810675, "extra": {}}
+---
