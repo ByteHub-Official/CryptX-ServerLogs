@@ -6259,3 +6259,6 @@ METADATA: {"timestamp": "2025-11-17T07:38:25.030392", "bot_version": "2.4.0", "g
 [2025-11-17T07:38:42.279379] [INFO] [PRESENCE] [PresenceUpdate] User darknullbyte_ status changed: offline -> dnd | Activities: Custom: "Trust me bro, I’m SSL certified." – Trojan Horse
 METADATA: {"timestamp": "2025-11-17T07:38:42.279333", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "username": "darknullbyte_", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: \"Trust me bro, I\u2019m SSL certified.\" \u2013 Trojan Horse"]}}
 ---
+[2025-11-17T07:38:43.822333] [INFO] [PRESENCE] [PresenceUpdate] User darknullbyte_ status changed: offline -> dnd | Activities: Custom: "Trust me bro, I’m SSL certified." – Trojan Horse
+METADATA: {"timestamp": "2025-11-17T07:38:43.822309", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "username": "darknullbyte_", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: \"Trust me bro, I\u2019m SSL certified.\" \u2013 Trojan Horse"]}}
+---
