@@ -52,3 +52,6 @@ METADATA: {"timestamp": "2025-11-17T10:22:30.377486", "bot_version": "2.4.0", "g
 [2025-11-17T10:33:32.552981] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by darknullbyte_: 'Sybau b4 i rape u...' | ID: 1440014034345660508
 METADATA: {"timestamp": "2025-11-17T10:33:32.552947", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1141232275447631932, "message_id": 1440014034345660508, "extra": {}}
 ---
+[2025-11-17T11:32:19.443699] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by darknullbyte_: 'Gone back to special ed classes....' | ID: 1440013971754188830
+METADATA: {"timestamp": "2025-11-17T11:32:19.443669", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1141232275447631932, "message_id": 1440013971754188830, "extra": {}}
+---
