@@ -217,3 +217,6 @@ METADATA: {"timestamp": "2025-11-17T00:14:26.612781", "bot_version": "2.4.0", "g
 [2025-11-17T00:14:32.983702] [INFO] [PRESENCE] [PresenceUpdate] User darknullbyte_ status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-17T00:14:32.983655", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "username": "darknullbyte_", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2025-11-17T00:14:36.394311] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Tracking 2 servers
+METADATA: {"timestamp": "2025-11-17T00:14:36.394267", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
+---
