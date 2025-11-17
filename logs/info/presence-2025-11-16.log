@@ -7246,3 +7246,6 @@ METADATA: {"timestamp": "2025-11-16T19:08:23.200718", "bot_version": "2.4.0", "g
 [2025-11-16T19:08:28.117693] [INFO] [PRESENCE] [PresenceUpdate] User darknullbyte_ status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2025-11-16T19:08:28.117656", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "username": "darknullbyte_", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2025-11-16T19:08:29.540213] [INFO] [PRESENCE] [PresenceUpdate] User darknullbyte_ status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2025-11-16T19:08:29.540187", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "username": "darknullbyte_", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
