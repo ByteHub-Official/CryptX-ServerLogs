@@ -79,3 +79,6 @@ METADATA: {"timestamp": "2025-11-17T14:41:07.133287", "bot_version": "2.4.0", "g
 [2025-11-17T14:41:09.168775] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '📋》rules' updated in ShadowT3ch: position: 7 -> 2
 METADATA: {"timestamp": "2025-11-17T14:41:09.168735", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894203900000, "channel_name": "\ud83d\udccb\u300brules", "extra": {"position_change": {"before": 7, "after": 2}}}
 ---
+[2025-11-17T14:41:10.156078] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '🎉》giveaways' updated in ShadowT3ch: position: 2 -> 3
+METADATA: {"timestamp": "2025-11-17T14:41:10.156040", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894203899999, "channel_name": "\ud83c\udf89\u300bgiveaways", "extra": {"position_change": {"before": 2, "after": 3}}}
+---
