@@ -49,3 +49,6 @@ METADATA: {"timestamp": "2025-11-17T10:22:29.411846", "bot_version": "2.4.0", "g
 [2025-11-17T10:22:30.377521] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1440014204277887169
 METADATA: {"timestamp": "2025-11-17T10:22:30.377486", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436123214668501134, "message_id": 1440014204277887169, "extra": {}}
 ---
+[2025-11-17T10:33:32.552981] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by darknullbyte_: 'Sybau b4 i rape u...' | ID: 1440014034345660508
+METADATA: {"timestamp": "2025-11-17T10:33:32.552947", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1141232275447631932, "message_id": 1440014034345660508, "extra": {}}
+---
