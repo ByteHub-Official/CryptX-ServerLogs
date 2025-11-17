@@ -91,3 +91,6 @@ METADATA: {"timestamp": "2025-11-17T14:41:13.119473", "bot_version": "2.4.0", "g
 [2025-11-17T14:41:14.561084] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '🤝》partner' updated in ShadowT3ch: position: 5 -> 6
 METADATA: {"timestamp": "2025-11-17T14:41:14.561055", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894661206149, "channel_name": "\ud83e\udd1d\u300bpartner", "extra": {"position_change": {"before": 5, "after": 6}}}
 ---
+[2025-11-17T14:41:15.966309] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '🤝》partnership' updated in ShadowT3ch: position: 6 -> 7
+METADATA: {"timestamp": "2025-11-17T14:41:15.966284", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894661206150, "channel_name": "\ud83e\udd1d\u300bpartnership", "extra": {"position_change": {"before": 6, "after": 7}}}
+---
