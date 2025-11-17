@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2025-11-17T14:40:36.033222", "bot_version": "2.4.0", "g
 [2025-11-17T14:40:37.427523] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '📭》tickets' updated in ShadowT3ch: position: 12 -> 14
 METADATA: {"timestamp": "2025-11-17T14:40:37.427499", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894661206154, "channel_name": "\ud83d\udced\u300btickets", "extra": {"position_change": {"before": 12, "after": 14}}}
 ---
+[2025-11-17T14:40:38.799245] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '💬》general' updated in ShadowT3ch: topic changed, position: 8 -> 15
+METADATA: {"timestamp": "2025-11-17T14:40:38.799222", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894661206152, "channel_name": "\ud83d\udcac\u300bgeneral", "extra": {"topic_change": {"before": "", "after": null}, "position_change": {"before": 8, "after": 15}}}
+---
