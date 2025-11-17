@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2025-11-17T14:40:47.218974", "bot_version": "2.4.0", "g
 [2025-11-17T14:40:48.637546] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》leader-notifications' updated in ShadowT3ch: position: 19 -> 22
 METADATA: {"timestamp": "2025-11-17T14:40:48.637522", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118895110131726, "channel_name": "\u26d4\u300bleader-notifications", "extra": {"position_change": {"before": 19, "after": 22}}}
 ---
+[2025-11-17T14:40:51.675291] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '👥》self-roles' updated in ShadowT3ch: position: 4 -> 3
+METADATA: {"timestamp": "2025-11-17T14:40:51.675268", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436130972231012382, "channel_name": "\ud83d\udc65\u300bself-roles", "extra": {"position_change": {"before": 4, "after": 3}}}
+---
