@@ -5410,3 +5410,6 @@ METADATA: {"timestamp": "2025-11-17T06:38:52.953897", "bot_version": "2.4.0", "g
 [2025-11-17T06:39:02.985201] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Tracking 2 servers
 METADATA: {"timestamp": "2025-11-17T06:39:02.985171", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
 ---
+[2025-11-17T06:39:07.796089] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: same | Activities: Custom: S͟N͟0͟W͟Ξ͟X͟P͟L͟0͟I͟T͟S͟, Playing: Poker Master
+METADATA: {"timestamp": "2025-11-17T06:39:07.796043", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: S\u035fN\u035f0\u035fW\u035f\u039e\u035fX\u035fP\u035fL\u035f0\u035fI\u035fT\u035fS\u035f", "Playing: Poker Master"]}}
+---
