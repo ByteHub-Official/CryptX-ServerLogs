@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-17T09:03:33.387914", "bot_version": "2.4.0", "g
 [2025-11-17T09:03:35.375896] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1439994366063022081
 METADATA: {"timestamp": "2025-11-17T09:03:35.375863", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899996, "user_id": 1436125663378673875, "message_id": 1439994366063022081, "extra": {}}
 ---
+[2025-11-17T09:08:43.907190] [INFO] [MESSAGES] [MessageEdited] User mqp6 edited message in 💬》general: Before: '"html...' After: '"html"...' | ID: 1439995657938272347
+METADATA: {"timestamp": "2025-11-17T09:08:43.907030", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1373556059184042045, "message_id": 1439995657938272347, "extra": {}}
+---
