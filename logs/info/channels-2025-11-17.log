@@ -85,3 +85,6 @@ METADATA: {"timestamp": "2025-11-17T14:41:10.156040", "bot_version": "2.4.0", "g
 [2025-11-17T14:41:11.589242] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '👥》self-roles' updated in ShadowT3ch: position: 3 -> 4
 METADATA: {"timestamp": "2025-11-17T14:41:11.589205", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436130972231012382, "channel_name": "\ud83d\udc65\u300bself-roles", "extra": {"position_change": {"before": 3, "after": 4}}}
 ---
+[2025-11-17T14:41:13.119509] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '🌵》prices' updated in ShadowT3ch: position: 4 -> 5
+METADATA: {"timestamp": "2025-11-17T14:41:13.119473", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894661206148, "channel_name": "\ud83c\udf35\u300bprices", "extra": {"position_change": {"before": 4, "after": 5}}}
+---
