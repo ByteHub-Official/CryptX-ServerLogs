@@ -94,3 +94,6 @@ METADATA: {"timestamp": "2025-11-17T12:39:51.043773", "bot_version": "2.4.0", "g
 [2025-11-17T14:28:03.237787] [INFO] [MESSAGES] [MessageEdited] User 2_click_death edited message in 💬》general: Before: 'I normally make my ai...' After: 'I normally make my own ai...' | ID: 1440076008676917380
 METADATA: {"timestamp": "2025-11-17T14:28:03.237746", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1440076008676917380, "extra": {}}
 ---
+[2025-11-17T14:32:26.841891] [INFO] [MESSAGES] [MessageEdited] User 2_click_death edited message in 💬》general: Before: 'https://www.roblox.com/games/86423073229451/Anime-...' After: 'https://www.roblox.com/games/86423073229451/Anime-...' | ID: 1440077140178505849
+METADATA: {"timestamp": "2025-11-17T14:32:26.841867", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1440077140178505849, "extra": {}}
+---
