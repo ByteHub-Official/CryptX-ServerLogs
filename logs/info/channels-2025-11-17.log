@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2025-11-17T14:40:41.551578", "bot_version": "2.4.0", "g
 [2025-11-17T14:40:42.968328] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》staff-commands' updated in ShadowT3ch: position: 15 -> 18
 METADATA: {"timestamp": "2025-11-17T14:40:42.968306", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894870925471, "channel_name": "\u26d4\u300bstaff-commands", "extra": {"position_change": {"before": 15, "after": 18}}}
 ---
+[2025-11-17T14:40:44.485740] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》server-logs' updated in ShadowT3ch: position: 16 -> 19
+METADATA: {"timestamp": "2025-11-17T14:40:44.485709", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436129350243188969, "channel_name": "\u26d4\u300bserver-logs", "extra": {"position_change": {"before": 16, "after": 19}}}
+---
