@@ -76,3 +76,6 @@ METADATA: {"timestamp": "2025-11-17T14:41:05.689222", "bot_version": "2.4.0", "g
 [2025-11-17T14:41:07.133316] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '🤖》commands' updated in ShadowT3ch: position: 13 -> 14
 METADATA: {"timestamp": "2025-11-17T14:41:07.133287", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894661206153, "channel_name": "\ud83e\udd16\u300bcommands", "extra": {"position_change": {"before": 13, "after": 14}}}
 ---
+[2025-11-17T14:41:09.168775] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '📋》rules' updated in ShadowT3ch: position: 7 -> 2
+METADATA: {"timestamp": "2025-11-17T14:41:09.168735", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "channel_id": 1436118894203900000, "channel_name": "\ud83d\udccb\u300brules", "extra": {"position_change": {"before": 7, "after": 2}}}
+---
