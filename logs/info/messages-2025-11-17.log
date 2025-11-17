@@ -55,3 +55,6 @@ METADATA: {"timestamp": "2025-11-17T10:33:32.552947", "bot_version": "2.4.0", "g
 [2025-11-17T11:32:19.443699] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by darknullbyte_: 'Gone back to special ed classes....' | ID: 1440013971754188830
 METADATA: {"timestamp": "2025-11-17T11:32:19.443669", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1141232275447631932, "message_id": 1440013971754188830, "extra": {}}
 ---
+[2025-11-17T11:32:23.577953] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by darknullbyte_: '🥀🥀🥀...' | ID: 1440013888795185192
+METADATA: {"timestamp": "2025-11-17T11:32:23.577911", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1141232275447631932, "message_id": 1440013888795185192, "extra": {}}
+---
