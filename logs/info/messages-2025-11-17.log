@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2025-11-17T09:08:43.907030", "bot_version": "2.4.0", "g
 [2025-11-17T09:09:56.994882] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by 2_click_death: 'https://discord.gg/delta-executor-support-1350068457705570314...' | ID: 1439995977137258557
 METADATA: {"timestamp": "2025-11-17T09:09:56.994840", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1439995977137258557, "extra": {}}
 ---
+[2025-11-17T09:09:58.319750] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in 💬》general: Before: '...' After: '...' | ID: 1439995981184897139
+METADATA: {"timestamp": "2025-11-17T09:09:58.319710", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1436123214668501134, "message_id": 1439995981184897139, "extra": {}}
+---
