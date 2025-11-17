@@ -85,3 +85,6 @@ METADATA: {"timestamp": "2025-11-17T11:34:19.716113", "bot_version": "2.4.0", "g
 [2025-11-17T11:34:26.126961] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by darknullbyte_: 'Specify retard....' | ID: 1440012941574541463
 METADATA: {"timestamp": "2025-11-17T11:34:26.126920", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1141232275447631932, "message_id": 1440012941574541463, "extra": {}}
 ---
+[2025-11-17T12:39:49.638691] [INFO] [MESSAGES] [MessageEdited] User XenBot#7688 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1440048797110767788
+METADATA: {"timestamp": "2025-11-17T12:39:49.638647", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894203899996, "user_id": 1436125663378673875, "message_id": 1440048797110767788, "extra": {}}
+---
