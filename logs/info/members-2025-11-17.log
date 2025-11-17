@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-17T09:06:07.445294", "bot_version": "2.4.0", "g
 [2025-11-17T10:22:20.080520] [INFO] [MEMBERS] [MemberLeft] Member darknullbyte_ (1141232275447631932) left ShadowT3ch
 METADATA: {"timestamp": "2025-11-17T10:22:20.080478", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "extra": {}}
 ---
+[2025-11-17T12:42:05.004616] [INFO] [MEMBERS] [MemberUpdate] Member animelover33462 updated in ShadowT3ch: roles: added=['🎥 | Youtuber'], removed=[]
+METADATA: {"timestamp": "2025-11-17T12:42:05.004577", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"role_changes": {"added": ["\ud83c\udfa5 | Youtuber"], "removed": []}}}
+---
