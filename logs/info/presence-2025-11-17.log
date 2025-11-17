@@ -6601,3 +6601,6 @@ METADATA: {"timestamp": "2025-11-17T08:00:45.870484", "bot_version": "2.4.0", "g
 [2025-11-17T08:00:55.878062] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2025-11-17T08:00:55.878031", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2025-11-17T08:00:59.567492] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-17T08:00:59.567448", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
