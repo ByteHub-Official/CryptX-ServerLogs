@@ -6460,3 +6460,6 @@ METADATA: {"timestamp": "2025-11-17T07:52:01.718047", "bot_version": "2.4.0", "g
 [2025-11-17T07:52:03.757963] [INFO] [PRESENCE] [PresenceUpdate] User darknullbyte_ status changed: same | Activities: Custom: "Trust me bro, I’m SSL certified." – Trojan Horse
 METADATA: {"timestamp": "2025-11-17T07:52:03.757937", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1141232275447631932, "username": "darknullbyte_", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: \"Trust me bro, I\u2019m SSL certified.\" \u2013 Trojan Horse"]}}
 ---
+[2025-11-17T07:52:05.947268] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2025-11-17T07:52:05.947229", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
