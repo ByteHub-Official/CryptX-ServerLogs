@@ -85,3 +85,6 @@ METADATA: {"timestamp": "2025-11-18T17:33:16.407492", "bot_version": "2.4.0", "g
 [2025-11-18T17:33:19.601624] [INFO] [ROLES] [RoleUpdate] Role 'SnowFall' updated in ShadowT3ch: permissions changed
 METADATA: {"timestamp": "2025-11-18T17:33:19.601590", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "SnowFall", "extra": {"permission_changes": {"added": "0x8", "removed": "0x0"}}}
 ---
+[2025-11-18T17:33:32.841908] [INFO] [ROLES] [RoleUpdate] Role 'Free Stuff' updated in ShadowT3ch: position: 2 -> 1
+METADATA: {"timestamp": "2025-11-18T17:33:32.841866", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1438645057992392798, "role_name": "Free Stuff", "extra": {"position_change": {"before": 2, "after": 1}}}
+---
