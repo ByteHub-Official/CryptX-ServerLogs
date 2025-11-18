@@ -1105,3 +1105,6 @@ METADATA: {"timestamp": "2025-11-18T01:06:25.865213", "bot_version": "2.4.0", "g
 [2025-11-18T01:06:27.432262] [INFO] [PRESENCE] [PresenceUpdate] User animelover33462 status changed: idle -> online | Activities: Custom: discord.gg/freememberz
 METADATA: {"timestamp": "2025-11-18T01:06:27.432237", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: discord.gg/freememberz"]}}
 ---
+[2025-11-18T01:06:36.001992] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Tracking 2 servers
+METADATA: {"timestamp": "2025-11-18T01:06:36.001892", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
+---
