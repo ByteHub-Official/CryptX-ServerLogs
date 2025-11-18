@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-11-18T14:39:25.335897", "bot_version": "2.4.0", "g
 [2025-11-18T16:18:01.426902] [INFO] [MEMBERS] [MemberUpdate] Member shinakomei updated in ShadowT3ch: roles: added=['🎥 | Youtuber'], removed=[]
 METADATA: {"timestamp": "2025-11-18T16:18:01.426858", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"role_changes": {"added": ["\ud83c\udfa5 | Youtuber"], "removed": []}}}
 ---
+[2025-11-18T16:18:26.596199] [INFO] [MEMBERS] [MemberUpdate] Member shinakomei updated in ShadowT3ch: roles: added=['👑| Co-Owner'], removed=[]
+METADATA: {"timestamp": "2025-11-18T16:18:26.596135", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"role_changes": {"added": ["\ud83d\udc51| Co-Owner"], "removed": []}}}
+---
