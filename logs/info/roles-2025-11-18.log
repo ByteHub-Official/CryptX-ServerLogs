@@ -151,3 +151,6 @@ METADATA: {"timestamp": "2025-11-18T17:34:00.551259", "bot_version": "2.4.0", "g
 [2025-11-18T17:34:01.969030] [INFO] [ROLES] [RoleUpdate] Role 'SnowFall' updated in ShadowT3ch: position: 1 -> 22
 METADATA: {"timestamp": "2025-11-18T17:34:01.969006", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "SnowFall", "extra": {"position_change": {"before": 1, "after": 22}}}
 ---
+[2025-11-18T17:35:18.375182] [INFO] [ROLES] [RoleUpdate] Role '👑| Co-Owner' updated in ShadowT3ch: position: 23 -> 21
+METADATA: {"timestamp": "2025-11-18T17:35:18.375140", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786747, "role_name": "\ud83d\udc51| Co-Owner", "extra": {"position_change": {"before": 23, "after": 21}}}
+---
