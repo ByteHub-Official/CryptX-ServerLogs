@@ -61,3 +61,6 @@ METADATA: {"timestamp": "2025-11-18T17:33:04.390134", "bot_version": "2.4.0", "g
 [2025-11-18T17:33:05.732830] [INFO] [ROLES] [RoleUpdate] Role '💼| Manager' updated in ShadowT3ch: position: 19 -> 21
 METADATA: {"timestamp": "2025-11-18T17:33:05.732798", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893193330727, "role_name": "\ud83d\udcbc| Manager", "extra": {"position_change": {"before": 19, "after": 21}}}
 ---
+[2025-11-18T17:33:07.248047] [INFO] [ROLES] [RoleUpdate] Role 'Discord Owner' updated in ShadowT3ch: position: 20 -> 22
+METADATA: {"timestamp": "2025-11-18T17:33:07.248015", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786746, "role_name": "Discord Owner", "extra": {"position_change": {"before": 20, "after": 22}}}
+---
