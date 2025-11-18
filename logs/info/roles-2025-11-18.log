@@ -100,3 +100,6 @@ METADATA: {"timestamp": "2025-11-18T17:33:36.470447", "bot_version": "2.4.0", "g
 [2025-11-18T17:33:37.882889] [INFO] [ROLES] [RoleUpdate] Role '😱 | Basic' updated in ShadowT3ch: position: 6 -> 5
 METADATA: {"timestamp": "2025-11-18T17:33:37.882852", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158094, "role_name": "\ud83d\ude31 | Basic", "extra": {"position_change": {"before": 6, "after": 5}}}
 ---
+[2025-11-18T17:33:39.290774] [INFO] [ROLES] [RoleUpdate] Role '📱 | Bots' updated in ShadowT3ch: position: 7 -> 6
+METADATA: {"timestamp": "2025-11-18T17:33:39.290739", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158095, "role_name": "\ud83d\udcf1 | Bots", "extra": {"position_change": {"before": 7, "after": 6}}}
+---
