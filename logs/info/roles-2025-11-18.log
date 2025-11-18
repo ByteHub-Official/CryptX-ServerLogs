@@ -157,3 +157,6 @@ METADATA: {"timestamp": "2025-11-18T17:35:18.375140", "bot_version": "2.4.0", "g
 [2025-11-18T17:35:19.151901] [INFO] [ROLES] [RoleUpdate] Role '👑|  Owner' updated in ShadowT3ch: position: 24 -> 23
 METADATA: {"timestamp": "2025-11-18T17:35:19.151867", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786748, "role_name": "\ud83d\udc51|  Owner", "extra": {"position_change": {"before": 24, "after": 23}}}
 ---
+[2025-11-18T17:35:20.606663] [INFO] [ROLES] [RoleUpdate] Role 'Muted' updated in ShadowT3ch: position: 25 -> 24
+METADATA: {"timestamp": "2025-11-18T17:35:20.606621", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786750, "role_name": "Muted", "extra": {"position_change": {"before": 25, "after": 24}}}
+---
