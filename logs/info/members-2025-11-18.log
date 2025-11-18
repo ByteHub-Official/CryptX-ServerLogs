@@ -70,3 +70,6 @@ METADATA: {"timestamp": "2025-11-18T17:30:37.489040", "bot_version": "2.4.0", "g
 [2025-11-18T17:30:39.416218] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['📄| Partner'], removed=[]
 METADATA: {"timestamp": "2025-11-18T17:30:39.416170", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83d\udcc4| Partner"], "removed": []}}}
 ---
+[2025-11-18T17:30:41.149856] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['📲 | Project Manager'], removed=[]
+METADATA: {"timestamp": "2025-11-18T17:30:41.149785", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83d\udcf2 | Project Manager"], "removed": []}}}
+---
