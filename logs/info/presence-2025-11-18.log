@@ -790,3 +790,6 @@ METADATA: {"timestamp": "2025-11-18T00:46:45.002989", "bot_version": "2.4.0", "g
 [2025-11-18T00:46:50.346553] [INFO] [PRESENCE] [PresenceUpdate] User mxnhxeuv status changed: offline -> dnd | Activities: Custom: [ .gg/memberzz FREE MEMBERS ]
 METADATA: {"timestamp": "2025-11-18T00:46:50.346504", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1427105772243914854, "username": "mxnhxeuv", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: [ .gg/memberzz FREE MEMBERS ]"]}}
 ---
+[2025-11-18T00:46:51.494794] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: Custom: "Cast all your anxieties on him, because he cares for you." | 1 Peter 1:7
+METADATA: {"timestamp": "2025-11-18T00:46:51.494765", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: \"Cast all your anxieties on him, because he cares for you.\" | 1 Peter 1:7"]}}
+---
