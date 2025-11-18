@@ -118,3 +118,6 @@ METADATA: {"timestamp": "2025-11-18T17:33:44.811042", "bot_version": "2.4.0", "g
 [2025-11-18T17:33:46.195914] [INFO] [ROLES] [RoleUpdate] Role '✏| Designer' updated in ShadowT3ch: position: 12 -> 11
 METADATA: {"timestamp": "2025-11-18T17:33:46.195883", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893193330718, "role_name": "\u270f| Designer", "extra": {"position_change": {"before": 12, "after": 11}}}
 ---
+[2025-11-18T17:33:47.672615] [INFO] [ROLES] [RoleUpdate] Role '👷| Builder' updated in ShadowT3ch: position: 13 -> 12
+METADATA: {"timestamp": "2025-11-18T17:33:47.672582", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893193330719, "role_name": "\ud83d\udc77| Builder", "extra": {"position_change": {"before": 13, "after": 12}}}
+---
