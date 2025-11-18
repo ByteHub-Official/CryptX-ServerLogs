@@ -5035,3 +5035,6 @@ METADATA: {"timestamp": "2025-11-18T05:43:57.837125", "bot_version": "2.4.0", "g
 [2025-11-18T05:43:59.626601] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: offline -> dnd | Activities: Custom: "Cast all your anxieties on him, because he cares for you." | 1 Peter 1:7
 METADATA: {"timestamp": "2025-11-18T05:43:59.626566", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: \"Cast all your anxieties on him, because he cares for you.\" | 1 Peter 1:7"]}}
 ---
+[2025-11-18T05:44:27.912802] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Tracking 2 servers
+METADATA: {"timestamp": "2025-11-18T05:44:27.912754", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
+---
