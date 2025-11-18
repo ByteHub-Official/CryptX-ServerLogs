@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-18T10:46:17.998785", "bot_version": "2.4.0", "g
 [2025-11-18T11:55:05.516682] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in ⛔》staff-chat: Before: '...' After: '...' | ID: 1440399931377713153
 METADATA: {"timestamp": "2025-11-18T11:55:05.516650", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894870925469, "user_id": 1436123214668501134, "message_id": 1440399931377713153, "extra": {}}
 ---
+[2025-11-18T11:55:08.848440] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1440399933185458337
+METADATA: {"timestamp": "2025-11-18T11:55:08.848387", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436123214668501134, "message_id": 1440399933185458337, "extra": {}}
+---
