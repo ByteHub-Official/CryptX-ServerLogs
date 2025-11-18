@@ -1,3 +1,6 @@
 [2025-11-18T13:14:04.379464] [WARNING] [MESSAGES] [BulkMessageDelete] 11 messages bulk-deleted in 💬》general
 METADATA: {"timestamp": "2025-11-18T13:14:04.379438", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "extra": {}}
 ---
+[2025-11-18T14:14:13.627027] [WARNING] [MESSAGES] [BulkMessageDelete] 20 messages bulk-deleted in 💬》general
+METADATA: {"timestamp": "2025-11-18T14:14:13.626968", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "extra": {}}
+---
