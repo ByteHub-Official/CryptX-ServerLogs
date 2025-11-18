@@ -475,3 +475,6 @@ METADATA: {"timestamp": "2025-11-18T17:12:20.313242", "bot_version": "2.4.0", "g
 [2025-11-18T17:30:12.998720] [INFO] [TYPING] [TypingStart] User 2_click_death started typing in 💬》general
 METADATA: {"timestamp": "2025-11-18T17:30:12.998686", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1019698414839156817, "username": "2_click_death", "extra": {}}
 ---
+[2025-11-18T17:31:33.577294] [INFO] [TYPING] [TypingStart] User 2_click_death started typing in ticket-application-kqzd
+METADATA: {"timestamp": "2025-11-18T17:31:33.577255", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1440484567847932067, "channel_name": "ticket-application-kqzd", "user_id": 1019698414839156817, "username": "2_click_death", "extra": {}}
+---
