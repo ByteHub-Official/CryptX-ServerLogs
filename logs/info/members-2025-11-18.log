@@ -40,3 +40,6 @@ METADATA: {"timestamp": "2025-11-18T16:18:01.426858", "bot_version": "2.4.0", "g
 [2025-11-18T16:18:26.596199] [INFO] [MEMBERS] [MemberUpdate] Member shinakomei updated in ShadowT3ch: roles: added=['👑| Co-Owner'], removed=[]
 METADATA: {"timestamp": "2025-11-18T16:18:26.596135", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"role_changes": {"added": ["\ud83d\udc51| Co-Owner"], "removed": []}}}
 ---
+[2025-11-18T17:00:50.846949] [INFO] [MEMBERS] [MemberUpdate] Member shinakomei updated in ShadowT3ch: roles: added=['Support Team', 'Staff Team', '🎓| Helper', '✏| Designer', '👷| Builder', '📲 | Project Manager', '📄| Partner', '🔒| Moderator', '🎓| Admin', '💼| Manager', '*'], removed=[]
+METADATA: {"timestamp": "2025-11-18T17:00:50.846910", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"role_changes": {"added": ["Support Team", "Staff Team", "\ud83c\udf93| Helper", "\u270f| Designer", "\ud83d\udc77| Builder", "\ud83d\udcf2 | Project Manager", "\ud83d\udcc4| Partner", "\ud83d\udd12| Moderator", "\ud83c\udf93| Admin", "\ud83d\udcbc| Manager", "*"], "removed": []}}}
+---
