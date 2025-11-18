@@ -6310,3 +6310,6 @@ METADATA: {"timestamp": "2025-11-18T07:16:01.917011", "bot_version": "2.4.0", "g
 [2025-11-18T07:16:03.652473] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-18T07:16:03.652434", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2025-11-18T07:16:22.031556] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2025-11-18T07:16:22.031521", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
