@@ -112,3 +112,6 @@ METADATA: {"timestamp": "2025-11-18T17:33:42.026314", "bot_version": "2.4.0", "g
 [2025-11-18T17:33:43.396411] [INFO] [ROLES] [RoleUpdate] Role '🎥 | Youtuber' updated in ShadowT3ch: position: 10 -> 9
 METADATA: {"timestamp": "2025-11-18T17:33:43.396385", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158098, "role_name": "\ud83c\udfa5 | Youtuber", "extra": {"position_change": {"before": 10, "after": 9}}}
 ---
+[2025-11-18T17:33:44.811068] [INFO] [ROLES] [RoleUpdate] Role '🎓| Helper' updated in ShadowT3ch: position: 11 -> 10
+METADATA: {"timestamp": "2025-11-18T17:33:44.811042", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158099, "role_name": "\ud83c\udf93| Helper", "extra": {"position_change": {"before": 11, "after": 10}}}
+---
