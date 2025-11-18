@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2025-11-18T17:32:50.709805", "bot_version": "2.4.0", "g
 [2025-11-18T17:32:52.109665] [INFO] [ROLES] [RoleUpdate] Role '🎓| Helper' updated in ShadowT3ch: position: 9 -> 11
 METADATA: {"timestamp": "2025-11-18T17:32:52.109640", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158099, "role_name": "\ud83c\udf93| Helper", "extra": {"position_change": {"before": 9, "after": 11}}}
 ---
+[2025-11-18T17:32:53.455588] [INFO] [ROLES] [RoleUpdate] Role '✏| Designer' updated in ShadowT3ch: position: 10 -> 12
+METADATA: {"timestamp": "2025-11-18T17:32:53.455564", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893193330718, "role_name": "\u270f| Designer", "extra": {"position_change": {"before": 10, "after": 12}}}
+---
