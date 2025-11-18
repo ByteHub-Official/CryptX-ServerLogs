@@ -1285,3 +1285,6 @@ METADATA: {"timestamp": "2025-11-18T01:17:56.227342", "bot_version": "2.4.0", "g
 [2025-11-18T01:18:04.814036] [INFO] [PRESENCE] [PresenceUpdate] User animelover33462 status changed: online -> idle | Activities: Custom: discord.gg/freememberz
 METADATA: {"timestamp": "2025-11-18T01:18:04.814003", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: discord.gg/freememberz"]}}
 ---
+[2025-11-18T01:18:06.371407] [INFO] [PRESENCE] [PresenceUpdate] User animelover33462 status changed: idle -> online | Activities: Custom: discord.gg/freememberz
+METADATA: {"timestamp": "2025-11-18T01:18:06.371379", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: discord.gg/freememberz"]}}
+---
