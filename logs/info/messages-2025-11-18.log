@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2025-11-18T13:10:10.913277", "bot_version": "2.4.0", "g
 [2025-11-18T13:12:56.874306] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by 2_click_death: 'trust me… he does...' | ID: 1440419509117784217
 METADATA: {"timestamp": "2025-11-18T13:12:56.874266", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1440419509117784217, "extra": {}}
 ---
+[2025-11-18T13:13:25.731980] [INFO] [MESSAGES] [MessageEdited] User animelover33462 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1440419634485526680
+METADATA: {"timestamp": "2025-11-18T13:13:25.731937", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1431935630157549568, "message_id": 1440419634485526680, "extra": {}}
+---
