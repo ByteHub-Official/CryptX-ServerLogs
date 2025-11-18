@@ -64,3 +64,6 @@ METADATA: {"timestamp": "2025-11-18T17:30:33.364128", "bot_version": "2.4.0", "g
 [2025-11-18T17:30:35.665857] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['😛 | Friends'], removed=[]
 METADATA: {"timestamp": "2025-11-18T17:30:35.665813", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83d\ude1b | Friends"], "removed": []}}}
 ---
+[2025-11-18T17:30:37.489083] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['🔒| Moderator'], removed=[]
+METADATA: {"timestamp": "2025-11-18T17:30:37.489040", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83d\udd12| Moderator"], "removed": []}}}
+---
