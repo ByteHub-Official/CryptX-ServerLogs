@@ -466,3 +466,6 @@ METADATA: {"timestamp": "2025-11-18T15:22:11.348294", "bot_version": "2.4.0", "g
 [2025-11-18T15:22:30.444450] [INFO] [TYPING] [TypingStart] User animelover33462 started typing in 📌》vouches
 METADATA: {"timestamp": "2025-11-18T15:22:30.444409", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1439440013174640662, "channel_name": "\ud83d\udccc\u300bvouches", "user_id": 1431935630157549568, "username": "animelover33462", "extra": {}}
 ---
+[2025-11-18T17:12:04.043626] [INFO] [TYPING] [TypingStart] User shinakomei started typing in 💬》general
+METADATA: {"timestamp": "2025-11-18T17:12:04.043595", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {}}
+---
