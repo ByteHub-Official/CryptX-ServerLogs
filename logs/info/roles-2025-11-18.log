@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2025-11-18T17:32:41.204545", "bot_version": "2.4.0", "g
 [2025-11-18T17:32:42.543236] [INFO] [ROLES] [RoleUpdate] Role 'Staff Team' updated in ShadowT3ch: position: 2 -> 4
 METADATA: {"timestamp": "2025-11-18T17:32:42.543200", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158092, "role_name": "Staff Team", "extra": {"position_change": {"before": 2, "after": 4}}}
 ---
+[2025-11-18T17:32:43.882517] [INFO] [ROLES] [RoleUpdate] Role '🔥| Member' updated in ShadowT3ch: position: 3 -> 5
+METADATA: {"timestamp": "2025-11-18T17:32:43.882492", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158093, "role_name": "\ud83d\udd25| Member", "extra": {"position_change": {"before": 3, "after": 5}}}
+---
