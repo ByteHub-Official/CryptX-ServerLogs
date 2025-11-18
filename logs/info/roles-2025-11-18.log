@@ -79,3 +79,6 @@ METADATA: {"timestamp": "2025-11-18T17:33:12.973984", "bot_version": "2.4.0", "g
 [2025-11-18T17:33:14.460565] [INFO] [ROLES] [RoleUpdate] Role 'SnowFall' updated in ShadowT3ch: name: 'new role' -> 'SnowFall', color: #000000 -> #992d22
 METADATA: {"timestamp": "2025-11-18T17:33:14.460524", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "SnowFall", "extra": {"name_change": {"before": "new role", "after": "SnowFall"}, "color_change": {"before": "#000000", "after": "#992d22"}}}
 ---
+[2025-11-18T17:33:16.407538] [INFO] [ROLES] [RoleUpdate] Role 'SnowFall' updated in ShadowT3ch: color: #000000 -> #992d22
+METADATA: {"timestamp": "2025-11-18T17:33:16.407492", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "SnowFall", "extra": {"color_change": {"before": "#000000", "after": "#992d22"}}}
+---
