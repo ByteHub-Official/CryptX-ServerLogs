@@ -175,3 +175,6 @@ METADATA: {"timestamp": "2025-11-18T17:35:26.403842", "bot_version": "2.4.0", "g
 [2025-11-18T17:36:08.030681] [INFO] [ROLES] [RoleUpdate] Role '❄️| SnowFall' updated in ShadowT3ch: name: 'SnowFall' -> '❄️| SnowFall'
 METADATA: {"timestamp": "2025-11-18T17:36:08.030575", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "\u2744\ufe0f| SnowFall", "extra": {"name_change": {"before": "SnowFall", "after": "\u2744\ufe0f| SnowFall"}}}
 ---
+[2025-11-18T17:55:09.371401] [INFO] [ROLES] [RoleUpdate] Role '❄️| SnowFall' updated in ShadowT3ch: color: #992d22 -> #4cff00
+METADATA: {"timestamp": "2025-11-18T17:55:09.371361", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "\u2744\ufe0f| SnowFall", "extra": {"color_change": {"before": "#992d22", "after": "#4cff00"}}}
+---
