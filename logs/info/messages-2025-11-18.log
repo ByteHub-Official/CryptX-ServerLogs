@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-18T13:09:57.892115", "bot_version": "2.4.0", "g
 [2025-11-18T13:10:10.913319] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1440418775060185220
 METADATA: {"timestamp": "2025-11-18T13:10:10.913277", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436123214668501134, "message_id": 1440418775060185220, "extra": {}}
 ---
+[2025-11-18T13:12:56.874306] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by 2_click_death: 'trust me… he does...' | ID: 1440419509117784217
+METADATA: {"timestamp": "2025-11-18T13:12:56.874266", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1019698414839156817, "message_id": 1440419509117784217, "extra": {}}
+---
