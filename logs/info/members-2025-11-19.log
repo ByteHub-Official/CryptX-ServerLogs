@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-19T02:23:55.569375", "bot_version": "2.4.0", "g
 [2025-11-19T08:32:29.067291] [INFO] [MEMBERS] [MemberUpdate] Member animelover33462 updated in ShadowT3ch: roles: added=['*'], removed=[]
 METADATA: {"timestamp": "2025-11-19T08:32:29.067244", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"role_changes": {"added": ["*"], "removed": []}}}
 ---
+[2025-11-19T10:46:31.474203] [INFO] [MEMBERS] [MemberUpdate] Member shinakomei updated in ShadowT3ch: roles: added=['🎥 | Jr Youtuber'], removed=['Support Team', '🎥 | Youtuber', '👷| Builder', '🔒| Moderator']
+METADATA: {"timestamp": "2025-11-19T10:46:31.474167", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"role_changes": {"added": ["\ud83c\udfa5 | Jr Youtuber"], "removed": ["Support Team", "\ud83c\udfa5 | Youtuber", "\ud83d\udc77| Builder", "\ud83d\udd12| Moderator"]}}}
+---
