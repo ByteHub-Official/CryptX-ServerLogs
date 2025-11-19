@@ -91,3 +91,6 @@ METADATA: {"timestamp": "2025-11-19T15:04:36.644456", "bot_version": "2.4.0", "g
 [2025-11-19T15:04:47.834638] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['🎓| Helper'], removed=[]
 METADATA: {"timestamp": "2025-11-19T15:04:47.834590", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83c\udf93| Helper"], "removed": []}}}
 ---
+[2025-11-19T15:10:59.953963] [INFO] [MEMBERS] [MemberUpdate] Member shinakomei updated in ShadowT3ch: roles: added=[], removed=['❄️| SnowFall']
+METADATA: {"timestamp": "2025-11-19T15:10:59.953927", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"role_changes": {"added": [], "removed": ["\u2744\ufe0f| SnowFall"]}}}
+---
