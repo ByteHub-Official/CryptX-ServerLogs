@@ -34,3 +34,6 @@ METADATA: {"timestamp": "2025-11-19T10:58:27.384311", "bot_version": "2.4.0", "g
 [2025-11-19T10:59:03.638577] [INFO] [ROLES] [RoleUpdate] Role 'Violet 🍇' updated in ShadowT3ch: color: #000000 -> #71368a
 METADATA: {"timestamp": "2025-11-19T10:59:03.638550", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440747897502044232, "role_name": "Violet \ud83c\udf47", "extra": {"color_change": {"before": "#000000", "after": "#71368a"}}}
 ---
+[2025-11-19T15:09:32.001812] [INFO] [ROLES] [RoleUpdate] Role '👑|  Owner' updated in ShadowT3ch: position: 24 -> 22
+METADATA: {"timestamp": "2025-11-19T15:09:32.001396", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786748, "role_name": "\ud83d\udc51|  Owner", "extra": {"position_change": {"before": 24, "after": 22}}}
+---
