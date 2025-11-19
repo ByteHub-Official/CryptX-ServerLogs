@@ -100,3 +100,6 @@ METADATA: {"timestamp": "2025-11-18T20:12:30.730866", "bot_version": "2.4.0", "g
 [2025-11-18T20:14:00.784373] [INFO] [MEMBERS] [MemberUpdate] Member rayu0917 updated in ShadowT3ch: roles: added=['🎥 | Youtuber'], removed=[]
 METADATA: {"timestamp": "2025-11-18T20:14:00.784323", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"role_changes": {"added": ["\ud83c\udfa5 | Youtuber"], "removed": []}}}
 ---
+[2025-11-18T20:14:02.886272] [INFO] [MEMBERS] [MemberUpdate] Member rayu0917 updated in ShadowT3ch: roles: added=[], removed=['🎥 | Youtuber']
+METADATA: {"timestamp": "2025-11-18T20:14:02.886241", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"role_changes": {"added": [], "removed": ["\ud83c\udfa5 | Youtuber"]}}}
+---
