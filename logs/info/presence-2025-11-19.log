@@ -3742,3 +3742,6 @@ METADATA: {"timestamp": "2025-11-19T04:28:28.830050", "bot_version": "2.4.0", "g
 [2025-11-19T04:28:31.892804] [INFO] [PRESENCE] [PresenceUpdate] User shinakomei status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2025-11-19T04:28:31.892758", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2025-11-19T04:28:38.934280] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2025-11-19T04:28:38.934235", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
