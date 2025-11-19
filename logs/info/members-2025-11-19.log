@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2025-11-19T15:03:31.437970", "bot_version": "2.4.0", "g
 [2025-11-19T15:03:35.043012] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['❄️| SnowFall'], removed=[]
 METADATA: {"timestamp": "2025-11-19T15:03:35.042982", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\u2744\ufe0f| SnowFall"], "removed": []}}}
 ---
+[2025-11-19T15:03:39.863293] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['👑| Co-Owner'], removed=[]
+METADATA: {"timestamp": "2025-11-19T15:03:39.863246", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83d\udc51| Co-Owner"], "removed": []}}}
+---
