@@ -1999,3 +1999,6 @@ METADATA: {"timestamp": "2025-11-19T02:22:13.663526", "bot_version": "2.4.0", "g
 [2025-11-19T02:22:33.679156] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2025-11-19T02:22:33.679123", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2025-11-19T02:22:39.078125] [INFO] [PRESENCE] [PresenceUpdate] User animelover33462 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2025-11-19T02:22:39.078077", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
