@@ -37,3 +37,6 @@ METADATA: {"timestamp": "2025-11-19T15:02:52.862769", "bot_version": "2.4.0", "g
 [2025-11-19T15:03:26.958635] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['Violet 🍇'], removed=[]
 METADATA: {"timestamp": "2025-11-19T15:03:26.958580", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["Violet \ud83c\udf47"], "removed": []}}}
 ---
+[2025-11-19T15:03:31.438039] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=[], removed=['Violet 🍇']
+METADATA: {"timestamp": "2025-11-19T15:03:31.437970", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": [], "removed": ["Violet \ud83c\udf47"]}}}
+---
