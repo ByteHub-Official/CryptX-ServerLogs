@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2025-11-19T14:55:30.621682", "bot_version": "2.4.0", "g
 [2025-11-19T14:56:21.590699] [INFO] [MEMBERS] [MemberLeft] Member animelover33462 (1431935630157549568) left ShadowT3ch
 METADATA: {"timestamp": "2025-11-19T14:56:21.590668", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1431935630157549568, "extra": {}}
 ---
+[2025-11-19T15:02:52.862802] [INFO] [MEMBERS] [MemberUpdate] Member snowexploits updated in ShadowT3ch: roles: added=['🎥 | Youtuber'], removed=[]
+METADATA: {"timestamp": "2025-11-19T15:02:52.862769", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"role_changes": {"added": ["\ud83c\udfa5 | Youtuber"], "removed": []}}}
+---
