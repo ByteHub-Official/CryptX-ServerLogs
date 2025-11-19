@@ -1,3 +1,6 @@
 [2025-11-19T14:14:00.703365] [INFO] [VOICE] [VoiceChannelJoin] snowexploits joined voice channel '📞》 General 1' in ShadowT3ch
 METADATA: {"timestamp": "2025-11-19T14:14:00.703315", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206156, "user_id": 1376217565952479425, "extra": {}}
 ---
+[2025-11-19T14:55:29.178442] [INFO] [VOICE] [VoiceChannelLeave] snowexploits left voice channel '📞》 General 1' in ShadowT3ch
+METADATA: {"timestamp": "2025-11-19T14:55:29.178407", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206156, "user_id": 1376217565952479425, "extra": {}}
+---
