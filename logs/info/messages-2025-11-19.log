@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2025-11-19T16:34:16.339171", "bot_version": "2.4.0", "g
 [2025-11-19T16:34:19.653138] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》server-logs by Spidey Bot#0000: '...' | ID: 1440832462833061930
 METADATA: {"timestamp": "2025-11-19T16:34:19.653104", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1440829455479210116, "message_id": 1440832462833061930, "extra": {}}
 ---
+[2025-11-19T16:34:22.631836] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》server-logs by Spidey Bot#0000: '...' | ID: 1440832483938795541
+METADATA: {"timestamp": "2025-11-19T16:34:22.631802", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1440829455479210116, "message_id": 1440832483938795541, "extra": {}}
+---
