@@ -3526,3 +3526,6 @@ METADATA: {"timestamp": "2025-11-19T04:13:18.103211", "bot_version": "2.4.0", "g
 [2025-11-19T04:13:28.211837] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Configure with /setup
 METADATA: {"timestamp": "2025-11-19T04:13:28.211799", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
 ---
+[2025-11-19T04:13:48.104045] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Powered by CryptX!
+METADATA: {"timestamp": "2025-11-19T04:13:48.103997", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
+---
