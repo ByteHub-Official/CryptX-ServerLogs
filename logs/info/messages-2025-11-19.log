@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-19T14:55:52.115064", "bot_version": "2.4.0", "g
 [2025-11-19T15:08:02.996887] [INFO] [MESSAGES] [MessageDeleted] Message deleted in ⛔》server-logs by ShadowT3ch Security Pro#8634: '...' | ID: 1440807714933444679
 METADATA: {"timestamp": "2025-11-19T15:08:02.996844", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "user_id": 1436123214668501134, "message_id": 1440807714933444679, "extra": {}}
 ---
+[2025-11-19T15:37:17.763874] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#8634 edited message in 💬》general: Before: '...' After: '...' | ID: 1440818238882578523
+METADATA: {"timestamp": "2025-11-19T15:37:17.763845", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1436123214668501134, "message_id": 1440818238882578523, "extra": {}}
+---
