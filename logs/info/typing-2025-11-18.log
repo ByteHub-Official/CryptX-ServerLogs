@@ -652,3 +652,6 @@ METADATA: {"timestamp": "2025-11-18T18:09:11.628472", "bot_version": "2.4.0", "g
 [2025-11-18T18:10:26.060444] [INFO] [TYPING] [TypingStart] User shinakomei started typing in ticket-application-kqzd
 METADATA: {"timestamp": "2025-11-18T18:10:26.060399", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1440484567847932067, "channel_name": "ticket-application-kqzd", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {}}
 ---
+[2025-11-18T18:58:04.003621] [INFO] [TYPING] [TypingStart] User shinakomei started typing in 💬》general
+METADATA: {"timestamp": "2025-11-18T18:58:04.003591", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1251643888297312309, "username": "shinakomei", "extra": {}}
+---
