@@ -55,3 +55,6 @@ METADATA: {"timestamp": "2025-11-19T15:09:38.582991", "bot_version": "2.4.0", "g
 [2025-11-19T15:09:40.081628] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Security Pro' updated in ShadowT3ch: position: 29 -> 28
 METADATA: {"timestamp": "2025-11-19T15:09:40.081597", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436123520274006102, "role_name": "ShadowT3ch Security Pro", "extra": {"position_change": {"before": 29, "after": 28}}}
 ---
+[2025-11-19T15:10:51.819966] [INFO] [ROLES] [RoleUpdate] Role '❄️| SnowFall' updated in ShadowT3ch: permissions changed
+METADATA: {"timestamp": "2025-11-19T15:10:51.819923", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440484859515764786, "role_name": "\u2744\ufe0f| SnowFall", "extra": {"permission_changes": {"added": "0xf7dffdffffff7", "removed": "0x0"}}}
+---
