@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2025-11-19T15:09:33.003467", "bot_version": "2.4.0", "g
 [2025-11-19T15:09:34.372793] [INFO] [ROLES] [RoleUpdate] Role 'Muted' updated in ShadowT3ch: position: 25 -> 24
 METADATA: {"timestamp": "2025-11-19T15:09:34.372771", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786750, "role_name": "Muted", "extra": {"position_change": {"before": 25, "after": 24}}}
 ---
+[2025-11-19T15:09:35.785705] [INFO] [ROLES] [RoleUpdate] Role '*' updated in ShadowT3ch: position: 26 -> 25
+METADATA: {"timestamp": "2025-11-19T15:09:35.785671", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786751, "role_name": "*", "extra": {"position_change": {"before": 26, "after": 25}}}
+---
