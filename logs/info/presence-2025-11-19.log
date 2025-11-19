@@ -5548,3 +5548,6 @@ METADATA: {"timestamp": "2025-11-19T06:33:45.900631", "bot_version": "2.4.0", "g
 [2025-11-19T06:33:49.307298] [INFO] [PRESENCE] [PresenceUpdate] User animelover33462 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2025-11-19T06:33:49.307252", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2025-11-19T06:33:50.779833] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: same | Activities: Custom: I hate my phone
+METADATA: {"timestamp": "2025-11-19T06:33:50.779808", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: I hate my phone"]}}
+---
