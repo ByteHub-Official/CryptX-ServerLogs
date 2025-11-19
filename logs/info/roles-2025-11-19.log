@@ -1,3 +1,6 @@
 [2025-11-19T10:57:46.634035] [INFO] [ROLES] [RoleCreated] Role 'Violet 🍇' created in ShadowT3ch
 METADATA: {"timestamp": "2025-11-19T10:57:46.633994", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "extra": {"role_position": 1, "role_color": "#000000"}}
 ---
+[2025-11-19T10:57:49.505784] [INFO] [ROLES] [RoleUpdate] Role 'Violet 🍇' updated in ShadowT3ch: permissions changed
+METADATA: {"timestamp": "2025-11-19T10:57:49.505744", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1440747897502044232, "role_name": "Violet \ud83c\udf47", "extra": {"permission_changes": {"added": "0x61dfdfffffff7", "removed": "0x0"}}}
+---
