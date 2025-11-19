@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2025-11-19T10:59:27.281575", "bot_version": "2.4.0", "g
 [2025-11-19T10:59:40.790354] [INFO] [MEMBERS] [MemberUpdate] Member animelover33462 updated in ShadowT3ch: roles: added=['👑|  Owner'], removed=[]
 METADATA: {"timestamp": "2025-11-19T10:59:40.790314", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"role_changes": {"added": ["\ud83d\udc51|  Owner"], "removed": []}}}
 ---
+[2025-11-19T10:59:57.680404] [INFO] [MEMBERS] [MemberUpdate] Member animelover33462 updated in ShadowT3ch: roles: added=['❄️| SnowFall'], removed=[]
+METADATA: {"timestamp": "2025-11-19T10:59:57.680361", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1431935630157549568, "username": "animelover33462", "extra": {"role_changes": {"added": ["\u2744\ufe0f| SnowFall"], "removed": []}}}
+---
