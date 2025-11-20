@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2025-11-20T07:15:33.008537", "bot_version": "2.4.0", "g
 [2025-11-20T07:17:42.749906] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1436123916753047573 name='ShadowT3ch AI' global_name=None bot=True nick=None guild=<Guild id=1436118893130158090 name='ShadowT3ch' shard_id=0 chunked=True member_count=16>>,) {}
 METADATA: {"timestamp": "2025-11-20T07:17:42.749858", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1436123916753047573 name='ShadowT3ch AI' global_name=None bot=True nick=None guild=<Guild id=1436118893130158090 name='ShadowT3ch' shard_id=0 chunked=True member_count=16>>,)", "kwargs": "{}"}}
 ---
+[2025-11-20T10:56:42.622464] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1436123214668501134 name='ShadowT3ch Security Pro' global_name=None bot=True nick=None guild=<Guild id=1436118893130158090 name='ShadowT3ch' shard_id=0 chunked=True member_count=16>>,) {}
+METADATA: {"timestamp": "2025-11-20T10:56:42.622427", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1436123214668501134 name='ShadowT3ch Security Pro' global_name=None bot=True nick=None guild=<Guild id=1436118893130158090 name='ShadowT3ch' shard_id=0 chunked=True member_count=16>>,)", "kwargs": "{}"}}
+---
