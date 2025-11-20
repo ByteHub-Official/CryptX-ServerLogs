@@ -130,3 +130,6 @@ METADATA: {"timestamp": "2025-11-20T06:20:50.066769", "bot_version": "2.4.0", "g
 [2025-11-20T06:22:35.285265] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: idle -> online | Activities: Custom: This user is a PEDO beware! User: animelover33462:1431935630157549568
 METADATA: {"timestamp": "2025-11-20T06:22:35.285215", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: This user is a PEDO beware! User: animelover33462:1431935630157549568"]}}
 ---
+[2025-11-20T06:27:48.885298] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-20T06:27:48.885254", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
