@@ -250,3 +250,6 @@ METADATA: {"timestamp": "2025-11-20T08:06:03.028601", "bot_version": "2.4.0", "g
 [2025-11-20T08:06:16.493697] [INFO] [TYPING] [TypingStart] User iriss.01 started typing in 💬》general
 METADATA: {"timestamp": "2025-11-20T08:06:16.493664", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1079826643922722848, "username": "iriss.01", "extra": {}}
 ---
+[2025-11-20T08:47:55.382113] [INFO] [TYPING] [TypingStart] User 2clickdeath started typing in 💬》chat-with-ai
+METADATA: {"timestamp": "2025-11-20T08:47:55.382084", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1441055118534508654, "channel_name": "\ud83d\udcac\u300bchat-with-ai", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {}}
+---
