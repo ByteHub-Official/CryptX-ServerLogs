@@ -937,3 +937,6 @@ METADATA: {"timestamp": "2025-11-20T17:10:40.402661", "bot_version": "2.4.0", "g
 [2025-11-20T17:16:40.540803] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: None
 METADATA: {"timestamp": "2025-11-20T17:16:40.540752", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2025-11-20T17:22:03.254742] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2025-11-20T17:22:03.254683", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
