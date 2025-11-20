@@ -250,3 +250,6 @@ METADATA: {"timestamp": "2025-11-20T08:00:37.479474", "bot_version": "2.4.0", "g
 [2025-11-20T08:01:40.997566] [INFO] [PRESENCE] [PresenceUpdate] User shinakomei status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2025-11-20T08:01:40.997529", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2025-11-20T08:02:01.027647] [INFO] [PRESENCE] [PresenceUpdate] User shinakomei status changed: idle -> online | Activities: None
+METADATA: {"timestamp": "2025-11-20T08:02:01.027611", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
+---
