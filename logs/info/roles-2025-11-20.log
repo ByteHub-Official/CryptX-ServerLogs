@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2025-11-20T07:34:52.953515", "bot_version": "2.4.0", "g
 [2025-11-20T07:34:54.394017] [INFO] [ROLES] [RoleUpdate] Role '🔥| Member' updated in ShadowT3ch: position: 4 -> 5
 METADATA: {"timestamp": "2025-11-20T07:34:54.393995", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158093, "role_name": "\ud83d\udd25| Member", "extra": {"position_change": {"before": 4, "after": 5}}}
 ---
+[2025-11-20T07:34:55.817437] [INFO] [ROLES] [RoleUpdate] Role '😱 | Basic' updated in ShadowT3ch: position: 5 -> 6
+METADATA: {"timestamp": "2025-11-20T07:34:55.817404", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893130158094, "role_name": "\ud83d\ude31 | Basic", "extra": {"position_change": {"before": 5, "after": 6}}}
+---
