@@ -814,3 +814,6 @@ METADATA: {"timestamp": "2025-11-20T15:14:09.030599", "bot_version": "2.4.0", "g
 [2025-11-20T15:16:35.012913] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-20T15:16:35.012867", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2025-11-20T15:25:28.302510] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: offline -> dnd | Activities: Custom: "Cast all your anxieties on him, because he cares for you." | 1 Peter 1:7
+METADATA: {"timestamp": "2025-11-20T15:25:28.302463", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: \"Cast all your anxieties on him, because he cares for you.\" | 1 Peter 1:7"]}}
+---
