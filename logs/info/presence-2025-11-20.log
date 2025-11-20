@@ -832,3 +832,6 @@ METADATA: {"timestamp": "2025-11-20T15:28:37.531632", "bot_version": "2.4.0", "g
 [2025-11-20T15:29:52.799633] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: None
 METADATA: {"timestamp": "2025-11-20T15:29:52.799576", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2025-11-20T15:29:54.902683] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2025-11-20T15:29:54.902647", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
