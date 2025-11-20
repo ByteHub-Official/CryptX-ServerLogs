@@ -427,3 +427,6 @@ METADATA: {"timestamp": "2025-11-20T10:24:38.730303", "bot_version": "2.4.0", "g
 [2025-11-20T10:25:44.623222] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-20T10:25:44.623185", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2025-11-20T10:38:32.667306] [INFO] [PRESENCE] [PresenceUpdate] User shinakomei status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2025-11-20T10:38:32.667251", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1251643888297312309, "username": "shinakomei", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
