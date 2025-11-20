@@ -283,3 +283,6 @@ METADATA: {"timestamp": "2025-11-20T12:16:45.532889", "bot_version": "2.4.0", "g
 [2025-11-20T13:49:11.513273] [INFO] [TYPING] [TypingStart] User 2clickdeath started typing in 💬》general
 METADATA: {"timestamp": "2025-11-20T13:49:11.513239", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {}}
 ---
+[2025-11-20T16:43:58.856174] [INFO] [TYPING] [TypingStart] User echo058622 started typing in 💬》chat-with-ai
+METADATA: {"timestamp": "2025-11-20T16:43:58.856140", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1441055118534508654, "channel_name": "\ud83d\udcac\u300bchat-with-ai", "user_id": 1309337550296449024, "username": "echo058622", "extra": {}}
+---
