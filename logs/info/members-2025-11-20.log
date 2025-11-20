@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-11-20T07:18:06.012011", "bot_version": "2.4.0", "g
 [2025-11-20T07:35:32.682901] [INFO] [MEMBERS] [MemberLeft] Member ShadowT3ch Security Pro#8634 (1436123214668501134) left ShadowT3ch
 METADATA: {"timestamp": "2025-11-20T07:35:32.682870", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436123214668501134, "extra": {}}
 ---
+[2025-11-20T07:39:27.861839] [INFO] [MEMBERS] [MemberUpdate] Member iriss.01 updated in ShadowT3ch: roles: added=['👑|  Owner'], removed=[]
+METADATA: {"timestamp": "2025-11-20T07:39:27.861799", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"role_changes": {"added": ["\ud83d\udc51|  Owner"], "removed": []}}}
+---
