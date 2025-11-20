@@ -55,3 +55,6 @@ METADATA: {"timestamp": "2025-11-20T11:32:41.418466", "bot_version": "2.4.0", "g
 [2025-11-20T16:43:34.405268] [INFO] [REACTIONS] [ReactionAdded] User echo058622 added 🔥 to message by 2clickdeath in 💬》general
 METADATA: {"timestamp": "2025-11-20T16:43:34.405222", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436118894661206152, "user_id": 1309337550296449024, "message_id": 1441130147561341049, "extra": {}}
 ---
+[2025-11-20T16:44:20.126304] [INFO] [REACTIONS] [ReactionAdded] User ShadowT3ch AI#7770 added 🤔 to message by echo058622 in 💬》chat-with-ai
+METADATA: {"timestamp": "2025-11-20T16:44:20.126267", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1441055118534508654, "user_id": 1436123916753047573, "message_id": 1441197494435582214, "extra": {}}
+---
