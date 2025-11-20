@@ -262,3 +262,6 @@ METADATA: {"timestamp": "2025-11-20T08:48:44.442003", "bot_version": "2.4.0", "g
 [2025-11-20T08:50:54.378496] [INFO] [TYPING] [TypingStart] User ShadowT3ch AI#7770 started typing in 💬》chat-with-ai
 METADATA: {"timestamp": "2025-11-20T08:50:54.378460", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1441055118534508654, "channel_name": "\ud83d\udcac\u300bchat-with-ai", "user_id": 1436123916753047573, "username": "ShadowT3ch AI#7770", "extra": {}}
 ---
+[2025-11-20T11:31:19.544652] [INFO] [TYPING] [TypingStart] User 2clickdeath started typing in ⛔》server-logs
+METADATA: {"timestamp": "2025-11-20T11:31:19.544606", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1436129350243188969, "channel_name": "\u26d4\u300bserver-logs", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {}}
+---
