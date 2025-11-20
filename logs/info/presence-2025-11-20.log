@@ -604,3 +604,6 @@ METADATA: {"timestamp": "2025-11-20T12:45:34.354690", "bot_version": "2.4.0", "g
 [2025-11-20T12:47:34.876112] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-20T12:47:34.876068", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2025-11-20T12:53:42.004149] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2025-11-20T12:53:42.004106", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
