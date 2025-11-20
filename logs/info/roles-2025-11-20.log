@@ -82,3 +82,6 @@ METADATA: {"timestamp": "2025-11-20T07:35:26.866957", "bot_version": "2.4.0", "g
 [2025-11-20T07:35:28.271205] [INFO] [ROLES] [RoleUpdate] Role 'XenBot' updated in ShadowT3ch: position: 27 -> 29
 METADATA: {"timestamp": "2025-11-20T07:35:28.271170", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436372945009246232, "role_name": "XenBot", "extra": {"position_change": {"before": 27, "after": 29}}}
 ---
+[2025-11-20T10:56:41.030867] [INFO] [ROLES] [RoleCreated] Role 'ShadowT3ch Security Pro' created in ShadowT3ch
+METADATA: {"timestamp": "2025-11-20T10:56:41.030845", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "extra": {"role_position": 1, "role_color": "#000000"}}
+---
