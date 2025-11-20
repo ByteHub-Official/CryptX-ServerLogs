@@ -697,3 +697,6 @@ METADATA: {"timestamp": "2025-11-20T13:49:04.395319", "bot_version": "2.4.0", "g
 [2025-11-20T13:49:44.675927] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-20T13:49:44.675882", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2025-11-20T13:51:03.518987] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-20T13:51:03.518945", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
