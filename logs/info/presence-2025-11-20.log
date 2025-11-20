@@ -550,3 +550,6 @@ METADATA: {"timestamp": "2025-11-20T12:16:23.836726", "bot_version": "2.4.0", "g
 [2025-11-20T12:16:24.929208] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: same | Activities: Custom: This user is a PEDO beware! User: animelover33462:1431935630157549568
 METADATA: {"timestamp": "2025-11-20T12:16:24.929121", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: This user is a PEDO beware! User: animelover33462:1431935630157549568"]}}
 ---
+[2025-11-20T12:16:46.577749] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: offline -> idle | Activities: Custom: 🍇 | Violet | 🫐IS A PEDO FULL USER animelover33462
+METADATA: {"timestamp": "2025-11-20T12:16:46.577714", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "offline", "after_status": "idle", "activities": ["Custom: \ud83c\udf47 | Violet | \ud83e\uded0IS A PEDO FULL USER animelover33462"]}}
+---
