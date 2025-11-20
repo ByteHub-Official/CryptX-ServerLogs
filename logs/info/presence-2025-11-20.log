@@ -454,3 +454,6 @@ METADATA: {"timestamp": "2025-11-20T10:55:38.739873", "bot_version": "2.4.0", "g
 [2025-11-20T10:56:44.169866] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch Security Pro#8634 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2025-11-20T10:56:44.169839", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436123214668501134, "username": "ShadowT3ch Security Pro#8634", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2025-11-20T10:56:51.014740] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-20T10:56:51.014707", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
