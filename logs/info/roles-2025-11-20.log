@@ -76,3 +76,6 @@ METADATA: {"timestamp": "2025-11-20T07:35:23.897190", "bot_version": "2.4.0", "g
 [2025-11-20T07:35:25.374119] [INFO] [ROLES] [RoleUpdate] Role '*' updated in ShadowT3ch: position: 25 -> 26
 METADATA: {"timestamp": "2025-11-20T07:35:25.374086", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436118893205786751, "role_name": "*", "extra": {"position_change": {"before": 25, "after": 26}}}
 ---
+[2025-11-20T07:35:26.866995] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Logs' updated in ShadowT3ch: position: 26 -> 27
+METADATA: {"timestamp": "2025-11-20T07:35:26.866957", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "guild_name": "ShadowT3ch", "role_id": 1436128102077042783, "role_name": "ShadowT3ch Logs", "extra": {"position_change": {"before": 26, "after": 27}}}
+---
