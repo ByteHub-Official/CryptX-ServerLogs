@@ -1,3 +1,6 @@
 [2025-11-21T09:44:29.000292] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch Security Pro#8634 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2025-11-21T09:44:29.000246", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436123214668501134, "username": "ShadowT3ch Security Pro#8634", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2025-11-21T09:44:48.471604] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2025-11-21T09:44:48.471549", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
