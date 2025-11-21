@@ -5815,3 +5815,6 @@ METADATA: {"timestamp": "2025-11-21T17:00:36.354233", "bot_version": "2.4.0", "g
 [2025-11-21T17:00:44.799025] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: Custom: "Cast all your anxieties on him, because he cares for you." | 1 Peter 1:7
 METADATA: {"timestamp": "2025-11-21T17:00:44.798990", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: \"Cast all your anxieties on him, because he cares for you.\" | 1 Peter 1:7"]}}
 ---
+[2025-11-21T17:00:47.276079] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: None
+METADATA: {"timestamp": "2025-11-21T17:00:47.276052", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
