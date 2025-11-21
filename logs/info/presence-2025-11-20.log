@@ -1006,3 +1006,6 @@ METADATA: {"timestamp": "2025-11-20T18:17:39.015117", "bot_version": "2.4.0", "g
 [2025-11-20T18:17:40.326708] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: Custom: "Cast all your anxieties on him, because he cares for you." | 1 Peter 1:7
 METADATA: {"timestamp": "2025-11-20T18:17:40.326666", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: \"Cast all your anxieties on him, because he cares for you.\" | 1 Peter 1:7"]}}
 ---
+[2025-11-20T18:31:19.105077] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: online -> idle | Activities: Custom: 🍇 | Violet | 🫐IS A PEDO FULL USER animelover33462
+METADATA: {"timestamp": "2025-11-20T18:31:19.105033", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: \ud83c\udf47 | Violet | \ud83e\uded0IS A PEDO FULL USER animelover33462"]}}
+---
