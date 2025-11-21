@@ -103,3 +103,6 @@ METADATA: {"timestamp": "2025-11-20T19:43:05.052218", "bot_version": "2.4.0", "g
 [2025-11-20T19:43:08.134680] [INFO] [REACTIONS] [ReactionAdded] User ShadowT3ch AI#7770 added 🤔 to message by echo058622 in 💬》chat-with-ai
 METADATA: {"timestamp": "2025-11-20T19:43:08.134636", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1441055118534508654, "user_id": 1436123916753047573, "message_id": 1441242480585474079, "extra": {}}
 ---
+[2025-11-20T19:43:11.460810] [INFO] [REACTIONS] [ReactionRemoved] User ShadowT3ch AI#7770 removed 🤔 from message by echo058622 in 💬》chat-with-ai
+METADATA: {"timestamp": "2025-11-20T19:43:11.460761", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "channel_id": 1441055118534508654, "user_id": 1436123916753047573, "message_id": 1441242480585474079, "extra": {}}
+---
