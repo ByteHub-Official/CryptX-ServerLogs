@@ -1105,3 +1105,6 @@ METADATA: {"timestamp": "2025-11-20T19:41:22.010000", "bot_version": "2.4.0", "g
 [2025-11-20T19:42:26.542378] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2025-11-20T19:42:26.542323", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2025-11-20T19:42:28.330450] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: Custom: High on life~
+METADATA: {"timestamp": "2025-11-20T19:42:28.330402", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: High on life~"]}}
+---
