@@ -1525,3 +1525,6 @@ METADATA: {"timestamp": "2025-11-21T11:30:33.034049", "bot_version": "2.4.0", "g
 [2025-11-21T11:30:42.742773] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-21T11:30:42.742720", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2025-11-21T11:30:44.532642] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Tracking 2 servers
+METADATA: {"timestamp": "2025-11-21T11:30:44.532592", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
+---
