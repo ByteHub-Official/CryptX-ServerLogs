@@ -5866,3 +5866,6 @@ METADATA: {"timestamp": "2025-11-21T18:15:54.955970", "bot_version": "2.4.0", "g
 [2025-11-21T18:16:57.349169] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-21T18:16:57.349128", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2025-11-21T18:17:06.302994] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2025-11-21T18:17:06.302954", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
