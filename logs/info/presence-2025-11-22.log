@@ -175,3 +175,6 @@ METADATA: {"timestamp": "2025-11-22T09:31:04.852408", "bot_version": "2.4.0", "g
 [2025-11-22T09:31:37.598104] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: None
 METADATA: {"timestamp": "2025-11-22T09:31:37.598068", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2025-11-22T09:32:40.650642] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: None
+METADATA: {"timestamp": "2025-11-22T09:32:40.650593", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
