@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2025-11-23T00:14:37.593870", "bot_version": "2.4.0", "g
 [2025-11-23T00:45:43.548939] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: idle -> online | Activities: Custom: 🍇 | Violet | 🫐IS A PEDO FULL USER animelover33462
 METADATA: {"timestamp": "2025-11-23T00:45:43.548903", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: \ud83c\udf47 | Violet | \ud83e\uded0IS A PEDO FULL USER animelover33462"]}}
 ---
+[2025-11-23T00:53:10.570955] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2025-11-23T00:53:10.570915", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
