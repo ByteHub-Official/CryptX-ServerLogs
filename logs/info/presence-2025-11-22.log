@@ -808,3 +808,6 @@ METADATA: {"timestamp": "2025-11-22T22:22:44.903853", "bot_version": "2.4.0", "g
 [2025-11-22T22:28:54.710747] [INFO] [PRESENCE] [PresenceUpdate] User mxnhxeuv status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-22T22:28:54.710712", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1427105772243914854, "username": "mxnhxeuv", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2025-11-22T22:29:34.913345] [INFO] [PRESENCE] [PresenceUpdate] User mxnhxeuv status changed: offline -> dnd | Activities: Custom: [ .gg/memberzz FREE MEMBERS ]
+METADATA: {"timestamp": "2025-11-22T22:29:34.913298", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1427105772243914854, "username": "mxnhxeuv", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: [ .gg/memberzz FREE MEMBERS ]"]}}
+---
