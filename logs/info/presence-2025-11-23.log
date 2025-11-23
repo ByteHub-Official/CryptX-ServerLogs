@@ -49,3 +49,6 @@ METADATA: {"timestamp": "2025-11-23T01:51:19.813999", "bot_version": "2.4.0", "g
 [2025-11-23T01:51:40.665846] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: offline -> dnd | Activities: Custom: I hate my phone
 METADATA: {"timestamp": "2025-11-23T01:51:40.665812", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: I hate my phone"]}}
 ---
+[2025-11-23T01:59:26.015593] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-23T01:59:26.015542", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
