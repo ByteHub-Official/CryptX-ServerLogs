@@ -760,3 +760,6 @@ METADATA: {"timestamp": "2025-11-23T19:57:02.986545", "bot_version": "2.4.0", "g
 [2025-11-23T19:57:04.354880] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: same | Activities: Custom: I hate my phone
 METADATA: {"timestamp": "2025-11-23T19:57:04.354846", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: I hate my phone"]}}
 ---
+[2025-11-23T19:58:32.695970] [INFO] [PRESENCE] [PresenceUpdate] User mxnhxeuv status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-23T19:58:32.695924", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1427105772243914854, "username": "mxnhxeuv", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
