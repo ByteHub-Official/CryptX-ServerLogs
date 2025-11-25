@@ -151,3 +151,6 @@ METADATA: {"timestamp": "2025-11-25T13:41:30.015401", "bot_version": "2.4.0", "g
 [2025-11-25T13:48:07.957192] [INFO] [PRESENCE] [PresenceUpdate] User mxnhxeuv status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2025-11-25T13:48:07.957144", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1427105772243914854, "username": "mxnhxeuv", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2025-11-25T13:48:09.951978] [INFO] [PRESENCE] [PresenceUpdate] User mxnhxeuv status changed: same | Activities: Custom: [ .gg/memberzz FREE MEMBERS ]
+METADATA: {"timestamp": "2025-11-25T13:48:09.951942", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1427105772243914854, "username": "mxnhxeuv", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: [ .gg/memberzz FREE MEMBERS ]"]}}
+---
