@@ -601,3 +601,6 @@ METADATA: {"timestamp": "2025-11-24T19:51:08.031890", "bot_version": "2.4.0", "g
 [2025-11-24T19:56:57.079242] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: Custom: working on something.. 👀
 METADATA: {"timestamp": "2025-11-24T19:56:57.079205", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: working on something.. \ud83d\udc40"]}}
 ---
+[2025-11-24T19:58:02.463072] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: same | Activities: Custom: i’m at school right now  i’m asleep at 10 pm  don’t Dm me about Delta and don’t send me a friend request afterward
+METADATA: {"timestamp": "2025-11-24T19:58:02.463026", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: i\u2019m at school right now  i\u2019m asleep at 10 pm  don\u2019t Dm me about Delta and don\u2019t send me a friend request afterward"]}}
+---
