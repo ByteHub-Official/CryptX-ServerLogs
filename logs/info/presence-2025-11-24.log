@@ -547,3 +547,6 @@ METADATA: {"timestamp": "2025-11-24T19:34:15.904543", "bot_version": "2.4.0", "g
 [2025-11-24T19:34:17.432700] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: Custom: working on something.. 👀
 METADATA: {"timestamp": "2025-11-24T19:34:17.432676", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: working on something.. \ud83d\udc40"]}}
 ---
+[2025-11-24T19:34:19.004178] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: same | Activities: Custom: working on something.. 👀
+METADATA: {"timestamp": "2025-11-24T19:34:19.004154", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: working on something.. \ud83d\udc40"]}}
+---
