@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2025-11-25T00:00:22.361175", "bot_version": "2.4.0", "g
 [2025-11-25T00:01:33.515742] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: Custom: (ITS MAH BIRTHDAY) 🔥🔥🎂🎉🎈🥳
 METADATA: {"timestamp": "2025-11-25T00:01:33.515706", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: (ITS MAH BIRTHDAY) \ud83d\udd25\ud83d\udd25\ud83c\udf82\ud83c\udf89\ud83c\udf88\ud83e\udd73"]}}
 ---
+[2025-11-25T00:15:26.169726] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2025-11-25T00:15:26.169689", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
