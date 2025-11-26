@@ -466,3 +466,6 @@ METADATA: {"timestamp": "2025-11-25T19:26:48.269435", "bot_version": "2.4.0", "g
 [2025-11-25T19:35:23.596543] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: Custom: Now watch him fall apart, now watch him gush and bleed, he had a beating heart that ended with a little SCREAM =)
 METADATA: {"timestamp": "2025-11-25T19:35:23.596503", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: Now watch him fall apart, now watch him gush and bleed, he had a beating heart that ended with a little SCREAM =)"]}}
 ---
+[2025-11-25T19:42:00.958835] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: Custom: -# Now watch him fall apart, now watch him gush and bleed, he had a beating heart that ended with a little SCREAM =)
+METADATA: {"timestamp": "2025-11-25T19:42:00.958789", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: -# Now watch him fall apart, now watch him gush and bleed, he had a beating heart that ended with a little SCREAM =)"]}}
+---
