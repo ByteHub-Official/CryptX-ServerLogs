@@ -607,3 +607,6 @@ METADATA: {"timestamp": "2025-11-25T22:43:15.610071", "bot_version": "2.4.0", "g
 [2025-11-25T22:53:53.805320] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-25T22:53:53.805283", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2025-11-25T23:06:38.987906] [INFO] [PRESENCE] [PresenceUpdate] User rayu0917 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2025-11-25T23:06:38.987869", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1381462264028332202, "username": "rayu0917", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
