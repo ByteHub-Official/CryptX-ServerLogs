@@ -3400,3 +3400,6 @@ METADATA: {"timestamp": "2025-11-28T21:12:29.717736", "bot_version": "2.4.0", "g
 [2025-11-28T21:12:33.725564] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: dnd -> online | Activities: None
 METADATA: {"timestamp": "2025-11-28T21:12:33.725537", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "dnd", "after_status": "online", "activities": []}}
 ---
+[2025-11-28T21:12:39.426575] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Powered by CryptX!
+METADATA: {"timestamp": "2025-11-28T21:12:39.426547", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
+---
