@@ -5215,3 +5215,6 @@ METADATA: {"timestamp": "2025-11-28T23:17:54.019513", "bot_version": "2.4.0", "g
 [2025-11-28T23:18:03.727697] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-28T23:18:03.727667", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2025-11-28T23:18:05.528629] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Tracking 5 servers
+METADATA: {"timestamp": "2025-11-28T23:18:05.528606", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 5 servers"]}}
+---
