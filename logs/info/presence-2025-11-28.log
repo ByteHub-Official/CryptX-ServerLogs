@@ -3970,3 +3970,6 @@ METADATA: {"timestamp": "2025-11-28T21:51:50.835946", "bot_version": "2.4.0", "g
 [2025-11-28T21:52:05.148776] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: same | Activities: Custom: i’m at school right now  i’m asleep at 10 pm  don’t Dm me about Delta and don’t send me a friend request afterward, Playing: Legacy of Hestia
 METADATA: {"timestamp": "2025-11-28T21:52:05.148743", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: i\u2019m at school right now  i\u2019m asleep at 10 pm  don\u2019t Dm me about Delta and don\u2019t send me a friend request afterward", "Playing: Legacy of Hestia"]}}
 ---
+[2025-11-28T21:52:11.619554] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Powered by CryptX!
+METADATA: {"timestamp": "2025-11-28T21:52:11.619526", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
+---
