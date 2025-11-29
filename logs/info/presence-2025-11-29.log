@@ -5518,3 +5518,6 @@ METADATA: {"timestamp": "2025-11-29T06:33:41.567235", "bot_version": "2.4.0", "g
 [2025-11-29T06:34:11.640249] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Configure with /setup
 METADATA: {"timestamp": "2025-11-29T06:34:11.640217", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
 ---
+[2025-11-29T06:34:27.955403] [INFO] [PRESENCE] [PresenceUpdate] User echo058622 status changed: same | Activities: Custom: ❤️🫵
+METADATA: {"timestamp": "2025-11-29T06:34:27.955374", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1309337550296449024, "username": "echo058622", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: \u2764\ufe0f\ud83e\udef5"]}}
+---
