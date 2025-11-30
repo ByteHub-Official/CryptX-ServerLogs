@@ -1225,3 +1225,6 @@ METADATA: {"timestamp": "2025-11-30T01:25:56.953702", "bot_version": "2.4.0", "g
 [2025-11-30T01:25:59.103238] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2025-11-30T01:25:59.103218", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2025-11-30T01:26:06.714845] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#7688 status changed: same | Activities: Playing: Powered by CryptX!
+METADATA: {"timestamp": "2025-11-30T01:26:06.714815", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1436125663378673875, "username": "XenBot#7688", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
+---
