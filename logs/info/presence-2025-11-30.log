@@ -1480,3 +1480,6 @@ METADATA: {"timestamp": "2025-11-30T01:42:21.847691", "bot_version": "2.4.0", "g
 [2025-11-30T01:42:23.442127] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2025-11-30T01:42:23.442102", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2025-11-30T01:42:26.264946] [INFO] [PRESENCE] [PresenceUpdate] User mqp6 status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2025-11-30T01:42:26.264922", "bot_version": "2.4.0", "guild_id": 1436118893130158090, "user_id": 1373556059184042045, "username": "mqp6", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
