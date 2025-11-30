@@ -1,0 +1,3 @@
+[2025-11-30T14:02:43.783093] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=671415720222916608 name='paulanerspesi' global_name='Paulanerspezi' bot=False nick=None guild=<Guild id=1436118893130158090 name='ShadowT3ch' shard_id=0 chunked=True member_count=17>>,) {}
+METADATA: {"timestamp": "2025-11-30T14:02:43.783061", "bot_version": "2.4.0", "extra": {"args": "(<Member id=671415720222916608 name='paulanerspesi' global_name='Paulanerspezi' bot=False nick=None guild=<Guild id=1436118893130158090 name='ShadowT3ch' shard_id=0 chunked=True member_count=17>>,)", "kwargs": "{}"}}
+---
