@@ -97,3 +97,6 @@ METADATA: {"timestamp": "2026-01-03T01:13:03.080652", "bot_version": "2.4.0", "g
 [2026-01-03T01:13:12.242283] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》chat-with-ai by ShadowT3ch AI#6744: '...' | ID: 1456893078697803920
 METADATA: {"timestamp": "2026-01-03T01:13:12.242283", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1456820286761734264, "message_id": 1456893078697803920, "extra": {}}
 ---
+[2026-01-03T01:13:15.395392] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#3888 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1456893088399364157
+METADATA: {"timestamp": "2026-01-03T01:13:15.395392", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456477520818868337, "user_id": 1456559078603227403, "message_id": 1456893088399364157, "extra": {}}
+---
