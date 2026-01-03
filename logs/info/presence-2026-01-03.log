@@ -1198,3 +1198,6 @@ METADATA: {"timestamp": "2026-01-03T18:29:33.029437", "bot_version": "2.4.0", "g
 [2026-01-03T18:31:13.814362] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-03T18:31:13.814362", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-03T18:31:45.999832] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-03T18:31:45.999832", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
