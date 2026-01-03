@@ -91,3 +91,6 @@ METADATA: {"timestamp": "2026-01-02T23:25:55.383776", "bot_version": "2.4.0", "g
 [2026-01-02T23:25:56.921861] [INFO] [ROLES] [RoleUpdate] Role '📲 | Project Manager' updated in ShadowT3ch Development Group: position: 14 -> 15
 METADATA: {"timestamp": "2026-01-02T23:25:56.921861", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556038714036234, "role_name": "\ud83d\udcf2 | Project Manager", "extra": {"position_change": {"before": 14, "after": 15}}}
 ---
+[2026-01-02T23:25:58.472025] [INFO] [ROLES] [RoleUpdate] Role '📄| Partner' updated in ShadowT3ch Development Group: position: 15 -> 16
+METADATA: {"timestamp": "2026-01-02T23:25:58.472025", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556037380374692, "role_name": "\ud83d\udcc4| Partner", "extra": {"position_change": {"before": 15, "after": 16}}}
+---
