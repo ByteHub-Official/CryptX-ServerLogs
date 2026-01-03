@@ -589,3 +589,6 @@ METADATA: {"timestamp": "2026-01-03T03:02:19.384164", "bot_version": "2.4.0", "g
 [2026-01-03T03:02:37.949360] [INFO] [PRESENCE] [PresenceUpdate] User jaydot8415 status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-03T03:02:37.949360", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1021314266629951568, "username": "jaydot8415", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-03T03:02:49.374958] [INFO] [PRESENCE] [PresenceUpdate] User konfig0547 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-03T03:02:49.374450", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1410416213216985108, "username": "konfig0547", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
