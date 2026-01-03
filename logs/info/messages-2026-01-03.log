@@ -187,3 +187,6 @@ METADATA: {"timestamp": "2026-01-03T01:44:46.043225", "bot_version": "2.4.0", "g
 [2026-01-03T01:54:11.283423] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📭》tickets by XenBot#2953: '...' | ID: 1456901084642541618
 METADATA: {"timestamp": "2026-01-03T01:54:11.283423", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473866577772697, "user_id": 1456813600302825593, "message_id": 1456901084642541618, "extra": {}}
 ---
+[2026-01-03T01:54:13.662720] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 📭》tickets: Before: '...' After: '...' | ID: 1456903465379823616
+METADATA: {"timestamp": "2026-01-03T01:54:13.662720", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473866577772697, "user_id": 1456813600302825593, "message_id": 1456903465379823616, "extra": {}}
+---
