@@ -1,0 +1,3 @@
+[2026-01-02T20:06:20.072128] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Logs' updated in ShadowT3ch Development Group: permissions changed
+METADATA: {"timestamp": "2026-01-02T20:06:20.072128", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456815911184109715, "role_name": "ShadowT3ch Logs", "extra": {"permission_changes": {"added": "0x0", "removed": "0x8"}}}
+---
