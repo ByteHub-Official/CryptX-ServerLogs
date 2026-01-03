@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-02T20:07:45.153406", "bot_version": "2.4.0", "g
 [2026-01-02T20:07:55.295270] [INFO] [MEMBERS] [MemberUpdate] Member ShadowT3ch Logs#4740 updated in ShadowT3ch Development Group: roles: added=[], removed=['📱 | Bots']
 METADATA: {"timestamp": "2026-01-02T20:07:55.294210", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "user_id": 1456815309561270303, "username": "ShadowT3ch Logs#4740", "extra": {"role_changes": {"added": [], "removed": ["\ud83d\udcf1 | Bots"]}}}
 ---
+[2026-01-02T20:09:54.605059] [INFO] [MEMBERS] [MemberUpdate] Member dylan001062 updated in ShadowT3ch Development Group: roles: added=['🔥| Member'], removed=[]
+METADATA: {"timestamp": "2026-01-02T20:09:54.605059", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "user_id": 1408577603408887980, "username": "dylan001062", "extra": {"role_changes": {"added": ["\ud83d\udd25| Member"], "removed": []}}}
+---
