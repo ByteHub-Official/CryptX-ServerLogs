@@ -157,3 +157,6 @@ METADATA: {"timestamp": "2026-01-03T00:55:00.354089", "bot_version": "2.4.0", "g
 [2026-01-03T00:55:04.349892] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: online -> idle | Activities: Custom: puff and pass
 METADATA: {"timestamp": "2026-01-03T00:55:04.349892", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
 ---
+[2026-01-03T00:56:52.717389] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: Custom: hi i love my gf
+METADATA: {"timestamp": "2026-01-03T00:56:52.717389", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: hi i love my gf"]}}
+---
