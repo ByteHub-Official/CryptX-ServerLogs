@@ -1414,3 +1414,6 @@ METADATA: {"timestamp": "2026-01-02T21:28:08.555775", "bot_version": "2.4.0", "g
 [2026-01-02T21:28:11.207017] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: dnd -> online | Activities: Custom: hi i love my gf
 METADATA: {"timestamp": "2026-01-02T21:28:11.207017", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "online", "activities": ["Custom: hi i love my gf"]}}
 ---
+[2026-01-02T21:28:12.878014] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: dnd -> online | Activities: Custom: hi i love my gf
+METADATA: {"timestamp": "2026-01-02T21:28:12.878014", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "online", "activities": ["Custom: hi i love my gf"]}}
+---
