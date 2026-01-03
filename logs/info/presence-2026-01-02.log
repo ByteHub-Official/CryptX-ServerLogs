@@ -2671,3 +2671,6 @@ METADATA: {"timestamp": "2026-01-02T22:40:38.580275", "bot_version": "2.4.0", "g
 [2026-01-02T22:40:40.185211] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: offline -> dnd | Activities: Custom: its 6 am son i won
 METADATA: {"timestamp": "2026-01-02T22:40:40.185211", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: its 6 am son i won"]}}
 ---
+[2026-01-02T22:40:48.563614] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2026-01-02T22:40:48.563614", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
