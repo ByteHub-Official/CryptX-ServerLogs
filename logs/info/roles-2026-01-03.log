@@ -139,3 +139,6 @@ METADATA: {"timestamp": "2026-01-03T01:51:15.807586", "bot_version": "2.4.0", "g
 [2026-01-03T01:51:17.445703] [INFO] [ROLES] [RoleUpdate] Role '🎥 | Jr Youtuber' updated in ShadowT3ch Development Group: position: 11 -> 12
 METADATA: {"timestamp": "2026-01-03T01:51:17.445703", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556046700118077, "role_name": "\ud83c\udfa5 | Jr Youtuber", "extra": {"position_change": {"before": 11, "after": 12}}}
 ---
+[2026-01-03T01:51:18.966586] [INFO] [ROLES] [RoleUpdate] Role '🎥 | Youtuber' updated in ShadowT3ch Development Group: position: 12 -> 13
+METADATA: {"timestamp": "2026-01-03T01:51:18.966586", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556044816879686, "role_name": "\ud83c\udfa5 | Youtuber", "extra": {"position_change": {"before": 12, "after": 13}}}
+---
