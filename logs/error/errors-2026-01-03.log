@@ -1,3 +1,6 @@
 [2026-01-03T01:01:27.420589] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1456888434772672654 name='ShadowT3ch Key System' global_name=None bot=True nick=None guild=<Guild id=1419349908850475031 name='ShadowT3ch Development Group' shard_id=0 chunked=True member_count=123>>,) {}
 METADATA: {"timestamp": "2026-01-03T01:01:27.420589", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1456888434772672654 name='ShadowT3ch Key System' global_name=None bot=True nick=None guild=<Guild id=1419349908850475031 name='ShadowT3ch Development Group' shard_id=0 chunked=True member_count=123>>,)", "kwargs": "{}"}}
 ---
+[2026-01-03T01:25:36.403870] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1407401119994613801 name='reaper_hunter69' global_name='Reaper_Hunter' bot=False nick=None guild=<Guild id=1419349908850475031 name='ShadowT3ch Development Group' shard_id=0 chunked=True member_count=124>>,) {}
+METADATA: {"timestamp": "2026-01-03T01:25:36.403870", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1407401119994613801 name='reaper_hunter69' global_name='Reaper_Hunter' bot=False nick=None guild=<Guild id=1419349908850475031 name='ShadowT3ch Development Group' shard_id=0 chunked=True member_count=124>>,)", "kwargs": "{}"}}
+---
