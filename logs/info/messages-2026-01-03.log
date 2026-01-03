@@ -190,3 +190,6 @@ METADATA: {"timestamp": "2026-01-03T01:54:11.283423", "bot_version": "2.4.0", "g
 [2026-01-03T01:54:13.662720] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 📭》tickets: Before: '...' After: '...' | ID: 1456903465379823616
 METADATA: {"timestamp": "2026-01-03T01:54:13.662720", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473866577772697, "user_id": 1456813600302825593, "message_id": 1456903465379823616, "extra": {}}
 ---
+[2026-01-03T01:54:42.955701] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in ticket-support-dxih: Before: '<@1283957288314343486> <@&1456556036495380585> <@&...' After: '<@1283957288314343486> <@&1456556036495380585> <@&...' | ID: 1456903571332272279
+METADATA: {"timestamp": "2026-01-03T01:54:42.955701", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456903568660631770, "user_id": 1456813600302825593, "message_id": 1456903571332272279, "extra": {}}
+---
