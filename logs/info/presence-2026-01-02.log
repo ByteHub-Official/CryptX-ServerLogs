@@ -82,3 +82,6 @@ METADATA: {"timestamp": "2026-01-02T20:10:38.670247", "bot_version": "2.4.0", "g
 [2026-01-02T20:10:47.775005] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
 METADATA: {"timestamp": "2026-01-02T20:10:47.775005", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
 ---
+[2026-01-02T20:10:54.095458] [INFO] [PRESENCE] [PresenceUpdate] User decendeaths_void status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-02T20:10:54.095458", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398201716129796097, "username": "decendeaths_void", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
