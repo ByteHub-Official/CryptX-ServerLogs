@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2026-01-02T20:08:57.773260", "bot_version": "2.4.0", "g
 [2026-01-02T20:09:04.013063] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-02T20:09:04.013063", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-02T20:09:04.875235] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: same | Activities: Custom: "𝙋𝙍𝙄𝙉𝘾𝙀𝙎𝙎 𝙏𝙍𝙐𝙉𝙆𝙎" quoted by "ᄂƧƧJ BЯӨᄂY".
+METADATA: {"timestamp": "2026-01-02T20:09:04.875235", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: \"\ud835\ude4b\ud835\ude4d\ud835\ude44\ud835\ude49\ud835\ude3e\ud835\ude40\ud835\ude4e\ud835\ude4e \ud835\ude4f\ud835\ude4d\ud835\ude50\ud835\ude49\ud835\ude46\ud835\ude4e\" quoted by \"\u1102\u01a7\u01a7J B\u042f\u04e8\u1102Y\"."]}}
+---
