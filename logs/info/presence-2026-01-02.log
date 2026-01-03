@@ -3052,3 +3052,6 @@ METADATA: {"timestamp": "2026-01-02T23:03:38.664538", "bot_version": "2.4.0", "g
 [2026-01-02T23:03:44.867124] [INFO] [PRESENCE] [PresenceUpdate] User void___111 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-02T23:03:44.866126", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1254544936121139242, "username": "void___111", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-02T23:03:58.975039] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 1 servers
+METADATA: {"timestamp": "2026-01-02T23:03:58.975039", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 1 servers"]}}
+---
