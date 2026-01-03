@@ -25,3 +25,6 @@ METADATA: {"timestamp": "2026-01-03T00:15:44.804051", "bot_version": "2.4.0", "g
 [2026-01-03T00:15:46.279984] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-03T00:15:46.279984", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-03T00:17:47.386593] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-03T00:17:47.386593", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
