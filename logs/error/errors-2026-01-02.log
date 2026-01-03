@@ -1,0 +1,3 @@
+[2026-01-02T20:09:38.854595] [ERROR] [ERRORS] [DiscordError_on_member_join] Error in event 'on_member_join': (<Member id=1408577603408887980 name='dylan001062' global_name='Dylan' bot=False nick=None guild=<Guild id=1419349908850475031 name='ShadowT3ch Development Group' shard_id=0 chunked=True member_count=120>>,) {}
+METADATA: {"timestamp": "2026-01-02T20:09:38.854595", "bot_version": "2.4.0", "extra": {"args": "(<Member id=1408577603408887980 name='dylan001062' global_name='Dylan' bot=False nick=None guild=<Guild id=1419349908850475031 name='ShadowT3ch Development Group' shard_id=0 chunked=True member_count=120>>,)", "kwargs": "{}"}}
+---
