@@ -2038,3 +2038,6 @@ METADATA: {"timestamp": "2026-01-02T22:03:49.991882", "bot_version": "2.4.0", "g
 [2026-01-02T22:03:54.681609] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-02T22:03:54.681609", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-02T22:03:56.193535] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-02T22:03:56.193535", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
