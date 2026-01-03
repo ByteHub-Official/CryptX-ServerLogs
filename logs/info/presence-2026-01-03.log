@@ -970,3 +970,6 @@ METADATA: {"timestamp": "2026-01-03T04:28:11.939777", "bot_version": "2.4.0", "g
 [2026-01-03T04:30:05.572984] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch Key System#7332 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-03T04:30:05.572984", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456888434772672654, "username": "ShadowT3ch Key System#7332", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-03T04:33:59.724546] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-03T04:33:59.724546", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
