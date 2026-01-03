@@ -1,3 +1,6 @@
 [2026-01-02T20:06:24.781907] [INFO] [INTEGRATIONS] [GuildIntegrationsUpdate] Guild integrations updated in ShadowT3ch Development Group
 METADATA: {"timestamp": "2026-01-02T20:06:24.781907", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "extra": {}}
 ---
+[2026-01-02T20:26:35.118842] [INFO] [INTEGRATIONS] [IntegrationCreate] Integration 'ShadowT3ch AI' created in ShadowT3ch Development Group (Type: discord)
+METADATA: {"timestamp": "2026-01-02T20:26:35.118842", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "extra": {"integration_id": 1456821012610940939, "integration_type": "discord", "enabled": true}}
+---
