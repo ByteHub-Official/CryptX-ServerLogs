@@ -1084,3 +1084,6 @@ METADATA: {"timestamp": "2026-01-03T13:13:00.684123", "bot_version": "2.4.0", "g
 [2026-01-03T13:13:33.198322] [INFO] [PRESENCE] [PresenceUpdate] User limeman11 status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-03T13:13:33.198322", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1368860148608798731, "username": "limeman11", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-03T13:13:53.984011] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-03T13:13:53.983001", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
