@@ -1063,3 +1063,6 @@ METADATA: {"timestamp": "2026-01-03T13:03:32.395054", "bot_version": "2.4.0", "g
 [2026-01-03T13:03:33.312640] [INFO] [PRESENCE] [PresenceUpdate] User limeman11 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-03T13:03:33.312640", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1368860148608798731, "username": "limeman11", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-03T13:03:58.179852] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-03T13:03:58.179852", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
