@@ -880,3 +880,6 @@ METADATA: {"timestamp": "2026-01-03T03:59:57.086627", "bot_version": "2.4.0", "g
 [2026-01-03T04:00:02.885014] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-03T04:00:02.885014", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-03T04:00:51.436845] [INFO] [PRESENCE] [PresenceUpdate] User datphamtien0969 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-03T04:00:51.436845", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1302478198008971315, "username": "datphamtien0969", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
