@@ -175,3 +175,6 @@ METADATA: {"timestamp": "2026-01-03T01:51:34.195514", "bot_version": "2.4.0", "g
 [2026-01-03T01:51:35.924443] [INFO] [ROLES] [RoleUpdate] Role '💼| Manager' updated in ShadowT3ch Development Group: position: 23 -> 24
 METADATA: {"timestamp": "2026-01-03T01:51:35.924443", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556029780426815, "role_name": "\ud83d\udcbc| Manager", "extra": {"position_change": {"before": 23, "after": 24}}}
 ---
+[2026-01-03T01:51:37.462757] [INFO] [ROLES] [RoleUpdate] Role '👑| Co-Owner' updated in ShadowT3ch Development Group: position: 24 -> 25
+METADATA: {"timestamp": "2026-01-03T01:51:37.462757", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556028526071903, "role_name": "\ud83d\udc51| Co-Owner", "extra": {"position_change": {"before": 24, "after": 25}}}
+---
