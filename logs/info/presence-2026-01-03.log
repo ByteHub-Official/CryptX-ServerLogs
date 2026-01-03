@@ -628,3 +628,6 @@ METADATA: {"timestamp": "2026-01-03T03:14:44.541611", "bot_version": "2.4.0", "g
 [2026-01-03T03:15:49.920338] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-03T03:15:49.920338", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-03T03:16:36.412770] [INFO] [PRESENCE] [PresenceUpdate] User yotoop status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-03T03:16:36.411492", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1432318210107113569, "username": "yotoop", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
