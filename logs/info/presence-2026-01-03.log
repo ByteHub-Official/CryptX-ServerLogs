@@ -91,3 +91,6 @@ METADATA: {"timestamp": "2026-01-03T00:37:14.487202", "bot_version": "2.4.0", "g
 [2026-01-03T00:37:19.735997] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> online | Activities: Custom: puff and pass
 METADATA: {"timestamp": "2026-01-03T00:37:19.735997", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: puff and pass"]}}
 ---
+[2026-01-03T00:38:28.721916] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-03T00:38:28.721916", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
