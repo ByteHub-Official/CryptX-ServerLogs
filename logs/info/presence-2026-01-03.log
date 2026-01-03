@@ -1018,3 +1018,6 @@ METADATA: {"timestamp": "2026-01-03T04:43:14.591405", "bot_version": "2.4.0", "g
 [2026-01-03T04:44:23.773378] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-03T04:44:23.773378", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-03T04:45:32.448377] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-03T04:45:32.448377", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
