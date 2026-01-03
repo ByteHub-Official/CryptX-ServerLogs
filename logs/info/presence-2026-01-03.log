@@ -190,3 +190,6 @@ METADATA: {"timestamp": "2026-01-03T01:02:58.777061", "bot_version": "2.4.0", "g
 [2026-01-03T01:04:48.132597] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-03T01:04:48.132597", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-03T01:06:31.929594] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: online -> idle | Activities: Custom: KING OF THE BEGINNING
+METADATA: {"timestamp": "2026-01-03T01:06:31.928588", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
+---
