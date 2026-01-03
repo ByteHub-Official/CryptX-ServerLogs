@@ -2002,3 +2002,6 @@ METADATA: {"timestamp": "2026-01-02T22:02:11.838802", "bot_version": "2.4.0", "g
 [2026-01-02T22:02:13.611634] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-02T22:02:13.611634", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-02T22:02:15.435266] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: same | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-02T22:02:15.435266", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
+---
