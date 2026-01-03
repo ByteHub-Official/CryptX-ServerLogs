@@ -2578,3 +2578,6 @@ METADATA: {"timestamp": "2026-01-02T22:34:48.559531", "bot_version": "2.4.0", "g
 [2026-01-02T22:34:58.560280] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2026-01-02T22:34:58.560280", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2026-01-02T22:35:21.143443] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> online | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-02T22:35:21.143443", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: puff and pass"]}}
+---
