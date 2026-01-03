@@ -988,3 +988,6 @@ METADATA: {"timestamp": "2026-01-03T04:36:50.734052", "bot_version": "2.4.0", "g
 [2026-01-03T04:36:52.082100] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-03T04:36:52.082100", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-03T04:37:39.748703] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-03T04:37:39.748703", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
