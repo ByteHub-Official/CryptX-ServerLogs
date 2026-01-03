@@ -1399,3 +1399,6 @@ METADATA: {"timestamp": "2026-01-02T21:27:18.381006", "bot_version": "2.4.0", "g
 [2026-01-02T21:27:27.183928] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: Custom: hi i love my gf
 METADATA: {"timestamp": "2026-01-02T21:27:27.183928", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: hi i love my gf"]}}
 ---
+[2026-01-02T21:27:38.552594] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by CryptX!
+METADATA: {"timestamp": "2026-01-02T21:27:38.552594", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
+---
