@@ -1504,3 +1504,6 @@ METADATA: {"timestamp": "2026-01-02T21:32:04.469128", "bot_version": "2.4.0", "g
 [2026-01-02T21:32:07.749436] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: online -> idle | Activities: Custom: puff and pass
 METADATA: {"timestamp": "2026-01-02T21:32:07.748292", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
 ---
+[2026-01-02T21:32:09.265072] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-02T21:32:09.265072", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
