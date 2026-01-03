@@ -1930,3 +1930,6 @@ METADATA: {"timestamp": "2026-01-02T21:59:08.326233", "bot_version": "2.4.0", "g
 [2026-01-02T21:59:13.962775] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-02T21:59:13.962775", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-02T21:59:18.324246] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2026-01-02T21:59:18.324246", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
