@@ -70,3 +70,6 @@ METADATA: {"timestamp": "2026-01-02T20:52:08.178663", "bot_version": "2.4.0", "g
 [2026-01-02T20:52:09.621718] [INFO] [REACTIONS] [ReactionAdded] User ShadowT3ch AI#6744 added ✅ to message by donthurtpain in 💬》chat-with-ai
 METADATA: {"timestamp": "2026-01-02T20:52:09.621718", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1456820286761734264, "message_id": 1456827310396149850, "extra": {}}
 ---
+[2026-01-02T20:52:50.353919] [INFO] [REACTIONS] [ReactionAdded] User ShadowT3ch AI#6744 added 🤔 to message by donthurtpain in 💬》chat-with-ai
+METADATA: {"timestamp": "2026-01-02T20:52:50.353919", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1456820286761734264, "message_id": 1456827609110544637, "extra": {}}
+---
