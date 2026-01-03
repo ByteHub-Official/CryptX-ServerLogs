@@ -541,3 +541,6 @@ METADATA: {"timestamp": "2026-01-03T02:52:09.138181", "bot_version": "2.4.0", "g
 [2026-01-03T02:53:06.001500] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: online -> idle | Activities: Custom: KING OF THE BEGINNING
 METADATA: {"timestamp": "2026-01-03T02:53:06.000500", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
 ---
+[2026-01-03T02:54:04.141932] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-03T02:54:04.141932", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
