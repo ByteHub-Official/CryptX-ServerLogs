@@ -2899,3 +2899,6 @@ METADATA: {"timestamp": "2026-01-02T22:54:49.016548", "bot_version": "2.4.0", "g
 [2026-01-02T22:55:06.393078] [INFO] [PRESENCE] [PresenceUpdate] User nguoithongminh0225_87966 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-02T22:55:06.393078", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1321786547439140924, "username": "nguoithongminh0225_87966", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-02T22:55:08.596322] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-02T22:55:08.595308", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
