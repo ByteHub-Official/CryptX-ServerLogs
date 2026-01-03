@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-02T20:10:26.424971", "bot_version": "2.4.0", "g
 [2026-01-02T20:10:44.455900] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 👋🏻》welcome by dylan001062: '...' | ID: 1456816816885338173
 METADATA: {"timestamp": "2026-01-02T20:10:44.454897", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1408577603408887980, "message_id": 1456816816885338173, "extra": {}}
 ---
+[2026-01-02T20:26:41.923826] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#3888 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1456821014494314694
+METADATA: {"timestamp": "2026-01-02T20:26:41.923826", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456477520818868337, "user_id": 1456559078603227403, "message_id": 1456821014494314694, "extra": {}}
+---
