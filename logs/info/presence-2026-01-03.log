@@ -1141,3 +1141,6 @@ METADATA: {"timestamp": "2026-01-03T13:30:49.032514", "bot_version": "2.4.0", "g
 [2026-01-03T13:31:07.832229] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-03T13:31:07.832229", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-03T13:36:48.182299] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-03T13:36:48.182299", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
