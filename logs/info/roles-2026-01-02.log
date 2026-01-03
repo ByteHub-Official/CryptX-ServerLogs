@@ -55,3 +55,6 @@ METADATA: {"timestamp": "2026-01-02T23:25:36.829327", "bot_version": "2.4.0", "g
 [2026-01-02T23:25:38.329199] [INFO] [ROLES] [RoleUpdate] Role 'Server Booster' updated in ShadowT3ch Development Group: position: 2 -> 3
 METADATA: {"timestamp": "2026-01-02T23:25:38.329199", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1419388613145395313, "role_name": "Server Booster", "extra": {"position_change": {"before": 2, "after": 3}}}
 ---
+[2026-01-02T23:25:39.968710] [INFO] [ROLES] [RoleUpdate] Role 'Support Team' updated in ShadowT3ch Development Group: position: 3 -> 4
+METADATA: {"timestamp": "2026-01-02T23:25:39.968710", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556060822470668, "role_name": "Support Team", "extra": {"position_change": {"before": 3, "after": 4}}}
+---
