@@ -2986,3 +2986,6 @@ METADATA: {"timestamp": "2026-01-02T22:59:48.639180", "bot_version": "2.4.0", "g
 [2026-01-02T22:59:58.651261] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
 METADATA: {"timestamp": "2026-01-02T22:59:58.651261", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
 ---
+[2026-01-02T23:00:08.667978] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-02T23:00:08.667978", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
