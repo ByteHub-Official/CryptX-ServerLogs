@@ -109,3 +109,6 @@ METADATA: {"timestamp": "2026-01-03T01:50:52.251327", "bot_version": "2.4.0", "g
 [2026-01-03T01:51:02.072986] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Key System' updated in ShadowT3ch Development Group: position: 1 -> 2
 METADATA: {"timestamp": "2026-01-03T01:51:02.072986", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456890174570237986, "role_name": "ShadowT3ch Key System", "extra": {"position_change": {"before": 1, "after": 2}}}
 ---
+[2026-01-03T01:51:03.153106] [INFO] [ROLES] [RoleUpdate] Role 'Bot Owner' updated in ShadowT3ch Development Group: position: 2 -> 3
+METADATA: {"timestamp": "2026-01-03T01:51:03.153106", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456866056667926559, "role_name": "Bot Owner", "extra": {"position_change": {"before": 2, "after": 3}}}
+---
