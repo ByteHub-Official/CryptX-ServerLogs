@@ -856,3 +856,6 @@ METADATA: {"timestamp": "2026-01-02T20:57:31.123917", "bot_version": "2.4.0", "g
 [2026-01-02T20:57:37.958656] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2026-01-02T20:57:37.958656", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2026-01-02T20:57:46.255059] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: same | Activities: Custom: i’m at school right now  i’m asleep at 10 pm  don’t Dm me about Delta and don’t send me a friend request afterward, Playing: game
+METADATA: {"timestamp": "2026-01-02T20:57:46.255059", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: i\u2019m at school right now  i\u2019m asleep at 10 pm  don\u2019t Dm me about Delta and don\u2019t send me a friend request afterward", "Playing: game"]}}
+---
