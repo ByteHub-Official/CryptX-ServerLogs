@@ -1444,3 +1444,6 @@ METADATA: {"timestamp": "2026-01-02T21:29:48.417895", "bot_version": "2.4.0", "g
 [2026-01-02T21:29:51.985060] [INFO] [PRESENCE] [PresenceUpdate] User winterarc_frag status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-02T21:29:51.985060", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1187293690163630100, "username": "winterarc_frag", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-02T21:30:02.223024] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-02T21:30:02.223024", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
