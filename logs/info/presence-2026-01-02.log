@@ -3103,3 +3103,6 @@ METADATA: {"timestamp": "2026-01-02T23:41:15.113894", "bot_version": "2.4.0", "g
 [2026-01-02T23:41:20.503506] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: same | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-02T23:41:20.503506", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-02T23:41:25.463787] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: same | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-02T23:41:25.463787", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
+---
