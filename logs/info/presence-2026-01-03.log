@@ -1144,3 +1144,6 @@ METADATA: {"timestamp": "2026-01-03T13:31:07.832229", "bot_version": "2.4.0", "g
 [2026-01-03T13:36:48.182299] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-03T13:36:48.182299", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-03T13:36:50.437664] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch AI#6744 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-03T13:36:50.437664", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456820286761734264, "username": "ShadowT3ch AI#6744", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
