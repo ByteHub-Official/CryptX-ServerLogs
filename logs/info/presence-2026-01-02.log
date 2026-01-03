@@ -874,3 +874,6 @@ METADATA: {"timestamp": "2026-01-02T20:58:27.955990", "bot_version": "2.4.0", "g
 [2026-01-02T20:58:37.961615] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2026-01-02T20:58:37.961615", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2026-01-02T20:58:39.370679] [INFO] [PRESENCE] [PresenceUpdate] User alvezxc1 status changed: same | Activities: Custom: 𝓝𝓴 𝓕𝓻𝓮𝓮𝓼𝓽𝔂𝓵𝓮
+METADATA: {"timestamp": "2026-01-02T20:58:39.370679", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1260007754014265457, "username": "alvezxc1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: \ud835\udcdd\ud835\udcf4 \ud835\udcd5\ud835\udcfb\ud835\udcee\ud835\udcee\ud835\udcfc\ud835\udcfd\ud835\udd02\ud835\udcf5\ud835\udcee"]}}
+---
