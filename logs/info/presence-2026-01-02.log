@@ -1192,3 +1192,6 @@ METADATA: {"timestamp": "2026-01-02T21:14:38.355568", "bot_version": "2.4.0", "g
 [2026-01-02T21:15:08.241068] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by CryptX!
 METADATA: {"timestamp": "2026-01-02T21:15:08.241068", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
 ---
+[2026-01-02T21:15:22.390590] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-02T21:15:22.390590", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
