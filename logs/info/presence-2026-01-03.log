@@ -352,3 +352,6 @@ METADATA: {"timestamp": "2026-01-03T01:44:24.499927", "bot_version": "2.4.0", "g
 [2026-01-03T01:45:06.242338] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: online -> idle | Activities: Custom: KING OF THE BEGINNING
 METADATA: {"timestamp": "2026-01-03T01:45:06.242338", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
 ---
+[2026-01-03T01:47:03.464698] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-03T01:47:03.464698", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
