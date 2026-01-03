@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-02T20:10:21.815932", "bot_version": "2.4.0", "g
 [2026-01-02T20:10:23.347413] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Security Pro' updated in ShadowT3ch Development Group: position: 28 -> 29
 METADATA: {"timestamp": "2026-01-02T20:10:23.347413", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456561521868935232, "role_name": "ShadowT3ch Security Pro", "extra": {"position_change": {"before": 28, "after": 29}}}
 ---
+[2026-01-02T20:11:36.072887] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Logs' updated in ShadowT3ch Development Group: permissions changed
+METADATA: {"timestamp": "2026-01-02T20:11:36.072887", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456816262058479671, "role_name": "ShadowT3ch Logs", "extra": {"permission_changes": {"added": "0x8", "removed": "0x0"}}}
+---
