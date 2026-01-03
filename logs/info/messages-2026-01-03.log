@@ -196,3 +196,6 @@ METADATA: {"timestamp": "2026-01-03T01:54:42.955701", "bot_version": "2.4.0", "g
 [2026-01-03T01:55:42.578462] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1456903572317929596
 METADATA: {"timestamp": "2026-01-03T01:55:42.578462", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456477520818868337, "user_id": 1456813600302825593, "message_id": 1456903572317929596, "extra": {}}
 ---
+[2026-01-03T02:27:07.440661] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch AI#6744 edited message in 💬》general: Before: '...' After: '...' | ID: 1456911623133331466
+METADATA: {"timestamp": "2026-01-03T02:27:07.440661", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "user_id": 1456820286761734264, "message_id": 1456911623133331466, "extra": {}}
+---
