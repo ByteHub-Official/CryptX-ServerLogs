@@ -499,3 +499,6 @@ METADATA: {"timestamp": "2026-01-03T02:34:19.179730", "bot_version": "2.4.0", "g
 [2026-01-03T02:34:55.759050] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-03T02:34:55.759050", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-03T02:37:32.067931] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: offline -> dnd | Activities: Custom: its 6 am son i won
+METADATA: {"timestamp": "2026-01-03T02:37:32.067931", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: its 6 am son i won"]}}
+---
