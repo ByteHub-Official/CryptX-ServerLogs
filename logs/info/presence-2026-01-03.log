@@ -775,3 +775,6 @@ METADATA: {"timestamp": "2026-01-03T03:41:29.812102", "bot_version": "2.4.0", "g
 [2026-01-03T03:42:21.199484] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-03T03:42:21.199484", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-03T03:45:13.681187] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> online | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-03T03:45:13.681187", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: puff and pass"]}}
+---
