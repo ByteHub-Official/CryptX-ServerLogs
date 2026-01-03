@@ -2395,3 +2395,6 @@ METADATA: {"timestamp": "2026-01-02T22:23:58.205273", "bot_version": "2.4.0", "g
 [2026-01-02T22:24:00.110303] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
 METADATA: {"timestamp": "2026-01-02T22:24:00.110303", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
 ---
+[2026-01-02T22:24:01.898530] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-02T22:24:01.898530", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
