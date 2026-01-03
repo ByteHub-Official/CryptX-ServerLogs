@@ -166,3 +166,6 @@ METADATA: {"timestamp": "2026-01-03T00:58:57.759804", "bot_version": "2.4.0", "g
 [2026-01-03T00:59:13.367602] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: Custom: hi i love my gf
 METADATA: {"timestamp": "2026-01-03T00:59:13.366594", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: hi i love my gf"]}}
 ---
+[2026-01-03T01:00:34.403095] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-03T01:00:34.402030", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
