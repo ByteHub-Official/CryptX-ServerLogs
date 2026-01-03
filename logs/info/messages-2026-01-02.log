@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-02T20:09:40.157428", "bot_version": "2.4.0", "g
 [2026-01-02T20:10:26.424971] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1456816752280473611
 METADATA: {"timestamp": "2026-01-02T20:10:26.424971", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1456813600302825593, "message_id": 1456816752280473611, "extra": {}}
 ---
+[2026-01-02T20:10:44.455900] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 👋🏻》welcome by dylan001062: '...' | ID: 1456816816885338173
+METADATA: {"timestamp": "2026-01-02T20:10:44.454897", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1408577603408887980, "message_id": 1456816816885338173, "extra": {}}
+---
