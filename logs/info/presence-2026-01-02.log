@@ -2605,3 +2605,6 @@ METADATA: {"timestamp": "2026-01-02T22:36:28.538924", "bot_version": "2.4.0", "g
 [2026-01-02T22:36:37.411096] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-02T22:36:37.411096", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-02T22:36:39.293457] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2026-01-02T22:36:39.293457", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
