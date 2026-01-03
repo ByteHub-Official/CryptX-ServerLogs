@@ -1,3 +1,6 @@
 [2026-01-03T00:38:06.351372] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》server-logs' updated in ShadowT3ch Development Group: position: 25 -> 24
 METADATA: {"timestamp": "2026-01-03T00:38:06.351372", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456477520818868337, "channel_name": "\u26d4\u300bserver-logs", "extra": {"position_change": {"before": 25, "after": 24}}}
 ---
+[2026-01-03T00:38:07.682538] [INFO] [CHANNELS] [TextChannelUpdate] TextChannel '⛔》leader-notifications' updated in ShadowT3ch Development Group: position: 24 -> 25
+METADATA: {"timestamp": "2026-01-03T00:38:07.682538", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456478404168646727, "channel_name": "\u26d4\u300bleader-notifications", "extra": {"position_change": {"before": 24, "after": 25}}}
+---
