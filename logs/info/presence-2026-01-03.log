@@ -1069,3 +1069,6 @@ METADATA: {"timestamp": "2026-01-03T13:03:58.179852", "bot_version": "2.4.0", "g
 [2026-01-03T13:04:09.550777] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: dnd -> online | Activities: None
 METADATA: {"timestamp": "2026-01-03T13:04:09.550777", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "dnd", "after_status": "online", "activities": []}}
 ---
+[2026-01-03T13:05:23.515046] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-03T13:05:23.515046", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
