@@ -172,3 +172,6 @@ METADATA: {"timestamp": "2026-01-02T20:14:57.829830", "bot_version": "2.4.0", "g
 [2026-01-02T20:15:17.828243] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2026-01-02T20:15:17.828243", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2026-01-02T20:15:31.367863] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-02T20:15:31.366898", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
