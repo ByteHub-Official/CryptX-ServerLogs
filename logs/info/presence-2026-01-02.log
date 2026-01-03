@@ -1087,3 +1087,6 @@ METADATA: {"timestamp": "2026-01-02T21:08:48.316965", "bot_version": "2.4.0", "g
 [2026-01-02T21:09:10.745658] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-02T21:09:10.744341", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-02T21:09:18.155118] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-02T21:09:18.155118", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
