@@ -70,3 +70,6 @@ METADATA: {"timestamp": "2026-01-02T21:03:54.853983", "bot_version": "2.4.0", "g
 [2026-01-02T21:05:20.875670] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch AI#6744 edited message in 💬》chat-with-ai: Before: '...' After: '...' | ID: 1456830762715316417
 METADATA: {"timestamp": "2026-01-02T21:05:20.875670", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1456820286761734264, "message_id": 1456830762715316417, "extra": {}}
 ---
+[2026-01-02T23:00:17.240808] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1456854238289461420
+METADATA: {"timestamp": "2026-01-02T23:00:17.240808", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1456813600302825593, "message_id": 1456854238289461420, "extra": {}}
+---
