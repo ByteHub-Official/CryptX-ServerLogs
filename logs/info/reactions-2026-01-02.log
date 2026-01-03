@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-02T20:34:07.814604", "bot_version": "2.4.0", "g
 [2026-01-02T20:34:09.336986] [INFO] [REACTIONS] [ReactionRemoved] User ShadowT3ch AI#6744 removed 🤔 from message by 2clickdeath in 💬》chat-with-ai
 METADATA: {"timestamp": "2026-01-02T20:34:09.336986", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1456820286761734264, "message_id": 1456822901964538039, "extra": {}}
 ---
+[2026-01-02T20:34:12.324126] [INFO] [REACTIONS] [ReactionAdded] User ShadowT3ch AI#6744 added ✅ to message by 2clickdeath in 💬》chat-with-ai
+METADATA: {"timestamp": "2026-01-02T20:34:12.324126", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1456820286761734264, "message_id": 1456822901964538039, "extra": {}}
+---
