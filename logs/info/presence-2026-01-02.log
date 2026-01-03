@@ -3133,3 +3133,6 @@ METADATA: {"timestamp": "2026-01-02T23:53:48.921320", "bot_version": "2.4.0", "g
 [2026-01-02T23:55:05.225436] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-02T23:55:05.225436", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-02T23:55:11.590680] [INFO] [PRESENCE] [PresenceUpdate] User void___111 status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-02T23:55:11.590680", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1254544936121139242, "username": "void___111", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
