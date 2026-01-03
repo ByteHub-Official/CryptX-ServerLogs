@@ -202,3 +202,6 @@ METADATA: {"timestamp": "2026-01-03T01:51:48.185648", "bot_version": "2.4.0", "g
 [2026-01-03T01:51:49.679893] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Security Pro' updated in ShadowT3ch Development Group: position: 32 -> 33
 METADATA: {"timestamp": "2026-01-03T01:51:49.679893", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456561521868935232, "role_name": "ShadowT3ch Security Pro", "extra": {"position_change": {"before": 32, "after": 33}}}
 ---
+[2026-01-03T01:51:51.230792] [INFO] [ROLES] [RoleUpdate] Role 'unverified' updated in ShadowT3ch Development Group: name: 'new role' -> 'unverified'
+METADATA: {"timestamp": "2026-01-03T01:51:51.229784", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456902621964275877, "role_name": "unverified", "extra": {"name_change": {"before": "new role", "after": "unverified"}}}
+---
