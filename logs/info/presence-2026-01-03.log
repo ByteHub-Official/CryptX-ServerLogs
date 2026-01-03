@@ -76,3 +76,6 @@ METADATA: {"timestamp": "2026-01-03T00:32:33.157454", "bot_version": "2.4.0", "g
 [2026-01-03T00:33:19.064910] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: online -> idle | Activities: Custom: puff and pass
 METADATA: {"timestamp": "2026-01-03T00:33:19.064910", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
 ---
+[2026-01-03T00:34:05.150263] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: offline -> dnd | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-03T00:34:05.150263", "bot_version": "2.4.0", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
+---
