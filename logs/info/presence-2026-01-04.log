@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-04T14:20:21.242421", "bot_version": "2.6.4", "g
 [2026-01-04T14:26:17.472803] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> idle | Activities: Playing: SteamVR
 METADATA: {"timestamp": "2026-01-04T14:26:17.472750", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Playing: SteamVR"]}}
 ---
+[2026-01-04T14:27:54.841233] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-04T14:27:54.841189", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
