@@ -142,3 +142,6 @@ METADATA: {"timestamp": "2026-01-04T15:31:30.934397", "bot_version": "2.6.4", "g
 [2026-01-04T15:31:34.387580] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-04T15:31:34.387442", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-04T15:33:30.434634] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-04T15:33:30.434558", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
