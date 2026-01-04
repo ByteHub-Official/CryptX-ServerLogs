@@ -127,3 +127,6 @@ METADATA: {"timestamp": "2026-01-04T15:25:02.579257", "bot_version": "2.6.4", "g
 [2026-01-04T15:25:06.974202] [INFO] [PRESENCE] [PresenceUpdate] User jaydot8415 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-04T15:25:06.974160", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1021314266629951568, "username": "jaydot8415", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-04T15:29:13.908327] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-04T15:29:13.907952", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
