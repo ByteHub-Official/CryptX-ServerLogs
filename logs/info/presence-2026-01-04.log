@@ -106,3 +106,6 @@ METADATA: {"timestamp": "2026-01-04T15:01:50.539626", "bot_version": "2.6.4", "g
 [2026-01-04T15:11:39.553595] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-04T15:11:39.553307", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-04T15:13:53.024989] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: offline -> idle | Activities: Custom: showering
+METADATA: {"timestamp": "2026-01-04T15:13:53.024909", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "offline", "after_status": "idle", "activities": ["Custom: showering"]}}
+---
