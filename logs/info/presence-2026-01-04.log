@@ -163,3 +163,6 @@ METADATA: {"timestamp": "2026-01-04T15:39:01.283375", "bot_version": "2.6.4", "g
 [2026-01-04T15:40:18.375007] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-04T15:40:18.374957", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-04T15:40:40.082167] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-04T15:40:40.082088", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
