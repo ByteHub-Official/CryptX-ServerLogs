@@ -88,3 +88,6 @@ METADATA: {"timestamp": "2026-01-04T14:58:36.612887", "bot_version": "2.6.4", "g
 [2026-01-04T14:58:38.641329] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: idle -> online | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-04T14:58:38.641262", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-04T14:58:54.684640] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-04T14:58:54.684583", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
