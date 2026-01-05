@@ -2896,3 +2896,6 @@ METADATA: {"timestamp": "2026-01-05T16:45:15.043615", "bot_version": "2.6.4", "g
 [2026-01-05T16:46:27.378615] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T16:46:27.378491", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T16:46:30.885196] [INFO] [PRESENCE] [PresenceUpdate] User fangs_of_steel status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T16:46:30.885103", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1187293690163630100, "username": "fangs_of_steel", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
