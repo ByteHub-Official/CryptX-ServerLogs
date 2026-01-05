@@ -1198,3 +1198,6 @@ METADATA: {"timestamp": "2026-01-05T07:07:31.309323", "bot_version": "2.6.4", "g
 [2026-01-05T07:07:39.884372] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T07:07:39.884296", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T07:08:07.952477] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-05T07:08:07.952442", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
