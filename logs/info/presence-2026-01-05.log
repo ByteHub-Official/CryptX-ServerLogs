@@ -3268,3 +3268,6 @@ METADATA: {"timestamp": "2026-01-05T18:04:19.658754", "bot_version": "2.6.4", "g
 [2026-01-05T18:05:01.894500] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T18:05:01.894419", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T18:06:18.163948] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T18:06:18.163840", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
