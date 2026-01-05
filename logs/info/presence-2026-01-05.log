@@ -2434,3 +2434,6 @@ METADATA: {"timestamp": "2026-01-05T14:58:30.996835", "bot_version": "2.6.4", "g
 [2026-01-05T15:00:31.235107] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T15:00:31.235071", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T15:04:37.689083] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T15:04:37.689043", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
