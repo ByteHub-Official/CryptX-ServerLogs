@@ -1861,3 +1861,6 @@ METADATA: {"timestamp": "2026-01-05T10:38:45.326625", "bot_version": "2.6.4", "g
 [2026-01-05T10:42:26.311097] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T10:42:26.311042", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T10:44:25.874223] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: offline -> idle | Activities: Custom: KING OF THE BEGINNING
+METADATA: {"timestamp": "2026-01-05T10:44:25.874188", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "offline", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
+---
