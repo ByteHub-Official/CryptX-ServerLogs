@@ -1165,3 +1165,6 @@ METADATA: {"timestamp": "2026-01-05T06:59:05.609939", "bot_version": "2.6.4", "g
 [2026-01-05T06:59:10.685520] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-05T06:59:10.685481", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-05T06:59:21.410394] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-05T06:59:21.410360", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
