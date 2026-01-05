@@ -3955,3 +3955,6 @@ METADATA: {"timestamp": "2026-01-05T18:54:12.246479", "bot_version": "2.6.4", "g
 [2026-01-05T18:55:34.498353] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T18:55:34.498211", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T18:55:37.599223] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T18:55:37.599147", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
