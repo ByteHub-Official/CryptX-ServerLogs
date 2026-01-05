@@ -2962,3 +2962,6 @@ METADATA: {"timestamp": "2026-01-05T16:58:50.800027", "bot_version": "2.6.4", "g
 [2026-01-05T16:58:52.499635] [INFO] [PRESENCE] [PresenceUpdate] User konfig0547 status changed: online -> dnd | Activities: Custom: If you are in trouble remember that God is merciful.
 METADATA: {"timestamp": "2026-01-05T16:58:52.499555", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1410416213216985108, "username": "konfig0547", "extra": {"before_status": "online", "after_status": "dnd", "activities": ["Custom: If you are in trouble remember that God is merciful."]}}
 ---
+[2026-01-05T16:59:15.142320] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: idle -> online | Activities: Custom: KING OF THE BEGINNING
+METADATA: {"timestamp": "2026-01-05T16:59:15.142217", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: KING OF THE BEGINNING"]}}
+---
