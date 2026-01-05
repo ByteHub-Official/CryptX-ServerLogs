@@ -73,3 +73,6 @@ METADATA: {"timestamp": "2026-01-05T00:50:23.692191", "bot_version": "2.6.4", "g
 [2026-01-05T00:50:25.057884] [INFO] [ROLES] [RoleUpdate] Role '❄️| SnowFall' updated in ShadowT3ch Development Group: position: 27 -> 26
 METADATA: {"timestamp": "2026-01-05T00:50:25.057813", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556026542428203, "role_name": "\u2744\ufe0f| SnowFall", "extra": {"position_change": {"before": 27, "after": 26}}}
 ---
+[2026-01-05T00:50:26.595999] [INFO] [ROLES] [RoleUpdate] Role 'Muted' updated in ShadowT3ch Development Group: position: 28 -> 27
+METADATA: {"timestamp": "2026-01-05T00:50:26.595902", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456556025531334699, "role_name": "Muted", "extra": {"position_change": {"before": 28, "after": 27}}}
+---
