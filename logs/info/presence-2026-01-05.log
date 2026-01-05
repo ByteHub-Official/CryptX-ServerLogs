@@ -2926,3 +2926,6 @@ METADATA: {"timestamp": "2026-01-05T16:54:29.854486", "bot_version": "2.6.4", "g
 [2026-01-05T16:56:58.569773] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: online -> idle | Activities: Custom: KING OF THE BEGINNING
 METADATA: {"timestamp": "2026-01-05T16:56:58.569597", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
 ---
+[2026-01-05T16:57:01.518201] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: Playing: SteamVR
+METADATA: {"timestamp": "2026-01-05T16:57:01.518121", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: SteamVR"]}}
+---
