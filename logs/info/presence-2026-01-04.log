@@ -598,3 +598,6 @@ METADATA: {"timestamp": "2026-01-04T22:57:31.803130", "bot_version": "2.6.4", "g
 [2026-01-04T22:57:49.376018] [INFO] [PRESENCE] [PresenceUpdate] User decendeaths_void status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-04T22:57:49.375925", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398201716129796097, "username": "decendeaths_void", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-04T22:58:30.531986] [INFO] [PRESENCE] [PresenceUpdate] User decendeaths_void status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-04T22:58:30.531910", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398201716129796097, "username": "decendeaths_void", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
