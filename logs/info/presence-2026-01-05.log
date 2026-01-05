@@ -2140,3 +2140,6 @@ METADATA: {"timestamp": "2026-01-05T12:11:17.526045", "bot_version": "2.6.4", "g
 [2026-01-05T12:12:15.257780] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: offline -> online | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-05T12:12:15.257742", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "offline", "after_status": "online", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-05T12:12:30.785831] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T12:12:30.785798", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
