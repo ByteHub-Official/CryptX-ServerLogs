@@ -2893,3 +2893,6 @@ METADATA: {"timestamp": "2026-01-05T16:44:48.133361", "bot_version": "2.6.4", "g
 [2026-01-05T16:45:15.043723] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-05T16:45:15.043615", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-05T16:46:27.378615] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-05T16:46:27.378491", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
