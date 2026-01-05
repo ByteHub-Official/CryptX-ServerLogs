@@ -3055,3 +3055,6 @@ METADATA: {"timestamp": "2026-01-05T17:18:49.314765", "bot_version": "2.6.4", "g
 [2026-01-05T17:19:17.124525] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:19:17.124438", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T17:20:00.891397] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:20:00.891297", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
