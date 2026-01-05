@@ -3046,3 +3046,6 @@ METADATA: {"timestamp": "2026-01-05T17:16:02.884062", "bot_version": "2.6.4", "g
 [2026-01-05T17:17:46.858388] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:17:46.858335", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T17:18:16.952643] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:18:16.952566", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
