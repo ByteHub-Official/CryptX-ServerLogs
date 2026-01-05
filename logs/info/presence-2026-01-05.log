@@ -3031,3 +3031,6 @@ METADATA: {"timestamp": "2026-01-05T17:15:20.986240", "bot_version": "2.6.4", "g
 [2026-01-05T17:15:25.024401] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:15:25.024329", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T17:15:51.399701] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:15:51.399520", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
