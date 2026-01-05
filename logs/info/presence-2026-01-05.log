@@ -652,3 +652,6 @@ METADATA: {"timestamp": "2026-01-05T03:22:51.686412", "bot_version": "2.6.4", "g
 [2026-01-05T03:22:56.267552] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: same | Activities: Custom: KING OF THE BEGINNING
 METADATA: {"timestamp": "2026-01-05T03:22:56.267507", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: KING OF THE BEGINNING"]}}
 ---
+[2026-01-05T03:24:50.587000] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T03:24:50.586945", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
