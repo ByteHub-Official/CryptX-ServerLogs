@@ -2983,3 +2983,6 @@ METADATA: {"timestamp": "2026-01-05T17:01:08.579844", "bot_version": "2.6.4", "g
 [2026-01-05T17:02:10.553465] [INFO] [PRESENCE] [PresenceUpdate] User alvezxc1 status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:02:10.553356", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1260007754014265457, "username": "alvezxc1", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T17:02:13.448680] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:02:13.448612", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
