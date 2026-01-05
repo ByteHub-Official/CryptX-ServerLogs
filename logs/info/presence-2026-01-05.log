@@ -2866,3 +2866,6 @@ METADATA: {"timestamp": "2026-01-05T16:35:49.258746", "bot_version": "2.6.4", "g
 [2026-01-05T16:35:50.992475] [INFO] [PRESENCE] [PresenceUpdate] User konfig0547 status changed: online -> dnd | Activities: Custom: If you are in trouble remember that God is merciful.
 METADATA: {"timestamp": "2026-01-05T16:35:50.992411", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1410416213216985108, "username": "konfig0547", "extra": {"before_status": "online", "after_status": "dnd", "activities": ["Custom: If you are in trouble remember that God is merciful."]}}
 ---
+[2026-01-05T16:36:29.935847] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T16:36:29.935698", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
