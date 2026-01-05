@@ -403,3 +403,6 @@ METADATA: {"timestamp": "2026-01-05T01:38:37.349823", "bot_version": "2.6.4", "g
 [2026-01-05T01:38:40.582582] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch Security Pro#3888 status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T01:38:40.582550", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456559078603227403, "username": "ShadowT3ch Security Pro#3888", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T01:38:49.398738] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T01:38:49.398681", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
