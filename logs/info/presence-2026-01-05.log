@@ -487,3 +487,6 @@ METADATA: {"timestamp": "2026-01-05T01:57:49.241846", "bot_version": "2.6.4", "g
 [2026-01-05T01:58:21.619073] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T01:58:21.618759", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T02:00:05.360311] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T02:00:05.360273", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
