@@ -1984,3 +1984,6 @@ METADATA: {"timestamp": "2026-01-05T11:29:11.944560", "bot_version": "2.6.4", "g
 [2026-01-05T11:29:20.782060] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T11:29:20.781033", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T11:31:44.982929] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T11:31:44.982894", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
