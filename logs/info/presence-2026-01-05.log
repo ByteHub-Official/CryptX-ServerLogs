@@ -2881,3 +2881,6 @@ METADATA: {"timestamp": "2026-01-05T16:42:50.761820", "bot_version": "2.6.4", "g
 [2026-01-05T16:42:52.418095] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: same | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-05T16:42:52.418022", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-05T16:44:31.934642] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-05T16:44:31.934531", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
