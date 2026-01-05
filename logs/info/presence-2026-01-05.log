@@ -1354,3 +1354,6 @@ METADATA: {"timestamp": "2026-01-05T08:04:34.160535", "bot_version": "2.6.4", "g
 [2026-01-05T08:04:35.821035] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: same | Activities: Custom: John 3:16 states  "For God so loved the world, that he gave his only son".
 METADATA: {"timestamp": "2026-01-05T08:04:35.820967", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: John 3:16 states  \"For God so loved the world, that he gave his only son\"."]}}
 ---
+[2026-01-05T08:04:38.039449] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: offline -> dnd | Activities: Custom: /shopfr /legende
+METADATA: {"timestamp": "2026-01-05T08:04:38.039418", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
+---
