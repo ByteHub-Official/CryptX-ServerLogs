@@ -2263,3 +2263,6 @@ METADATA: {"timestamp": "2026-01-05T12:57:29.759532", "bot_version": "2.6.4", "g
 [2026-01-05T12:57:55.965440] [INFO] [PRESENCE] [PresenceUpdate] User wyjnn status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T12:57:55.965366", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1240654319292780619, "username": "wyjnn", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T13:00:01.114862] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T13:00:01.114777", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
