@@ -1213,3 +1213,6 @@ METADATA: {"timestamp": "2026-01-05T07:09:25.359056", "bot_version": "2.6.4", "g
 [2026-01-05T07:10:34.508020] [INFO] [PRESENCE] [PresenceUpdate] User decendeaths_void status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T07:10:34.506998", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398201716129796097, "username": "decendeaths_void", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T07:11:18.828244] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T07:11:18.828208", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
