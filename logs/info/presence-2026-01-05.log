@@ -1972,3 +1972,6 @@ METADATA: {"timestamp": "2026-01-05T11:25:31.627388", "bot_version": "2.6.4", "g
 [2026-01-05T11:25:33.638154] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T11:25:33.638080", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T11:26:44.028533] [INFO] [PRESENCE] [PresenceUpdate] User fangs_of_steel status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T11:26:44.027738", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1187293690163630100, "username": "fangs_of_steel", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
