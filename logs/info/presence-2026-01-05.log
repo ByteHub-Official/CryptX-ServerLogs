@@ -496,3 +496,6 @@ METADATA: {"timestamp": "2026-01-05T02:01:20.821876", "bot_version": "2.6.4", "g
 [2026-01-05T02:01:31.272729] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T02:01:31.272700", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T02:04:13.865840] [INFO] [PRESENCE] [PresenceUpdate] User fangs_of_steel status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T02:04:13.865756", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1187293690163630100, "username": "fangs_of_steel", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
