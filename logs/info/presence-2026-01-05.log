@@ -2110,3 +2110,6 @@ METADATA: {"timestamp": "2026-01-05T12:04:46.852231", "bot_version": "2.6.4", "g
 [2026-01-05T12:05:41.378911] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: offline -> online | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-05T12:05:41.378875", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "offline", "after_status": "online", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-05T12:05:54.165565] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T12:05:54.165537", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
