@@ -1231,3 +1231,6 @@ METADATA: {"timestamp": "2026-01-05T07:14:01.941723", "bot_version": "2.6.4", "g
 [2026-01-05T07:14:06.791420] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T07:14:06.791277", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T07:14:19.219117] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T07:14:19.219080", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
