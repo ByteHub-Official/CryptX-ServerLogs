@@ -64,3 +64,6 @@ METADATA: {"timestamp": "2026-01-05T00:21:35.080194", "bot_version": "2.6.4", "g
 [2026-01-05T00:23:58.760992] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T00:23:58.760883", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T00:25:23.696405] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T00:25:23.696293", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
