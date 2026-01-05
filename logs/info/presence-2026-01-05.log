@@ -460,3 +460,6 @@ METADATA: {"timestamp": "2026-01-05T01:51:09.970991", "bot_version": "2.6.4", "g
 [2026-01-05T01:51:13.711879] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T01:51:13.711843", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T01:51:53.406231] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-05T01:51:53.406145", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
