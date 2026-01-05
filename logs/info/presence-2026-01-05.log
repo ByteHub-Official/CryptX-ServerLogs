@@ -3172,3 +3172,6 @@ METADATA: {"timestamp": "2026-01-05T17:45:32.970562", "bot_version": "2.6.4", "g
 [2026-01-05T17:46:21.120386] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:46:21.120248", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T17:46:33.183577] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:46:33.183476", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
