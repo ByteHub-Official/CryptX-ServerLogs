@@ -55,3 +55,6 @@ METADATA: {"timestamp": "2026-01-05T00:18:07.891634", "bot_version": "2.6.4", "g
 [2026-01-05T00:19:04.639553] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T00:19:04.639454", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T00:20:36.672672] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: same | Activities: Custom: chilling
+METADATA: {"timestamp": "2026-01-05T00:20:36.672536", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: chilling"]}}
+---
