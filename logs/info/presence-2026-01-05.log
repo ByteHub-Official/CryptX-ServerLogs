@@ -1897,3 +1897,6 @@ METADATA: {"timestamp": "2026-01-05T10:55:02.081729", "bot_version": "2.6.4", "g
 [2026-01-05T11:00:22.313284] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T11:00:22.313230", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T11:01:45.042606] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: Playing: SteamVR
+METADATA: {"timestamp": "2026-01-05T11:01:45.042525", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: SteamVR"]}}
+---
