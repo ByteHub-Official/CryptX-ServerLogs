@@ -3400,3 +3400,6 @@ METADATA: {"timestamp": "2026-01-05T18:31:34.115062", "bot_version": "2.6.4", "g
 [2026-01-05T18:31:37.297660] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T18:31:37.297548", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T18:31:56.021652] [INFO] [PRESENCE] [PresenceUpdate] User btkghostsoldier status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T18:31:56.021551", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1118657770623864954, "username": "btkghostsoldier", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
