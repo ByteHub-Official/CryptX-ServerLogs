@@ -3226,3 +3226,6 @@ METADATA: {"timestamp": "2026-01-05T17:52:18.192982", "bot_version": "2.6.4", "g
 [2026-01-05T17:52:32.512975] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:52:32.512898", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T17:53:29.443128] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:53:29.443036", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
