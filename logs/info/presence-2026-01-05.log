@@ -886,3 +886,6 @@ METADATA: {"timestamp": "2026-01-05T05:12:58.132982", "bot_version": "2.6.4", "g
 [2026-01-05T05:17:08.781697] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-05T05:17:08.781655", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-05T05:19:46.264513] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T05:19:46.263518", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
