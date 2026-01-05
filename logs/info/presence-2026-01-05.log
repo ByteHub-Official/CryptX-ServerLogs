@@ -679,3 +679,6 @@ METADATA: {"timestamp": "2026-01-05T03:33:03.637723", "bot_version": "2.6.4", "g
 [2026-01-05T03:33:11.428958] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: same | Activities: Custom: lebron
 METADATA: {"timestamp": "2026-01-05T03:33:11.428857", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: lebron"]}}
 ---
+[2026-01-05T03:33:35.804209] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T03:33:35.804167", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
