@@ -1978,3 +1978,6 @@ METADATA: {"timestamp": "2026-01-05T11:26:44.027738", "bot_version": "2.6.4", "g
 [2026-01-05T11:27:24.093462] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T11:27:24.093416", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T11:29:11.944616] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T11:29:11.944560", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
