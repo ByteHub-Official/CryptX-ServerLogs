@@ -2773,3 +2773,6 @@ METADATA: {"timestamp": "2026-01-05T16:05:14.971100", "bot_version": "2.6.4", "g
 [2026-01-05T16:07:03.207031] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T16:07:03.206867", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T16:07:10.788015] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-05T16:07:10.787911", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
