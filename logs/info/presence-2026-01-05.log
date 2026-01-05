@@ -1891,3 +1891,6 @@ METADATA: {"timestamp": "2026-01-05T10:52:37.053154", "bot_version": "2.6.4", "g
 [2026-01-05T10:54:47.075911] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T10:54:47.075873", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T10:55:02.081764] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T10:55:02.081729", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
