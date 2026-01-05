@@ -322,3 +322,6 @@ METADATA: {"timestamp": "2026-01-04T20:59:14.164284", "bot_version": "2.6.4", "g
 [2026-01-04T21:00:58.617953] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-04T21:00:58.617883", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-04T21:01:29.627442] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: idle -> online | Activities: Playing: SteamVR
+METADATA: {"timestamp": "2026-01-04T21:01:29.627365", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Playing: SteamVR"]}}
+---
