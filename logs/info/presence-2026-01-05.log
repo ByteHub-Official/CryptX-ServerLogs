@@ -3199,3 +3199,6 @@ METADATA: {"timestamp": "2026-01-05T17:48:55.247259", "bot_version": "2.6.4", "g
 [2026-01-05T17:49:24.403128] [INFO] [PRESENCE] [PresenceUpdate] User limeman11 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:49:24.403043", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1368860148608798731, "username": "limeman11", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T17:49:32.590058] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:49:32.589938", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
