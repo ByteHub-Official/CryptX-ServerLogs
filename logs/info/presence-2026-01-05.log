@@ -3175,3 +3175,6 @@ METADATA: {"timestamp": "2026-01-05T17:46:21.120248", "bot_version": "2.6.4", "g
 [2026-01-05T17:46:33.183577] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T17:46:33.183476", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T17:46:38.404485] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-05T17:46:38.404400", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
