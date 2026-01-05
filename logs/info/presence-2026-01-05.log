@@ -442,3 +442,6 @@ METADATA: {"timestamp": "2026-01-05T01:46:50.530004", "bot_version": "2.6.4", "g
 [2026-01-05T01:47:49.302910] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch Security Pro#3888 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T01:47:49.302554", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456559078603227403, "username": "ShadowT3ch Security Pro#3888", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T01:47:58.727023] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T01:47:58.726956", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
