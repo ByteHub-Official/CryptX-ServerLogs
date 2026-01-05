@@ -1912,3 +1912,6 @@ METADATA: {"timestamp": "2026-01-05T11:11:43.622221", "bot_version": "2.6.4", "g
 [2026-01-05T11:13:27.026848] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T11:13:27.026801", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T11:13:34.876878] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: offline -> idle | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-05T11:13:34.876801", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "offline", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
+---
