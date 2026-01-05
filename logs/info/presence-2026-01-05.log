@@ -1144,3 +1144,6 @@ METADATA: {"timestamp": "2026-01-05T06:54:09.299877", "bot_version": "2.6.4", "g
 [2026-01-05T06:54:10.320539] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: Custom: hilarious
 METADATA: {"timestamp": "2026-01-05T06:54:10.320506", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: hilarious"]}}
 ---
+[2026-01-05T06:55:11.455613] [INFO] [PRESENCE] [PresenceUpdate] User kotkangooner status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T06:55:11.455573", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1169315037219917874, "username": "kotkangooner", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
