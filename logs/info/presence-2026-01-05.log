@@ -874,3 +874,6 @@ METADATA: {"timestamp": "2026-01-05T05:08:19.946619", "bot_version": "2.6.4", "g
 [2026-01-05T05:08:35.186660] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T05:08:35.186623", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T05:09:13.535515] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T05:09:13.535481", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
