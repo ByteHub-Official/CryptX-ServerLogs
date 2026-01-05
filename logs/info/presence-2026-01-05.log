@@ -1483,3 +1483,6 @@ METADATA: {"timestamp": "2026-01-05T08:52:15.148796", "bot_version": "2.6.4", "g
 [2026-01-05T08:52:16.420460] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: same | Activities: Custom: John 3:16 states  "For God so loved the world, that he gave his only son".
 METADATA: {"timestamp": "2026-01-05T08:52:16.420432", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: John 3:16 states  \"For God so loved the world, that he gave his only son\"."]}}
 ---
+[2026-01-05T08:52:48.936990] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T08:52:48.936952", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
