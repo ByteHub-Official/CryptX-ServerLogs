@@ -2353,3 +2353,6 @@ METADATA: {"timestamp": "2026-01-05T14:08:35.485342", "bot_version": "2.6.4", "g
 [2026-01-05T14:08:37.004035] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-05T14:08:37.003999", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-05T14:08:41.953744] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: idle -> online | Activities: None
+METADATA: {"timestamp": "2026-01-05T14:08:41.953709", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
+---
