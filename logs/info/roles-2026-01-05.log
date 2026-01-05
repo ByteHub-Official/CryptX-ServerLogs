@@ -82,3 +82,6 @@ METADATA: {"timestamp": "2026-01-05T00:50:28.190580", "bot_version": "2.6.4", "g
 [2026-01-05T00:50:29.601864] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Key System' updated in ShadowT3ch Development Group: permissions changed, position: 2 -> 29
 METADATA: {"timestamp": "2026-01-05T00:50:29.601796", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456890174570237986, "role_name": "ShadowT3ch Key System", "extra": {"permission_changes": {"added": "0x8", "removed": "0x0"}, "position_change": {"before": 2, "after": 29}}}
 ---
+[2026-01-05T00:50:31.011163] [INFO] [ROLES] [RoleUpdate] Role 'ShadowT3ch Key System' updated in ShadowT3ch Development Group: permissions changed
+METADATA: {"timestamp": "2026-01-05T00:50:31.011090", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456890174570237986, "role_name": "ShadowT3ch Key System", "extra": {"permission_changes": {"added": "0x8", "removed": "0x0"}}}
+---
