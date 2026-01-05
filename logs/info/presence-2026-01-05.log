@@ -478,3 +478,6 @@ METADATA: {"timestamp": "2026-01-05T01:55:11.780839", "bot_version": "2.6.4", "g
 [2026-01-05T01:55:58.474410] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T01:55:58.474363", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T01:57:47.123969] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T01:57:47.123931", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
