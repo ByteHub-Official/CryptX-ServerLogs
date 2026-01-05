@@ -2464,3 +2464,6 @@ METADATA: {"timestamp": "2026-01-05T15:15:01.294195", "bot_version": "2.6.4", "g
 [2026-01-05T15:17:26.219306] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: online -> idle | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-05T15:17:26.219271", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-05T15:17:28.006604] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-05T15:17:28.006495", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
