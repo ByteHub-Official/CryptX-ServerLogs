@@ -1690,3 +1690,6 @@ METADATA: {"timestamp": "2026-01-05T10:04:47.724022", "bot_version": "2.6.4", "g
 [2026-01-05T10:05:35.834494] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T10:05:35.834419", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T10:06:04.114916] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T10:06:04.114880", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
