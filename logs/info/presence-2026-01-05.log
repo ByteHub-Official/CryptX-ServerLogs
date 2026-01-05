@@ -517,3 +517,6 @@ METADATA: {"timestamp": "2026-01-05T02:07:15.527685", "bot_version": "2.6.4", "g
 [2026-01-05T02:08:09.500512] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T02:08:09.500483", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T02:09:31.296107] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: same | Activities: Custom: chilling
+METADATA: {"timestamp": "2026-01-05T02:09:31.296066", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: chilling"]}}
+---
