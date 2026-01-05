@@ -202,3 +202,6 @@ METADATA: {"timestamp": "2026-01-04T20:10:30.682822", "bot_version": "2.6.4", "g
 [2026-01-04T20:10:32.001421] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-04T20:10:32.001359", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-04T20:12:13.604763] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-04T20:12:13.604691", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
