@@ -3358,3 +3358,6 @@ METADATA: {"timestamp": "2026-01-05T18:21:16.440424", "bot_version": "2.6.4", "g
 [2026-01-05T18:21:44.585117] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T18:21:44.585026", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T18:21:47.233687] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-05T18:21:47.233600", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
