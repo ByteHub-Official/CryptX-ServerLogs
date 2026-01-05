@@ -1816,3 +1816,6 @@ METADATA: {"timestamp": "2026-01-05T10:29:10.871883", "bot_version": "2.6.4", "g
 [2026-01-05T10:30:02.717910] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T10:30:02.717880", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T10:30:19.157747] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: offline -> online | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-05T10:30:19.157674", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "offline", "after_status": "online", "activities": ["Custom: Custom Status"]}}
+---
