@@ -3289,3 +3289,6 @@ METADATA: {"timestamp": "2026-01-05T18:09:29.350083", "bot_version": "2.6.4", "g
 [2026-01-05T18:09:59.496496] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T18:09:59.496388", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T18:13:29.070891] [INFO] [PRESENCE] [PresenceUpdate] User btkghostsoldier status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T18:13:29.070809", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1118657770623864954, "username": "btkghostsoldier", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
