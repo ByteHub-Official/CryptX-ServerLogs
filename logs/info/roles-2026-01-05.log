@@ -1,3 +1,6 @@
 [2026-01-05T00:49:50.292032] [INFO] [ROLES] [RoleUpdate] Role 'Bot Owner' updated in ShadowT3ch Development Group: position: 3 -> 2
 METADATA: {"timestamp": "2026-01-05T00:49:50.291214", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456866056667926559, "role_name": "Bot Owner", "extra": {"position_change": {"before": 3, "after": 2}}}
 ---
+[2026-01-05T00:49:52.119121] [INFO] [ROLES] [RoleUpdate] Role 'Free Stuff' updated in ShadowT3ch Development Group: position: 4 -> 3
+METADATA: {"timestamp": "2026-01-05T00:49:52.119084", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1456606489442652171, "role_name": "Free Stuff", "extra": {"position_change": {"before": 4, "after": 3}}}
+---
