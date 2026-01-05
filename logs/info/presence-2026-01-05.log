@@ -547,3 +547,6 @@ METADATA: {"timestamp": "2026-01-05T02:19:24.959128", "bot_version": "2.6.4", "g
 [2026-01-05T02:20:16.987738] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T02:20:16.987703", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T02:20:29.383599] [INFO] [PRESENCE] [PresenceUpdate] User decendeaths_void status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-05T02:20:29.383553", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398201716129796097, "username": "decendeaths_void", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
