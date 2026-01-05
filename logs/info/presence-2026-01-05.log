@@ -244,3 +244,6 @@ METADATA: {"timestamp": "2026-01-05T01:02:10.231365", "bot_version": "2.6.4", "g
 [2026-01-05T01:02:15.936470] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T01:02:15.936420", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T01:02:29.167519] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T01:02:29.167452", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
