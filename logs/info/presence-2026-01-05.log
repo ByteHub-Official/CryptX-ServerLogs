@@ -4096,3 +4096,6 @@ METADATA: {"timestamp": "2026-01-05T19:41:38.722510", "bot_version": "2.6.4", "g
 [2026-01-05T19:41:57.271973] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T19:41:57.271876", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T19:51:08.149878] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-05T19:51:08.149763", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
