@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-06T11:25:26.856398", "bot_version": "2.6.4", "g
 [2026-01-06T11:25:30.537510] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: Custom: kira you made this?
 METADATA: {"timestamp": "2026-01-06T11:25:30.537436", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: kira you made this?"]}}
 ---
+[2026-01-06T11:25:40.438507] [INFO] [PRESENCE] [PresenceUpdate] User ShadowT3ch AI#6744 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-06T11:25:40.438434", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456820286761734264, "username": "ShadowT3ch AI#6744", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
