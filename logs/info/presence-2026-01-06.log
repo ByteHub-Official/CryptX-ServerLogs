@@ -130,3 +130,6 @@ METADATA: {"timestamp": "2026-01-06T11:53:05.356497", "bot_version": "2.6.4", "g
 [2026-01-06T11:54:14.994032] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: same | Activities: Custom: /shopfr /legende
 METADATA: {"timestamp": "2026-01-06T11:54:14.993924", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
 ---
+[2026-01-06T16:17:55.970576] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-06T16:17:55.970508", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
