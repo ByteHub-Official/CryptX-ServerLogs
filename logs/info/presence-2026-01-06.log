@@ -640,3 +640,6 @@ METADATA: {"timestamp": "2026-01-06T18:10:05.344516", "bot_version": "2.6.4", "g
 [2026-01-06T18:10:37.203197] [INFO] [PRESENCE] [PresenceUpdate] User datphamtien0969 status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-06T18:10:37.201376", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1302478198008971315, "username": "datphamtien0969", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-06T18:11:01.446821] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: idle -> online | Activities: Custom: KING OF THE BEGINNING
+METADATA: {"timestamp": "2026-01-06T18:11:01.446706", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: KING OF THE BEGINNING"]}}
+---
