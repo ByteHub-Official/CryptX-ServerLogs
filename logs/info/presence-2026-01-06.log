@@ -55,3 +55,6 @@ METADATA: {"timestamp": "2026-01-06T11:31:50.994991", "bot_version": "2.6.4", "g
 [2026-01-06T11:32:48.178347] [INFO] [PRESENCE] [PresenceUpdate] User sigil.com status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-06T11:32:48.178190", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1419389104507981894, "username": "sigil.com", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-06T11:32:51.311236] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-06T11:32:51.311148", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
