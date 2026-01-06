@@ -4015,3 +4015,6 @@ METADATA: {"timestamp": "2026-01-05T19:08:54.564446", "bot_version": "2.6.4", "g
 [2026-01-05T19:09:07.251054] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T19:09:07.250964", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T19:10:50.672596] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: Custom: lebron
+METADATA: {"timestamp": "2026-01-05T19:10:50.672438", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: lebron"]}}
+---
