@@ -310,3 +310,6 @@ METADATA: {"timestamp": "2026-01-06T17:12:08.971674", "bot_version": "2.6.4", "g
 [2026-01-06T17:12:16.687842] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-06T17:12:16.687799", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T17:12:21.068235] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-06T17:12:21.068199", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
