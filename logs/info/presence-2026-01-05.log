@@ -4135,3 +4135,6 @@ METADATA: {"timestamp": "2026-01-05T20:05:24.543467", "bot_version": "2.6.4", "g
 [2026-01-05T20:07:36.318157] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-05T20:07:36.318073", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-05T20:08:07.386282] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-05T20:08:07.386169", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
