@@ -3985,3 +3985,6 @@ METADATA: {"timestamp": "2026-01-05T19:01:12.816411", "bot_version": "2.6.4", "g
 [2026-01-05T19:01:40.750216] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-05T19:01:40.750103", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T19:03:08.450134] [INFO] [PRESENCE] [PresenceUpdate] User void___111 status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T19:03:08.450025", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1254544936121139242, "username": "void___111", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
