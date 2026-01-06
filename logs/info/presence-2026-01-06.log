@@ -673,3 +673,6 @@ METADATA: {"timestamp": "2026-01-06T18:25:43.702187", "bot_version": "2.6.4", "g
 [2026-01-06T18:27:05.881830] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-06T18:27:05.881696", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-06T18:27:09.152737] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: same | Activities: Custom: kira you made this?
+METADATA: {"timestamp": "2026-01-06T18:27:09.152565", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: kira you made this?"]}}
+---
