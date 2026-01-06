@@ -67,3 +67,6 @@ METADATA: {"timestamp": "2026-01-06T11:33:31.143863", "bot_version": "2.6.4", "g
 [2026-01-06T11:34:37.126469] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-06T11:34:37.125096", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-06T11:35:38.234613] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-06T11:35:38.234499", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
