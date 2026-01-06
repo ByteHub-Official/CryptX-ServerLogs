@@ -721,3 +721,6 @@ METADATA: {"timestamp": "2026-01-06T18:37:45.492591", "bot_version": "2.6.4", "g
 [2026-01-06T18:41:23.799499] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-06T18:41:23.799376", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-06T18:42:58.529293] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-06T18:42:58.529184", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
