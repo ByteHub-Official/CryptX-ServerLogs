@@ -4102,3 +4102,6 @@ METADATA: {"timestamp": "2026-01-05T19:51:08.149763", "bot_version": "2.6.4", "g
 [2026-01-05T19:52:45.324533] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-05T19:52:45.324356", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-05T19:52:48.734210] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: offline -> online | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-05T19:52:48.734137", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "offline", "after_status": "online", "activities": ["Custom: puff and pass"]}}
+---
