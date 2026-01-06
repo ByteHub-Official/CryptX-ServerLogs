@@ -646,3 +646,6 @@ METADATA: {"timestamp": "2026-01-06T18:11:01.446706", "bot_version": "2.6.4", "g
 [2026-01-06T18:11:27.250687] [INFO] [PRESENCE] [PresenceUpdate] User datphamtien0969 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-06T18:11:27.250570", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1302478198008971315, "username": "datphamtien0969", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T18:12:05.516699] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-06T18:12:05.516635", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
