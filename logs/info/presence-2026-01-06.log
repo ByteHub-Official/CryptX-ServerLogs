@@ -223,3 +223,6 @@ METADATA: {"timestamp": "2026-01-06T16:54:11.491853", "bot_version": "2.6.4", "g
 [2026-01-06T16:56:00.167002] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-06T16:56:00.166910", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-06T16:56:11.701462] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-06T16:56:11.701426", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
