@@ -4003,3 +4003,6 @@ METADATA: {"timestamp": "2026-01-05T19:04:52.650217", "bot_version": "2.6.4", "g
 [2026-01-05T19:05:41.074721] [INFO] [PRESENCE] [PresenceUpdate] User sheluvpaccc21 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-05T19:05:41.074616", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1108589767232331817, "username": "sheluvpaccc21", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-05T19:06:29.173106] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-05T19:06:29.173012", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
