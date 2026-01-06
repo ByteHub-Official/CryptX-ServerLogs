@@ -511,3 +511,6 @@ METADATA: {"timestamp": "2026-01-06T17:50:46.129308", "bot_version": "2.6.4", "g
 [2026-01-06T17:50:47.400116] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-06T17:50:47.400054", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T17:50:56.447945] [INFO] [PRESENCE] [PresenceUpdate] User alvezxc1 status changed: online -> dnd | Activities: Custom: 𝓝𝓴 𝓕𝓻𝓮𝓮𝓼𝓽𝔂𝓵𝓮
+METADATA: {"timestamp": "2026-01-06T17:50:56.447808", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1260007754014265457, "username": "alvezxc1", "extra": {"before_status": "online", "after_status": "dnd", "activities": ["Custom: \ud835\udcdd\ud835\udcf4 \ud835\udcd5\ud835\udcfb\ud835\udcee\ud835\udcee\ud835\udcfc\ud835\udcfd\ud835\udd02\ud835\udcf5\ud835\udcee"]}}
+---
