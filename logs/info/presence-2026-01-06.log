@@ -124,3 +124,6 @@ METADATA: {"timestamp": "2026-01-06T11:50:52.957222", "bot_version": "2.6.4", "g
 [2026-01-06T11:51:54.864295] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-06T11:51:54.864198", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T11:53:05.356594] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: same | Activities: Custom: lấy top 1 về edit vì edit như cặc hjhj
+METADATA: {"timestamp": "2026-01-06T11:53:05.356497", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: l\u1ea5y top 1 v\u1ec1 edit v\u00ec edit nh\u01b0 c\u1eb7c hjhj"]}}
+---
