@@ -1987,3 +1987,6 @@ METADATA: {"timestamp": "2026-01-07T06:19:49.032274", "bot_version": "2.6.4", "g
 [2026-01-07T06:21:08.270939] [INFO] [PRESENCE] [PresenceUpdate] User sosa_inc status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-07T06:21:08.270853", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1324779545609502740, "username": "sosa_inc", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T06:21:43.332752] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: idle -> online | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-07T06:21:43.332644", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: Custom Status"]}}
+---
