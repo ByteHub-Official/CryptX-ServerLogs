@@ -1414,3 +1414,6 @@ METADATA: {"timestamp": "2026-01-06T22:32:17.717413", "bot_version": "2.6.4", "g
 [2026-01-06T22:32:18.973147] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: same | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-06T22:32:18.973083", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-06T22:34:02.901827] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-06T22:34:02.901743", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
