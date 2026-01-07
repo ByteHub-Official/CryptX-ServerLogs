@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2026-01-07T08:53:51.768153", "bot_version": "2.6.4", "g
 [2026-01-07T08:54:03.495199] [INFO] [TYPING] [TypingStart] User 2clickdeath started typing in 💬》general
 METADATA: {"timestamp": "2026-01-07T08:54:03.495149", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {}}
 ---
+[2026-01-07T08:54:24.047754] [INFO] [TYPING] [TypingStart] User iriss.01 started typing in 💬》general
+METADATA: {"timestamp": "2026-01-07T08:54:24.047639", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1079826643922722848, "username": "iriss.01", "extra": {}}
+---
