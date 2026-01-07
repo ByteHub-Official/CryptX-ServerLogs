@@ -1633,3 +1633,6 @@ METADATA: {"timestamp": "2026-01-07T03:54:18.851748", "bot_version": "2.6.4", "g
 [2026-01-07T03:56:46.887231] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-07T03:56:46.887135", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T03:56:50.249017] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-07T03:56:50.248939", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
