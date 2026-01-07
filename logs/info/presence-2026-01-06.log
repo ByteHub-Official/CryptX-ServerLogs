@@ -1423,3 +1423,6 @@ METADATA: {"timestamp": "2026-01-06T22:34:18.341823", "bot_version": "2.6.4", "g
 [2026-01-06T22:34:51.030193] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-06T22:34:51.030099", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-06T22:34:55.667448] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-06T22:34:55.667366", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
