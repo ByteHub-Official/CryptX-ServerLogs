@@ -1894,3 +1894,6 @@ METADATA: {"timestamp": "2026-01-07T05:11:39.770648", "bot_version": "2.6.4", "g
 [2026-01-07T05:12:09.056879] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: online -> idle | Activities: Custom: KING OF THE BEGINNING
 METADATA: {"timestamp": "2026-01-07T05:12:09.056796", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
 ---
+[2026-01-07T05:12:48.908983] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T05:12:48.908908", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
