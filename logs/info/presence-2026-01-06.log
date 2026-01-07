@@ -1750,3 +1750,6 @@ METADATA: {"timestamp": "2026-01-06T23:31:34.704037", "bot_version": "2.6.4", "g
 [2026-01-06T23:32:07.446458] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-06T23:32:07.446225", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-06T23:33:24.865595] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-06T23:33:24.865514", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
