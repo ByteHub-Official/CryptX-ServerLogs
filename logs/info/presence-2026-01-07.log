@@ -1981,3 +1981,6 @@ METADATA: {"timestamp": "2026-01-07T06:19:42.913388", "bot_version": "2.6.4", "g
 [2026-01-07T06:19:45.822451] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: same | Activities: Custom: /shopfr /legende
 METADATA: {"timestamp": "2026-01-07T06:19:45.822374", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
 ---
+[2026-01-07T06:19:49.032353] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: same | Activities: Custom: /shopfr /legende
+METADATA: {"timestamp": "2026-01-07T06:19:49.032274", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
+---
