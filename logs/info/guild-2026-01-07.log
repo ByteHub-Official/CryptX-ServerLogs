@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-07T08:23:38.654818", "bot_version": "2.6.4", "e
 [2026-01-07T08:44:25.871843] [INFO] [GUILD] [BotStartup] Bot ShadowT3ch Logs#4740 connected successfully! Guilds: 1 | Total Members: 126 | Total Channels: 44 | Latency: 5005.64ms
 METADATA: {"timestamp": "2026-01-07T08:44:25.871748", "bot_version": "2.6.4", "extra": {"guild_count": 1, "total_members": 126, "total_channels": 44, "latency_ms": 5005.64, "bot_id": 1456815309561270303, "bot_name": "ShadowT3ch Logs#4740"}}
 ---
+[2026-01-07T08:50:28.061090] [INFO] [GUILD] [BotStartup] Bot ShadowT3ch Logs#4740 connected successfully! Guilds: 1 | Total Members: 126 | Total Channels: 44 | Latency: 5007.34ms
+METADATA: {"timestamp": "2026-01-07T08:50:28.060971", "bot_version": "2.6.4", "extra": {"guild_count": 1, "total_members": 126, "total_channels": 44, "latency_ms": 5007.34, "bot_id": 1456815309561270303, "bot_name": "ShadowT3ch Logs#4740"}}
+---
