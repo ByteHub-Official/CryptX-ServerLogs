@@ -1213,3 +1213,6 @@ METADATA: {"timestamp": "2026-01-06T21:38:25.703525", "bot_version": "2.6.4", "g
 [2026-01-06T21:38:27.497135] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-06T21:38:27.497067", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-06T21:38:29.099110] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-06T21:38:29.098951", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
