@@ -1324,3 +1324,6 @@ METADATA: {"timestamp": "2026-01-06T22:12:05.261334", "bot_version": "2.6.4", "g
 [2026-01-06T22:12:17.205979] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-06T22:12:17.205910", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-06T22:12:53.101286] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-06T22:12:53.101204", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
