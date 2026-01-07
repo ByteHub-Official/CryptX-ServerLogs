@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2026-01-07T08:58:11.414229", "bot_version": "2.6.4", "g
 [2026-01-07T09:01:40.906929] [INFO] [MESSAGES] [MessageEdited] User 2clickdeath edited message in 💬》general: Before: 'Same lol, only 17...' After: 'Same lol, im only 17...' | ID: 1458460472591519929
 METADATA: {"timestamp": "2026-01-07T09:01:40.906881", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "user_id": 1019698414839156817, "message_id": 1458460472591519929, "extra": {}}
 ---
+[2026-01-07T09:03:30.147076] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 📌》notices by 2clickdeath: '<@1456820286761734264> <@1456888434772672654> <@1456815309561270303> <@1456559078603227403> <@145681...' | ID: 1458461031499173982
+METADATA: {"timestamp": "2026-01-07T09:03:30.147005", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456470471234293861, "user_id": 1019698414839156817, "message_id": 1458461031499173982, "extra": {}}
+---
