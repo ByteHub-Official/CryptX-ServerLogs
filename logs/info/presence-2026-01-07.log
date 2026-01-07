@@ -1603,3 +1603,6 @@ METADATA: {"timestamp": "2026-01-07T03:49:05.023574", "bot_version": "2.6.4", "g
 [2026-01-07T03:49:06.532971] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T03:49:06.532903", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T03:49:13.603701] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T03:49:13.603629", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
