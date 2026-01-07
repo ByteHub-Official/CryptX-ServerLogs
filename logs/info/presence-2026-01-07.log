@@ -2740,3 +2740,6 @@ METADATA: {"timestamp": "2026-01-07T17:00:23.712109", "bot_version": "2.6.4", "g
 [2026-01-07T17:02:04.930036] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-07T17:02:04.930000", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-07T17:02:06.640882] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-07T17:02:06.640842", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
