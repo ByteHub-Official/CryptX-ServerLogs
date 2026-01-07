@@ -1810,3 +1810,6 @@ METADATA: {"timestamp": "2026-01-06T23:53:51.389615", "bot_version": "2.6.4", "g
 [2026-01-06T23:54:00.589157] [INFO] [PRESENCE] [PresenceUpdate] User nguoithongminh0225_87966 status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-06T23:54:00.589085", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1321786547439140924, "username": "nguoithongminh0225_87966", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-06T23:59:40.345028] [INFO] [PRESENCE] [PresenceUpdate] User nguoithongminh0225_87966 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-06T23:59:40.344941", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1321786547439140924, "username": "nguoithongminh0225_87966", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
