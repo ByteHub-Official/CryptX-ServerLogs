@@ -2539,3 +2539,6 @@ METADATA: {"timestamp": "2026-01-07T10:21:54.820515", "bot_version": "2.6.4", "g
 [2026-01-07T10:23:38.119963] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-07T10:23:38.119877", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T10:23:41.591883] [INFO] [PRESENCE] [PresenceUpdate] User jaytoolit01 status changed: same | Activities: Custom: John 3:16 states  "For God so loved the world, that he gave his only son".
+METADATA: {"timestamp": "2026-01-07T10:23:41.591815", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1252518227213553817, "username": "jaytoolit01", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: John 3:16 states  \"For God so loved the world, that he gave his only son\"."]}}
+---
