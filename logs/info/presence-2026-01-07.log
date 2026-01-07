@@ -1951,3 +1951,6 @@ METADATA: {"timestamp": "2026-01-07T05:54:20.044249", "bot_version": "2.6.4", "g
 [2026-01-07T05:56:09.593838] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T05:56:09.593793", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-07T06:06:45.485415] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T06:06:45.485323", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
