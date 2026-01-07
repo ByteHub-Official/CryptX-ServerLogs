@@ -1543,3 +1543,6 @@ METADATA: {"timestamp": "2026-01-07T03:47:53.532823", "bot_version": "2.6.4", "g
 [2026-01-07T03:48:00.825826] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T03:48:00.825787", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T03:48:02.393302] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T03:48:02.393201", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
