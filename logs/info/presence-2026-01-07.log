@@ -2761,3 +2761,6 @@ METADATA: {"timestamp": "2026-01-07T17:06:24.714887", "bot_version": "2.6.4", "g
 [2026-01-07T17:07:06.395241] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-07T17:07:06.395202", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T17:07:24.896852] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-07T17:07:24.896753", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
