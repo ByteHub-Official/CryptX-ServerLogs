@@ -2596,3 +2596,6 @@ METADATA: {"timestamp": "2026-01-07T11:38:36.581231", "bot_version": "2.6.4", "g
 [2026-01-07T11:38:48.673924] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-07T11:38:48.673859", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-07T11:39:03.166076] [INFO] [PRESENCE] [PresenceUpdate] User fest4433 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-07T11:39:03.166003", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1233710422721298472, "username": "fest4433", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
