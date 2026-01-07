@@ -943,3 +943,6 @@ METADATA: {"timestamp": "2026-01-06T19:49:28.438136", "bot_version": "2.6.4", "g
 [2026-01-06T19:49:29.930126] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-06T19:49:29.930095", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T19:50:38.034272] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: Custom: kira you made this?
+METADATA: {"timestamp": "2026-01-06T19:50:38.034239", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: kira you made this?"]}}
+---
