@@ -3037,3 +3037,6 @@ METADATA: {"timestamp": "2026-01-07T18:51:23.347478", "bot_version": "2.6.4", "g
 [2026-01-07T18:51:26.438526] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T18:51:26.438455", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-07T18:52:11.589020] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T18:52:11.588894", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
