@@ -1546,3 +1546,6 @@ METADATA: {"timestamp": "2026-01-06T23:01:48.388532", "bot_version": "2.6.4", "g
 [2026-01-06T23:01:53.878035] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-06T23:01:53.877958", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-06T23:01:59.383653] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-06T23:01:59.383571", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
