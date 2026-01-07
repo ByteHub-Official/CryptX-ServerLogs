@@ -265,3 +265,6 @@ METADATA: {"timestamp": "2026-01-07T01:14:54.525211", "bot_version": "2.6.4", "g
 [2026-01-07T01:15:29.295734] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-07T01:15:29.295659", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T01:15:30.425371] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-07T01:15:30.425302", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
