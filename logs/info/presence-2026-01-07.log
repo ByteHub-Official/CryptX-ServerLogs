@@ -2011,3 +2011,6 @@ METADATA: {"timestamp": "2026-01-07T06:26:48.122496", "bot_version": "2.6.4", "g
 [2026-01-07T06:26:51.952272] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: same | Activities: Custom: /shopfr /legende
 METADATA: {"timestamp": "2026-01-07T06:26:51.952194", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
 ---
+[2026-01-07T06:27:27.656354] [INFO] [PRESENCE] [PresenceUpdate] User sigil.com status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-07T06:27:27.656234", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1419389104507981894, "username": "sigil.com", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
