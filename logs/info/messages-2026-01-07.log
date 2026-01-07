@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2026-01-07T08:57:51.005413", "bot_version": "2.6.4", "g
 [2026-01-07T08:58:09.244775] [INFO] [MESSAGES] [MessageEdited] User 2clickdeath edited message in 💬》general: Before: 'Yes...' After: 'Yea...' | ID: 1458459537446277240
 METADATA: {"timestamp": "2026-01-07T08:58:09.244710", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "user_id": 1019698414839156817, "message_id": 1458459537446277240, "extra": {}}
 ---
+[2026-01-07T08:58:11.414292] [INFO] [MESSAGES] [MessageEdited] User 2clickdeath edited message in 💬》general: Before: 'Yea...' After: 'Yea...' | ID: 1458459537446277240
+METADATA: {"timestamp": "2026-01-07T08:58:11.414229", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "user_id": 1019698414839156817, "message_id": 1458459537446277240, "extra": {}}
+---
