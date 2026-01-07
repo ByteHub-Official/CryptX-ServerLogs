@@ -442,3 +442,6 @@ METADATA: {"timestamp": "2026-01-07T02:21:23.717836", "bot_version": "2.6.4", "g
 [2026-01-07T02:23:04.923237] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-07T02:23:04.923154", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T02:23:23.679634] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: online -> idle | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-07T02:23:23.679553", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: Custom Status"]}}
+---
