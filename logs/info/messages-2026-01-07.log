@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-07T08:55:35.681400", "bot_version": "2.6.4", "g
 [2026-01-07T08:55:43.360352] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》general by iriss.01: 'immune system...' | ID: 1458458949182554172
 METADATA: {"timestamp": "2026-01-07T08:55:43.360259", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "user_id": 1079826643922722848, "message_id": 1458458949182554172, "extra": {}}
 ---
+[2026-01-07T08:57:16.284959] [INFO] [MESSAGES] [MessageEdited] User 2clickdeath edited message in 💬》general: Before: 'Call of duty monthly...' After: 'Call of duty mobile...' | ID: 1458459348207534222
+METADATA: {"timestamp": "2026-01-07T08:57:16.284911", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "user_id": 1019698414839156817, "message_id": 1458459348207534222, "extra": {}}
+---
