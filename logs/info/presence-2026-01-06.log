@@ -1783,3 +1783,6 @@ METADATA: {"timestamp": "2026-01-06T23:46:22.799372", "bot_version": "2.6.4", "g
 [2026-01-06T23:46:45.676817] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-06T23:46:45.676737", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-06T23:48:28.757721] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-06T23:48:28.757648", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
