@@ -1063,3 +1063,6 @@ METADATA: {"timestamp": "2026-01-06T20:46:55.781601", "bot_version": "2.6.4", "g
 [2026-01-06T20:47:41.758529] [INFO] [PRESENCE] [PresenceUpdate] User jaydot8415 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-06T20:47:41.758450", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1021314266629951568, "username": "jaydot8415", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T20:48:02.827349] [INFO] [PRESENCE] [PresenceUpdate] User alvezxc1 status changed: same | Activities: Custom: 𝓝𝓴 𝓕𝓻𝓮𝓮𝓼𝓽𝔂𝓵𝓮
+METADATA: {"timestamp": "2026-01-06T20:48:02.827254", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1260007754014265457, "username": "alvezxc1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: \ud835\udcdd\ud835\udcf4 \ud835\udcd5\ud835\udcfb\ud835\udcee\ud835\udcee\ud835\udcfc\ud835\udcfd\ud835\udd02\ud835\udcf5\ud835\udcee"]}}
+---
