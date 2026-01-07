@@ -1684,3 +1684,6 @@ METADATA: {"timestamp": "2026-01-07T04:08:31.601667", "bot_version": "2.6.4", "g
 [2026-01-07T04:09:23.197563] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T04:09:23.197515", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T04:09:40.800090] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: online -> idle | Activities: Custom: KING OF THE BEGINNING
+METADATA: {"timestamp": "2026-01-07T04:09:40.800013", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: KING OF THE BEGINNING"]}}
+---
