@@ -1792,3 +1792,6 @@ METADATA: {"timestamp": "2026-01-06T23:48:33.025227", "bot_version": "2.6.4", "g
 [2026-01-06T23:48:41.724438] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-06T23:48:41.724359", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-06T23:49:36.171200] [INFO] [PRESENCE] [PresenceUpdate] User lordxenl status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-06T23:49:36.171120", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1144889548992684102, "username": "lordxenl", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
