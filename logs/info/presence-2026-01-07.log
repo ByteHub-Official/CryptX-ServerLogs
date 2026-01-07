@@ -2443,3 +2443,6 @@ METADATA: {"timestamp": "2026-01-07T09:00:06.067705", "bot_version": "2.6.4", "g
 [2026-01-07T09:02:14.080309] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: same | Activities: Custom: /shopfr /legende
 METADATA: {"timestamp": "2026-01-07T09:02:14.080221", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
 ---
+[2026-01-07T09:03:19.378367] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T09:03:19.378279", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
