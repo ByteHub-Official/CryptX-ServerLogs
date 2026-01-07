@@ -958,3 +958,6 @@ METADATA: {"timestamp": "2026-01-06T19:52:20.949554", "bot_version": "2.6.4", "g
 [2026-01-06T19:52:28.020103] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-06T19:52:28.020066", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-06T19:52:32.860330] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: same | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-06T19:52:32.860252", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: puff and pass"]}}
+---
