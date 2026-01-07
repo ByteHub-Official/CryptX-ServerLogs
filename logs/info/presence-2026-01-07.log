@@ -2071,3 +2071,6 @@ METADATA: {"timestamp": "2026-01-07T06:39:58.927299", "bot_version": "2.6.4", "g
 [2026-01-07T06:40:41.622764] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-07T06:40:41.622665", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T06:41:55.202185] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-07T06:41:55.202103", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
