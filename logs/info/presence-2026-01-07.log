@@ -508,3 +508,6 @@ METADATA: {"timestamp": "2026-01-07T02:49:03.910715", "bot_version": "2.6.4", "g
 [2026-01-07T02:49:07.260490] [INFO] [PRESENCE] [PresenceUpdate] User zazzva115 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T02:49:07.260414", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1386592770537558078, "username": "zazzva115", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T02:49:11.191418] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: idle -> online | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-07T02:49:11.191340", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: Custom Status"]}}
+---
