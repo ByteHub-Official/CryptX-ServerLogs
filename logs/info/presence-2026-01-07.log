@@ -2638,3 +2638,6 @@ METADATA: {"timestamp": "2026-01-07T12:00:16.691578", "bot_version": "2.6.4", "g
 [2026-01-07T12:00:25.076907] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: same | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-07T12:00:25.076790", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-07T12:00:27.407036] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-07T12:00:27.406694", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
