@@ -2014,3 +2014,6 @@ METADATA: {"timestamp": "2026-01-07T06:26:51.952194", "bot_version": "2.6.4", "g
 [2026-01-07T06:27:27.656354] [INFO] [PRESENCE] [PresenceUpdate] User sigil.com status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T06:27:27.656234", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1419389104507981894, "username": "sigil.com", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T06:28:01.645889] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-07T06:28:01.645826", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
