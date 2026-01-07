@@ -454,3 +454,6 @@ METADATA: {"timestamp": "2026-01-07T02:27:15.799937", "bot_version": "2.6.4", "g
 [2026-01-07T02:29:16.031826] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T02:29:16.031750", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-07T02:29:35.328130] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: idle -> online | Activities: None
+METADATA: {"timestamp": "2026-01-07T02:29:35.328052", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
+---
