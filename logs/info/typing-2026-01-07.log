@@ -88,3 +88,6 @@ METADATA: {"timestamp": "2026-01-07T08:58:00.358778", "bot_version": "2.6.4", "g
 [2026-01-07T09:01:10.041614] [INFO] [TYPING] [TypingStart] User 2clickdeath started typing in 💬》general
 METADATA: {"timestamp": "2026-01-07T09:01:10.041533", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473336375677011, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {}}
 ---
+[2026-01-07T09:03:12.419550] [INFO] [TYPING] [TypingStart] User 2clickdeath started typing in 📌》notices
+METADATA: {"timestamp": "2026-01-07T09:03:12.419469", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456470471234293861, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {}}
+---
