@@ -2770,3 +2770,6 @@ METADATA: {"timestamp": "2026-01-07T17:07:34.364555", "bot_version": "2.6.4", "g
 [2026-01-07T17:08:03.792467] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-07T17:08:03.792432", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T17:08:04.890081] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-07T17:08:04.889848", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
