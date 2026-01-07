@@ -1480,3 +1480,6 @@ METADATA: {"timestamp": "2026-01-06T22:49:32.874642", "bot_version": "2.6.4", "g
 [2026-01-06T22:49:35.295183] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: same | Activities: Custom: kira you made this?
 METADATA: {"timestamp": "2026-01-06T22:49:35.295112", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: kira you made this?"]}}
 ---
+[2026-01-06T22:50:44.323046] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: offline -> idle | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-06T22:50:44.322966", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "offline", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
+---
