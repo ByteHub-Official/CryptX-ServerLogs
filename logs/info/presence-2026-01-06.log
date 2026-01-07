@@ -1489,3 +1489,6 @@ METADATA: {"timestamp": "2026-01-06T22:50:53.976244", "bot_version": "2.6.4", "g
 [2026-01-06T22:52:44.553372] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-06T22:52:44.553298", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-06T22:53:00.301812] [INFO] [PRESENCE] [PresenceUpdate] User grewal.1 status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-06T22:53:00.301713", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 853131267439329280, "username": "grewal.1", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
+---
