@@ -2359,3 +2359,6 @@ METADATA: {"timestamp": "2026-01-07T08:33:39.276920", "bot_version": "2.6.4", "g
 [2026-01-07T08:35:27.181659] [INFO] [PRESENCE] [PresenceUpdate] User azeisnoob status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T08:35:27.181570", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1382606330149343262, "username": "azeisnoob", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T08:35:42.746220] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: same | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-07T08:35:42.746111", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "online", "after_status": "online", "activities": ["Custom: Custom Status"]}}
+---
