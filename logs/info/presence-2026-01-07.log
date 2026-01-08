@@ -3565,3 +3565,6 @@ METADATA: {"timestamp": "2026-01-07T21:08:49.692663", "bot_version": "2.6.4", "g
 [2026-01-07T21:11:00.242706] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T21:11:00.242587", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T21:11:44.214424] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: idle -> online | Activities: None
+METADATA: {"timestamp": "2026-01-07T21:11:44.214340", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
+---
