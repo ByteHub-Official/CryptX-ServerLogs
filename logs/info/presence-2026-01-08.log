@@ -586,3 +586,6 @@ METADATA: {"timestamp": "2026-01-08T18:33:14.587469", "bot_version": "2.6.4", "g
 [2026-01-08T18:33:22.775712] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-08T18:33:22.775625", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-08T18:37:09.763041] [INFO] [PRESENCE] [PresenceUpdate] User sheluvpaccc21 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:37:09.762960", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1108589767232331817, "username": "sheluvpaccc21", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
