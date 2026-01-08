@@ -3589,3 +3589,6 @@ METADATA: {"timestamp": "2026-01-07T21:20:32.071586", "bot_version": "2.6.4", "g
 [2026-01-07T21:21:44.882593] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-07T21:21:44.882335", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T21:22:06.729030] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-07T21:22:06.728912", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
