@@ -3148,3 +3148,6 @@ METADATA: {"timestamp": "2026-01-07T19:01:41.650928", "bot_version": "2.6.4", "g
 [2026-01-07T19:01:44.084482] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T19:01:44.084447", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "idle", "after_status": "idle", "activities": []}}
 ---
+[2026-01-07T19:01:45.580449] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-07T19:01:45.580380", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "idle", "after_status": "idle", "activities": []}}
+---
