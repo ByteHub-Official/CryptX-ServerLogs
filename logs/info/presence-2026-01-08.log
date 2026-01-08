@@ -319,3 +319,6 @@ METADATA: {"timestamp": "2026-01-08T16:49:25.771840", "bot_version": "2.6.4", "g
 [2026-01-08T16:49:40.986436] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-08T16:49:40.986385", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-08T16:49:46.706790] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: idle -> online | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-08T16:49:46.706662", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: Custom Status"]}}
+---
