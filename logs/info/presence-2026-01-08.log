@@ -511,3 +511,6 @@ METADATA: {"timestamp": "2026-01-08T18:12:59.337932", "bot_version": "2.6.4", "g
 [2026-01-08T18:13:44.670773] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: offline -> online | Activities: Custom: chilling
 METADATA: {"timestamp": "2026-01-08T18:13:44.670687", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "offline", "after_status": "online", "activities": ["Custom: chilling"]}}
 ---
+[2026-01-08T18:15:48.444185] [INFO] [PRESENCE] [PresenceUpdate] User jx3o0 status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:15:48.444091", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 893226275597070337, "username": "jx3o0", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
