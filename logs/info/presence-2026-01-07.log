@@ -3517,3 +3517,6 @@ METADATA: {"timestamp": "2026-01-07T20:58:14.144091", "bot_version": "2.6.4", "g
 [2026-01-07T20:58:32.515458] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-07T20:58:32.515369", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T20:58:35.682038] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-07T20:58:35.681804", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
