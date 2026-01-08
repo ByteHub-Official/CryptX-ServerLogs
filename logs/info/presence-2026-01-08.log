@@ -211,3 +211,6 @@ METADATA: {"timestamp": "2026-01-08T16:33:23.943006", "bot_version": "2.6.4", "g
 [2026-01-08T16:34:03.969883] [INFO] [PRESENCE] [PresenceUpdate] User sosa_inc status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-08T16:34:03.969748", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1324779545609502740, "username": "sosa_inc", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-08T16:35:16.093554] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-08T16:35:16.093285", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
