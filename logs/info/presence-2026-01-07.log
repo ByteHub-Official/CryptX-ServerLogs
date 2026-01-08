@@ -3505,3 +3505,6 @@ METADATA: {"timestamp": "2026-01-07T20:52:55.017658", "bot_version": "2.6.4", "g
 [2026-01-07T20:54:24.805551] [INFO] [PRESENCE] [PresenceUpdate] User 5staey status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-07T20:54:24.805460", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1379258960997253140, "username": "5staey", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T20:58:05.275433] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-07T20:58:05.275335", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
