@@ -592,3 +592,6 @@ METADATA: {"timestamp": "2026-01-08T18:37:09.762960", "bot_version": "2.6.4", "g
 [2026-01-08T18:38:13.175281] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: offline -> dnd | Activities: Custom: /shopfr /legende
 METADATA: {"timestamp": "2026-01-08T18:38:13.175197", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
 ---
+[2026-01-08T18:40:56.522202] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:40:56.522118", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
