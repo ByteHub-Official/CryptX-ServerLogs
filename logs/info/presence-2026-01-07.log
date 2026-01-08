@@ -3469,3 +3469,6 @@ METADATA: {"timestamp": "2026-01-07T20:22:58.361438", "bot_version": "2.6.4", "g
 [2026-01-07T20:23:30.766959] [INFO] [PRESENCE] [PresenceUpdate] User sosa_inc status changed: idle -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-07T20:23:30.766823", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1324779545609502740, "username": "sosa_inc", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
 ---
+[2026-01-07T20:24:15.583794] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: offline -> dnd | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-07T20:24:15.583703", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: Custom Status"]}}
+---
