@@ -3370,3 +3370,6 @@ METADATA: {"timestamp": "2026-01-07T20:00:18.096292", "bot_version": "2.6.4", "g
 [2026-01-07T20:01:20.444281] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: online -> idle | Activities: Playing: SteamVR
 METADATA: {"timestamp": "2026-01-07T20:01:20.444134", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Playing: SteamVR"]}}
 ---
+[2026-01-07T20:02:20.754371] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-07T20:02:20.753852", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
