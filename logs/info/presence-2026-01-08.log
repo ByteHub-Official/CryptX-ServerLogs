@@ -613,3 +613,6 @@ METADATA: {"timestamp": "2026-01-08T18:49:06.510336", "bot_version": "2.6.4", "g
 [2026-01-08T18:51:28.140109] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: dnd -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-08T18:51:28.140020", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
 ---
+[2026-01-08T18:51:31.235615] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:51:31.235537", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
