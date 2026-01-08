@@ -3571,3 +3571,6 @@ METADATA: {"timestamp": "2026-01-07T21:11:44.214340", "bot_version": "2.6.4", "g
 [2026-01-07T21:14:51.363774] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T21:14:51.363683", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T21:14:59.862370] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-07T21:14:59.862293", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
