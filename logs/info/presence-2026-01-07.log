@@ -3178,3 +3178,6 @@ METADATA: {"timestamp": "2026-01-07T19:02:40.577658", "bot_version": "2.6.4", "g
 [2026-01-07T19:03:24.219945] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T19:03:24.218058", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T19:04:55.653712] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-07T19:04:55.653653", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
