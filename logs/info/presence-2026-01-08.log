@@ -88,3 +88,6 @@ METADATA: {"timestamp": "2026-01-08T11:25:14.425427", "bot_version": "2.6.4", "g
 [2026-01-08T11:25:50.063390] [INFO] [PRESENCE] [PresenceUpdate] User alvezxc1 status changed: idle -> dnd | Activities: Custom: 𝓝𝓴 𝓕𝓻𝓮𝓮𝓼𝓽𝔂𝓵𝓮
 METADATA: {"timestamp": "2026-01-08T11:25:50.063267", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1260007754014265457, "username": "alvezxc1", "extra": {"before_status": "idle", "after_status": "dnd", "activities": ["Custom: \ud835\udcdd\ud835\udcf4 \ud835\udcd5\ud835\udcfb\ud835\udcee\ud835\udcee\ud835\udcfc\ud835\udcfd\ud835\udd02\ud835\udcf5\ud835\udcee"]}}
 ---
+[2026-01-08T11:27:10.954562] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-08T11:27:10.903956", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
