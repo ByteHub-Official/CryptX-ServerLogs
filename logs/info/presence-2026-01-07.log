@@ -3409,3 +3409,6 @@ METADATA: {"timestamp": "2026-01-07T20:11:43.679241", "bot_version": "2.6.4", "g
 [2026-01-07T20:11:50.392750] [INFO] [PRESENCE] [PresenceUpdate] User keychaincomp_ status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-07T20:11:50.392659", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1312632746870571042, "username": "keychaincomp_", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-07T20:11:52.392289] [INFO] [PRESENCE] [PresenceUpdate] User keychaincomp_ status changed: same | Activities: Custom: comp…!
+METADATA: {"timestamp": "2026-01-07T20:11:52.392216", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1312632746870571042, "username": "keychaincomp_", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: comp\u2026!"]}}
+---
