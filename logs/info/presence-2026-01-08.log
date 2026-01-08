@@ -460,3 +460,6 @@ METADATA: {"timestamp": "2026-01-08T17:58:44.644733", "bot_version": "2.6.4", "g
 [2026-01-08T17:59:13.320795] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-08T17:59:13.320711", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-08T17:59:16.651171] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-08T17:59:16.651082", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
