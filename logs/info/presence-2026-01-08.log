@@ -283,3 +283,6 @@ METADATA: {"timestamp": "2026-01-08T16:44:25.747377", "bot_version": "2.6.4", "g
 [2026-01-08T16:44:34.387153] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: online -> idle | Activities: Custom: Custom Status
 METADATA: {"timestamp": "2026-01-08T16:44:34.387108", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: Custom Status"]}}
 ---
+[2026-01-08T16:45:11.902442] [INFO] [PRESENCE] [PresenceUpdate] User pygf status changed: same | Activities: Custom: /shopfr /legende
+METADATA: {"timestamp": "2026-01-08T16:45:11.902318", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 761666193042964500, "username": "pygf", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: /shopfr /legende"]}}
+---
