@@ -547,3 +547,6 @@ METADATA: {"timestamp": "2026-01-08T18:26:39.257446", "bot_version": "2.6.4", "g
 [2026-01-08T18:27:00.505724] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-08T18:27:00.505634", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-08T18:27:27.001024] [INFO] [PRESENCE] [PresenceUpdate] User snowexploits status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:27:27.000933", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1376217565952479425, "username": "snowexploits", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
