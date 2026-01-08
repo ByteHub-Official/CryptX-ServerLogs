@@ -403,3 +403,6 @@ METADATA: {"timestamp": "2026-01-08T17:50:34.800644", "bot_version": "2.6.4", "g
 [2026-01-08T17:52:10.169278] [INFO] [PRESENCE] [PresenceUpdate] User .qlskiller status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-08T17:52:10.169242", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1036007836880212028, "username": ".qlskiller", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-08T17:52:33.529164] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: Custom: kira you made this?
+METADATA: {"timestamp": "2026-01-08T17:52:33.529087", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: kira you made this?"]}}
+---
