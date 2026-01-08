@@ -3268,3 +3268,6 @@ METADATA: {"timestamp": "2026-01-07T19:25:55.043147", "bot_version": "2.6.4", "g
 [2026-01-07T19:25:57.612195] [INFO] [PRESENCE] [PresenceUpdate] User soulscarrd status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-07T19:25:57.612061", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1133090393509089361, "username": "soulscarrd", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-07T19:26:08.661961] [INFO] [PRESENCE] [PresenceUpdate] User plsmod_myacc status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-07T19:26:08.661736", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1405450716176322743, "username": "plsmod_myacc", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
