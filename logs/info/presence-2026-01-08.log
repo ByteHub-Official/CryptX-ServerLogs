@@ -493,3 +493,6 @@ METADATA: {"timestamp": "2026-01-08T18:07:26.600575", "bot_version": "2.6.4", "g
 [2026-01-08T18:08:00.019339] [INFO] [PRESENCE] [PresenceUpdate] User datphamtien0969 status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-08T18:08:00.019229", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1302478198008971315, "username": "datphamtien0969", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-08T18:10:04.883355] [INFO] [PRESENCE] [PresenceUpdate] User xxzgyxzxzyxyxzxfzx status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:10:04.883320", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1241439123198316661, "username": "xxzgyxzxzyxyxzxfzx", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
