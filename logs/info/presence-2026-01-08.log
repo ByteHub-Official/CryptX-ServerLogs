@@ -622,3 +622,6 @@ METADATA: {"timestamp": "2026-01-08T18:51:34.716578", "bot_version": "2.6.4", "g
 [2026-01-08T18:59:27.568882] [INFO] [PRESENCE] [PresenceUpdate] User yotoop status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-08T18:59:27.568793", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1432318210107113569, "username": "yotoop", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-08T18:59:41.272796] [INFO] [PRESENCE] [PresenceUpdate] User yotoop status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-08T18:59:41.272717", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1432318210107113569, "username": "yotoop", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
