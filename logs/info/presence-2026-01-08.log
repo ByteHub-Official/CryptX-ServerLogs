@@ -826,3 +826,6 @@ METADATA: {"timestamp": "2026-01-08T19:53:37.178850", "bot_version": "2.6.4", "g
 [2026-01-08T19:54:54.254033] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: online -> idle | Activities: Custom: puff and pass
 METADATA: {"timestamp": "2026-01-08T19:54:54.253954", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
 ---
+[2026-01-08T19:56:15.606082] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-08T19:56:15.605990", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
