@@ -973,3 +973,6 @@ METADATA: {"timestamp": "2026-01-08T20:47:39.359773", "bot_version": "2.6.4", "g
 [2026-01-08T20:48:41.062171] [INFO] [PRESENCE] [PresenceUpdate] User alvezxc1 status changed: same | Activities: Custom: 𝓝𝓴 𝓕𝓻𝓮𝓮𝓼𝓽𝔂𝓵𝓮
 METADATA: {"timestamp": "2026-01-08T20:48:41.062093", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1260007754014265457, "username": "alvezxc1", "extra": {"before_status": "idle", "after_status": "idle", "activities": ["Custom: \ud835\udcdd\ud835\udcf4 \ud835\udcd5\ud835\udcfb\ud835\udcee\ud835\udcee\ud835\udcfc\ud835\udcfd\ud835\udd02\ud835\udcf5\ud835\udcee"]}}
 ---
+[2026-01-08T20:49:31.000168] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: same | Activities: Custom: i’m at school right now  i’m asleep at 10 pm  don’t Dm me about Delta and don’t send me a friend request afterward
+METADATA: {"timestamp": "2026-01-08T20:49:31.000089", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: i\u2019m at school right now  i\u2019m asleep at 10 pm  don\u2019t Dm me about Delta and don\u2019t send me a friend request afterward"]}}
+---
