@@ -637,3 +637,6 @@ METADATA: {"timestamp": "2026-01-08T18:59:53.547260", "bot_version": "2.6.4", "g
 [2026-01-08T19:03:43.017456] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-08T19:03:43.017378", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-08T19:03:50.672285] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
+METADATA: {"timestamp": "2026-01-08T19:03:50.672034", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
+---
