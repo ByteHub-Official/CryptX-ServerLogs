@@ -640,3 +640,6 @@ METADATA: {"timestamp": "2026-01-08T19:03:43.017378", "bot_version": "2.6.4", "g
 [2026-01-08T19:03:50.672285] [INFO] [PRESENCE] [PresenceUpdate] User leaperyeeper status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-08T19:03:50.672034", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1271297536451285045, "username": "leaperyeeper", "extra": {"before_status": "online", "after_status": "online", "activities": []}}
 ---
+[2026-01-08T19:04:24.645105] [INFO] [PRESENCE] [PresenceUpdate] User sosa_inc status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-08T19:04:24.645068", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1324779545609502740, "username": "sosa_inc", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
