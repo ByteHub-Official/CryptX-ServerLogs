@@ -985,3 +985,6 @@ METADATA: {"timestamp": "2026-01-08T20:53:50.264072", "bot_version": "2.6.4", "g
 [2026-01-08T21:03:12.264891] [INFO] [PRESENCE] [PresenceUpdate] User konfig0547 status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-08T21:03:12.264806", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1410416213216985108, "username": "konfig0547", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-08T21:03:14.341403] [INFO] [PRESENCE] [PresenceUpdate] User konfig0547 status changed: dnd -> online | Activities: None
+METADATA: {"timestamp": "2026-01-08T21:03:14.341314", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1410416213216985108, "username": "konfig0547", "extra": {"before_status": "dnd", "after_status": "online", "activities": []}}
+---
