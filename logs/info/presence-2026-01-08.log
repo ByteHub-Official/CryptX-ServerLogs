@@ -775,3 +775,6 @@ METADATA: {"timestamp": "2026-01-08T19:40:59.466114", "bot_version": "2.6.4", "g
 [2026-01-08T19:41:56.841358] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: online -> idle | Activities: Custom: puff and pass
 METADATA: {"timestamp": "2026-01-08T19:41:56.841322", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: puff and pass"]}}
 ---
+[2026-01-08T19:42:05.920571] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: idle -> online | Activities: Custom: puff and pass
+METADATA: {"timestamp": "2026-01-08T19:42:05.920489", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "idle", "after_status": "online", "activities": ["Custom: puff and pass"]}}
+---
