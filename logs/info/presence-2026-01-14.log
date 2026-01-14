@@ -880,3 +880,6 @@ METADATA: {"timestamp": "2026-01-14T17:23:30.154407", "bot_version": "2.6.4", "g
 [2026-01-14T17:25:16.342028] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-14T17:25:16.341954", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-14T17:25:28.928282] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: idle -> online | Activities: None
+METADATA: {"timestamp": "2026-01-14T17:25:28.928233", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
+---
