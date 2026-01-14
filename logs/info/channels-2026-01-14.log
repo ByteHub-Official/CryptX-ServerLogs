@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-14T14:06:05.412826", "bot_version": "2.6.4", "g
 [2026-01-14T14:06:19.300345] [INFO] [CHANNELS] [StageChannelCreated] StageChannel 'supporter-stage' created in ShadowT3ch Development Group
 METADATA: {"timestamp": "2026-01-14T14:06:19.300246", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1461073962640343081, "extra": {}}
 ---
+[2026-01-14T14:06:35.601124] [INFO] [CHANNELS] [ForumChannelCreated] ForumChannel 'exclusive-content' created in ShadowT3ch Development Group
+METADATA: {"timestamp": "2026-01-14T14:06:35.601055", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1461074035411521690, "extra": {}}
+---
