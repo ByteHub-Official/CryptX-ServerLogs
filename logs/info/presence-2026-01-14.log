@@ -883,3 +883,6 @@ METADATA: {"timestamp": "2026-01-14T17:25:16.341954", "bot_version": "2.6.4", "g
 [2026-01-14T17:25:28.928282] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-14T17:25:28.928233", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-14T17:25:55.488226] [INFO] [PRESENCE] [PresenceUpdate] User onlyjaythegod_ status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-14T17:25:55.488194", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1216416508075311156, "username": "onlyjaythegod_", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
