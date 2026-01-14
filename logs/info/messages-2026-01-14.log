@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2026-01-14T14:29:54.012862", "bot_version": "2.6.4", "g
 [2026-01-14T14:32:44.513708] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1461080054984609888
 METADATA: {"timestamp": "2026-01-14T14:32:44.513639", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1456813600302825593, "message_id": 1461080054984609888, "extra": {}}
 ---
+[2026-01-14T14:32:47.749878] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 👋🏻》welcome by XenBot#2953: '...' | ID: 1461080054984609888
+METADATA: {"timestamp": "2026-01-14T14:32:47.749816", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1456813600302825593, "message_id": 1461080054984609888, "extra": {}}
+---
