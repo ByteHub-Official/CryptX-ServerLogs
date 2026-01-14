@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2026-01-14T14:29:53.185406", "bot_version": "2.6.4", "g
 [2026-01-14T14:29:54.012886] [INFO] [MESSAGES] [MessageEdited] User ShadowT3ch Security Pro#3888 edited message in ⛔》server-logs: Before: '...' After: '...' | ID: 1461079858326274297
 METADATA: {"timestamp": "2026-01-14T14:29:54.012862", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456477520818868337, "user_id": 1456559078603227403, "message_id": 1461079858326274297, "extra": {}}
 ---
+[2026-01-14T14:32:44.513708] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 👋🏻》welcome: Before: '...' After: '...' | ID: 1461080054984609888
+METADATA: {"timestamp": "2026-01-14T14:32:44.513639", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456469896509657364, "user_id": 1456813600302825593, "message_id": 1461080054984609888, "extra": {}}
+---
