@@ -499,3 +499,6 @@ METADATA: {"timestamp": "2026-01-14T14:16:01.143285", "bot_version": "2.6.4", "g
 [2026-01-14T14:16:11.165623] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by CryptX!
 METADATA: {"timestamp": "2026-01-14T14:16:11.165513", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
 ---
+[2026-01-14T14:16:21.881566] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-14T14:16:21.881511", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
+---
