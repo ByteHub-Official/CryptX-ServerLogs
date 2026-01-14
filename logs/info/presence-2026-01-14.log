@@ -1,3 +1,6 @@
 [2026-01-14T13:45:26.341231] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-14T13:45:26.341096", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-14T13:45:34.720369] [INFO] [PRESENCE] [PresenceUpdate] User maheraldaly1162 status changed: idle -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-14T13:45:34.720245", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 824724617582477332, "username": "maheraldaly1162", "extra": {"before_status": "idle", "after_status": "offline", "activities": []}}
+---
