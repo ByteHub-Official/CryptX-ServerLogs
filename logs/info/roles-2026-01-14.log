@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-14T14:06:02.096027", "bot_version": "2.6.4", "g
 [2026-01-14T14:06:06.993748] [INFO] [ROLES] [RoleCreated] Role 'Supporter' created in ShadowT3ch Development Group
 METADATA: {"timestamp": "2026-01-14T14:06:06.993585", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "extra": {"role_position": 1, "role_color": "#8ef8ff"}}
 ---
+[2026-01-14T14:06:11.444652] [INFO] [ROLES] [RoleUpdate] Role 'Supporter' updated in ShadowT3ch Development Group: name: 'Supporter membership' -> 'Supporter', color: #000000 -> #8ef8ff, permissions changed
+METADATA: {"timestamp": "2026-01-14T14:06:11.444560", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "role_id": 1461073880234983627, "role_name": "Supporter", "extra": {"name_change": {"before": "Supporter membership", "after": "Supporter"}, "color_change": {"before": "#000000", "after": "#8ef8ff"}, "permission_changes": {"added": "0x0", "removed": "0x400"}}}
+---
