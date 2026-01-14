@@ -991,3 +991,6 @@ METADATA: {"timestamp": "2026-01-14T17:59:26.477616", "bot_version": "2.6.4", "g
 [2026-01-14T18:01:16.962030] [INFO] [PRESENCE] [PresenceUpdate] User onlyjaythegod_ status changed: offline -> dnd | Activities: Custom: my gurll🩷🩷
 METADATA: {"timestamp": "2026-01-14T18:01:16.958906", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1216416508075311156, "username": "onlyjaythegod_", "extra": {"before_status": "offline", "after_status": "dnd", "activities": ["Custom: my gurll\ud83e\ude77\ud83e\ude77"]}}
 ---
+[2026-01-14T18:02:39.113333] [INFO] [PRESENCE] [PresenceUpdate] User sheluvpaccc21 status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-14T18:02:39.112564", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1108589767232331817, "username": "sheluvpaccc21", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
