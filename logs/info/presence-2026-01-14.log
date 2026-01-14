@@ -199,3 +199,6 @@ METADATA: {"timestamp": "2026-01-14T13:57:20.663517", "bot_version": "2.6.4", "g
 [2026-01-14T13:57:40.665511] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
 METADATA: {"timestamp": "2026-01-14T13:57:40.665404", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
 ---
+[2026-01-14T13:58:07.737498] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-14T13:58:07.737395", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
