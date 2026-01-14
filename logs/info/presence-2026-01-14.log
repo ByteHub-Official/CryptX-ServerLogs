@@ -502,3 +502,6 @@ METADATA: {"timestamp": "2026-01-14T14:16:11.165513", "bot_version": "2.6.4", "g
 [2026-01-14T14:16:21.881566] [INFO] [PRESENCE] [PresenceUpdate] User 2clickdeath status changed: online -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-14T14:16:21.881511", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"before_status": "online", "after_status": "idle", "activities": []}}
 ---
+[2026-01-14T14:21:05.531018] [INFO] [PRESENCE] [PresenceUpdate] User chewbaccalt status changed: online -> idle | Activities: Custom: Custom Status
+METADATA: {"timestamp": "2026-01-14T14:21:05.530943", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1001525917279064095, "username": "chewbaccalt", "extra": {"before_status": "online", "after_status": "idle", "activities": ["Custom: Custom Status"]}}
+---
