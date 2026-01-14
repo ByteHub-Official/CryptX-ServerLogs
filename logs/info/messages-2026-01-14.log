@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-14T13:49:20.605745", "bot_version": "2.6.4", "g
 [2026-01-14T13:49:27.767631] [INFO] [MESSAGES] [MessageDeleted] Message deleted in 💬》chat-with-ai by 2clickdeath: 'hi...' | ID: 1461069710832435374
 METADATA: {"timestamp": "2026-01-14T13:49:27.767433", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456473934974418955, "user_id": 1019698414839156817, "message_id": 1461069710832435374, "extra": {}}
 ---
+[2026-01-14T13:51:38.624876] [INFO] [MESSAGES] [MessageEdited] User XenBot#2953 edited message in 👥》self-roles: Before: '...' After: '...' | ID: 1461070272152207472
+METADATA: {"timestamp": "2026-01-14T13:51:38.624764", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456471976720732352, "user_id": 1456813600302825593, "message_id": 1461070272152207472, "extra": {}}
+---
