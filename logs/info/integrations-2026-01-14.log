@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-14T14:05:56.072576", "bot_version": "2.6.4", "g
 [2026-01-14T14:05:59.090775] [INFO] [INTEGRATIONS] [GuildIntegrationsUpdate] Guild integrations updated in ShadowT3ch Development Group
 METADATA: {"timestamp": "2026-01-14T14:05:59.090687", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "extra": {}}
 ---
+[2026-01-14T14:06:00.676712] [INFO] [INTEGRATIONS] [IntegrationUpdate] Integration 'Server Subscriptions Group' updated in ShadowT3ch Development Group
+METADATA: {"timestamp": "2026-01-14T14:06:00.676658", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "extra": {"integration_id": 1461073869719994428}}
+---
