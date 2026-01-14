@@ -547,3 +547,6 @@ METADATA: {"timestamp": "2026-01-14T14:32:28.514842", "bot_version": "2.6.4", "g
 [2026-01-14T14:32:59.530995] [INFO] [PRESENCE] [PresenceUpdate] User gmg_ant status changed: offline -> online | Activities: None
 METADATA: {"timestamp": "2026-01-14T14:32:59.530918", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1183886697688219771, "username": "gmg_ant", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
 ---
+[2026-01-14T14:33:19.762039] [INFO] [PRESENCE] [PresenceUpdate] User f3ot status changed: offline -> dnd | Activities: None
+METADATA: {"timestamp": "2026-01-14T14:33:19.761990", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1392243092983124051, "username": "f3ot", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
+---
