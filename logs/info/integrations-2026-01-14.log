@@ -1,3 +1,6 @@
 [2026-01-14T14:05:56.072665] [INFO] [INTEGRATIONS] [IntegrationCreate] Integration 'Server Subscriptions Group' created in ShadowT3ch Development Group (Type: guild_subscription)
 METADATA: {"timestamp": "2026-01-14T14:05:56.072576", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "extra": {"integration_id": 1461073869719994428, "integration_type": "guild_subscription", "enabled": true}}
 ---
+[2026-01-14T14:05:59.090775] [INFO] [INTEGRATIONS] [GuildIntegrationsUpdate] Guild integrations updated in ShadowT3ch Development Group
+METADATA: {"timestamp": "2026-01-14T14:05:59.090687", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "extra": {}}
+---
