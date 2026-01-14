@@ -256,3 +256,6 @@ METADATA: {"timestamp": "2026-01-14T14:00:23.759241", "bot_version": "2.6.4", "g
 [2026-01-14T14:00:32.802622] [INFO] [PRESENCE] [PresenceUpdate] User rdjovi__81746 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-14T14:00:32.802511", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1334550117826433034, "username": "rdjovi__81746", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-14T14:00:40.693996] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
+METADATA: {"timestamp": "2026-01-14T14:00:40.693896", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
+---
