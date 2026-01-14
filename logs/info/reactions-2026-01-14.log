@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-14T13:51:39.629326", "bot_version": "2.6.4", "g
 [2026-01-14T13:51:41.351336] [INFO] [REACTIONS] [ReactionAdded] User XenBot#2953 added 🎥 to message by XenBot#2953 in 👥》self-roles
 METADATA: {"timestamp": "2026-01-14T13:51:41.351261", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456471976720732352, "user_id": 1456813600302825593, "message_id": 1461070272152207472, "extra": {}}
 ---
+[2026-01-14T13:51:42.991678] [INFO] [REACTIONS] [ReactionAdded] User XenBot#2953 added 🎓 to message by XenBot#2953 in 👥》self-roles
+METADATA: {"timestamp": "2026-01-14T13:51:42.991516", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "channel_id": 1456471976720732352, "user_id": 1456813600302825593, "message_id": 1461070272152207472, "extra": {}}
+---
