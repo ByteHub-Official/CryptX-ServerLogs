@@ -373,3 +373,6 @@ METADATA: {"timestamp": "2026-01-14T14:07:50.898826", "bot_version": "2.6.4", "g
 [2026-01-14T14:08:00.796398] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by CryptX!
 METADATA: {"timestamp": "2026-01-14T14:08:00.796281", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
 ---
+[2026-01-14T14:08:10.862219] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-14T14:08:10.862141", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
