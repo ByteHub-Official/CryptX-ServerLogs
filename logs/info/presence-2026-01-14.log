@@ -277,3 +277,6 @@ METADATA: {"timestamp": "2026-01-14T14:01:40.761669", "bot_version": "2.6.4", "g
 [2026-01-14T14:01:50.728873] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Configure with /setup
 METADATA: {"timestamp": "2026-01-14T14:01:50.728770", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Configure with /setup"]}}
 ---
+[2026-01-14T14:02:06.934594] [INFO] [PRESENCE] [PresenceUpdate] User iriss.01 status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-14T14:02:06.934360", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1079826643922722848, "username": "iriss.01", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
