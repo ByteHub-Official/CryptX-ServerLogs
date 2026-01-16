@@ -1099,3 +1099,6 @@ METADATA: {"timestamp": "2026-01-15T23:11:15.348600", "bot_version": "2.6.4", "g
 [2026-01-15T23:11:16.498805] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 3 servers
 METADATA: {"timestamp": "2026-01-15T23:11:16.498767", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 3 servers"]}}
 ---
+[2026-01-15T23:11:18.071312] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 3 servers
+METADATA: {"timestamp": "2026-01-15T23:11:18.071276", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 3 servers"]}}
+---
