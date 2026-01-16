@@ -1129,3 +1129,6 @@ METADATA: {"timestamp": "2026-01-15T23:11:46.493486", "bot_version": "2.6.4", "g
 [2026-01-15T23:11:48.103956] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 3 servers
 METADATA: {"timestamp": "2026-01-15T23:11:48.101876", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 3 servers"]}}
 ---
+[2026-01-15T23:11:49.613110] [INFO] [PRESENCE] [PresenceUpdate] User yotoop status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-15T23:11:49.611247", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1432318210107113569, "username": "yotoop", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
