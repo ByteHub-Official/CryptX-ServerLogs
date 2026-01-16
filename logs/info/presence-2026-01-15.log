@@ -430,3 +430,6 @@ METADATA: {"timestamp": "2026-01-15T22:40:13.898784", "bot_version": "2.6.4", "g
 [2026-01-15T22:40:23.919242] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 2 servers
 METADATA: {"timestamp": "2026-01-15T22:40:23.919212", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
 ---
+[2026-01-15T22:40:27.356972] [INFO] [PRESENCE] [PresenceUpdate] User dom_thegoat0096 status changed: online -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-15T22:40:27.356914", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1356120168887095397, "username": "dom_thegoat0096", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
+---
