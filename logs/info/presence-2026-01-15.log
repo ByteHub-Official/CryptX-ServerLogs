@@ -1600,3 +1600,6 @@ METADATA: {"timestamp": "2026-01-15T23:21:25.463165", "bot_version": "2.6.4", "g
 [2026-01-15T23:21:26.598561] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by Combined Bot!
 METADATA: {"timestamp": "2026-01-15T23:21:26.598508", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by Combined Bot!"]}}
 ---
+[2026-01-15T23:21:28.034314] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by Combined Bot!
+METADATA: {"timestamp": "2026-01-15T23:21:28.034250", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by Combined Bot!"]}}
+---
