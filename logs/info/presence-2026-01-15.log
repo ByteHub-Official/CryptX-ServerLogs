@@ -1258,3 +1258,6 @@ METADATA: {"timestamp": "2026-01-15T23:14:07.418464", "bot_version": "2.6.4", "g
 [2026-01-15T23:14:09.031456] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by Combined Bot!
 METADATA: {"timestamp": "2026-01-15T23:14:09.031425", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by Combined Bot!"]}}
 ---
+[2026-01-15T23:14:10.737113] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-15T23:14:10.737047", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
