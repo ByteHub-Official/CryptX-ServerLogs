@@ -874,3 +874,6 @@ METADATA: {"timestamp": "2026-01-15T22:58:39.923227", "bot_version": "2.6.4", "g
 [2026-01-15T22:58:41.378088] [INFO] [PRESENCE] [PresenceUpdate] User donthurtpain status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-15T22:58:41.378052", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1283957288314343486, "username": "donthurtpain", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-15T22:58:44.073083] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Powered by CryptX!
+METADATA: {"timestamp": "2026-01-15T22:58:44.073007", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Powered by CryptX!"]}}
+---
