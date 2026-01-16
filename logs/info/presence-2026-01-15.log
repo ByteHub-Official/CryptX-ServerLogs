@@ -1,3 +1,6 @@
 [2026-01-15T22:16:01.370338] [INFO] [PRESENCE] [PresenceUpdate] User jaydot8415 status changed: online -> offline | Activities: None
 METADATA: {"timestamp": "2026-01-15T22:16:01.370287", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1021314266629951568, "username": "jaydot8415", "extra": {"before_status": "online", "after_status": "offline", "activities": []}}
 ---
+[2026-01-15T22:16:24.104515] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: offline -> online | Activities: None
+METADATA: {"timestamp": "2026-01-15T22:16:24.104463", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "offline", "after_status": "online", "activities": []}}
+---
