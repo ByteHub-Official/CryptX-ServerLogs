@@ -1261,3 +1261,6 @@ METADATA: {"timestamp": "2026-01-15T23:14:09.031425", "bot_version": "2.6.4", "g
 [2026-01-15T23:14:10.737113] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: offline -> idle | Activities: None
 METADATA: {"timestamp": "2026-01-15T23:14:10.737047", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
 ---
+[2026-01-15T23:14:14.610386] [INFO] [PRESENCE] [PresenceUpdate] User yotoop status changed: offline -> idle | Activities: None
+METADATA: {"timestamp": "2026-01-15T23:14:14.610313", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1432318210107113569, "username": "yotoop", "extra": {"before_status": "offline", "after_status": "idle", "activities": []}}
+---
