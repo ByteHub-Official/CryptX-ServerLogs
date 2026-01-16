@@ -1543,3 +1543,6 @@ METADATA: {"timestamp": "2026-01-15T23:20:26.592509", "bot_version": "2.6.4", "g
 [2026-01-15T23:20:28.038312] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 3 servers
 METADATA: {"timestamp": "2026-01-15T23:20:28.038240", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 3 servers"]}}
 ---
+[2026-01-15T23:20:29.469669] [INFO] [PRESENCE] [PresenceUpdate] User onlyjaythegod_ status changed: dnd -> offline | Activities: None
+METADATA: {"timestamp": "2026-01-15T23:20:29.469637", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1216416508075311156, "username": "onlyjaythegod_", "extra": {"before_status": "dnd", "after_status": "offline", "activities": []}}
+---
