@@ -268,3 +268,6 @@ METADATA: {"timestamp": "2026-01-15T22:30:43.737005", "bot_version": "2.6.4", "g
 [2026-01-15T22:30:44.478246] [INFO] [PRESENCE] [PresenceUpdate] User 2vdek status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-15T22:30:44.478130", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1398104794823921668, "username": "2vdek", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-15T22:30:53.754864] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 2 servers
+METADATA: {"timestamp": "2026-01-15T22:30:53.754792", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
+---
