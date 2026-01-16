@@ -799,3 +799,6 @@ METADATA: {"timestamp": "2026-01-15T22:56:42.970636", "bot_version": "2.6.4", "g
 [2026-01-15T22:56:44.086931] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 2 servers
 METADATA: {"timestamp": "2026-01-15T22:56:44.086890", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 2 servers"]}}
 ---
+[2026-01-15T22:56:49.876705] [INFO] [PRESENCE] [PresenceUpdate] User juicewrld43742 status changed: offline -> idle | Activities: Custom: be yourself and trust in the lord
+METADATA: {"timestamp": "2026-01-15T22:56:49.876642", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1408889525744173187, "username": "juicewrld43742", "extra": {"before_status": "offline", "after_status": "idle", "activities": ["Custom: be yourself and trust in the lord"]}}
+---
