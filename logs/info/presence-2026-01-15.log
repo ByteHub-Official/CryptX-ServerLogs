@@ -1372,3 +1372,6 @@ METADATA: {"timestamp": "2026-01-15T23:16:19.277232", "bot_version": "2.6.4", "g
 [2026-01-15T23:16:20.840913] [INFO] [PRESENCE] [PresenceUpdate] User binbunca_54572 status changed: idle -> online | Activities: None
 METADATA: {"timestamp": "2026-01-15T23:16:20.840851", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1418210390030028812, "username": "binbunca_54572", "extra": {"before_status": "idle", "after_status": "online", "activities": []}}
 ---
+[2026-01-15T23:16:25.400041] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 3 servers
+METADATA: {"timestamp": "2026-01-15T23:16:25.399979", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 3 servers"]}}
+---
