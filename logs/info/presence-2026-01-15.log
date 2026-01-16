@@ -115,3 +115,6 @@ METADATA: {"timestamp": "2026-01-15T22:21:38.054259", "bot_version": "2.6.4", "g
 [2026-01-15T22:21:58.184389] [INFO] [PRESENCE] [PresenceUpdate] User 65tfm status changed: same | Activities: None
 METADATA: {"timestamp": "2026-01-15T22:21:58.184343", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1341783114694922315, "username": "65tfm", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-15T22:22:06.896360] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-15T22:22:06.896285", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
