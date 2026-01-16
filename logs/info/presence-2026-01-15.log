@@ -1606,3 +1606,6 @@ METADATA: {"timestamp": "2026-01-15T23:21:28.034250", "bot_version": "2.6.4", "g
 [2026-01-15T23:21:35.476589] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Tracking 3 servers
 METADATA: {"timestamp": "2026-01-15T23:21:35.476465", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Tracking 3 servers"]}}
 ---
+[2026-01-15T23:21:36.699735] [INFO] [PRESENCE] [PresenceUpdate] User XenBot#2953 status changed: same | Activities: Playing: Use /help for commands!
+METADATA: {"timestamp": "2026-01-15T23:21:36.699659", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1456813600302825593, "username": "XenBot#2953", "extra": {"before_status": "online", "after_status": "online", "activities": ["Playing: Use /help for commands!"]}}
+---
