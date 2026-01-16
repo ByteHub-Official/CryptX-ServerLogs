@@ -505,3 +505,6 @@ METADATA: {"timestamp": "2026-01-15T22:44:23.939078", "bot_version": "2.6.4", "g
 [2026-01-15T22:44:27.254748] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: offline -> dnd | Activities: None
 METADATA: {"timestamp": "2026-01-15T22:44:27.253293", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "offline", "after_status": "dnd", "activities": []}}
 ---
+[2026-01-15T22:44:28.081239] [INFO] [PRESENCE] [PresenceUpdate] User r85f status changed: same | Activities: Custom: hi im nik
+METADATA: {"timestamp": "2026-01-15T22:44:28.081099", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "user_id": 1291647601510187048, "username": "r85f", "extra": {"before_status": "dnd", "after_status": "dnd", "activities": ["Custom: hi im nik"]}}
+---
