@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2026-01-17T10:57:26.493372", "bot_version": "2.6.4", "g
 [2026-01-17T11:00:41.037547] [INFO] [MESSAGES] [message_sent] Message sent in ⛔》leader-notifications
 METADATA: {"timestamp": "2026-01-17T11:00:41.037479", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456478404168646727, "channel_name": "\u26d4\u300bleader-notifications", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462114413422182522, "extra": {"content_length": 9}}
 ---
+[2026-01-17T11:01:55.017844] [INFO] [MESSAGES] [message_sent] Message sent in ⛔》leader-notifications
+METADATA: {"timestamp": "2026-01-17T11:01:55.017804", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456478404168646727, "channel_name": "\u26d4\u300bleader-notifications", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462114723725181042, "extra": {"content_length": 4}}
+---
