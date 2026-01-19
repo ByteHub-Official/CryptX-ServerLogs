@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-19T03:42:15.276273", "bot_version": "2.6.4", "g
 [2026-01-19T03:42:18.024109] [INFO] [MEMBERS] [member_left] Dyno#3861 left Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:42:18.024073", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 155149108183695360, "username": "Dyno#3861", "extra": {}}
 ---
+[2026-01-19T03:42:21.623566] [INFO] [MEMBERS] [member_left] Redline shop#6649 left Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:42:21.623533", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 1453218252866982070, "username": "Redline shop#6649", "extra": {}}
+---
