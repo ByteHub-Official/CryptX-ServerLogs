@@ -52,3 +52,6 @@ METADATA: {"timestamp": "2026-01-19T05:21:49.911717", "bot_version": "2.6.4", "g
 [2026-01-19T05:44:45.706647] [INFO] [MEMBERS] [member_joined] walkyoudownty joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T05:44:45.706600", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1241832328519487490, "username": "walkyoudownty", "extra": {}}
 ---
+[2026-01-19T05:45:04.194381] [INFO] [MEMBERS] [member_left] walkyoudownty left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T05:45:04.194326", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1241832328519487490, "username": "walkyoudownty", "extra": {}}
+---
