@@ -157,3 +157,6 @@ METADATA: {"timestamp": "2026-01-19T22:39:21.759353", "bot_version": "2.6.4", "g
 [2026-01-19T23:12:36.181943] [INFO] [MEMBERS] [member_joined] 2nice4 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T23:12:36.181892", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1081490427284295721, "username": "2nice4", "extra": {}}
 ---
+[2026-01-19T23:12:44.527398] [INFO] [MEMBERS] [member_left] 2nice4 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T23:12:44.527348", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1081490427284295721, "username": "2nice4", "extra": {}}
+---
