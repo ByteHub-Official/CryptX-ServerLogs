@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2026-01-19T03:42:27.631422", "bot_version": "2.6.4", "g
 [2026-01-19T03:50:23.896437] [WARNING] [ROLES] [role_deleted] Role GiveawayBot deleted from Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:50:23.896390", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "role_id": 1440976075764142194, "role_name": "GiveawayBot", "extra": {}}
 ---
+[2026-01-19T03:50:28.338442] [WARNING] [ROLES] [role_deleted] Role AUTHGAURD deleted from Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:50:28.338391", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "role_id": 1456321549178114202, "role_name": "AUTHGAURD", "extra": {}}
+---
