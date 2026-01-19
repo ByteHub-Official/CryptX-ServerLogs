@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2026-01-19T03:50:29.040179", "bot_version": "2.6.4", "g
 [2026-01-19T03:50:33.279165] [INFO] [MEMBERS] [member_left] Me To#0495 left Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:50:33.279131", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 1440220196638818456, "username": "Me To#0495", "extra": {}}
 ---
+[2026-01-19T03:50:38.640339] [INFO] [MEMBERS] [member_left] Skii Hub#8052 left Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:50:38.640303", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 1424456531751206992, "username": "Skii Hub#8052", "extra": {}}
+---
