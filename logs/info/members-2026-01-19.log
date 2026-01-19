@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2026-01-19T03:42:21.623533", "bot_version": "2.6.4", "g
 [2026-01-19T03:42:24.873243] [INFO] [MEMBERS] [member_left] Security#1120 left Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:42:24.873207", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 651095740390834176, "username": "Security#1120", "extra": {}}
 ---
+[2026-01-19T03:42:28.242366] [INFO] [MEMBERS] [member_left] Tickety#1627 left Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:42:28.242298", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 718493970652594217, "username": "Tickety#1627", "extra": {}}
+---
