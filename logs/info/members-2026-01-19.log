@@ -94,3 +94,6 @@ METADATA: {"timestamp": "2026-01-19T09:00:33.491991", "bot_version": "2.6.4", "g
 [2026-01-19T09:26:48.342778] [INFO] [MEMBERS] [member_joined] ej00481 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T09:26:48.342732", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1241594819185475659, "username": "ej00481", "extra": {}}
 ---
+[2026-01-19T09:44:04.135927] [INFO] [MEMBERS] [member_left] ej00481 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T09:44:04.135878", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1241594819185475659, "username": "ej00481", "extra": {}}
+---
