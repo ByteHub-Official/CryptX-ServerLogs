@@ -1,3 +1,6 @@
 [2026-01-19T03:45:09.783188] [WARNING] [CHANNELS] [channel_deleted] Channel 👑》order-logs deleted from Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:45:09.783141", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1454369435568570554, "channel_name": "\ud83d\udc51\u300border-logs", "extra": {}}
 ---
+[2026-01-19T03:57:45.905019] [WARNING] [CHANNELS] [channel_deleted] Channel skii-hub-shewantclampz9585 deleted from Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:57:45.904970", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1462210906275450892, "channel_name": "skii-hub-shewantclampz9585", "extra": {}}
+---
