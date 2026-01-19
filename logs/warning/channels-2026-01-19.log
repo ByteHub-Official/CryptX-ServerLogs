@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-19T03:58:00.470067", "bot_version": "2.6.4", "g
 [2026-01-19T03:58:03.412020] [WARNING] [CHANNELS] [channel_deleted] Channel skii-hub-heyyyyy7776 deleted from Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:58:03.411958", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1462578737294872667, "channel_name": "skii-hub-heyyyyy7776", "extra": {}}
 ---
+[2026-01-19T03:58:06.090803] [WARNING] [CHANNELS] [channel_deleted] Channel skii-hub-shawn_fte1 deleted from Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:58:06.090757", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1462649578061824172, "channel_name": "skii-hub-shawn_fte1", "extra": {}}
+---
