@@ -130,3 +130,6 @@ METADATA: {"timestamp": "2026-01-19T19:40:01.753644", "bot_version": "2.6.4", "g
 [2026-01-19T20:10:56.790896] [INFO] [MEMBERS] [member_left] liideon left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T20:10:56.790847", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1268761379649880085, "username": "liideon", "extra": {}}
 ---
+[2026-01-19T20:28:34.719904] [INFO] [MEMBERS] [member_joined] landonebk joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T20:28:34.719859", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1348399862412218480, "username": "landonebk", "extra": {}}
+---
