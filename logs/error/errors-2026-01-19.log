@@ -29,3 +29,6 @@ b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove(
 [TRUNCATED - Original length: 6736 chars]
 METADATA: {"timestamp": "2026-01-19T19:56:31.392510", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"command": "help", "error_type": "CommandInvokeError"}}
 ---
+[2026-01-19T19:56:54.310128] [ERROR] [ERRORS] [command_error] Command error: Command "setup" is not found
+METADATA: {"timestamp": "2026-01-19T19:56:54.310077", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "extra": {"command": null, "error_type": "CommandNotFound"}}
+---
