@@ -100,3 +100,6 @@ METADATA: {"timestamp": "2026-01-19T09:44:04.135878", "bot_version": "2.6.4", "g
 [2026-01-19T10:01:09.564955] [INFO] [MEMBERS] [member_joined] sea_serfant8 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T10:01:09.564908", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 697930765077315726, "username": "sea_serfant8", "extra": {}}
 ---
+[2026-01-19T13:20:48.406276] [INFO] [MEMBERS] [member_left] vomagla left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T13:20:48.406226", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1376987120866164780, "username": "vomagla", "extra": {}}
+---
