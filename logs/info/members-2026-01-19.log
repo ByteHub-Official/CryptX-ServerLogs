@@ -151,3 +151,6 @@ METADATA: {"timestamp": "2026-01-19T21:50:23.818529", "bot_version": "2.6.4", "g
 [2026-01-19T22:35:39.520421] [INFO] [MEMBERS] [member_left] cq3zr left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T22:35:39.520372", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 443855450258276363, "username": "cq3zr", "extra": {}}
 ---
+[2026-01-19T22:39:21.759397] [INFO] [MEMBERS] [member_joined] babiifloyd joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T22:39:21.759353", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1143861524465725450, "username": "babiifloyd", "extra": {}}
+---
