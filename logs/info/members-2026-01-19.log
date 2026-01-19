@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2026-01-19T03:50:38.640303", "bot_version": "2.6.4", "g
 [2026-01-19T03:50:43.216978] [INFO] [MEMBERS] [member_left] Skii Hub bot#7502 left Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:50:43.216944", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 1457850244195946527, "username": "Skii Hub bot#7502", "extra": {}}
 ---
+[2026-01-19T04:01:00.657233] [INFO] [MEMBERS] [member_joined] iriss.01 joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T04:01:00.657185", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1079826643922722848, "username": "iriss.01", "extra": {}}
+---
