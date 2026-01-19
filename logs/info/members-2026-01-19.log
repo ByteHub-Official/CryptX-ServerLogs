@@ -70,3 +70,6 @@ METADATA: {"timestamp": "2026-01-19T06:21:26.295957", "bot_version": "2.6.4", "g
 [2026-01-19T06:31:55.345899] [INFO] [MEMBERS] [member_joined] glokbaby joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T06:31:55.345847", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1075168033946996789, "username": "glokbaby", "extra": {}}
 ---
+[2026-01-19T06:32:39.395088] [INFO] [MEMBERS] [member_left] glokbaby left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T06:32:39.395043", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1075168033946996789, "username": "glokbaby", "extra": {}}
+---
