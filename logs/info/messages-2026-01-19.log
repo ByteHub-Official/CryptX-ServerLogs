@@ -253,3 +253,6 @@ METADATA: {"timestamp": "2026-01-19T17:36:41.637948", "bot_version": "2.6.4", "g
 [2026-01-19T19:25:29.518681] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
 METADATA: {"timestamp": "2026-01-19T19:25:29.518632", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462890730782458100, "extra": {"content_length": 5}}
 ---
+[2026-01-19T19:56:30.380312] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-01-19T19:56:30.380256", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462898535879016489, "extra": {"content_length": 5}}
+---
