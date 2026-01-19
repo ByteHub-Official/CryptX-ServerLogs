@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2026-01-19T03:58:06.090757", "bot_version": "2.6.4", "g
 [2026-01-19T04:06:11.292945] [WARNING] [CHANNELS] [channel_deleted] Channel ✅》verify deleted from ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T04:06:11.292896", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369371869806685, "channel_name": "\u2705\u300bverify", "extra": {}}
 ---
+[2026-01-19T20:14:37.808595] [WARNING] [CHANNELS] [channel_deleted] Channel ticket-support-aoth deleted from ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T20:14:37.808533", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1462671628340297835, "channel_name": "ticket-support-aoth", "extra": {}}
+---
