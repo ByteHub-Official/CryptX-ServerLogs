@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2026-01-19T03:45:58.803907", "bot_version": "2.6.4", "g
 [2026-01-19T03:54:05.820542] [INFO] [MESSAGES] [message_sent] Message sent in ✅》verify
 METADATA: {"timestamp": "2026-01-19T03:54:05.820500", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1454369371869806685, "channel_name": "\u2705\u300bverify", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462656337912791192, "extra": {"content_length": 206}}
 ---
+[2026-01-19T03:57:07.945108] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
+METADATA: {"timestamp": "2026-01-19T03:57:07.945062", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456470471234293861, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462657101653348495, "extra": {"content_length": 32}}
+---
