@@ -148,3 +148,6 @@ METADATA: {"timestamp": "2026-01-19T21:41:25.318918", "bot_version": "2.6.4", "g
 [2026-01-19T21:50:23.818580] [INFO] [MEMBERS] [member_left] dan.393 left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T21:50:23.818529", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 610942309474762844, "username": "dan.393", "extra": {}}
 ---
+[2026-01-19T22:35:39.520421] [INFO] [MEMBERS] [member_left] cq3zr left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T22:35:39.520372", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 443855450258276363, "username": "cq3zr", "extra": {}}
+---
