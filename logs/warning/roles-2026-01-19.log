@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-19T03:42:14.241712", "bot_version": "2.6.4", "g
 [2026-01-19T03:42:17.376633] [WARNING] [ROLES] [role_deleted] Role Dyno deleted from Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:42:17.376582", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "role_id": 1456219359365169218, "role_name": "Dyno", "extra": {}}
 ---
+[2026-01-19T03:42:20.926106] [WARNING] [ROLES] [role_deleted] Role Redline shop deleted from Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:42:20.926056", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "role_id": 1456083484517859431, "role_name": "Redline shop", "extra": {}}
+---
