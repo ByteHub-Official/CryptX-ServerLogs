@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-19T03:45:19.934615", "bot_version": "2.6.4", "g
 [2026-01-19T03:45:49.646216] [INFO] [MESSAGES] [message_sent] Message sent in 📩》tickets
 METADATA: {"timestamp": "2026-01-19T03:45:49.646166", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1454369385778249826, "channel_name": "\ud83d\udce9\u300btickets", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462654256375926849, "extra": {"content_length": 50}}
 ---
+[2026-01-19T03:45:58.803952] [INFO] [MESSAGES] [message_sent] Message sent in ❓》faq
+METADATA: {"timestamp": "2026-01-19T03:45:58.803907", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "channel_id": 1456883299753660468, "channel_name": "\u2753\u300bfaq", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1462654295127101521, "extra": {"content_length": 568}}
+---
