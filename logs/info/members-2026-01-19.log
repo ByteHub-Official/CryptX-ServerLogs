@@ -124,3 +124,6 @@ METADATA: {"timestamp": "2026-01-19T19:01:47.469123", "bot_version": "2.6.4", "g
 [2026-01-19T19:02:36.914105] [INFO] [MEMBERS] [member_left] k.loc. left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T19:02:36.914042", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1384639744054530149, "username": "k.loc.", "extra": {}}
 ---
+[2026-01-19T19:40:01.753692] [INFO] [MEMBERS] [member_joined] fw.marii7_15054 joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T19:40:01.753644", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1333343972449583115, "username": "fw.marii7_15054", "extra": {}}
+---
