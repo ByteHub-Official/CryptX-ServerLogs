@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-19T03:42:24.873207", "bot_version": "2.6.4", "g
 [2026-01-19T03:42:28.242366] [INFO] [MEMBERS] [member_left] Tickety#1627 left Skii Hub
 METADATA: {"timestamp": "2026-01-19T03:42:28.242298", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 718493970652594217, "username": "Tickety#1627", "extra": {}}
 ---
+[2026-01-19T03:50:24.571683] [INFO] [MEMBERS] [member_left] GiveawayBot#2381 left Skii Hub
+METADATA: {"timestamp": "2026-01-19T03:50:24.571648", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "Skii Hub", "user_id": 294882584201003009, "username": "GiveawayBot#2381", "extra": {}}
+---
