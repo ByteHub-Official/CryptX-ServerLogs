@@ -85,3 +85,6 @@ METADATA: {"timestamp": "2026-01-19T08:00:02.480803", "bot_version": "2.6.4", "g
 [2026-01-19T08:20:03.113456] [INFO] [MEMBERS] [member_joined] dannyesgtown joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T08:20:03.113411", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1462565763234922634, "username": "dannyesgtown", "extra": {}}
 ---
+[2026-01-19T08:20:05.200148] [INFO] [MEMBERS] [member_left] dannyesgtown left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T08:20:05.200068", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1462565763234922634, "username": "dannyesgtown", "extra": {}}
+---
