@@ -139,3 +139,6 @@ METADATA: {"timestamp": "2026-01-19T20:34:52.650049", "bot_version": "2.6.4", "g
 [2026-01-19T20:36:35.528270] [INFO] [MEMBERS] [member_joined] nukfrmda4 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-19T20:36:35.528219", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1345160483568619571, "username": "nukfrmda4", "extra": {}}
 ---
+[2026-01-19T20:38:09.096251] [INFO] [MEMBERS] [member_left] nukfrmda4 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-19T20:38:09.096206", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1345160483568619571, "username": "nukfrmda4", "extra": {}}
+---
