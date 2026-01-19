@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2026-01-19T05:08:55.827457", "bot_version": "2.6.4", "g
 [2026-01-19T05:08:58.085653] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-aoth
 METADATA: {"timestamp": "2026-01-19T05:08:58.085607", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1462671628340297835, "channel_name": "ticket-support-aoth", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1462675179795906593, "extra": {"content_length": 7}}
 ---
+[2026-01-19T05:09:01.476624] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-aoth
+METADATA: {"timestamp": "2026-01-19T05:09:01.476582", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1462671628340297835, "channel_name": "ticket-support-aoth", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1462675194048024606, "extra": {"content_length": 13}}
+---
