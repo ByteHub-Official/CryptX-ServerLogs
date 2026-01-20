@@ -226,3 +226,6 @@ METADATA: {"timestamp": "2026-01-20T04:40:16.439748", "bot_version": "2.6.4", "g
 [2026-01-20T04:40:18.674598] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
 METADATA: {"timestamp": "2026-01-20T04:40:18.674546", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1364358738055528551, "username": "wok00740", "message_id": 1463030355945848943, "extra": {"content_length": 15}}
 ---
+[2026-01-20T04:40:20.235795] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T04:40:20.235751", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1463030362274791617, "extra": {"content_length": 4}}
+---
