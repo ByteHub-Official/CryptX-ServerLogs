@@ -46,3 +46,6 @@ METADATA: {"timestamp": "2026-01-20T10:31:30.335895", "bot_version": "2.6.4", "g
 [2026-01-20T13:06:52.297509] [INFO] [MEMBERS] [member_left] 7seet left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-20T13:06:52.297455", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1328063560022233269, "username": "7seet", "extra": {}}
 ---
+[2026-01-20T14:44:54.031000] [INFO] [MEMBERS] [member_left] kyout_a left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-20T14:44:54.030952", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 297572755220594690, "username": "kyout_a", "extra": {}}
+---
