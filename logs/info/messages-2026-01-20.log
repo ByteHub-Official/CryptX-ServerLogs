@@ -709,3 +709,6 @@ METADATA: {"timestamp": "2026-01-20T04:52:51.293479", "bot_version": "2.6.4", "g
 [2026-01-20T04:52:53.676096] [INFO] [MESSAGES] [message_sent] Message sent in ticket-application-g48r
 METADATA: {"timestamp": "2026-01-20T04:52:53.676053", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463032857101602847, "channel_name": "ticket-application-g48r", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1463033522657689787, "extra": {"content_length": 11}}
 ---
+[2026-01-20T04:52:55.508094] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T04:52:55.508036", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463033530325008572, "extra": {"content_length": 15}}
+---
