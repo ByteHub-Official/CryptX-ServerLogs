@@ -460,3 +460,6 @@ METADATA: {"timestamp": "2026-01-20T04:45:58.227226", "bot_version": "2.6.4", "g
 [2026-01-20T04:45:59.935316] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
 METADATA: {"timestamp": "2026-01-20T04:45:59.935271", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1463031787264544890, "extra": {"content_length": 8}}
 ---
+[2026-01-20T04:46:01.477505] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-0iw6
+METADATA: {"timestamp": "2026-01-20T04:46:01.477472", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463029446729666746, "channel_name": "ticket-support-0iw6", "user_id": 1409052537612537977, "username": "18ksluts", "message_id": 1463031793770037329, "extra": {"content_length": 3}}
+---
