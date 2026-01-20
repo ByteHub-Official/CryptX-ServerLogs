@@ -43,3 +43,6 @@ METADATA: {"timestamp": "2026-01-20T04:13:18.166525", "bot_version": "2.6.4", "g
 [2026-01-20T04:34:09.999876] [INFO] [MESSAGES] [message_sent] Message sent in 🎉》giveaways
 METADATA: {"timestamp": "2026-01-20T04:34:09.999783", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1462641957359587379, "channel_name": "\ud83c\udf89\u300bgiveaways", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463028809526677616, "extra": {"content_length": 26}}
 ---
+[2026-01-20T04:34:49.521423] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T04:34:49.521356", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1409052537612537977, "username": "18ksluts", "message_id": 1463028975285833768, "extra": {"content_length": 2}}
+---
