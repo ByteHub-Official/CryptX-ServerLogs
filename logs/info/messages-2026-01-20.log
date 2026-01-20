@@ -1390,3 +1390,6 @@ METADATA: {"timestamp": "2026-01-20T05:48:04.225086", "bot_version": "2.6.4", "g
 [2026-01-20T05:48:14.394207] [INFO] [MESSAGES] [message_sent] Message sent in ticket-application-9mrd
 METADATA: {"timestamp": "2026-01-20T05:48:14.394169", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463046354887643189, "channel_name": "ticket-application-9mrd", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1463047450595164172, "extra": {"content_length": 7}}
 ---
+[2026-01-20T05:48:23.400010] [INFO] [MESSAGES] [message_sent] Message sent in ticket-application-9mrd
+METADATA: {"timestamp": "2026-01-20T05:48:23.399970", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463046354887643189, "channel_name": "ticket-application-9mrd", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463047488524255378, "extra": {"content_length": 27}}
+---
