@@ -1993,3 +1993,6 @@ METADATA: {"timestamp": "2026-01-20T19:56:37.322575", "bot_version": "2.6.4", "g
 [2026-01-20T19:56:44.245562] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
 METADATA: {"timestamp": "2026-01-20T19:56:44.245519", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1079826643922722848, "username": "iriss.01", "message_id": 1463260981361905688, "extra": {"content_length": 27}}
 ---
+[2026-01-20T19:56:54.404633] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T19:56:54.404590", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463261024441340160, "extra": {"content_length": 17}}
+---
