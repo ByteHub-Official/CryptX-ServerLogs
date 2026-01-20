@@ -52,3 +52,6 @@ METADATA: {"timestamp": "2026-01-20T14:44:54.030952", "bot_version": "2.6.4", "g
 [2026-01-20T15:05:35.239723] [INFO] [MEMBERS] [member_joined] king_jay45 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-20T15:05:35.239676", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1199969015213346826, "username": "king_jay45", "extra": {}}
 ---
+[2026-01-20T17:43:36.510106] [INFO] [MEMBERS] [member_left] directedbykoxy left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-20T17:43:36.510052", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 706952191663013899, "username": "directedbykoxy", "extra": {}}
+---
