@@ -61,3 +61,6 @@ METADATA: {"timestamp": "2026-01-20T18:04:20.882740", "bot_version": "2.6.4", "g
 [2026-01-20T19:57:41.734100] [INFO] [MEMBERS] [member_left] f5_darealest2_20496 left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-20T19:57:41.734055", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1403411578153337015, "username": "f5_darealest2_20496", "extra": {}}
 ---
+[2026-01-20T19:59:46.967368] [INFO] [MEMBERS] [member_joined] f5_darealest2_20496 joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-20T19:59:46.967322", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1403411578153337015, "username": "f5_darealest2_20496", "extra": {}}
+---
