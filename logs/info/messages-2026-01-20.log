@@ -400,3 +400,6 @@ METADATA: {"timestamp": "2026-01-20T04:44:19.035569", "bot_version": "2.6.4", "g
 [2026-01-20T04:44:36.912540] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
 METADATA: {"timestamp": "2026-01-20T04:44:36.912495", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1380621408669012009, "username": "ebtjay05", "message_id": 1463031438738849813, "extra": {"content_length": 1}}
 ---
+[2026-01-20T04:44:38.777877] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T04:44:38.777835", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1403411578153337015, "username": "f5_darealest2_20496", "message_id": 1463031446682992651, "extra": {"content_length": 30}}
+---
