@@ -490,3 +490,6 @@ METADATA: {"timestamp": "2026-01-20T04:47:04.852775", "bot_version": "2.6.4", "g
 [2026-01-20T04:47:08.979066] [INFO] [MESSAGES] [message_sent] Message sent in ticket-application-y4pw
 METADATA: {"timestamp": "2026-01-20T04:47:08.979025", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463031962989101304, "channel_name": "ticket-application-y4pw", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1463032076663001088, "extra": {"content_length": 2}}
 ---
+[2026-01-20T04:47:11.800078] [INFO] [MESSAGES] [message_sent] Message sent in ticket-application-y4pw
+METADATA: {"timestamp": "2026-01-20T04:47:11.800046", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463031962989101304, "channel_name": "ticket-application-y4pw", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1463032088684003564, "extra": {"content_length": 8}}
+---
