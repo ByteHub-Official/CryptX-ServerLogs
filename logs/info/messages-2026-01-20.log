@@ -2080,3 +2080,6 @@ METADATA: {"timestamp": "2026-01-20T20:30:58.689221", "bot_version": "2.6.4", "g
 [2026-01-20T20:31:01.475794] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-me2t
 METADATA: {"timestamp": "2026-01-20T20:31:01.475736", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463269244459553074, "channel_name": "ticket-support-me2t", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1463269610722951441, "extra": {"content_length": 5}}
 ---
+[2026-01-20T20:31:42.431518] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T20:31:42.431473", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1416890446042632192, "username": "ogbodykidz", "message_id": 1463269782563586202, "extra": {"content_length": 15}}
+---
