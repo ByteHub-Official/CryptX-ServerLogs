@@ -79,3 +79,6 @@ METADATA: {"timestamp": "2026-01-20T04:37:56.275349", "bot_version": "2.6.4", "g
 [2026-01-20T04:37:57.005844] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-0iw6
 METADATA: {"timestamp": "2026-01-20T04:37:57.005788", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463029446729666746, "channel_name": "ticket-support-0iw6", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463029761432621230, "extra": {"content_length": 3}}
 ---
+[2026-01-20T04:38:08.827867] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-20T04:38:08.827791", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463029810988318815, "extra": {"content_length": 11}}
+---
