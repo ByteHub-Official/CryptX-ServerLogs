@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2026-01-21T21:32:14.576891", "bot_version": "2.6.4", "g
 [2026-01-21T21:37:32.266328] [INFO] [MEMBERS] [member_joined] wizard351 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-21T21:37:32.266282", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1428012109073092728, "username": "wizard351", "extra": {}}
 ---
+[2026-01-21T21:37:46.450065] [INFO] [MEMBERS] [member_left] wizard351 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-21T21:37:46.450019", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1428012109073092728, "username": "wizard351", "extra": {}}
+---
