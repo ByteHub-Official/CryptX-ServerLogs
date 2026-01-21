@@ -49,3 +49,6 @@ METADATA: {"timestamp": "2026-01-21T22:32:13.352334", "bot_version": "2.6.4", "g
 [2026-01-21T23:25:14.084353] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-h6ji
 METADATA: {"timestamp": "2026-01-21T23:25:14.084302", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463372075208282255, "channel_name": "ticket-support-h6ji", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1463675840062820498, "extra": {"content_length": 22}}
 ---
+[2026-01-21T23:25:35.367690] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-01-21T23:25:35.367635", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1463675929141444698, "extra": {"content_length": 3}}
+---
