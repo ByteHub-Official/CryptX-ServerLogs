@@ -169,3 +169,6 @@ METADATA: {"timestamp": "2026-01-22T20:42:50.535839", "bot_version": "2.6.4", "g
 [2026-01-22T20:42:56.892445] [INFO] [MESSAGES] [message_sent] Message sent in 👑》moderator-only
 METADATA: {"timestamp": "2026-01-22T20:42:56.892405", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1456376122035142709, "channel_name": "\ud83d\udc51\u300bmoderator-only", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463997387235397685, "extra": {"content_length": 4}}
 ---
+[2026-01-22T22:14:01.066390] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-9fc7
+METADATA: {"timestamp": "2026-01-22T22:14:01.066353", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464020269038305550, "channel_name": "ticket-support-9fc7", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1464020305583538292, "extra": {"content_length": 1}}
+---
