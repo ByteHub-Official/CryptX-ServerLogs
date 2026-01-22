@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2026-01-22T03:18:58.801211", "bot_version": "2.6.4", "g
 [2026-01-22T03:19:02.184345] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-h6ji
 METADATA: {"timestamp": "2026-01-22T03:19:02.184308", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463372075208282255, "channel_name": "ticket-support-h6ji", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1463734678174564413, "extra": {"content_length": 2}}
 ---
+[2026-01-22T03:29:59.452292] [INFO] [MESSAGES] [message_sent] Message sent in 🏠》script
+METADATA: {"timestamp": "2026-01-22T03:29:59.452246", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369397182431369, "channel_name": "\ud83c\udfe0\u300bscript", "user_id": 1283957288314343486, "username": "donthurtpain", "message_id": 1463737434981531689, "extra": {"content_length": 9}}
+---
