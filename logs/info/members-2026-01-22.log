@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2026-01-22T14:30:36.550281", "bot_version": "2.6.4", "g
 [2026-01-22T14:44:34.415403] [INFO] [MEMBERS] [member_left] whothefuckareyou1 left Rin’s Anime World
 METADATA: {"timestamp": "2026-01-22T14:44:34.415353", "bot_version": "2.6.4", "guild_id": 1407135363138588803, "guild_name": "Rin\u2019s Anime World", "user_id": 948176756991479889, "username": "whothefuckareyou1", "extra": {}}
 ---
+[2026-01-22T19:22:34.522692] [INFO] [MEMBERS] [member_joined] chinobando joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-22T19:22:34.522653", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 670396926021206050, "username": "chinobando", "extra": {}}
+---
