@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-22T02:55:48.185438", "bot_version": "2.6.4", "g
 [2026-01-22T03:18:28.015578] [INFO] [MEMBERS] [member_left] .zsixx left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-22T03:18:28.015547", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1379969395971063931, "username": ".zsixx", "extra": {}}
 ---
+[2026-01-22T03:20:30.003426] [INFO] [MEMBERS] [member_joined] Luarmor#9400 joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-22T03:20:30.003366", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1434894266102190130, "username": "Luarmor#9400", "extra": {}}
+---
