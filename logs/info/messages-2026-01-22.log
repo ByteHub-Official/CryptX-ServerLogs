@@ -130,3 +130,6 @@ METADATA: {"timestamp": "2026-01-22T17:46:18.529734", "bot_version": "2.6.4", "g
 [2026-01-22T17:47:41.151431] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
 METADATA: {"timestamp": "2026-01-22T17:47:41.151391", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456470471234293861, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463953280974459005, "extra": {"content_length": 48}}
 ---
+[2026-01-22T17:49:19.743982] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-lq3l
+METADATA: {"timestamp": "2026-01-22T17:49:19.743932", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463903879170101320, "channel_name": "ticket-support-lq3l", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463953693983510581, "extra": {"content_length": 24}}
+---
