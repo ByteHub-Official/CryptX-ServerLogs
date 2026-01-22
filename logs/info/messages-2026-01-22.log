@@ -121,3 +121,6 @@ METADATA: {"timestamp": "2026-01-22T16:59:43.667134", "bot_version": "2.6.4", "g
 [2026-01-22T17:27:51.212207] [INFO] [MESSAGES] [message_sent] Message sent in 💬chatting
 METADATA: {"timestamp": "2026-01-22T17:27:51.212166", "bot_version": "2.6.4", "guild_id": 1407135363138588803, "guild_name": "Rin\u2019s Anime World", "channel_id": 1407135364014932033, "channel_name": "\ud83d\udcacchatting", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463948289756893218, "extra": {"content_length": 12}}
 ---
+[2026-01-22T17:42:39.310769] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-22T17:42:39.310728", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1463952014776991796, "extra": {"content_length": 99}}
+---
