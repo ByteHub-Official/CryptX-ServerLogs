@@ -34,3 +34,6 @@ METADATA: {"timestamp": "2026-01-22T14:44:34.415353", "bot_version": "2.6.4", "g
 [2026-01-22T19:22:34.522692] [INFO] [MEMBERS] [member_joined] chinobando joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-22T19:22:34.522653", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 670396926021206050, "username": "chinobando", "extra": {}}
 ---
+[2026-01-22T23:03:12.560848] [INFO] [MEMBERS] [member_left] fukdatho4k left ShadowT3ch Development Group
+METADATA: {"timestamp": "2026-01-22T23:03:12.560779", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "user_id": 825968760774197279, "username": "fukdatho4k", "extra": {}}
+---
