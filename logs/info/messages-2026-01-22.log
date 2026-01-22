@@ -193,3 +193,6 @@ METADATA: {"timestamp": "2026-01-22T22:19:15.844289", "bot_version": "2.6.4", "g
 [2026-01-22T22:29:08.913457] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-7esu
 METADATA: {"timestamp": "2026-01-22T22:29:08.913420", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464020920904716492, "channel_name": "ticket-support-7esu", "user_id": 1416890446042632192, "username": "ogbodykidz", "message_id": 1464024113109667914, "extra": {"content_length": 64}}
 ---
+[2026-01-22T22:29:31.669659] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-7esu
+METADATA: {"timestamp": "2026-01-22T22:29:31.669624", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464020920904716492, "channel_name": "ticket-support-7esu", "user_id": 1416890446042632192, "username": "ogbodykidz", "message_id": 1464024208844783823, "extra": {"content_length": 43}}
+---
