@@ -88,3 +88,6 @@ METADATA: {"timestamp": "2026-01-22T14:34:51.392902", "bot_version": "2.6.4", "g
 [2026-01-22T14:39:49.110516] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-lq3l
 METADATA: {"timestamp": "2026-01-22T14:39:49.110485", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463903879170101320, "channel_name": "ticket-support-lq3l", "user_id": 1106725871152271461, "username": "sayso4670", "message_id": 1463906002612256851, "extra": {"content_length": 22}}
 ---
+[2026-01-22T14:39:51.929237] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-lq3l
+METADATA: {"timestamp": "2026-01-22T14:39:51.929203", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1463903879170101320, "channel_name": "ticket-support-lq3l", "user_id": 1106725871152271461, "username": "sayso4670", "message_id": 1463906014435741888, "extra": {"content_length": 22}}
+---
