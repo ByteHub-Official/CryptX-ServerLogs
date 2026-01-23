@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2026-01-23T16:11:39.146918", "bot_version": "2.6.4", "g
 [2026-01-23T16:44:57.799209] [WARNING] [CHANNELS] [channel_deleted] Channel ticket-support-l43q deleted from ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-23T16:44:57.799170", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464299285792423999, "channel_name": "ticket-support-l43q", "extra": {}}
 ---
+[2026-01-23T19:11:36.431190] [WARNING] [CHANNELS] [channel_deleted] Channel ticket-support-vafw deleted from ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-23T19:11:36.431151", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464336724007321714, "channel_name": "ticket-support-vafw", "extra": {}}
+---
