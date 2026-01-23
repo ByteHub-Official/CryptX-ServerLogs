@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2026-01-23T04:09:44.758600", "bot_version": "2.6.4", "g
 [2026-01-23T13:10:34.886929] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-9fc7
 METADATA: {"timestamp": "2026-01-23T13:10:34.886884", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464020269038305550, "channel_name": "ticket-support-9fc7", "user_id": 1319143284991590402, "username": "getrichrea", "message_id": 1464245932823675046, "extra": {"content_length": 43}}
 ---
+[2026-01-23T16:37:02.715416] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
+METADATA: {"timestamp": "2026-01-23T16:37:02.715374", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369380161814762, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1283957288314343486, "username": "flynntohurt", "message_id": 1464297891370762272, "extra": {"content_length": 170}}
+---
