@@ -22,3 +22,6 @@ METADATA: {"timestamp": "2026-01-23T16:42:46.057192", "bot_version": "2.6.4", "g
 [2026-01-23T16:42:49.713106] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-l43q
 METADATA: {"timestamp": "2026-01-23T16:42:49.713062", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464299285792423999, "channel_name": "ticket-support-l43q", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1464299346295132193, "extra": {"content_length": 17}}
 ---
+[2026-01-23T16:43:03.978348] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-l43q
+METADATA: {"timestamp": "2026-01-23T16:43:03.978306", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1464299285792423999, "channel_name": "ticket-support-l43q", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1464299406798098565, "extra": {"content_length": 13}}
+---
