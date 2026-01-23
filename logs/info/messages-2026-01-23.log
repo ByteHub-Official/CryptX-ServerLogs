@@ -70,3 +70,6 @@ METADATA: {"timestamp": "2026-01-23T20:30:11.468385", "bot_version": "2.6.4", "g
 [2026-01-23T20:30:16.829493] [INFO] [MESSAGES] [message_sent] Message sent in 💬chatting
 METADATA: {"timestamp": "2026-01-23T20:30:16.829450", "bot_version": "2.6.4", "guild_id": 1407135363138588803, "guild_name": "Rin\u2019s Anime World", "channel_id": 1407135364014932033, "channel_name": "\ud83d\udcacchatting", "user_id": 1345461656809115702, "username": "elijah039339", "message_id": 1464356586683236364, "extra": {"content_length": 11}}
 ---
+[2026-01-23T21:14:13.670431] [INFO] [MESSAGES] [message_sent] Message sent in 👑》moderator-only
+METADATA: {"timestamp": "2026-01-23T21:14:13.670374", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1456376122035142709, "channel_name": "\ud83d\udc51\u300bmoderator-only", "user_id": 1460071512450269296, "username": "snowofficial313", "message_id": 1464367646832328846, "extra": {"content_length": 44}}
+---
