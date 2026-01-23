@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-23T02:50:44.919016", "bot_version": "2.6.4", "g
 [2026-01-23T05:53:08.311937] [INFO] [MEMBERS] [member_joined] wockstarr5 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-23T05:53:08.311888", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 793963638011854848, "username": "wockstarr5", "extra": {}}
 ---
+[2026-01-23T05:53:20.280127] [INFO] [MEMBERS] [member_left] wockstarr5 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-23T05:53:20.280083", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 793963638011854848, "username": "wockstarr5", "extra": {}}
+---
