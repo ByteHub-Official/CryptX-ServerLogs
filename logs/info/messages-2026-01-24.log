@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-01-24T00:05:40.459065", "bot_version": "2.6.4", "g
 [2026-01-24T00:29:40.409082] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
 METADATA: {"timestamp": "2026-01-24T00:29:40.409033", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369380161814762, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1141232275447631932, "username": "_darknullbyte", "message_id": 1464416830733947126, "extra": {"content_length": 68}}
 ---
+[2026-01-24T02:00:35.562170] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-01-24T02:00:35.562121", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1131578044847497246, "username": "jahskeeze", "message_id": 1464439712956813335, "extra": {"content_length": 2}}
+---
