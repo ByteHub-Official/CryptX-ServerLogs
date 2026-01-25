@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-01-25T01:10:14.344628", "bot_version": "2.6.4", "g
 [2026-01-25T03:11:09.576017] [INFO] [MEMBERS] [member_joined] trap.nixk joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-01-25T03:11:09.575973", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1228118940568518737, "username": "trap.nixk", "extra": {}}
 ---
+[2026-01-25T03:11:43.333858] [INFO] [MEMBERS] [member_left] trap.nixk left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-25T03:11:43.333806", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1228118940568518737, "username": "trap.nixk", "extra": {}}
+---
