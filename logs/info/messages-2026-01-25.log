@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-25T14:28:39.445630", "bot_version": "2.6.4", "g
 [2026-01-25T14:29:07.532090] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
 METADATA: {"timestamp": "2026-01-25T14:29:07.532050", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369380161814762, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1408577603408887980, "username": "dylan001062", "message_id": 1464990474782638214, "extra": {"content_length": 12}}
 ---
+[2026-01-25T14:29:22.307232] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
+METADATA: {"timestamp": "2026-01-25T14:29:22.307179", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369380161814762, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1131578044847497246, "username": "jahskeeze", "message_id": 1464990537118646386, "extra": {"content_length": 16}}
+---
