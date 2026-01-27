@@ -61,3 +61,6 @@ METADATA: {"timestamp": "2026-01-27T18:20:52.058830", "bot_version": "2.6.4", "g
 [2026-01-27T18:21:06.885604] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-4wpj
 METADATA: {"timestamp": "2026-01-27T18:21:06.885568", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1465769715321278526, "channel_name": "ticket-support-4wpj", "user_id": 1066631048244502548, "username": "lostsoul404_", "message_id": 1465773632956403915, "extra": {"content_length": 7}}
 ---
+[2026-01-27T18:37:38.038871] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat
+METADATA: {"timestamp": "2026-01-27T18:37:38.038824", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369407034855616, "channel_name": "\ud83d\udcac\u300bchat", "user_id": 1066631048244502548, "username": "lostsoul404_", "message_id": 1465777790136881406, "extra": {"content_length": 24}}
+---
