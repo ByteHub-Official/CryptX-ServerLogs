@@ -100,3 +100,6 @@ METADATA: {"timestamp": "2026-01-27T18:49:18.585548", "bot_version": "2.6.4", "g
 [2026-01-27T18:49:21.623068] [INFO] [MESSAGES] [message_sent] Message sent in 👑》moderator-only
 METADATA: {"timestamp": "2026-01-27T18:49:21.623024", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1456376122035142709, "channel_name": "\ud83d\udc51\u300bmoderator-only", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1465780741211296037, "extra": {"content_length": 15}}
 ---
+[2026-01-27T18:49:49.656101] [INFO] [MESSAGES] [message_sent] Message sent in 👑》moderator-only
+METADATA: {"timestamp": "2026-01-27T18:49:49.656055", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1456376122035142709, "channel_name": "\ud83d\udc51\u300bmoderator-only", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1465780858685231198, "extra": {"content_length": 104}}
+---
