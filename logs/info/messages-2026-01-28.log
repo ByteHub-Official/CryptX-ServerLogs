@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-28T15:49:06.195397", "bot_version": "2.6.4", "g
 [2026-01-28T15:49:08.715065] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-3q4a
 METADATA: {"timestamp": "2026-01-28T15:49:08.715020", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1466097697114296642, "channel_name": "ticket-support-3q4a", "user_id": 1414691241077117041, "username": "raremeech", "message_id": 1466097776428585184, "extra": {"content_length": 16}}
 ---
+[2026-01-28T15:49:17.686077] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-3q4a
+METADATA: {"timestamp": "2026-01-28T15:49:17.686043", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1466097697114296642, "channel_name": "ticket-support-3q4a", "user_id": 1361862724740579508, "username": "quoyt", "message_id": 1466097814080848016, "extra": {"content_length": 39}}
+---
