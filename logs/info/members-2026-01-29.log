@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-01-29T08:31:48.123086", "bot_version": "2.6.4", "g
 [2026-01-29T08:33:13.762937] [INFO] [MEMBERS] [member_joined] litosv0847 joined Rin’s Anime World
 METADATA: {"timestamp": "2026-01-29T08:33:13.762887", "bot_version": "2.6.4", "guild_id": 1407135363138588803, "guild_name": "Rin\u2019s Anime World", "user_id": 1364260339503468695, "username": "litosv0847", "extra": {}}
 ---
+[2026-01-29T13:08:44.788127] [INFO] [MEMBERS] [member_left] rossqwx left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-01-29T13:08:44.788076", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1180513954385100811, "username": "rossqwx", "extra": {}}
+---
