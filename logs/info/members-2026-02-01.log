@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-02-01T04:37:08.120934", "bot_version": "2.6.4", "g
 [2026-02-01T16:46:00.705462] [INFO] [MEMBERS] [member_joined] truker66 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-02-01T16:46:00.705410", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 772781949843800097, "username": "truker66", "extra": {}}
 ---
+[2026-02-01T16:46:12.068859] [INFO] [MEMBERS] [member_left] truker66 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-02-01T16:46:12.068806", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 772781949843800097, "username": "truker66", "extra": {}}
+---
