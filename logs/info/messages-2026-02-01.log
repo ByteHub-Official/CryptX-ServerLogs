@@ -103,3 +103,6 @@ METADATA: {"timestamp": "2026-02-01T19:44:11.762298", "bot_version": "2.6.4", "g
 [2026-02-01T20:24:21.526060] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
 METADATA: {"timestamp": "2026-02-01T20:24:21.526018", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1467616587510059240, "extra": {"content_length": 23}}
 ---
+[2026-02-01T20:24:29.845878] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-02-01T20:24:29.845833", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369424675967080, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1467616622444282091, "extra": {"content_length": 32}}
+---
