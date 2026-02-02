@@ -265,3 +265,6 @@ METADATA: {"timestamp": "2026-02-02T02:39:08.301170", "bot_version": "2.6.4", "g
 [2026-02-02T02:39:09.872144] [INFO] [MESSAGES] [message_sent] Message sent in ticket-order-products-1una
 METADATA: {"timestamp": "2026-02-02T02:39:09.872085", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1467699561966342329, "channel_name": "ticket-order-products-1una", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1467710910188486730, "extra": {"content_length": 4}}
 ---
+[2026-02-02T02:39:15.024876] [INFO] [MESSAGES] [message_sent] Message sent in ticket-order-products-1una
+METADATA: {"timestamp": "2026-02-02T02:39:15.024834", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1467699561966342329, "channel_name": "ticket-order-products-1una", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1467710932112118017, "extra": {"content_length": 20}}
+---
