@@ -7,3 +7,6 @@ METADATA: {"timestamp": "2026-02-02T04:48:04.051067", "bot_version": "2.6.4", "g
 [2026-02-02T04:48:06.972006] [WARNING] [ROLES] [role_deleted] Role Pain deleted from Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-02T04:48:06.971958", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739860382257199, "role_name": "Pain", "extra": {}}
 ---
+[2026-02-02T04:48:31.364940] [WARNING] [ROLES] [role_deleted] Role Bot Owner deleted from Shadow.CC [SOON]
+METADATA: {"timestamp": "2026-02-02T04:48:31.364882", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739859992051861, "role_name": "Bot Owner", "extra": {}}
+---
