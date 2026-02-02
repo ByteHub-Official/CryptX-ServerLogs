@@ -370,3 +370,6 @@ METADATA: {"timestamp": "2026-02-02T07:09:41.055947", "bot_version": "2.6.4", "g
 [2026-02-02T08:24:06.366968] [INFO] [MESSAGES] [message_sent] Message sent in 📌》notices
 METADATA: {"timestamp": "2026-02-02T08:24:06.366926", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1454369380161814762, "channel_name": "\ud83d\udccc\u300bnotices", "user_id": 1460071512450269296, "username": "snowofficial313", "message_id": 1467797717974520022, "extra": {"content_length": 116}}
 ---
+[2026-02-02T13:29:31.665458] [INFO] [MESSAGES] [message_sent] Message sent in 📩》tickets
+METADATA: {"timestamp": "2026-02-02T13:29:31.665380", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860776255597, "channel_name": "\ud83d\udce9\u300btickets", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1467874579782566043, "extra": {"content_length": 4}}
+---
