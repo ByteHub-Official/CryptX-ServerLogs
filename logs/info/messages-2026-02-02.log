@@ -373,3 +373,6 @@ METADATA: {"timestamp": "2026-02-02T08:24:06.366926", "bot_version": "2.6.4", "g
 [2026-02-02T13:29:31.665458] [INFO] [MESSAGES] [message_sent] Message sent in 📩》tickets
 METADATA: {"timestamp": "2026-02-02T13:29:31.665380", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860776255597, "channel_name": "\ud83d\udce9\u300btickets", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1467874579782566043, "extra": {"content_length": 4}}
 ---
+[2026-02-02T13:33:42.540453] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-cmds
+METADATA: {"timestamp": "2026-02-02T13:33:42.540370", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467743801278988339, "channel_name": "\ud83d\udc51\u300bstaff-cmds", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1467875632158347481, "extra": {"content_length": 578}}
+---
