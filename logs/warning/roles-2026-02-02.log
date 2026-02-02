@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-02-02T04:48:01.415238", "bot_version": "2.6.4", "g
 [2026-02-02T04:48:04.051130] [WARNING] [ROLES] [role_deleted] Role Iris deleted from Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-02T04:48:04.051067", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739860382257200, "role_name": "Iris", "extra": {}}
 ---
+[2026-02-02T04:48:06.972006] [WARNING] [ROLES] [role_deleted] Role Pain deleted from Shadow.CC [SOON]
+METADATA: {"timestamp": "2026-02-02T04:48:06.971958", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739860382257199, "role_name": "Pain", "extra": {}}
+---
