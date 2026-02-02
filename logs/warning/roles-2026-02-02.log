@@ -16,3 +16,6 @@ METADATA: {"timestamp": "2026-02-02T04:48:56.586944", "bot_version": "2.6.4", "g
 [2026-02-02T04:55:02.499001] [WARNING] [ROLES] [role_deleted] Role Shadow.CC deleted from Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-02T04:55:02.498968", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467745089114869878, "role_name": "Shadow.CC", "extra": {}}
 ---
+[2026-02-02T14:20:38.439003] [WARNING] [ROLES] [role_deleted] Role 👑Developers deleted from Shadow.CC [SOON]
+METADATA: {"timestamp": "2026-02-02T14:20:38.438946", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739860369670153, "role_name": "\ud83d\udc51Developers", "extra": {}}
+---
