@@ -382,3 +382,6 @@ METADATA: {"timestamp": "2026-02-02T13:38:12.685461", "bot_version": "2.6.4", "g
 [2026-02-02T13:44:08.924480] [INFO] [MESSAGES] [message_sent] Message sent in 🚧》status
 METADATA: {"timestamp": "2026-02-02T13:44:08.924384", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860931706929, "channel_name": "\ud83d\udea7\u300bstatus", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1467878259394871317, "extra": {"content_length": 28}}
 ---
+[2026-02-02T13:56:31.905412] [INFO] [MESSAGES] [message_sent] Message sent in ticket-support-4j2t
+METADATA: {"timestamp": "2026-02-02T13:56:31.905371", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467881338286899337, "channel_name": "ticket-support-4j2t", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1467881375347642620, "extra": {"content_length": 22}}
+---
