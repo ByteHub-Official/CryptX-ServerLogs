@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-02-02T04:54:58.708507", "bot_version": "2.6.4", "g
 [2026-02-02T04:57:05.602992] [INFO] [ROLES] [role_created] Role Shadow.CC created in Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-02T04:57:05.602928", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467745621564981401, "role_name": "Shadow.CC", "extra": {}}
 ---
+[2026-02-02T07:47:47.087848] [INFO] [ROLES] [role_created] Role Bot Owner created in Shadow.CC [SOON]
+METADATA: {"timestamp": "2026-02-02T07:47:47.087793", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467788577479069871, "role_name": "Bot Owner", "extra": {}}
+---
