@@ -1,3 +1,6 @@
 [2026-02-02T04:48:01.415298] [WARNING] [ROLES] [role_deleted] Role 2𝔠𝔩𝔦𝔠𝔨𝔡𝔢𝔞𝔱𝔥 deleted from Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-02T04:48:01.415238", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739860382257198, "role_name": "2\ud835\udd20\ud835\udd29\ud835\udd26\ud835\udd20\ud835\udd28\ud835\udd21\ud835\udd22\ud835\udd1e\ud835\udd31\ud835\udd25", "extra": {}}
 ---
+[2026-02-02T04:48:04.051130] [WARNING] [ROLES] [role_deleted] Role Iris deleted from Shadow.CC [SOON]
+METADATA: {"timestamp": "2026-02-02T04:48:04.051067", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "role_id": 1467739860382257200, "role_name": "Iris", "extra": {}}
+---
