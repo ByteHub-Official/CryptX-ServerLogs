@@ -28,3 +28,6 @@ METADATA: {"timestamp": "2026-02-03T04:42:19.195253", "bot_version": "2.6.4", "g
 [2026-02-03T04:43:57.316582] [INFO] [MESSAGES] [message_sent] Message sent in 🏠》script
 METADATA: {"timestamp": "2026-02-03T04:43:57.316525", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860931706930, "channel_name": "\ud83c\udfe0\u300bscript", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1468104703110942740, "extra": {"content_length": 4}}
 ---
+[2026-02-03T04:44:17.616592] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-02-03T04:44:17.616543", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998369, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468104788272222323, "extra": {"content_length": 23}}
+---
