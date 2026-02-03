@@ -19,3 +19,6 @@ METADATA: {"timestamp": "2026-02-03T19:07:24.877679", "bot_version": "2.6.4", "g
 [2026-02-03T19:07:54.805496] [INFO] [MEMBERS] [member_left] nikkitorokko left Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-03T19:07:54.805379", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "user_id": 1205313931917394021, "username": "nikkitorokko", "extra": {}}
 ---
+[2026-02-03T20:14:35.625857] [INFO] [MEMBERS] [member_joined] bobtheleaker joined ShadowT3ch Development Group
+METADATA: {"timestamp": "2026-02-03T20:14:35.625815", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "user_id": 911226815702523974, "username": "bobtheleaker", "extra": {}}
+---
