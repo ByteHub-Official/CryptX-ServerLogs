@@ -40,3 +40,6 @@ METADATA: {"timestamp": "2026-02-03T04:44:27.658286", "bot_version": "2.6.4", "g
 [2026-02-03T04:45:57.090034] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
 METADATA: {"timestamp": "2026-02-03T04:45:57.089991", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998369, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1468105205441630218, "extra": {"content_length": 40}}
 ---
+[2026-02-03T04:46:02.036558] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-02-03T04:46:02.036511", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998369, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1216416508075311156, "username": "zurxvv", "message_id": 1468105226186920114, "extra": {"content_length": 17}}
+---
