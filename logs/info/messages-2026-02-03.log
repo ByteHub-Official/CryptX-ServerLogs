@@ -112,3 +112,6 @@ METADATA: {"timestamp": "2026-02-03T05:25:57.511301", "bot_version": "2.6.4", "g
 [2026-02-03T05:37:22.787552] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
 METADATA: {"timestamp": "2026-02-03T05:37:22.787503", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998369, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468118147344240742, "extra": {"content_length": 31}}
 ---
+[2026-02-03T05:37:26.231172] [INFO] [MESSAGES] [message_sent] Message sent in 👑》staff-chat
+METADATA: {"timestamp": "2026-02-03T05:37:26.231131", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998369, "channel_name": "\ud83d\udc51\u300bstaff-chat", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468118162120904764, "extra": {"content_length": 9}}
+---
