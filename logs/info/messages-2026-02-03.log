@@ -139,3 +139,6 @@ METADATA: {"timestamp": "2026-02-03T20:15:13.574706", "bot_version": "2.6.4", "g
 [2026-02-03T20:15:34.653593] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat-with-ai
 METADATA: {"timestamp": "2026-02-03T20:15:34.653537", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456473934974418955, "channel_name": "\ud83d\udcac\u300bchat-with-ai", "user_id": 911226815702523974, "username": "bobtheleaker", "message_id": 1468339153564602459, "extra": {"content_length": 12}}
 ---
+[2026-02-03T20:18:58.799788] [INFO] [MESSAGES] [message_sent] Message sent in 💬》chat-with-ai
+METADATA: {"timestamp": "2026-02-03T20:18:58.799736", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456473934974418955, "channel_name": "\ud83d\udcac\u300bchat-with-ai", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468340009588228176, "extra": {"content_length": 61}}
+---
