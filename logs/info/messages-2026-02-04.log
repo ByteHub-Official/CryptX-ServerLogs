@@ -58,3 +58,6 @@ METADATA: {"timestamp": "2026-02-04T02:37:29.397770", "bot_version": "2.6.4", "g
 [2026-02-04T02:37:38.170690] [INFO] [MESSAGES] [message_sent] Message sent in 💬》general
 METADATA: {"timestamp": "2026-02-04T02:37:38.170645", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456473336375677011, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468435301730091099, "extra": {"content_length": 16}}
 ---
+[2026-02-04T02:37:40.252551] [INFO] [MESSAGES] [message_sent] Message sent in 💬》general
+METADATA: {"timestamp": "2026-02-04T02:37:40.252505", "bot_version": "2.6.4", "guild_id": 1419349908850475031, "guild_name": "ShadowT3ch Development Group", "channel_id": 1456473336375677011, "channel_name": "\ud83d\udcac\u300bgeneral", "user_id": 911226815702523974, "username": "bobtheleaker", "message_id": 1468435310428815504, "extra": {"content_length": 26}}
+---
