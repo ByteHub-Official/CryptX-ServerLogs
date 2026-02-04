@@ -31,3 +31,6 @@ METADATA: {"timestamp": "2026-02-04T17:15:46.775970", "bot_version": "2.6.4", "g
 [2026-02-04T17:15:54.008949] [INFO] [MEMBERS] [member_left] r4wv. left ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-02-04T17:15:54.008898", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1441875142090293248, "username": "r4wv.", "extra": {}}
 ---
+[2026-02-04T20:37:21.008942] [INFO] [MEMBERS] [member_joined] 2xant2lll joined ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-02-04T20:37:21.008899", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1385082398257184859, "username": "2xant2lll", "extra": {}}
+---
