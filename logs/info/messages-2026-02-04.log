@@ -115,3 +115,6 @@ METADATA: {"timestamp": "2026-02-04T04:05:53.273107", "bot_version": "2.6.4", "g
 [2026-02-04T04:35:35.525420] [INFO] [MESSAGES] [message_sent] Message sent in 🔧》updates
 METADATA: {"timestamp": "2026-02-04T04:35:35.525379", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860931706928, "channel_name": "\ud83d\udd27\u300bupdates", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468464986346098780, "extra": {"content_length": 149}}
 ---
+[2026-02-04T04:38:07.809808] [INFO] [MESSAGES] [message_sent] Message sent in 🏠》script
+METADATA: {"timestamp": "2026-02-04T04:38:07.809765", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860931706930, "channel_name": "\ud83c\udfe0\u300bscript", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1468465625025478759, "extra": {"content_length": 358}}
+---
