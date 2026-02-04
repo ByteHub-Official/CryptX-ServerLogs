@@ -148,3 +148,6 @@ METADATA: {"timestamp": "2026-02-04T18:29:38.799705", "bot_version": "2.6.4", "g
 [2026-02-04T18:29:42.779034] [INFO] [MESSAGES] [message_sent] Message sent in 💬chatting
 METADATA: {"timestamp": "2026-02-04T18:29:42.778991", "bot_version": "2.6.4", "guild_id": 1407135363138588803, "guild_name": "Rin\u2019s Anime World", "channel_id": 1407135364014932033, "channel_name": "\ud83d\udcacchatting", "user_id": 1345461656809115702, "username": "elijah039339", "message_id": 1468674899722895400, "extra": {"content_length": 1}}
 ---
+[2026-02-04T18:29:48.642220] [INFO] [MESSAGES] [message_sent] Message sent in 💬chatting
+METADATA: {"timestamp": "2026-02-04T18:29:48.642177", "bot_version": "2.6.4", "guild_id": 1407135363138588803, "guild_name": "Rin\u2019s Anime World", "channel_id": 1407135364014932033, "channel_name": "\ud83d\udcacchatting", "user_id": 1345461656809115702, "username": "elijah039339", "message_id": 1468674924259578010, "extra": {"content_length": 3}}
+---
