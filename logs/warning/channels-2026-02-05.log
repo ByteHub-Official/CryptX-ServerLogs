@@ -1,3 +1,6 @@
 [2026-02-05T16:25:45.822239] [WARNING] [CHANNELS] [channel_deleted] Channel 📌》vouches deleted from Shadow.CC [SOON]
 METADATA: {"timestamp": "2026-02-05T16:25:45.822183", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860776255594, "channel_name": "\ud83d\udccc\u300bvouches", "extra": {}}
 ---
+[2026-02-05T16:33:59.434330] [WARNING] [CHANNELS] [channel_deleted] Channel ticket-order-products-x707 deleted from Shadow.CC [SOON]
+METADATA: {"timestamp": "2026-02-05T16:33:59.434284", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1469008062361637019, "channel_name": "ticket-order-products-x707", "extra": {}}
+---
