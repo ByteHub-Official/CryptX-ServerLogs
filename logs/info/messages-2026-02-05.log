@@ -25,3 +25,6 @@ METADATA: {"timestamp": "2026-02-05T16:27:56.090600", "bot_version": "2.6.4", "g
 [2026-02-05T16:29:25.649565] [INFO] [MESSAGES] [message_sent] Message sent in 🚧》status
 METADATA: {"timestamp": "2026-02-05T16:29:25.649521", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860931706929, "channel_name": "\ud83d\udea7\u300bstatus", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1469006870558806059, "extra": {"content_length": 1}}
 ---
+[2026-02-05T16:36:46.224334] [INFO] [MESSAGES] [message_sent] Message sent in ✅》verify
+METADATA: {"timestamp": "2026-02-05T16:36:46.224280", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739860776255590, "channel_name": "\u2705\u300bverify", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1469008864631328869, "extra": {"content_length": 27}}
+---
