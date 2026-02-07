@@ -4,3 +4,6 @@ METADATA: {"timestamp": "2026-02-07T02:37:24.228971", "bot_version": "2.6.4", "g
 [2026-02-07T07:41:27.197958] [INFO] [MEMBERS] [member_joined] klux2001 joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-02-07T07:41:27.197914", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1374231575411036181, "username": "klux2001", "extra": {}}
 ---
+[2026-02-07T07:41:39.289667] [INFO] [MEMBERS] [member_left] klux2001 left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-02-07T07:41:39.289616", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1374231575411036181, "username": "klux2001", "extra": {}}
+---
