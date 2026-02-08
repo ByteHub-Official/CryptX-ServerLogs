@@ -13,3 +13,6 @@ METADATA: {"timestamp": "2026-02-08T00:44:27.437946", "bot_version": "2.6.4", "g
 [2026-02-08T00:45:02.417177] [INFO] [MESSAGES] [message_sent] Message sent in ticket-order-products-1una
 METADATA: {"timestamp": "2026-02-08T00:45:02.417136", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1467699561966342329, "channel_name": "ticket-order-products-1una", "user_id": 1375085915143274651, "username": "jay2c22_75468", "message_id": 1469856517191634945, "extra": {"content_length": 17}}
 ---
+[2026-02-08T04:26:42.937228] [INFO] [MESSAGES] [message_sent] Message sent in 🛒》purchase
+METADATA: {"timestamp": "2026-02-08T04:26:42.937178", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998361, "channel_name": "\ud83d\uded2\u300bpurchase", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1469912303871721573, "extra": {"content_length": 77}}
+---
