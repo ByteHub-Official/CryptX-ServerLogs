@@ -10,3 +10,6 @@ METADATA: {"timestamp": "2026-02-08T14:23:27.632926", "bot_version": "2.6.4", "g
 [2026-02-08T19:48:18.757868] [INFO] [MEMBERS] [member_joined] thatguyclix joined ShadowT3ch Project Development
 METADATA: {"timestamp": "2026-02-08T19:48:18.757820", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1114350308412358808, "username": "thatguyclix", "extra": {}}
 ---
+[2026-02-08T19:48:49.474834] [INFO] [MEMBERS] [member_left] thatguyclix left ShadowT3ch Project Development
+METADATA: {"timestamp": "2026-02-08T19:48:49.474778", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "user_id": 1114350308412358808, "username": "thatguyclix", "extra": {}}
+---
