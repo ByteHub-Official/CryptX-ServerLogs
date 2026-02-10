@@ -1,3 +1,6 @@
 [2026-02-10T00:46:46.969165] [INFO] [MESSAGES] [message_sent] Message sent in 🛒》purchase
 METADATA: {"timestamp": "2026-02-10T00:46:46.969117", "bot_version": "2.6.4", "guild_id": 1467739859992051859, "guild_name": "Shadow.CC [SOON]", "channel_id": 1467739861115998361, "channel_name": "\ud83d\uded2\u300bpurchase", "user_id": 1019698414839156817, "username": "2clickdeath", "message_id": 1470581731705880741, "extra": {"content_length": 59}}
 ---
+[2026-02-10T02:45:07.166221] [INFO] [MESSAGES] [message_sent] Message sent in 👾》supported-games
+METADATA: {"timestamp": "2026-02-10T02:45:07.166170", "bot_version": "2.6.4", "guild_id": 1439062109894869096, "guild_name": "ShadowT3ch Project Development", "channel_id": 1457129579041914984, "channel_name": "\ud83d\udc7e\u300bsupported-games", "user_id": 1460071512450269296, "username": "snowofficial313", "message_id": 1470611510551380142, "extra": {"content_length": 322}}
+---
