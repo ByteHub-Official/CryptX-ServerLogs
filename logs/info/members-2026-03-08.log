@@ -7,3 +7,6 @@ META: {"bot_version":"2.6.4","utc_iso":"2026-03-08T05:17:26.453692+00:00"}
 [2026-03-08T09:40:59.033+00:00] [INFO    ] [members     ] [member_join       ] notgamerfleet_padres (1176918984768102521) joined
 META: {"bot_version":"2.6.4","utc_iso":"2026-03-08T09:40:59.033302+00:00","account_age_days":836}
 ───────────────────────────────────────
+[2026-03-08T17:08:41.799+00:00] [INFO    ] [members     ] [member_leave      ] pcf.drench
+META: {"bot_version":"2.6.4","utc_iso":"2026-03-08T17:08:41.799289+00:00"}
+───────────────────────────────────────
